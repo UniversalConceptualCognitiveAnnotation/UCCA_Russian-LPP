@@ -1,0 +1,12 @@
+# ::id 2036006
+# ::tok Вот мой рисунок No2 :
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 3-1.1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label~e.0)
+           :A (v5 / label
+                  :E (v6 / label~e.1)
+                  :C (v7 / label~e.2)
+                  :Q (v8 / label~e.3))))

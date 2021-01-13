@@ -1,0 +1,12 @@
+# ::id 2091005
+# ::tok Добрый день ... день ... день ..." - откликнулось эхо . -
+# ::alignments 0-1.1.5.1 1-1.1.5.1 3-1.1.5.2 5-1.1.5.3 8-1.1.6 9-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :G (v6 / label~e.0,1)
+                  :G (v7 / label~e.3)
+                  :G (v8 / label~e.5))
+           :P (v4 / label~e.8)
+           :A (v5 / label~e.9)))

@@ -1,0 +1,14 @@
+# ::id 2072006
+# ::tok Чтобы забыть . -
+# ::alignments 0-1.1.3.3 1-1.1.3.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v9 / label)
+                         :P (v10 / label~e.1))
+                  :H (v7 / label)
+                  :L (v8 / label~e.0))))

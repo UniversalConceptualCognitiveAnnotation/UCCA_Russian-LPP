@@ -1,0 +1,27 @@
+# ::id 2066008
+# ::tok Ваше величество , - начал он , - позвольте вас спросить ... - Повелеваю : спрашивай ! - поспешно сказал король . -
+# ::alignments 0-1.1.1.2.1 1-1.1.1.2.2 4-1.1.2 5-1.1.3 9-1.1.1.4 10-1.1.1.5 13-1.2.5.2 15-1.2.5.3.3 18-1.2.6 19-1.2.1 20-1.2.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v11 / label)
+                  :A (v12 / label
+                          :E (v19 / label~e.0)
+                          :C (v20 / label~e.1))
+                  :A (v13 / label~e.9)
+                  :P (v14 / label~e.10))
+           :P (v5 / label~e.4)
+           :A (v6 / label~e.5))
+    :H (v3 / label
+           :P (v7 / label~e.19)
+           :A (v8 / label
+                  :A (v15 / label~e.20))
+           :A (v9 / label
+                  :A (v16 / label)
+                  :P (v17 / label~e.13)
+                  :A (v18 / label
+                          :A v8
+                          :A (v21 / label)
+                          :P (v22 / label~e.15)))
+           :D (v10 / label~e.18)))

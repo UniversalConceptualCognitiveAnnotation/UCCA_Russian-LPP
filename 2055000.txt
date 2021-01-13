@@ -1,0 +1,27 @@
+# ::id 2055000
+# ::tok VII На пятый день , опять - таки благодаря барашку , я узнал секрет Маленького принца .
+# ::alignments 0-1.1.2 1-1.2.6.1 2-1.2.6.2 3-1.2.6.3 5-1.2.7 8-1.2.9.1 9-1.2.9.2 11-1.2.10 12-1.2.1 13-1.2.2.1 14-1.2.2.2.1.2 15-1.2.2.2.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :C (v4 / label)
+           :Q (v5 / label~e.0))
+    :H (v3 / label
+           :P (v6 / label~e.12)
+           :A (v7 / label
+                  :C (v12 / label~e.13)
+                  :E (v13 / label
+                          :E (v19 / label
+                                  :A (v20 / label
+                                          :A (v22 / label~e.15))
+                                  :S (v21 / label~e.14))
+                          :C v20))
+           :T (v8 / label
+                  :R (v14 / label~e.1)
+                  :Q (v15 / label~e.2)
+                  :C (v16 / label~e.3))
+           :D (v9 / label~e.5)
+           :A (v10 / label
+                   :R (v17 / label~e.8)
+                   :C (v18 / label~e.9))
+           :A (v11 / label~e.11)))

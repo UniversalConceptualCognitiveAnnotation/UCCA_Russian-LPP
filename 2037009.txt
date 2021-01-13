@@ -1,0 +1,19 @@
+# ::id 2037009
+# ::tok На своем веку я много встречал разных серьезных людей .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.1.3 3-1.1.2 4-1.1.3 5-1.1.4 6-1.1.5.4 7-1.1.5.1.2 8-1.1.5.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v8 / label~e.0)
+                  :E (v9 / label~e.1)
+                  :C (v10 / label~e.2))
+           :A (v4 / label~e.3)
+           :D (v5 / label~e.4)
+           :P (v6 / label~e.5)
+           :A (v7 / label
+                  :E (v11 / label
+                          :A (v12 / label~e.8)
+                          :S (v14 / label~e.7))
+                  :C v12
+                  :E (v13 / label~e.6))))

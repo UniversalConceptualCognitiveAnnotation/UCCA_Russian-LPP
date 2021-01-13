@@ -1,0 +1,14 @@
+# ::id 2074007
+# ::tok Вот - вот . Звезды . -
+# ::alignments 0-1.1.3.1 2-1.1.3.2 4-1.1.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :G (v6 / label~e.0)
+                  :G (v7 / label~e.2)
+                  :A (v8 / label~e.4)
+                  :S (v9 / label)
+                  :A (v10 / label))))

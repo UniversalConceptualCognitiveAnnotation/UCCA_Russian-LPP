@@ -1,0 +1,19 @@
+# ::id 2100000
+# ::tok Маленький принц пошел взглянуть на розы . -
+# ::alignments 0-1.1.1.1.2 1-1.2.1 2-1.1.2 3-1.2.2 4-1.2.3.3 5-1.2.3.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :E (v9 / label
+                         :A (v10 / label
+                                 :A (v6 / label~e.1))
+                         :S (v13 / label~e.0))
+                  :C v10)
+           :P (v5 / label~e.2))
+    :H (v3 / label
+           :A v6
+           :P (v7 / label~e.3)
+           :A (v8 / label
+                  :R (v11 / label~e.4)
+                  :C (v12 / label~e.5))))

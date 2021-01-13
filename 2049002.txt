@@ -1,0 +1,21 @@
+# ::id 2049002
+# ::tok Вот уже шесть лет , как мой друг вместе с барашком меня покинул .
+# ::alignments 0-1.1 1-1.2.3.1 2-1.2.3.2 3-1.2.3.3 6-1.2.5.1.1 7-1.2.5.1.2 8-1.2.5.2 9-1.2.5.3.1 10-1.2.5.3.2 11-1.2.6 12-1.2.7
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :T (v4 / label
+                  :E (v8 / label~e.1)
+                  :Q (v9 / label~e.2)
+                  :C (v10 / label~e.3))
+           :A (v5 / label
+                  :C (v11 / label
+                          :A (v14 / label~e.6)
+                          :A (v15 / label~e.7))
+                  :N (v12 / label~e.8)
+                  :C (v13 / label
+                          :R (v16 / label~e.9)
+                          :C (v17 / label~e.10)))
+           :A (v6 / label~e.11)
+           :P (v7 / label~e.12)))

@@ -1,0 +1,36 @@
+# ::id 2075007
+# ::tok Распоряжаюсь ими , - ответил делец . - Считаю их и пересчитываю . Это очень трудно . Но я человек серьезный .
+# ::alignments 0-1.1.5.1.2 1-1.1.5.1.3 4-1.1.6 5-1.1.7.1 8-1.1.5.6.1 9-1.1.5.6.2 10-1.1.5.2 11-1.1.5.7.1 13-1.1.5.3.1 14-1.1.5.3.2 15-1.1.5.3.3 17-1.1.5.4 18-1.1.5.1.1 19-1.1.5.5.3.1 20-1.1.5.5.3.2.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v14 / label~e.18)
+                         :P (v15 / label~e.0)
+                         :A (v16 / label~e.1))
+                  :L (v7 / label~e.10)
+                  :H (v8 / label
+                         :A (v17 / label~e.13)
+                         :D (v18 / label~e.14)
+                         :S (v19 / label~e.15))
+                  :L (v9 / label~e.17)
+                  :H (v10 / label
+                          :S (v20 / label)
+                          :A v14
+                          :A (v21 / label
+                                  :C (v25 / label~e.19)
+                                  :E (v26 / label
+                                          :A v25
+                                          :S (v27 / label~e.20))))
+                  :H (v11 / label
+                          :P (v22 / label~e.8)
+                          :A (v23 / label~e.9)
+                          :A v14)
+                  :H (v12 / label
+                          :P (v24 / label~e.11)
+                          :A v23
+                          :A v14))
+           :P (v4 / label~e.4)
+           :A (v5 / label
+                  :A (v13 / label~e.5))))

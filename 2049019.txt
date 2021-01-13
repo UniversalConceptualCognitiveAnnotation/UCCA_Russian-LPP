@@ -1,0 +1,17 @@
+# ::id 2049019
+# ::tok Но я , к сожалению , не умею увидеть барашка сквозь стенки ящика .
+# ::alignments 0-1.1 1-1.2.5 3-1.2.6 4-1.2.6 6-1.2.7 7-1.2.8 8-1.2.9 9-1.2.1 10-1.2.2.1 11-1.2.2.2 12-1.2.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.9)
+           :A (v5 / label
+                  :R (v11 / label~e.10)
+                  :C (v12 / label~e.11)
+                  :E (v13 / label~e.12))
+           :A (v6 / label~e.1)
+           :G (v7 / label~e.3,4)
+           :D (v8 / label~e.6)
+           :D (v9 / label~e.7)
+           :P (v10 / label~e.8)))

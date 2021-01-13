@@ -1,0 +1,9 @@
+# ::id 2085015
+# ::tok Да , это было блистательно .
+# ::alignments 0-1.1.1 2-1.1.2 4-1.1.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :G (v3 / label~e.0)
+           :A (v4 / label~e.2)
+           :S (v5 / label~e.4)))

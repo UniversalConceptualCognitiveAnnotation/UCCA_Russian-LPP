@@ -1,0 +1,11 @@
+# ::id 2049005
+# ::tok Не у всякого был друг .
+# ::alignments 0-1.1.2 1-1.1.3.1 2-1.1.3.2 4-1.1.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :D (v3 / label~e.0)
+           :A (v4 / label
+                  :R (v6 / label~e.1)
+                  :C (v7 / label~e.2))
+           :A (v5 / label~e.4)))

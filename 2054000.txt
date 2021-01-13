@@ -1,0 +1,28 @@
+# ::id 2054000
+# ::tok VI О Маленький принц ! Понемногу я понял также , как печальна и однообразна была твоя жизнь .
+# ::alignments 0-1.1.2 2-1.2.6.1.2 3-1.2.6.2.1 5-1.2.7 6-1.2.8 7-1.2.9 8-1.2.1 10-1.2.2.1 11-1.2.2.2.1 12-1.2.2.2.2 13-1.2.2.2.3 15-1.2.2.4.1 16-1.2.2.4.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :C (v4 / label)
+           :Q (v5 / label~e.0))
+    :H (v3 / label
+           :D (v6 / label~e.8)
+           :A (v7 / label
+                  :R (v12 / label~e.10)
+                  :S (v13 / label
+                          :C (v17 / label~e.11)
+                          :N (v18 / label~e.12)
+                          :C (v19 / label~e.13))
+                  :A (v14 / label
+                          :A (v20 / label~e.15)
+                          :P (v21 / label~e.16)))
+           :G (v8 / label
+                  :E (v15 / label
+                          :A (v16 / label
+                                  :A (v23 / label~e.3))
+                          :S (v22 / label~e.2))
+                  :C v16)
+           :D (v9 / label~e.5)
+           :A (v10 / label~e.6)
+           :P (v11 / label~e.7)))

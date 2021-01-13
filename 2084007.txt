@@ -1,0 +1,45 @@
+# ::id 2084007
+# ::tok Посети планету Земля , - отвечал географ . - У нее неплохая репутация ... И Маленький принц пустился в путь , но мысли его были о покинутом цветке .
+# ::alignments 0-1.1.1.1.2 1-1.1.1.1.3.1 2-1.1.1.1.3.2 5-1.1.2 6-1.1.3.1 9-1.1.1.2.1.1 10-1.1.1.2.1.2 11-1.1.1.2.2 12-1.1.1.2.3 14-1.2 15-1.3.1.1.2 16-1.3.1.2.1 17-1.3.2 18-1.3.3.1 19-1.3.3.2 21-1.4 22-1.5.4 23-1.5.1 25-1.5.3.1 26-1.5.3.2.3 27-1.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v7 / label
+                  :H (v16 / label
+                          :A (v26 / label)
+                          :P (v27 / label~e.0)
+                          :A (v28 / label
+                                  :C (v35 / label~e.1)
+                                  :E (v36 / label~e.2)))
+                  :H (v17 / label
+                          :A (v29 / label
+                                  :R (v37 / label~e.9)
+                                  :C (v38 / label~e.10))
+                          :D (v30 / label~e.11)
+                          :S (v31 / label~e.12)))
+           :P (v8 / label~e.5)
+           :A (v9 / label
+                  :A (v18 / label~e.6)))
+    :L (v3 / label~e.14)
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v19 / label
+                           :A (v20 / label
+                                   :A (v33 / label~e.16))
+                           :S (v32 / label~e.15))
+                   :C v20)
+           :D (v11 / label~e.17)
+           :P (v12 / label
+                   :R (v21 / label~e.18)
+                   :C (v22 / label~e.19)))
+    :L (v5 / label~e.21)
+    :H (v6 / label
+           :A (v13 / label~e.23)
+           :A (v14 / label
+                   :R (v23 / label~e.25)
+                   :E (v24 / label
+                           :A v13
+                           :A (v25 / label~e.27)
+                           :P (v34 / label~e.26))
+                   :C v25)
+           :P (v15 / label~e.22)))

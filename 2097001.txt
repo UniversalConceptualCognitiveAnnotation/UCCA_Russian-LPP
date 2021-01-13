@@ -1,0 +1,13 @@
+# ::id 2097001
+# ::tok Потом сказал : - Пожалуйста ... приручи меня ! -
+# ::alignments 0-1.1 1-1.2.4 6-1.2.5.3 7-1.2.5.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label~e.1)
+           :A (v6 / label
+                  :A (v7 / label)
+                  :P (v8 / label~e.6)
+                  :A (v9 / label~e.7))))

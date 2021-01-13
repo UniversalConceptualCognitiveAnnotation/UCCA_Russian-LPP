@@ -1,0 +1,29 @@
+# ::id 2071016
+# ::tok Ты и правда мой восторженный почитатель ? - спросил он Маленького принца . - А как это - почитать ? -
+# ::alignments 0-1.1.1.1 2-1.1.1.3 3-1.1.1.4 4-1.1.1.5 5-1.1.1.6 8-1.1.2 9-1.1.3 10-1.1.4.1.2 11-1.2.1.1 14-1.2.5.1 15-1.2.5.2.1 16-1.2.5.2.2 18-1.2.5.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label
+                  :A (v11 / label~e.0)
+                  :G (v12 / label~e.2)
+                  :A (v13 / label~e.3)
+                  :D (v14 / label~e.4)
+                  :P (v15 / label~e.5))
+           :P (v5 / label~e.8)
+           :A (v6 / label~e.9)
+           :A (v7 / label
+                  :E (v16 / label
+                          :A (v8 / label
+                                 :A (v17 / label~e.11))
+                          :S (v20 / label~e.10))
+                  :C v8))
+    :H (v3 / label
+           :A v8
+           :P (v9 / label)
+           :A (v10 / label
+                   :L (v18 / label~e.14)
+                   :H (v19 / label
+                           :A (v21 / label~e.15)
+                           :S (v22 / label~e.16)
+                           :A (v23 / label~e.18)))))

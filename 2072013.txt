@@ -1,0 +1,22 @@
+# ::id 2072013
+# ::tok И Маленький принц отправился дальше , растерянный и недоумевающий . "
+# ::alignments 0-1.1 1-1.2.1.1.2 2-1.4.2.1 3-1.2.2 4-1.2.3 6-1.4.1 7-1.3 8-1.5.1
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :E (v13 / label
+                          :A (v11 / label
+                                  :A (v14 / label~e.2))
+                          :S (v15 / label~e.1))
+                  :C v11)
+           :P (v8 / label~e.3)
+           :A (v9 / label~e.4))
+    :L (v4 / label~e.7)
+    :H (v5 / label
+           :S (v10 / label~e.6)
+           :A v11)
+    :H (v6 / label
+           :S (v12 / label~e.8)
+           :A v11))

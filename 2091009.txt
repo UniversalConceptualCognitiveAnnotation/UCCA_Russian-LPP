@@ -1,0 +1,18 @@
+# ::id 2091009
+# ::tok Один ... один ... один ..." - откликнулось эхо . "
+# ::alignments 0-1.1.5.1.2 2-1.1.5.2.2 4-1.1.5.3.2 7-1.1.6 8-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :H (v6 / label
+                         :A (v9 / label)
+                         :S (v10 / label~e.0))
+                  :H (v7 / label
+                         :A (v11 / label)
+                         :S (v12 / label~e.2))
+                  :H (v8 / label
+                         :A (v13 / label)
+                         :S (v14 / label~e.4)))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)))

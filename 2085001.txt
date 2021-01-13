@@ -1,0 +1,13 @@
+# ::id 2085001
+# ::tok Земля - планета непростая !
+# ::alignments 0-1.1.3 2-1.1.4.1 3-1.1.4.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :S (v3 / label)
+           :A (v4 / label~e.0)
+           :A (v5 / label
+                  :C (v6 / label~e.2)
+                  :E (v7 / label
+                         :S (v8 / label~e.3)
+                         :A v6))))

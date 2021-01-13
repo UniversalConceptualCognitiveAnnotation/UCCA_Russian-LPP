@@ -1,0 +1,20 @@
+# ::id 2077013
+# ::tok И понимать нечего , - сказал фонарщик . - Уговор есть уговор . Добрый день .
+# ::alignments 0-1.1.5.1 1-1.1.5.2.2 2-1.1.5.2.3 5-1.1.6 6-1.1.7.1 9-1.1.5.3.1 10-1.1.5.3.2 11-1.1.5.3.3 13-1.1.5.4 14-1.1.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.0)
+                  :H (v7 / label
+                         :A (v11 / label)
+                         :P (v12 / label~e.1)
+                         :D (v13 / label~e.2))
+                  :H (v8 / label
+                         :A (v14 / label~e.9)
+                         :S (v15 / label~e.10)
+                         :A (v16 / label~e.11))
+                  :H (v9 / label~e.13,14))
+           :P (v4 / label~e.5)
+           :A (v5 / label
+                  :A (v10 / label~e.6))))

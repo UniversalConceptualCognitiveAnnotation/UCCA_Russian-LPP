@@ -1,0 +1,17 @@
+# ::id 2059009
+# ::tok Она наряжалась неторопливо , один за другим примеряя лепестки .
+# ::alignments 0-1.1.1 1-1.1.2 2-1.1.3 4-1.2.3.3 5-1.2.3.1 6-1.2.3.2 7-1.2.4 8-1.2.5
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label~e.0)
+           :P (v5 / label~e.1)
+           :D (v6 / label~e.2))
+    :H (v3 / label
+           :A v4
+           :D (v7 / label
+                  :N (v10 / label~e.5)
+                  :C (v11 / label~e.6)
+                  :C (v12 / label~e.4))
+           :P (v8 / label~e.7)
+           :A (v9 / label~e.8)))

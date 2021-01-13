@@ -1,0 +1,35 @@
+# ::id 2066011
+# ::tok Король повел рукою , скромно указывая на свою планету , а также и на другие планеты , и на звезды . -
+# ::alignments 0-1.2.4 1-1.1.2 2-1.1.3 4-1.2.1 5-1.2.2 6-1.2.3.1 7-1.2.3.2 8-1.2.3.3 10-1.3 11-1.4 12-1.5 13-1.6.1.1 14-1.6.1.2 15-1.6.1.3 17-1.7 18-1.8.1.1 19-1.8.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v10 / label
+                   :A (v16 / label~e.0))
+           :P (v11 / label~e.1)
+           :A (v12 / label~e.2))
+    :H (v3 / label
+           :D (v13 / label~e.4)
+           :P (v14 / label~e.5)
+           :A (v15 / label
+                   :R (v19 / label~e.6)
+                   :E (v20 / label~e.7)
+                   :C (v21 / label~e.8))
+           :A v16)
+    :L (v4 / label~e.10)
+    :L (v5 / label~e.11)
+    :L (v6 / label~e.12)
+    :H (v7 / label
+           :A (v17 / label
+                   :R (v22 / label~e.13)
+                   :E (v23 / label~e.14)
+                   :C (v24 / label~e.15))
+           :P v14
+           :A v16)
+    :L (v8 / label~e.17)
+    :H (v9 / label
+           :A (v18 / label
+                   :R (v25 / label~e.18)
+                   :C (v26 / label~e.19))
+           :P v14
+           :A v16))

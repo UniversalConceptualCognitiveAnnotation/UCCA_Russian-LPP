@@ -1,0 +1,19 @@
+# ::id 2118008
+# ::tok И я спрашиваю себя : что - то делается там , на его планете ?
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3 3-1.2.4 5-1.2.5.1 7-1.2.5.1 8-1.2.5.2 9-1.2.5.3.1 11-1.2.5.3.2.1 12-1.2.5.3.2.2 13-1.2.5.3.2.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :P (v5 / label~e.2)
+           :A (v6 / label~e.3)
+           :A (v7 / label
+                  :A (v8 / label~e.5,7)
+                  :P (v9 / label~e.8)
+                  :A (v10 / label
+                          :C (v11 / label~e.9)
+                          :C (v12 / label
+                                  :R (v13 / label~e.11)
+                                  :E (v14 / label~e.12)
+                                  :C (v15 / label~e.13))))))

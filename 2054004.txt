@@ -1,0 +1,23 @@
+# ::id 2054004
+# ::tok Чего ждать ? - Чтобы солнце зашло .
+# ::alignments 0-1.1.3.2 1-1.1.3.3 4-1.2.3.5.2 5-1.2.3.5.3 6-1.2.3.5.4
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :A (v10 / label)
+                  :A (v11 / label~e.0)
+                  :P (v12 / label~e.1)))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :P v12
+                  :A (v13 / label)
+                  :A (v14 / label
+                          :A (v15 / label)
+                          :R (v16 / label~e.4)
+                          :A (v17 / label~e.5)
+                          :P (v18 / label~e.6)))))

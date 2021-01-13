@@ -1,0 +1,25 @@
+# ::id 2044004
+# ::tok И прибавил не без грусти : - Если идти все прямо да прямо , далеко не уйдешь ...
+# ::alignments 0-1.1 1-1.2.4 2-1.2.5 3-1.2.6.1 4-1.2.6.2 7-1.2.7.1 8-1.2.7.2.2 9-1.2.7.2.3 10-1.2.7.2.4 11-1.2.7.2.4 12-1.2.7.2.4 14-1.2.7.3.2 15-1.2.7.3.3 16-1.2.7.3.4
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label)
+           :P (v5 / label~e.1)
+           :D (v6 / label~e.2)
+           :D (v7 / label
+                  :E (v9 / label~e.3)
+                  :C (v10 / label~e.4))
+           :A (v8 / label
+                  :L (v11 / label~e.7)
+                  :H (v12 / label
+                          :A (v14 / label)
+                          :P (v15 / label~e.8)
+                          :D (v16 / label~e.9)
+                          :A (v17 / label~e.10,11,12))
+                  :H (v13 / label
+                          :A (v18 / label)
+                          :D (v19 / label~e.14)
+                          :D (v20 / label~e.15)
+                          :P (v21 / label~e.16)))))

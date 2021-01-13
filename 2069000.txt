@@ -1,0 +1,21 @@
+# ::id 2069000
+# ::tok - Но я уже посмотрел ! - воскликнул он . - Там тоже никого нет . -
+# ::alignments 1-1.1.5.1 2-1.1.5.2.2 3-1.1.5.2.3 4-1.1.5.2.4 7-1.1.6 8-1.1.7 11-1.1.5.3.1.1 12-1.1.5.3.1.2 13-1.1.5.3.2 14-1.1.5.3.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :L (v6 / label~e.1)
+                  :H (v7 / label
+                         :A (v9 / label)
+                         :A (v10 / label~e.2)
+                         :D (v11 / label~e.3)
+                         :P (v12 / label~e.4))
+                  :H (v8 / label
+                         :A (v13 / label
+                                 :C (v16 / label~e.11)
+                                 :E (v17 / label~e.12))
+                         :A (v14 / label~e.13)
+                         :S (v15 / label~e.14)))
+           :P (v4 / label~e.7)
+           :A (v5 / label~e.8)))

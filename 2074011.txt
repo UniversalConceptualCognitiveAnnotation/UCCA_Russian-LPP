@@ -1,0 +1,11 @@
+# ::id 2074011
+# ::tok Да . -
+# ::alignments 0-1.1.7
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :D (v5 / label)
+           :A (v6 / label)
+           :G (v7 / label~e.0)))

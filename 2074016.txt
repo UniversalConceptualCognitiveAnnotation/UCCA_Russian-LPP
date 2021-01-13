@@ -1,0 +1,16 @@
+# ::id 2074016
+# ::tok А для чего тебе владеть звездами ? -
+# ::alignments 0-1.1.3.3 1-1.1.3.4 2-1.1.3.1 3-1.1.3.2.1 4-1.1.3.2.2 5-1.1.3.2.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label~e.2)
+                  :H (v7 / label
+                         :A (v10 / label~e.3)
+                         :S (v11 / label~e.4)
+                         :A (v12 / label~e.5))
+                  :L (v8 / label~e.0)
+                  :L (v9 / label~e.1))))

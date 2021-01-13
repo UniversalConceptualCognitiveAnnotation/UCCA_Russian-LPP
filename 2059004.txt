@@ -1,0 +1,16 @@
+# ::id 2059004
+# ::tok Вдруг это какая - нибудь новая разновидность баобаба ?
+# ::alignments 0-1.1 1-1.2.2 2-1.2.3.4 4-1.2.3.4 5-1.2.3.5.2 6-1.2.3.1 7-1.2.3.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :S (v4 / label)
+           :A (v5 / label~e.1)
+           :A (v6 / label
+                  :E (v7 / label~e.6)
+                  :C (v8 / label~e.7)
+                  :E (v9 / label~e.2,4)
+                  :E (v10 / label
+                          :A v8
+                          :S (v11 / label~e.5)))))

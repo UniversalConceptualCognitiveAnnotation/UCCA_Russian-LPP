@@ -1,0 +1,13 @@
+# ::id 2099005
+# ::tok Да , конечно . -
+# ::alignments 0-1.1.3.1 2-1.1.3.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label)
+           :A (v5 / label
+                  :G (v6 / label~e.0)
+                  :G (v7 / label~e.2)
+                  :A (v8 / label)
+                  :P (v9 / label))))

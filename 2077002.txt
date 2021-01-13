@@ -1,0 +1,18 @@
+# ::id 2077002
+# ::tok На ней только и помещалось что фонарь да фонарщик .
+# ::alignments 0-1.1.1.1 1-1.1.1.2 2-1.1.2.2 4-1.1.4 5-1.1.2.3 6-1.1.2.1.1 7-1.1.2.1.2 8-1.1.2.1.3.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label
+                  :R (v6 / label~e.0)
+                  :C (v7 / label~e.1))
+           :A (v4 / label
+                  :C (v8 / label
+                         :C (v11 / label~e.6)
+                         :N (v12 / label~e.7)
+                         :C (v13 / label
+                                 :A (v14 / label~e.8)))
+                  :E (v9 / label~e.2)
+                  :R (v10 / label~e.5))
+           :S (v5 / label~e.4)))

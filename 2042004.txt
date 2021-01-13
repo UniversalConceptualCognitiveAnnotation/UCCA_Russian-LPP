@@ -1,0 +1,26 @@
+# ::id 2042004
+# ::tok Это не штука . Это самолет . Мой самолет . Он летает .
+# ::alignments 0-1.1.3.5.1 1-1.1.3.5.2 2-1.1.3.5.3 4-1.1.3.6.2 5-1.1.3.6.3 7-1.1.3.7.2.1 8-1.1.3.7.2.2 10-1.1.3.1.1 11-1.1.3.1.2
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v3 / label)
+           :P (v4 / label)
+           :A (v5 / label
+                  :H (v6 / label
+                         :A (v10 / label~e.10)
+                         :P (v11 / label~e.11))
+                  :H (v7 / label
+                         :A (v12 / label~e.0)
+                         :D (v13 / label~e.1)
+                         :A (v14 / label~e.2))
+                  :H (v8 / label
+                         :S (v15 / label)
+                         :A (v16 / label~e.4)
+                         :A (v17 / label~e.5))
+                  :H (v9 / label
+                         :S (v18 / label)
+                         :A (v19 / label
+                                 :E (v20 / label~e.7)
+                                 :C (v21 / label~e.8))
+                         :A v16))))

@@ -1,0 +1,12 @@
+# ::id 2082001
+# ::tok А зачем ? -
+# ::alignments 0-1.1.2.5 1-1.1.2.1
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :P (v3 / label)
+           :A (v4 / label
+                  :H (v6 / label~e.1)
+                  :H (v7 / label)
+                  :L (v8 / label~e.0))
+           :A (v5 / label)))

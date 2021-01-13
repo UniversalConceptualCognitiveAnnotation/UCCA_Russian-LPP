@@ -1,0 +1,28 @@
+# ::id 2087000
+# ::tok Итак , попав на Землю , Маленький принц не увидел ни души и очень удивился .
+# ::alignments 0-1.1 2-1.2.2 3-1.2.3.1 4-1.2.3.2 6-1.3.1.1.2 7-1.2.1.1 8-1.3.2 9-1.3.3 10-1.3.4 11-1.3.5 12-1.4 13-1.5.1 14-1.5.2
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v7 / label
+                  :A (v17 / label~e.7))
+           :P (v8 / label~e.2)
+           :A (v9 / label
+                  :R (v18 / label~e.3)
+                  :C (v19 / label~e.4)))
+    :H (v4 / label
+           :A (v10 / label
+                   :E (v20 / label
+                           :A v7
+                           :S (v21 / label~e.6))
+                   :C v7)
+           :D (v11 / label~e.8)
+           :P (v12 / label~e.9)
+           :D (v13 / label~e.10)
+           :A (v14 / label~e.11))
+    :L (v5 / label~e.12)
+    :H (v6 / label
+           :D (v15 / label~e.13)
+           :P (v16 / label~e.14)
+           :A v7))

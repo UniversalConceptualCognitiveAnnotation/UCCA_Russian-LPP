@@ -1,0 +1,58 @@
+# ::id 2074005
+# ::tok Пчелы ? - Да нет же . Такие маленькие , золотые , всякий лентяй как посмотрит на них , так и размечтается . А я человек серьезный . Мне мечтать некогда . -
+# ::alignments 0-1.1.3.3 4-1.2.3.15.5 7-1.2.3.1.1.2 8-1.2.3.1.2.1 10-1.2.3.1.2.2 12-1.2.3.2.1.1 13-1.2.3.6.3.1 14-1.2.3.3 15-1.2.3.2.2 16-1.2.3.2.3.1 17-1.2.3.2.3.2 19-1.2.3.4 20-1.2.3.5 21-1.2.3.6.2 23-1.2.3.7 24-1.2.3.8.2 25-1.2.3.8.3.1 26-1.2.3.8.3.2.2 28-1.2.3.9.1 29-1.2.3.9.2 30-1.2.3.9.3
+# ::format ucca
+(v1 / label
+    :H (v2 / label
+           :A (v4 / label)
+           :P (v5 / label)
+           :A (v6 / label
+                  :S (v10 / label)
+                  :A (v11 / label)
+                  :A (v12 / label~e.0)))
+    :H (v3 / label
+           :A (v7 / label)
+           :P (v8 / label)
+           :A (v9 / label
+                  :H (v13 / label
+                          :A (v23 / label
+                                  :C (v41 / label)
+                                  :E (v42 / label~e.7))
+                          :S (v24 / label
+                                  :C (v43 / label~e.8)
+                                  :C (v44 / label~e.10)))
+                  :H (v14 / label
+                          :A (v25 / label
+                                  :E (v45 / label~e.12)
+                                  :C (v30 / label
+                                          :A (v48 / label~e.13)))
+                          :P (v26 / label~e.15)
+                          :A (v27 / label
+                                  :R (v46 / label~e.16)
+                                  :C (v47 / label~e.17)))
+                  :L (v15 / label~e.14)
+                  :L (v16 / label~e.19)
+                  :L (v17 / label~e.20)
+                  :H (v18 / label
+                          :A (v28 / label)
+                          :P (v29 / label~e.21)
+                          :A v30)
+                  :L (v19 / label~e.23)
+                  :H (v20 / label
+                          :S (v31 / label)
+                          :A (v32 / label~e.24)
+                          :A (v33 / label
+                                  :C (v49 / label~e.25)
+                                  :E (v50 / label
+                                          :A v49
+                                          :S (v51 / label~e.26))))
+                  :H (v21 / label
+                          :A (v34 / label~e.28)
+                          :P (v35 / label~e.29)
+                          :D (v36 / label~e.30))
+                  :H (v22 / label
+                          :A (v37 / label)
+                          :D (v38 / label)
+                          :S (v39 / label)
+                          :G (v40 / label~e.4)
+                          :A v12))))

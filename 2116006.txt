@@ -1,0 +1,10 @@
+# ::id 2116006
+# ::tok Но он был чем - то озабочен . -
+# ::alignments 0-1.1 1-1.2.3 3-1.2.5 5-1.2.5 6-1.2.6
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0)
+    :H (v3 / label
+           :A (v4 / label~e.1)
+           :A (v5 / label~e.3,5)
+           :S (v6 / label~e.6)))

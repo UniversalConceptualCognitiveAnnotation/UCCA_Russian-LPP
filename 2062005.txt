@@ -1,0 +1,18 @@
+# ::id 2062005
+# ::tok Кроме того , у него был еще один потухший вулкан .
+# ::alignments 0-1.1 1-1.1 3-1.2.1.1 4-1.2.1.2 5-1.2.2 6-1.2.3.5 7-1.2.3.1 8-1.2.3.2.2 9-1.2.3.3
+# ::format ucca
+(v1 / label
+    :L (v2 / label~e.0,1)
+    :H (v3 / label
+           :A (v4 / label
+                  :R (v7 / label~e.3)
+                  :C (v8 / label~e.4))
+           :S (v5 / label~e.5)
+           :A (v6 / label
+                  :Q (v9 / label~e.7)
+                  :E (v10 / label
+                          :A (v11 / label~e.9)
+                          :S (v13 / label~e.8))
+                  :C v11
+                  :E (v12 / label~e.6))))
