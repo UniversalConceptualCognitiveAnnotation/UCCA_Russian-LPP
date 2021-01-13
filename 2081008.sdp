@@ -1,0 +1,27 @@
+# format = ucca
+1	А	_	Word	-	-	_	L	_	_	_	_	_	_
+2	что	_	Word	-	-	_	A	_	_	_	_	_	_
+3	такое	_	Word	-	+	_	_	_	_	_	_	_	_
+4	географ	_	Word	-	-	_	A	A*	_	_	_	_	_
+5	?	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+6	-	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+7	Это	_	Word	-	+	_	H	_	_	_	_	_	_
+8	ученый	_	Word	-	+	_	_	A	_	_	_	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+10	который	_	Word	-	-	_	_	_	_	R	_	_	_
+11	знает	_	Word	-	+	_	_	_	E	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	U	_	_	_
+13	где	_	Word	-	+	_	_	_	_	A	_	_	_
+14	находятся	_	Word	-	+	_	_	_	_	_	E	_	_
+15	моря	_	Word	-	+	_	_	_	_	_	_	A	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+17	реки	_	Word	-	-	_	_	_	_	_	_	_	C
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+19	города	_	Word	-	-	_	_	_	_	_	_	_	C
+20	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+21	горы	_	Word	-	-	_	_	_	_	_	_	_	C
+22	и	_	Word	-	-	_	_	_	_	_	_	_	N
+23	пустыни	_	Word	-	-	_	_	_	_	_	_	_	C
+24	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+25	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

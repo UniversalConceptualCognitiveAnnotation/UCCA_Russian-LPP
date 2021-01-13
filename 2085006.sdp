@@ -1,0 +1,10 @@
+# format = ucca
+1	Первыми	_	Word	-	-	_	D	_	_
+2	выступали	_	Word	-	+	_	_	_	_
+3	фонарщики	_	Word	-	+	_	A	_	_
+4	Новой	_	Word	-	+	_	_	A	_
+5	Зеландии	_	Word	-	-	_	_	_	Terminal
+6	и	_	Word	-	-	_	_	_	N
+7	Австралии	_	Word	-	-	_	_	_	C
+8	.	_	Punctuation	-	-	_	_	_	U
+

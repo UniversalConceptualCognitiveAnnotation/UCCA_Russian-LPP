@@ -1,0 +1,23 @@
+# format = ucca
+1	И	_	Word	-	-	_	L	_	_	_	_	_
+2	в	_	Word	-	+	_	_	_	_	_	_	_
+3	самом	_	Word	-	-	_	Terminal	_	_	_	_	_
+4	деле	_	Word	-	-	_	Terminal	_	_	_	_	_
+5	.	_	Punctuation	-	-	_	U	_	_	_	_	_
+6	Все	_	Word	-	-	_	_	A	_	_	_	_
+7	знают	_	Word	-	+	_	H	_	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+9	что	_	Word	-	-	_	_	_	_	R	_	_
+10	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+11	когда	_	Word	-	-	_	_	_	_	L	_	_
+12	в	_	Word	-	-	_	_	_	R	_	_	_
+13	Америке	_	Word	-	+	_	_	_	_	A	_	_
+14	полдень	_	Word	-	+	_	_	A	_	_	_	_
+15	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+16	во	_	Word	-	-	_	_	_	_	_	R	_
+17	Франции	_	Word	-	+	_	_	_	_	_	_	A
+18	солнце	_	Word	-	-	_	_	_	_	_	_	A
+19	уже	_	Word	-	-	_	_	_	_	_	_	T
+20	заходит	_	Word	-	+	_	_	_	_	H	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

@@ -1,0 +1,12 @@
+# format = ucca
+1	Отчего	_	Word	-	-	_	A	_	_
+2	же	_	Word	-	-	_	F	_	_
+3	тебе	_	Word	-	-	_	A	_	_
+4	совестно	_	Word	-	+	_	_	A	_
+5	?	_	Punctuation	-	-	_	_	U	_
+6	-	_	Punctuation	-	-	_	_	U	_
+7	спросил	_	Word	-	+	_	_	_	_
+8	Маленький	_	Word	-	-	_	_	_	E
+9	принц	_	Word	-	+	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

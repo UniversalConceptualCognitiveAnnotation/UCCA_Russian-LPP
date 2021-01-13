@@ -1,0 +1,11 @@
+# format = ucca
+1	Обычно	_	Word	-	-	_	D	_	_
+2	здесь	_	Word	-	+	_	_	_	_
+3	колодец	_	Word	-	-	_	A	_	_
+4	-	_	Punctuation	-	-	_	U	_	_
+5	просто	_	Word	-	-	_	D	_	_
+6	яма	_	Word	-	+	_	A	_	_
+7	в	_	Word	-	-	_	_	_	R
+8	песке	_	Word	-	+	_	_	E	_
+9	.	_	Punctuation	-	-	_	_	_	U
+

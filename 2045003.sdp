@@ -1,0 +1,23 @@
+# format = ucca
+1	Когда	_	Word	-	-	_	L	_	_	_	_	_
+2	астроном	_	Word	-	-	_	A	_	_	_	_	_
+3	открывает	_	Word	-	+	_	_	_	_	_	_	_
+4	такую	_	Word	-	-	_	_	E	_	_	_	_
+5	планетку	_	Word	-	+	_	A	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+7	он	_	Word	-	-	_	_	_	A	_	_	_
+8	дает	_	Word	-	+	_	H	_	_	_	_	_
+9	ей	_	Word	-	-	_	_	_	A	_	_	_
+10	не	_	Word	-	-	_	_	_	_	R	_	_
+11	имя	_	Word	-	+	_	_	_	A	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+13	а	_	Word	-	-	_	_	_	_	R	_	_
+14	просто	_	Word	-	-	_	_	_	_	_	E	_
+15	номер	_	Word	-	+	_	_	_	_	C	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U	_
+17	Например	_	Word	-	-	_	_	_	_	_	_	R
+18	,	_	Punctuation	-	-	_	_	_	_	_	_	U
+19	астероид	_	Word	-	+	_	_	_	_	_	E	_
+20	3251	_	Word	-	-	_	_	_	_	_	_	Q
+21	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

@@ -1,0 +1,10 @@
+# format = ucca
+1	Облетел	_	Word	-	+	_	_	_	_
+2	я	_	Word	-	-	_	A	_	_
+3	чуть	_	Word	-	+	_	D	_	_
+4	ли	_	Word	-	-	_	_	Terminal	_
+5	не	_	Word	-	-	_	D	_	_
+6	весь	_	Word	-	-	_	_	_	E
+7	свет	_	Word	-	+	_	A	_	_
+8	.	_	Punctuation	-	-	_	_	_	U
+

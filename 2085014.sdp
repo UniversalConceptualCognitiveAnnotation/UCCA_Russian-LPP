@@ -1,0 +1,16 @@
+# format = ucca
+1	И	_	Word	-	-	_	L	_	_
+2	никогда	_	Word	-	-	_	T	_	_
+3	они	_	Word	-	-	_	A	_	_
+4	не	_	Word	-	-	_	D	_	_
+5	ошибались	_	Word	-	+	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_
+7	никто	_	Word	-	-	_	_	A	_
+8	не	_	Word	-	-	_	_	D	_
+9	выходил	_	Word	-	+	_	H	_	_
+10	на	_	Word	-	-	_	_	_	R
+11	сцену	_	Word	-	+	_	_	A	_
+12	не	_	Word	-	-	_	_	D	_
+13	вовремя	_	Word	-	-	_	_	D	_
+14	.	_	Punctuation	-	-	_	_	U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+1	Исполнив	_	Word	-	-	_	D	_	_	_
+2	свой	_	Word	-	-	_	E	_	_	_
+3	танец	_	Word	-	+	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_
+5	они	_	Word	-	+	_	A*	_	_	_
+6	тоже	_	Word	-	-	_	_	E	_	_
+7	скрывались	_	Word	-	+	_	H	_	_	_
+8	за	_	Word	-	-	_	_	_	_	R
+9	кулисами	_	Word	-	+	_	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+

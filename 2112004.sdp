@@ -1,0 +1,10 @@
+# format = ucca
+1	Смочил	_	Word	-	+	_	_	_	_
+2	ему	_	Word	-	-	_	A	_	_
+3	виски	_	Word	-	-	_	A	_	_
+4	и	_	Word	-	-	_	L	_	_
+5	заставил	_	Word	-	+	_	H	_	_
+6	выпить	_	Word	-	+	_	_	A	_
+7	воды	_	Word	-	-	_	_	_	A
+8	.	_	Punctuation	-	-	_	_	_	U
+

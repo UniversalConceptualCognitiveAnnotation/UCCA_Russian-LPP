@@ -1,0 +1,10 @@
+# format = ucca
+1	Маленький	_	Word	-	-	_	E	_	_	_
+2	принц	_	Word	-	+	_	_	_	A*	_
+3	пошел	_	Word	-	+	_	_	_	_	_
+4	взглянуть	_	Word	-	+	_	_	H	_	_
+5	на	_	Word	-	-	_	_	_	_	R
+6	розы	_	Word	-	+	_	_	_	A	_
+7	.	_	Punctuation	-	-	_	_	_	_	U
+8	-	_	Punctuation	-	-	_	_	_	_	U
+

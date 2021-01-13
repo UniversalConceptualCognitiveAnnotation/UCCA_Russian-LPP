@@ -1,0 +1,17 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	A*	_	_	_
+2	подумал	_	Word	-	+	_	_	_	_	_	_
+3	даже	_	Word	-	-	_	G	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_
+5	что	_	Word	-	-	_	_	R	_	_	_
+6	залетел	_	Word	-	+	_	A	_	_	_	_
+7	по	_	Word	-	-	_	_	_	R	_	_
+8	ошибке	_	Word	-	+	_	_	D	_	_	_
+9	на	_	Word	-	-	_	_	_	_	_	R
+10	какую	_	Word	-	+	_	_	_	_	_	E
+11	-	_	Punctuation	-	-	_	_	_	_	U	_
+12	то	_	Word	-	-	_	_	_	_	Terminal	_
+13	другую	_	Word	-	-	_	_	_	_	_	E
+14	планету	_	Word	-	+	_	_	A	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+

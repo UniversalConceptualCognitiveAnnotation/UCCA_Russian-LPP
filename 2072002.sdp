@@ -1,0 +1,23 @@
+# format = ucca
+1	Когда	_	Word	-	-	_	L	_	_	_	_	_
+2	он	_	Word	-	-	_	A	_	_	_	_	_
+3	явился	_	Word	-	+	_	_	_	_	_	_	_
+4	на	_	Word	-	-	_	_	R	_	_	_	_
+5	эту	_	Word	-	-	_	_	E	_	_	_	_
+6	планету	_	Word	-	+	_	A	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+8	пьяница	_	Word	-	-	_	_	_	A	A*	_	_
+9	молча	_	Word	-	-	_	_	_	D	_	_	_
+10	сидел	_	Word	-	+	_	H	_	_	_	_	_
+11	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+12	уставясь	_	Word	-	+	_	H	_	_	_	_	_
+13	на	_	Word	-	-	_	_	_	_	_	R	_
+14	полчища	_	Word	-	-	_	_	_	_	_	Q	_
+15	бутылок	_	Word	-	+	_	_	_	_	A	_	_
+16	-	_	Punctuation	-	-	_	_	_	_	_	U	_
+17	пустых	_	Word	-	+	_	_	_	_	_	E	_
+18	и	_	Word	-	-	_	_	_	_	_	_	N
+19	полных	_	Word	-	-	_	_	_	_	_	_	C
+20	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+21	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+

@@ -1,0 +1,18 @@
+# format = ucca
+1	Вот	_	Word	-	-	_	L	_	_	_
+2	почему	_	Word	-	-	_	L	_	_	_
+3	я	_	Word	-	-	_	A	_	_	_
+4	так	_	Word	-	-	_	D	_	_	_
+5	трудился	_	Word	-	+	_	_	_	_	_
+6	над	_	Word	-	-	_	_	R	_	_
+7	этим	_	Word	-	-	_	_	E	_	_
+8	рисунком	_	Word	-	+	_	A	_	_	_
+9	,	_	Punctuation	-	-	_	U	_	_	_
+10	и	_	Word	-	-	_	L	_	_	_
+11	мне	_	Word	-	-	_	_	_	A	A*
+12	не	_	Word	-	-	_	_	_	D	_
+13	жаль	_	Word	-	+	_	H	_	_	_
+14	потраченного	_	Word	-	-	_	_	_	_	D
+15	труда	_	Word	-	+	_	_	_	A	_
+16	.	_	Punctuation	-	-	_	_	_	_	U
+

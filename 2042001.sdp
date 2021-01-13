@@ -1,0 +1,24 @@
+# format = ucca
+1	Маленький	_	Word	-	-	_	E	_	_	_	_	_
+2	принц	_	Word	-	+	_	_	A	_	_	_	_
+3	засыпал	_	Word	-	-	_	_	D	_	_	_	_
+4	меня	_	Word	-	-	_	_	A	_	_	_	_
+5	вопросами	_	Word	-	+	_	_	_	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+7	но	_	Word	-	-	_	_	L	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+9	когда	_	Word	-	-	_	_	L	_	_	_	_
+10	я	_	Word	-	-	_	_	_	A	_	_	_
+11	спрашивал	_	Word	-	+	_	_	H	_	_	_	_
+12	о	_	Word	-	-	_	_	_	_	R	_	_
+13	чем	_	Word	-	+	_	_	_	A	_	_	_
+14	-	_	Punctuation	-	-	_	_	_	_	U	_	_
+15	нибудь	_	Word	-	-	_	_	_	_	Terminal	_	_
+16	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+17	он	_	Word	-	-	_	_	_	_	_	_	A
+18	будто	_	Word	-	+	_	_	H	_	_	_	_
+19	и	_	Word	-	-	_	_	_	_	_	_	F
+20	не	_	Word	-	-	_	_	_	_	_	_	D
+21	слышал	_	Word	-	+	_	_	_	_	_	A	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

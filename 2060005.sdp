@@ -1,0 +1,24 @@
+# format = ucca
+1	На	_	Word	-	-	_	R	_	_	_	_
+2	моей	_	Word	-	-	_	E	_	_	_	_
+3	планете	_	Word	-	+	_	_	A	_	_	_
+4	тигры	_	Word	-	-	_	_	A	_	_	_
+5	не	_	Word	-	-	_	_	D	_	_	_
+6	водятся	_	Word	-	+	_	_	_	A	_	_
+7	,	_	Punctuation	-	-	_	_	_	U	_	_
+8	-	_	Punctuation	-	-	_	_	_	U	_	_
+9	возразил	_	Word	-	+	_	_	_	_	_	_
+10	Маленький	_	Word	-	-	_	_	_	_	E	_
+11	принц	_	Word	-	+	_	_	_	A	_	_
+12	.	_	Punctuation	-	-	_	_	_	U	_	_
+13	-	_	Punctuation	-	-	_	_	_	U	_	_
+14	И	_	Word	-	-	_	_	L	_	_	_
+15	потом	_	Word	-	-	_	_	L	_	_	_
+16	,	_	Punctuation	-	-	_	_	U	_	_	_
+17	тигры	_	Word	-	-	_	_	_	_	_	A
+18	не	_	Word	-	-	_	_	_	_	_	D
+19	едят	_	Word	-	+	_	_	H	_	_	_
+20	траву	_	Word	-	-	_	_	_	_	_	A
+21	.	_	Punctuation	-	-	_	_	_	_	_	U
+22	-	_	Punctuation	-	-	_	_	_	_	_	U
+

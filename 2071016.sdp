@@ -1,0 +1,23 @@
+# format = ucca
+1	Ты	_	Word	-	-	_	A	_	_	_	_
+2	и	_	Word	-	-	_	F	_	_	_	_
+3	правда	_	Word	-	-	_	G	_	_	_	_
+4	мой	_	Word	-	-	_	A	_	_	_	_
+5	восторженный	_	Word	-	-	_	D	_	_	_	_
+6	почитатель	_	Word	-	+	_	_	A	_	_	_
+7	?	_	Punctuation	-	-	_	_	U	_	_	_
+8	-	_	Punctuation	-	-	_	_	U	_	_	_
+9	спросил	_	Word	-	+	_	_	_	_	_	_
+10	он	_	Word	-	-	_	_	A	_	_	_
+11	Маленького	_	Word	-	+	_	_	_	_	E	_
+12	принца	_	Word	-	+	_	_	_	A*	_	A*
+13	.	_	Punctuation	-	-	_	_	_	_	_	U
+14	-	_	Punctuation	-	-	_	_	_	_	_	U
+15	А	_	Word	-	-	_	_	_	_	_	L
+16	как	_	Word	-	-	_	_	_	_	_	A
+17	это	_	Word	-	+	_	_	H	_	_	_
+18	-	_	Punctuation	-	-	_	_	_	_	_	U
+19	почитать	_	Word	-	-	_	_	_	_	_	A
+20	?	_	Punctuation	-	-	_	_	_	_	_	U
+21	-	_	Punctuation	-	-	_	_	_	_	_	U
+

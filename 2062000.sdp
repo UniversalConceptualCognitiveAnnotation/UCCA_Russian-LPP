@@ -1,0 +1,14 @@
+# format = ucca
+1	IX	_	Word	-	+	_	_	_	_	_
+2	Как	_	Word	-	-	_	_	R	_	_
+3	я	_	Word	-	-	_	_	A	_	_
+4	понял	_	Word	-	+	_	H	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_
+6	он	_	Word	-	-	_	_	_	A	_
+7	решил	_	Word	-	-	_	_	_	D	_
+8	странствовать	_	Word	-	+	_	_	A	_	_
+9	с	_	Word	-	-	_	_	_	_	R
+10	перелетными	_	Word	-	-	_	_	_	_	E
+11	птицами	_	Word	-	+	_	_	_	A	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+

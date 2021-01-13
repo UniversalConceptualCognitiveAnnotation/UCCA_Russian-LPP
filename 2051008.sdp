@@ -1,0 +1,20 @@
+# format = ucca
+1	Тогда	_	Word	-	-	_	L	_	_	_	_
+2	оно	_	Word	-	-	_	A	_	_	_	_
+3	пускает	_	Word	-	+	_	_	_	_	_	_
+4	росток	_	Word	-	-	_	A	_	_	_	_
+5	;	_	Punctuation	-	-	_	U	_	_	_	_
+6	он	_	Word	-	-	_	_	A	A*	_	A*
+7	расправляется	_	Word	-	+	_	H	_	_	_	_
+8	и	_	Word	-	-	_	L	_	_	_	_
+9	тянется	_	Word	-	+	_	H	_	_	_	_
+10	к	_	Word	-	-	_	_	_	_	R	_
+11	солнцу	_	Word	-	+	_	_	_	A	_	_
+12	,	_	Punctuation	-	-	_	U	_	_	_	_
+13	сперва	_	Word	-	-	_	_	_	_	_	T
+14	такой	_	Word	-	-	_	_	_	_	_	D
+15	милый	_	Word	-	+	_	H	_	_	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	_	U
+17	безобидный	_	Word	-	-	_	_	_	_	_	C
+18	.	_	Punctuation	-	-	_	_	_	_	_	U
+

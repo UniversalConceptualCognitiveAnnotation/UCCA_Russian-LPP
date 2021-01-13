@@ -1,0 +1,13 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	_	_
+2	рассказывал	_	Word	-	+	_	_	_	_
+3	об	_	Word	-	-	_	_	R	_
+4	этом	_	Word	-	+	_	A	_	_
+5	понемножку	_	Word	-	-	_	D	_	_
+6	,	_	Punctuation	-	-	_	U	_	_
+7	когда	_	Word	-	-	_	L	_	_
+8	приходилось	_	Word	-	-	_	_	_	D
+9	к	_	Word	-	-	_	_	_	R
+10	слову	_	Word	-	+	_	H	_	_
+11	.	_	Punctuation	-	-	_	_	_	U
+

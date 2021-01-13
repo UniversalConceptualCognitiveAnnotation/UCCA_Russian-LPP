@@ -1,0 +1,18 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_	_
+2	сам	_	Word	-	-	_	D	_	_
+3	зачерпну	_	Word	-	+	_	_	A	_
+4	воды	_	Word	-	-	_	A	_	_
+5	,	_	Punctuation	-	-	_	_	U	_
+6	-	_	Punctuation	-	-	_	_	U	_
+7	сказал	_	Word	-	+	_	_	_	_
+8	я	_	Word	-	-	_	_	A	_
+9	,	_	Punctuation	-	-	_	_	U	_
+10	-	_	Punctuation	-	-	_	_	U	_
+11	тебе	_	Word	-	-	_	_	_	A
+12	это	_	Word	-	-	_	_	_	A
+13	не	_	Word	-	-	_	_	_	D
+14	под	_	Word	-	-	_	_	_	R
+15	силу	_	Word	-	+	_	H	_	_
+16	.	_	Punctuation	-	-	_	_	_	U
+

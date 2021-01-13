@@ -1,0 +1,18 @@
+# format = ucca
+1	Целый	_	Word	-	-	_	Q	_	_	_	_
+2	месяц	_	Word	-	+	_	_	T*	_	_	_
+3	?!	_	Punctuation	-	-	_	_	U	_	_	_
+4	-	_	Punctuation	-	-	_	_	U	_	_	_
+5	Ну	_	Word	-	+	_	H	_	_	_	_
+6	да	_	Word	-	-	_	_	G	_	_	_
+7	.	_	Punctuation	-	-	_	_	U	_	_	_
+8	Тридцать	_	Word	-	-	_	_	_	Q	_	_
+9	минут	_	Word	-	+	_	_	H	_	_	_
+10	.	_	Punctuation	-	-	_	_	_	U	_	_
+11	Тридцать	_	Word	-	-	_	_	_	_	Q	_
+12	дней	_	Word	-	+	_	_	_	C	_	_
+13	.	_	Punctuation	-	-	_	_	U	_	_	_
+14	Добрый	_	Word	-	+	_	_	H	_	_	_
+15	вечер	_	Word	-	-	_	_	_	_	_	Terminal
+16	!	_	Punctuation	-	-	_	_	U	_	_	_
+

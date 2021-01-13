@@ -1,0 +1,15 @@
+# format = ucca
+1	Тогда	_	Word	-	-	_	L	_	_
+2	она	_	Word	-	-	_	A	_	_
+3	закашляла	_	Word	-	+	_	_	_	_
+4	сильнее	_	Word	-	-	_	D	_	_
+5	:	_	Punctuation	-	-	_	U	_	_
+6	пускай	_	Word	-	-	_	L	_	_
+7	его	_	Word	-	-	_	_	_	A
+8	все	_	Word	-	+	_	_	_	G
+9	-	_	Punctuation	-	-	_	_	U	_
+10	таки	_	Word	-	-	_	_	Terminal	_
+11	помучит	_	Word	-	+	_	H	_	_
+12	совесть	_	Word	-	-	_	_	_	A
+13	!	_	Punctuation	-	-	_	_	_	U
+

@@ -1,0 +1,16 @@
+# format = ucca
+1	-	_	Punctuation	-	-	_	U	_	_	_	_
+2	Я	_	Word	-	-	_	A	_	_	_	_
+3	знаю	_	Word	-	+	_	_	_	_	_	_
+4	одну	_	Word	-	-	_	_	Q	_	_	_
+5	планету	_	Word	-	+	_	A	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_	_	_
+7	там	_	Word	-	-	_	_	_	A	_	_
+8	живет	_	Word	-	+	_	_	E	_	_	_
+9	такой	_	Word	-	-	_	_	_	_	E	_
+10	господин	_	Word	-	+	_	_	_	A	_	_
+11	с	_	Word	-	-	_	_	_	_	_	R
+12	багровым	_	Word	-	-	_	_	_	_	_	E
+13	лицом	_	Word	-	+	_	_	_	_	E	_
+14	.	_	Punctuation	-	-	_	_	_	_	_	U
+

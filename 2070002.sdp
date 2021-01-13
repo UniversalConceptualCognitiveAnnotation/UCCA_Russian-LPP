@@ -1,0 +1,20 @@
+# format = ucca
+1	И	_	Word	-	-	_	_	_	L	_	_
+2	вид	_	Word	-	-	_	_	_	G	_	_
+3	у	_	Word	-	-	_	R	_	_	_	_
+4	него	_	Word	-	+	_	_	_	A	_	_
+5	при	_	Word	-	-	_	_	R	_	_	_
+6	этом	_	Word	-	+	_	_	_	A	_	_
+7	был	_	Word	-	-	_	_	_	F	_	_
+8	такой	_	Word	-	-	_	_	_	D	_	_
+9	,	_	Punctuation	-	-	_	_	_	U	_	_
+10	точно	_	Word	-	+	_	_	_	_	_	_
+11	он	_	Word	-	-	_	_	_	_	A	_
+12	не	_	Word	-	-	_	_	_	_	D	_
+13	потерпел	_	Word	-	+	_	_	_	A	_	_
+14	бы	_	Word	-	-	_	_	_	_	F	_
+15	никаких	_	Word	-	-	_	_	_	_	_	D
+16	возражений	_	Word	-	+	_	_	_	_	A	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+18	"	_	Punctuation	-	-	_	_	_	_	_	U
+

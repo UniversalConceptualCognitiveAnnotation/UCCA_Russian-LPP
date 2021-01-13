@@ -1,0 +1,24 @@
+# format = ucca
+1	Король	_	Word	-	-	_	_	A*	_	A*	A*
+2	повел	_	Word	-	+	_	_	_	_	_	_
+3	рукою	_	Word	-	-	_	A	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_
+5	скромно	_	Word	-	-	_	_	D	_	_	_
+6	указывая	_	Word	-	+	_	H	_	_	_	_
+7	на	_	Word	-	-	_	_	_	R	_	_
+8	свою	_	Word	-	-	_	_	_	E	_	_
+9	планету	_	Word	-	+	_	_	A	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_
+11	а	_	Word	-	-	_	L	_	_	_	_
+12	также	_	Word	-	-	_	L	_	_	_	_
+13	и	_	Word	-	-	_	L	_	_	_	_
+14	на	_	Word	-	-	_	_	_	_	R	_
+15	другие	_	Word	-	-	_	_	_	_	E	_
+16	планеты	_	Word	-	+	_	H	_	_	_	_
+17	,	_	Punctuation	-	-	_	U	_	_	_	_
+18	и	_	Word	-	-	_	L	_	_	_	_
+19	на	_	Word	-	-	_	_	_	_	_	R
+20	звезды	_	Word	-	+	_	H	_	_	_	_
+21	.	_	Punctuation	-	-	_	_	_	_	_	U
+22	-	_	Punctuation	-	-	_	_	_	_	_	U
+

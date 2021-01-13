@@ -1,0 +1,10 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	A*
+2	чувствовал	_	Word	-	-	_	D	D*
+3	себя	_	Word	-	-	_	F	_
+4	ужасно	_	Word	-	-	_	D	D*
+5	неловким	_	Word	-	+	_	_	_
+6	и	_	Word	-	-	_	L	_
+7	неуклюжим	_	Word	-	+	_	H	_
+8	.	_	Punctuation	-	-	_	_	U
+

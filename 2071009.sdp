@@ -1,0 +1,15 @@
+# format = ucca
+1	Здесь	_	Word	-	-	_	A	_	_	_	_
+2	веселее	_	Word	-	+	_	_	_	_	A	_
+3	,	_	Punctuation	-	-	_	U	_	_	_	_
+4	чем	_	Word	-	-	_	L	_	_	_	_
+5	у	_	Word	-	-	_	_	_	R	_	_
+6	старого	_	Word	-	+	_	_	_	E	_	_
+7	короля	_	Word	-	+	_	_	A*	_	_	_
+8	",	_	Punctuation	-	-	_	_	_	_	U	_
+9	-	_	Punctuation	-	-	_	_	_	_	U	_
+10	подумал	_	Word	-	+	_	_	_	_	_	_
+11	Маленький	_	Word	-	-	_	_	_	_	_	E
+12	принц	_	Word	-	+	_	_	_	_	A	_
+13	.	_	Punctuation	-	-	_	_	_	_	_	U
+

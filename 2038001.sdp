@@ -1,0 +1,15 @@
+# format = ucca
+1	И	_	Word	-	-	_	_	L	_
+2	вот	_	Word	-	-	_	_	L	_
+3	шесть	_	Word	-	-	_	Q	_	_
+4	лет	_	Word	-	+	_	_	T	_
+5	назад	_	Word	-	-	_	R	_	_
+6	пришлось	_	Word	-	-	_	_	D	_
+7	мне	_	Word	-	-	_	_	A	_
+8	сделать	_	Word	-	-	_	_	F	_
+9	вынужденную	_	Word	-	-	_	_	D	_
+10	посадку	_	Word	-	+	_	_	_	_
+11	в	_	Word	-	-	_	_	_	R
+12	Сахаре	_	Word	-	+	_	_	A	_
+13	.	_	Punctuation	-	-	_	_	_	U
+

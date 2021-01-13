@@ -1,0 +1,33 @@
+# format = ucca
+1	Так	_	Word	-	-	_	L	_	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+3	когда	_	Word	-	-	_	L	_	_	_	_	_	_
+4	он	_	Word	-	-	_	A	_	_	_	_	_	_
+5	впервые	_	Word	-	-	_	D	_	_	_	_	_	_
+6	увидел	_	Word	-	+	_	_	_	_	_	_	_	_
+7	мой	_	Word	-	-	_	_	E	_	_	_	_	_
+8	самолет	_	Word	-	+	_	A	_	_	_	_	_	_
+9	(	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+10	самолет	_	Word	-	-	_	_	_	A	_	_	_	_
+11	я	_	Word	-	-	_	_	_	A	_	_	_	_
+12	рисовать	_	Word	-	+	_	H	_	_	_	_	_	_
+13	не	_	Word	-	-	_	_	_	D	_	_	_	_
+14	стану	_	Word	-	-	_	_	_	D	_	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+16	мне	_	Word	-	+	_	H	_	_	_	_	_	_
+17	все	_	Word	-	+	_	_	_	_	D	_	_	_
+18	равно	_	Word	-	-	_	_	_	_	_	Terminal	_	_
+19	не	_	Word	-	-	_	_	_	_	D	_	_	_
+20	справиться	_	Word	-	-	_	_	_	_	D	_	_	_
+21	),	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+22	он	_	Word	-	-	_	_	_	_	_	_	A	_
+23	спросил	_	Word	-	+	_	H	_	_	_	_	_	_
+24	:	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+25	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+26	Что	_	Word	-	-	_	_	_	_	_	_	_	E
+27	это	_	Word	-	-	_	_	_	_	_	_	_	A
+28	за	_	Word	-	-	_	_	_	_	_	_	_	R
+29	штука	_	Word	-	+	_	_	_	_	_	_	A	_
+30	?	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+31	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

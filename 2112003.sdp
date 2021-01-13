@@ -1,0 +1,9 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_
+2	развязал	_	Word	-	+	_	_	_
+3	его	_	Word	-	-	_	_	E
+4	неизменный	_	Word	-	-	_	_	E
+5	золотой	_	Word	-	-	_	_	E
+6	шарф	_	Word	-	+	_	A	_
+7	.	_	Punctuation	-	-	_	_	U
+

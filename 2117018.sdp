@@ -1,0 +1,11 @@
+# format = ucca
+1	Потом	_	Word	-	-	_	L	_
+2	упал	_	Word	-	+	_	_	_
+3	-	_	Punctuation	-	-	_	U	_
+4	медленно	_	Word	-	-	_	D	_
+5	,	_	Punctuation	-	-	_	U	_
+6	как	_	Word	-	-	_	L	_
+7	падает	_	Word	-	+	_	H	_
+8	дерево	_	Word	-	-	_	_	A
+9	.	_	Punctuation	-	-	_	_	U
+

@@ -1,0 +1,10 @@
+# format = ucca
+1	Да	_	Word	-	-	_	_	G
+2	,	_	Punctuation	-	-	_	_	U
+3	он	_	Word	-	-	_	_	A
+4	не	_	Word	-	-	_	_	D
+5	на	_	Word	-	-	_	R	_
+6	шутку	_	Word	-	+	_	_	D
+7	рассердился	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

@@ -1,0 +1,13 @@
+# format = ucca
+1	Прощайте	_	Word	-	-	_	A	_
+2	,	_	Punctuation	-	-	_	U	_
+3	-	_	Punctuation	-	-	_	U	_
+4	сказал	_	Word	-	+	_	_	_
+5	он	_	Word	-	-	_	A	A*
+6	.	_	Punctuation	-	-	_	_	U
+7	Красавица	_	Word	-	-	_	_	A
+8	не	_	Word	-	-	_	_	D
+9	ответила	_	Word	-	+	_	H	_
+10	.	_	Punctuation	-	-	_	_	U
+11	-	_	Punctuation	-	-	_	_	U
+

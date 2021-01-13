@@ -1,0 +1,14 @@
+# format = ucca
+1	Ну	_	Word	-	-	_	G	_	_
+2	,	_	Punctuation	-	-	_	U	_	_
+3	доставь	_	Word	-	-	_	D	_	_
+4	мне	_	Word	-	-	_	A	_	_
+5	удовольствие	_	Word	-	+	_	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_
+7	все	_	Word	-	+	_	_	_	G
+8	равно	_	Word	-	-	_	_	Terminal	_
+9	восхищайся	_	Word	-	+	_	H	_	_
+10	мною	_	Word	-	-	_	_	_	A
+11	!	_	Punctuation	-	-	_	_	_	U
+12	-	_	Punctuation	-	-	_	_	_	U
+

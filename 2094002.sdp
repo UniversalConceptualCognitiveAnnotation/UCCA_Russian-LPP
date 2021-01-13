@@ -1,0 +1,18 @@
+# format = ucca
+1	Здравствуй	_	Word	-	-	_	A	_	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_	_
+3	-	_	Punctuation	-	-	_	U	_	_	_	_
+4	вежливо	_	Word	-	-	_	D	_	_	_	_
+5	ответил	_	Word	-	+	_	_	_	_	_	_
+6	Маленький	_	Word	-	+	_	_	_	E	_	_
+7	принц	_	Word	-	+	_	_	A*	_	A*	A*
+8	и	_	Word	-	-	_	L	_	_	_	_
+9	оглянулся	_	Word	-	+	_	H	_	_	_	_
+10	,	_	Punctuation	-	-	_	U	_	_	_	_
+11	но	_	Word	-	-	_	L	_	_	_	_
+12	никого	_	Word	-	-	_	_	_	_	_	A
+13	не	_	Word	-	-	_	_	_	_	_	D
+14	увидел	_	Word	-	+	_	H	_	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+16	-	_	Punctuation	-	-	_	_	_	_	_	U
+

@@ -1,0 +1,20 @@
+# format = ucca
+1	Что	_	Word	-	+	_	_	_	A	_	_
+2	это	_	Word	-	-	_	_	E	_	_	_
+3	за	_	Word	-	-	_	F	_	_	_	_
+4	огромная	_	Word	-	-	_	_	E	_	_	_
+5	книга	_	Word	-	+	_	A	_	_	_	_
+6	?	_	Punctuation	-	-	_	_	_	U	_	_
+7	-	_	Punctuation	-	-	_	_	_	U	_	_
+8	спросил	_	Word	-	+	_	_	_	_	_	_
+9	Маленький	_	Word	-	-	_	_	_	_	E	_
+10	принц	_	Word	-	+	_	_	_	A	_	_
+11	.	_	Punctuation	-	-	_	_	_	U	_	_
+12	-	_	Punctuation	-	-	_	_	_	U	_	_
+13	Что	_	Word	-	-	_	_	_	_	_	A
+14	вы	_	Word	-	-	_	_	_	_	_	A
+15	здесь	_	Word	-	-	_	_	_	_	_	A
+16	делаете	_	Word	-	+	_	H	_	_	_	_
+17	?	_	Punctuation	-	-	_	_	_	_	_	U
+18	-	_	Punctuation	-	-	_	_	_	_	_	U
+

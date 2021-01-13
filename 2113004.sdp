@@ -1,0 +1,13 @@
+# format = ucca
+1	Ты	_	Word	-	-	_	A	_	_	_
+2	напугался	_	Word	-	+	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_
+4	малыш	_	Word	-	-	_	G	_	_	_
+5	...	_	Punctuation	-	-	_	U	_	_	_
+6	Ну	_	Word	-	+	_	L	_	_	_
+7	еще	_	Word	-	+	_	_	C	_	_
+8	бы	_	Word	-	-	_	_	_	Terminal	_
+9	не	_	Word	-	-	_	_	_	_	D
+10	напугаться	_	Word	-	+	_	H	_	_	_
+11	!	_	Punctuation	-	-	_	_	_	_	U
+

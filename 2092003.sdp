@@ -1,0 +1,11 @@
+# format = ucca
+1	Перед	_	Word	-	+	_	_	_	_
+2	ним	_	Word	-	-	_	A	_	_
+3	был	_	Word	-	-	_	F	_	_
+4	сад	_	Word	-	+	_	A	_	_
+5	,	_	Punctuation	-	-	_	_	U	_
+6	полный	_	Word	-	+	_	_	E	_
+7	роз	_	Word	-	-	_	_	_	A
+8	.	_	Punctuation	-	-	_	_	_	U
+9	-	_	Punctuation	-	-	_	_	_	U
+

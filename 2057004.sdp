@@ -1,0 +1,8 @@
+# format = ucca
+1	И	_	Word	-	-	_	L
+2	никогда	_	Word	-	-	_	T
+3	ничего	_	Word	-	-	_	A
+4	не	_	Word	-	-	_	D
+5	делал	_	Word	-	+	_	_
+6	.	_	Punctuation	-	-	_	U
+

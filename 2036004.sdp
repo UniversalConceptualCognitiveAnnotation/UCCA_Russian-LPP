@@ -1,0 +1,13 @@
+# format = ucca
+1	Тогда	_	Word	-	-	_	L	_
+2	я	_	Word	-	-	_	A	_
+3	нарисовал	_	Word	-	+	_	_	_
+4	удава	_	Word	-	-	_	A	_
+5	изнутри	_	Word	-	-	_	D	_
+6	,	_	Punctuation	-	-	_	U	_
+7	чтобы	_	Word	-	-	_	L	_
+8	взрослым	_	Word	-	-	_	_	A
+9	было	_	Word	-	-	_	_	F
+10	понятнее	_	Word	-	+	_	H	_
+11	.	_	Punctuation	-	-	_	_	U
+

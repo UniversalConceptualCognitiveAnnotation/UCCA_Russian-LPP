@@ -1,0 +1,15 @@
+# format = ucca
+1	И	_	Word	-	-	_	L	_	_
+2	от	_	Word	-	+	_	_	_	_
+3	этого	_	Word	-	-	_	Terminal	_	_
+4	,	_	Punctuation	-	-	_	U	_	_
+5	признаться	_	Word	-	-	_	_	G	_
+6	,	_	Punctuation	-	-	_	_	U	_
+7	не	_	Word	-	-	_	_	D	_
+8	стал	_	Word	-	-	_	_	D	_
+9	думать	_	Word	-	+	_	H	_	_
+10	о	_	Word	-	-	_	_	_	R
+11	них	_	Word	-	+	_	_	A	_
+12	лучше	_	Word	-	-	_	_	A	_
+13	.	_	Punctuation	-	-	_	_	U	_
+

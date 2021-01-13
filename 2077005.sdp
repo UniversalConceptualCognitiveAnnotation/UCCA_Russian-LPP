@@ -1,0 +1,17 @@
+# format = ucca
+1	Добрый	_	Word	-	+	_	_	A	_
+2	день	_	Word	-	-	_	Terminal	_	_
+3	,	_	Punctuation	-	-	_	_	U	_
+4	-	_	Punctuation	-	-	_	_	U	_
+5	сказал	_	Word	-	+	_	_	_	_
+6	он	_	Word	-	-	_	_	A	_
+7	.	_	Punctuation	-	-	_	_	U	_
+8	-	_	Punctuation	-	-	_	_	U	_
+9	Почему	_	Word	-	-	_	H	_	_
+10	ты	_	Word	-	-	_	_	_	A
+11	сейчас	_	Word	-	-	_	_	_	T
+12	погасил	_	Word	-	+	_	H	_	_
+13	фонарь	_	Word	-	-	_	_	_	A
+14	?	_	Punctuation	-	-	_	_	_	U
+15	-	_	Punctuation	-	-	_	_	_	U
+

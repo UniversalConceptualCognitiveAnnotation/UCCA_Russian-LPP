@@ -1,0 +1,9 @@
+# format = ucca
+1	И	_	Word	-	-	_	L	_
+2	он	_	Word	-	-	_	A	_
+3	окинул	_	Word	-	-	_	D	_
+4	взглядом	_	Word	-	+	_	_	_
+5	планету	_	Word	-	+	_	A	_
+6	географа	_	Word	-	-	_	_	E
+7	.	_	Punctuation	-	-	_	_	U
+

@@ -1,0 +1,14 @@
+# format = ucca
+1	А	_	Word	-	-	_	L	_	_
+2	когда	_	Word	-	-	_	T	_	_
+3	условия	_	Word	-	-	_	A	_	_
+4	будут	_	Word	-	-	_	F	_	_
+5	благоприятные	_	Word	-	+	_	_	A	_
+6	?	_	Punctuation	-	-	_	_	U	_
+7	-	_	Punctuation	-	-	_	_	U	_
+8	осведомился	_	Word	-	+	_	_	_	_
+9	Маленький	_	Word	-	-	_	_	_	E
+10	принц	_	Word	-	+	_	_	A	_
+11	.	_	Punctuation	-	-	_	_	_	U
+12	-	_	Punctuation	-	-	_	_	_	U
+

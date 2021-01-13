@@ -1,0 +1,7 @@
+# format = ucca
+1	Вот	_	Word	-	-	_	L
+2	мы	_	Word	-	-	_	A
+3	и	_	Word	-	-	_	L
+4	пришли	_	Word	-	+	_	_
+5	.	_	Punctuation	-	-	_	U
+

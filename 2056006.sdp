@@ -1,0 +1,16 @@
+# format = ucca
+1	А	_	Word	-	-	_	L	_	_
+2	он	_	Word	-	-	_	A	_	_
+3	беспощадно	_	Word	-	-	_	D	_	_
+4	прибавил	_	Word	-	+	_	_	_	_
+5	:	_	Punctuation	-	-	_	U	_	_
+6	-	_	Punctuation	-	-	_	U	_	_
+7	Все	_	Word	-	-	_	_	A	_
+8	ты	_	Word	-	-	_	_	A	A*
+9	путаешь	_	Word	-	+	_	A	_	_
+10	...	_	Punctuation	-	-	_	_	U	_
+11	ничего	_	Word	-	-	_	_	_	A
+12	не	_	Word	-	-	_	_	_	D
+13	понимаешь	_	Word	-	+	_	_	H	_
+14	!	_	Punctuation	-	-	_	_	_	U
+

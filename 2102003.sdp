@@ -1,0 +1,15 @@
+# format = ucca
+1	Проглотишь	_	Word	-	+	_	_	_	_	_
+2	такую	_	Word	-	-	_	_	E	_	_
+3	пилюлю	_	Word	-	+	_	A	_	_	_
+4	-	_	Punctuation	-	-	_	U	_	_	_
+5	и	_	Word	-	-	_	L	_	_	_
+6	потом	_	Word	-	-	_	L	_	_	_
+7	целую	_	Word	-	-	_	_	_	E	_
+8	неделю	_	Word	-	+	_	_	_	_	A
+9	не	_	Word	-	-	_	_	_	_	D
+10	хочется	_	Word	-	-	_	_	_	_	D
+11	пить	_	Word	-	+	_	H	_	_	_
+12	.	_	Punctuation	-	-	_	_	_	_	U
+13	-	_	Punctuation	-	-	_	_	_	_	U
+

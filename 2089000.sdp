@@ -1,0 +1,12 @@
+# format = ucca
+1	XVIII	_	Word	-	+	_	_	_	_	_	_
+2	Маленький	_	Word	-	+	_	_	_	E	_	_
+3	принц	_	Word	-	+	_	_	A*	_	_	A*
+4	пересек	_	Word	-	+	_	H	_	_	_	_
+5	пустыню	_	Word	-	-	_	_	_	_	A	_
+6	и	_	Word	-	-	_	L	_	_	_	_
+7	никого	_	Word	-	-	_	_	_	_	_	A
+8	не	_	Word	-	-	_	_	_	_	_	D
+9	встретил	_	Word	-	+	_	H	_	_	_	_
+10	.	_	Punctuation	-	-	_	_	_	_	_	U
+

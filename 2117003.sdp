@@ -1,0 +1,19 @@
+# format = ucca
+1	Но	_	Word	-	-	_	L	_	_	_	_
+2	это	_	Word	-	-	_	A	_	_	_	_
+3	все	_	Word	-	+	_	_	_	_	_	_
+4	равно	_	Word	-	-	_	Terminal	_	_	_	_
+5	что	_	Word	-	-	_	_	R	_	_	_
+6	сбросить	_	Word	-	+	_	A	_	_	_	_
+7	старую	_	Word	-	-	_	_	_	E	_	_
+8	оболочку	_	Word	-	+	_	_	A	_	_	_
+9	.	_	Punctuation	-	-	_	U	_	_	_	_
+10	Тут	_	Word	-	-	_	_	_	_	A	_
+11	нет	_	Word	-	-	_	_	_	_	D	_
+12	ничего	_	Word	-	-	_	_	_	_	A	_
+13	печального	_	Word	-	+	_	H	_	_	_	_
+14	...	_	Punctuation	-	-	_	U	_	_	_	_
+15	Я	_	Word	-	-	_	_	_	_	_	A
+16	молчал	_	Word	-	+	_	H	_	_	_	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	U
+

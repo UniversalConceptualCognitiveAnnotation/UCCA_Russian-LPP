@@ -1,0 +1,15 @@
+# format = ucca
+1	Лишь	_	Word	-	-	_	E	_	_	_
+2	понемногу	_	Word	-	+	_	_	_	_	D
+3	,	_	Punctuation	-	-	_	_	_	_	U
+4	из	_	Word	-	-	_	_	_	R	_
+5	случайных	_	Word	-	-	_	_	_	E	_
+6	,	_	Punctuation	-	-	_	_	_	U	_
+7	мимоходом	_	Word	-	-	_	_	D	_	_
+8	оброненных	_	Word	-	+	_	_	_	E	_
+9	слов	_	Word	-	+	_	_	_	_	A
+10	мне	_	Word	-	-	_	_	_	_	A
+11	все	_	Word	-	-	_	_	_	_	A
+12	открылось	_	Word	-	+	_	_	_	_	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+

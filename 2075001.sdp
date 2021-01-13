@@ -1,0 +1,15 @@
+# format = ucca
+1	И	_	Word	-	-	_	L	_
+2	стал	_	Word	-	-	_	D	_
+3	спрашивать	_	Word	-	+	_	_	_
+4	дальше	_	Word	-	-	_	D	_
+5	:	_	Punctuation	-	-	_	U	_
+6	-	_	Punctuation	-	-	_	U	_
+7	А	_	Word	-	-	_	_	L
+8	как	_	Word	-	-	_	_	D
+9	можно	_	Word	-	-	_	_	D
+10	владеть	_	Word	-	+	_	A	_
+11	звездами	_	Word	-	-	_	_	A
+12	?	_	Punctuation	-	-	_	_	U
+13	-	_	Punctuation	-	-	_	_	U
+

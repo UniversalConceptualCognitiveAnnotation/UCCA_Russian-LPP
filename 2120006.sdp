@@ -1,0 +1,9 @@
+# format = ucca
+1	Тогда	_	Word	-	-	_	L
+2	-	_	Punctuation	-	-	_	U
+3	очень	_	Word	-	-	_	D
+4	прошу	_	Word	-	+	_	_
+5	вас	_	Word	-	-	_	A
+6	!	_	Punctuation	-	-	_	U
+7	-	_	Punctuation	-	-	_	U
+

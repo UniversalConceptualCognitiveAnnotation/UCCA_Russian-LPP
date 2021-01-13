@@ -1,0 +1,11 @@
+# format = ucca
+1	Даже	_	Word	-	-	_	E	_
+2	такие	_	Word	-	-	_	E	_
+3	цветы	_	Word	-	+	_	_	_
+4	,	_	Punctuation	-	-	_	U	_
+5	у	_	Word	-	-	_	_	R
+6	которых	_	Word	-	+	_	E	_
+7	шипы	_	Word	-	-	_	_	A
+8	?	_	Punctuation	-	-	_	_	U
+9	-	_	Punctuation	-	-	_	_	U
+

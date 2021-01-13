@@ -1,0 +1,16 @@
+# format = ucca
+1	Вот	_	Word	-	-	_	_	_	_	L
+2	уже	_	Word	-	-	_	E	_	_	_
+3	шесть	_	Word	-	-	_	Q	_	_	_
+4	лет	_	Word	-	+	_	_	_	_	T
+5	,	_	Punctuation	-	-	_	_	_	_	U
+6	как	_	Word	-	-	_	_	_	_	F
+7	мой	_	Word	-	+	_	_	_	_	A
+8	друг	_	Word	-	-	_	_	A	_	_
+9	вместе	_	Word	-	-	_	_	N	_	_
+10	с	_	Word	-	-	_	_	_	R	_
+11	барашком	_	Word	-	+	_	_	C	_	_
+12	меня	_	Word	-	-	_	_	_	_	A
+13	покинул	_	Word	-	+	_	_	_	_	_
+14	.	_	Punctuation	-	-	_	_	_	_	U
+

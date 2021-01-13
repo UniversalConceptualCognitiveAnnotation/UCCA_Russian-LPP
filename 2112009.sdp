@@ -1,0 +1,18 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	_	_	_
+2	не	_	Word	-	-	_	D	_	_	_
+3	ответил	_	Word	-	+	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	U	_	_	_
+5	он	_	Word	-	-	_	_	A	_	_
+6	только	_	Word	-	-	_	_	D	_	_
+7	сказал	_	Word	-	+	_	H	_	_	_
+8	:	_	Punctuation	-	-	_	_	U	_	_
+9	-	_	Punctuation	-	-	_	_	U	_	_
+10	И	_	Word	-	-	_	_	_	E	_
+11	я	_	Word	-	+	_	_	_	_	A
+12	тоже	_	Word	-	-	_	_	_	_	D
+13	сегодня	_	Word	-	-	_	_	_	_	T
+14	вернусь	_	Word	-	+	_	_	A	_	_
+15	домой	_	Word	-	-	_	_	_	_	A
+16	.	_	Punctuation	-	-	_	_	_	_	U
+

@@ -1,0 +1,17 @@
+# format = ucca
+1	Пустые	_	Word	-	-	_	E	_	_
+2	слова	_	Word	-	+	_	_	A	_
+3	он	_	Word	-	-	_	_	A	A*
+4	принимал	_	Word	-	+	_	_	_	_
+5	близко	_	Word	-	-	_	_	Terminal	_
+6	к	_	Word	-	-	_	_	Terminal	_
+7	сердцу	_	Word	-	-	_	_	Terminal	_
+8	и	_	Word	-	-	_	_	L	_
+9	стал	_	Word	-	-	_	_	_	D
+10	чувствовать	_	Word	-	-	_	_	_	D
+11	себя	_	Word	-	-	_	_	_	F
+12	очень	_	Word	-	-	_	_	_	D
+13	несчастным	_	Word	-	+	_	_	H	_
+14	.	_	Punctuation	-	-	_	_	_	U
+15	-	_	Punctuation	-	-	_	_	_	U
+

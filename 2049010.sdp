@@ -1,0 +1,14 @@
+# format = ucca
+1	Но	_	Word	-	-	_	L	_
+2	я	_	Word	-	-	_	A	_
+3	совсем	_	Word	-	-	_	D	_
+4	не	_	Word	-	-	_	D	_
+5	уверен	_	Word	-	+	_	_	_
+6	,	_	Punctuation	-	-	_	U	_
+7	что	_	Word	-	-	_	_	R
+8	у	_	Word	-	-	_	_	R
+9	меня	_	Word	-	+	_	A	_
+10	это	_	Word	-	-	_	_	A
+11	получится	_	Word	-	-	_	_	D
+12	.	_	Punctuation	-	-	_	_	U
+

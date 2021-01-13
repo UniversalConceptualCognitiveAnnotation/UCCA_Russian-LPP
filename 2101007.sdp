@@ -1,0 +1,19 @@
+# format = ucca
+1	И	_	Word	-	-	_	_	_	_	L	_
+2	в	_	Word	-	-	_	R	_	_	_	_
+3	другую	_	Word	-	-	_	E	_	_	_	_
+4	сторону	_	Word	-	+	_	_	_	_	A	_
+5	,	_	Punctuation	-	-	_	_	_	_	U	_
+6	сверкая	_	Word	-	+	_	_	_	_	_	E
+7	огнями	_	Word	-	-	_	_	A	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	_	U	_
+9	с	_	Word	-	-	_	_	_	R	_	_
+10	громом	_	Word	-	+	_	_	_	_	D	_
+11	пронесся	_	Word	-	+	_	_	_	_	_	_
+12	еще	_	Word	-	-	_	_	_	_	_	E
+13	один	_	Word	-	-	_	_	_	_	_	Q
+14	скорый	_	Word	-	-	_	_	_	_	_	E
+15	поезд	_	Word	-	+	_	_	_	_	A	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+17	-	_	Punctuation	-	-	_	_	_	_	_	U
+

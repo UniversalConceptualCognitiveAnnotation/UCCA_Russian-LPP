@@ -1,0 +1,20 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_	_	_
+2	была	_	Word	-	-	_	F	_	_	_
+3	глупая	_	Word	-	+	_	_	A	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_
+5	-	_	Punctuation	-	-	_	_	U	_	_
+6	сказала	_	Word	-	+	_	_	_	_	_
+7	она	_	Word	-	-	_	_	A	_	_
+8	наконец	_	Word	-	-	_	_	T	_	_
+9	.	_	Punctuation	-	-	_	_	U	_	_
+10	-	_	Punctuation	-	-	_	_	U	_	_
+11	Прости	_	Word	-	+	_	H	_	_	_
+12	меня	_	Word	-	-	_	_	_	A	_
+13	.	_	Punctuation	-	-	_	U	_	_	_
+14	И	_	Word	-	-	_	L	_	_	_
+15	постарайся	_	Word	-	-	_	_	_	_	D
+16	быть	_	Word	-	-	_	_	_	_	F
+17	счастливым	_	Word	-	+	_	H	_	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	U
+

@@ -1,0 +1,18 @@
+# format = ucca
+1	На	_	Word	-	-	_	R	_	_	_	_
+2	этот	_	Word	-	-	_	E	_	_	_	_
+3	раз	_	Word	-	+	_	_	T	_	_	_
+4	он	_	Word	-	-	_	_	A	_	_	_
+5	был	_	Word	-	-	_	_	F	_	_	_
+6	одет	_	Word	-	+	_	_	_	_	_	_
+7	по	_	Word	-	-	_	_	_	R	_	_
+8	последней	_	Word	-	-	_	_	_	E	_	_
+9	моде	_	Word	-	+	_	_	A	_	_	_
+10	-	_	Punctuation	-	-	_	_	U	_	_	_
+11	и	_	Word	-	-	_	_	L	_	_	_
+12	все	_	Word	-	-	_	_	_	_	_	A
+13	с	_	Word	-	-	_	_	_	_	R	_
+14	ним	_	Word	-	+	_	_	_	_	_	A
+15	согласились	_	Word	-	+	_	_	H	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+

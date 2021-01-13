@@ -1,0 +1,12 @@
+# format = ucca
+1	И	_	Word	-	-	_	_	L	_
+2	я	_	Word	-	-	_	_	A	A*
+3	с	_	Word	-	-	_	R	_	_
+4	гордостью	_	Word	-	+	_	_	D	_
+5	объяснил	_	Word	-	+	_	_	_	_
+6	,	_	Punctuation	-	-	_	_	U	_
+7	что	_	Word	-	-	_	_	_	R
+8	умею	_	Word	-	-	_	_	_	D
+9	летать	_	Word	-	+	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

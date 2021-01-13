@@ -1,0 +1,8 @@
+# format = ucca
+1	Так	_	Word	-	-	_	_	L
+2	Маленький	_	Word	-	-	_	E	_
+3	принц	_	Word	-	+	_	_	A
+4	приручил	_	Word	-	+	_	_	_
+5	Лиса	_	Word	-	-	_	_	A
+6	.	_	Punctuation	-	-	_	_	U
+

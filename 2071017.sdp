@@ -1,0 +1,25 @@
+# format = ucca
+1	Почитать	_	Word	-	-	_	A	_	_	_
+2	-	_	Punctuation	-	-	_	U	_	_	_
+3	значит	_	Word	-	+	_	_	_	_	_
+4	признавать	_	Word	-	+	_	A	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_
+6	что	_	Word	-	-	_	_	_	_	R
+7	на	_	Word	-	-	_	_	_	R	_
+8	этой	_	Word	-	-	_	_	_	E	_
+9	планете	_	Word	-	+	_	_	_	_	A
+10	я	_	Word	-	-	_	_	_	_	A
+11	всех	_	Word	-	-	_	_	_	_	H
+12	красивее	_	Word	-	+	_	_	A	_	_
+13	,	_	Punctuation	-	-	_	_	_	_	U
+14	всех	_	Word	-	-	_	_	_	_	F
+15	наряднее	_	Word	-	-	_	_	_	_	C
+16	,	_	Punctuation	-	-	_	_	_	_	U
+17	всех	_	Word	-	-	_	_	_	_	F
+18	богаче	_	Word	-	-	_	_	_	_	C
+19	и	_	Word	-	-	_	_	_	_	N
+20	всех	_	Word	-	-	_	_	_	_	F
+21	умней	_	Word	-	-	_	_	_	_	C
+22	.	_	Punctuation	-	-	_	_	_	_	U
+23	-	_	Punctuation	-	-	_	_	_	_	U
+

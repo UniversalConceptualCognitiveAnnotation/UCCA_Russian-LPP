@@ -1,0 +1,10 @@
+# format = ucca
+1	Мой	_	Word	-	+	_	_	A
+2	друг	_	Word	-	-	_	A	_
+3	никогда	_	Word	-	-	_	_	T
+4	мне	_	Word	-	-	_	_	A
+5	ничего	_	Word	-	-	_	_	A
+6	не	_	Word	-	-	_	_	D
+7	объяснял	_	Word	-	+	_	_	_
+8	.	_	Punctuation	-	-	_	_	U
+

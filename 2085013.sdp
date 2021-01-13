@@ -1,0 +1,7 @@
+# format = ucca
+1	Затем	_	Word	-	-	_	L
+2	в	_	Word	-	-	_	R
+3	Северной	_	Word	-	+	_	_
+4	Америке	_	Word	-	-	_	Terminal
+5	.	_	Punctuation	-	-	_	U
+

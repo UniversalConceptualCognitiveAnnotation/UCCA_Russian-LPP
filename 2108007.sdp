@@ -1,0 +1,23 @@
+# format = ucca
+1	Ты	_	Word	-	-	_	A	_	_	_
+2	несправедлив	_	Word	-	+	_	_	_	_	_
+3	,	_	Punctuation	-	-	_	U	_	_	_
+4	дружок	_	Word	-	-	_	G	_	_	_
+5	.	_	Punctuation	-	-	_	U	_	_	_
+6	Я	_	Word	-	-	_	_	A	A*	_
+7	ведь	_	Word	-	-	_	_	F	_	_
+8	никогда	_	Word	-	-	_	_	D	_	_
+9	и	_	Word	-	-	_	_	D	_	_
+10	не	_	Word	-	-	_	_	D	_	_
+11	умел	_	Word	-	-	_	_	D	_	_
+12	рисовать	_	Word	-	+	_	H	_	_	_
+13	-	_	Punctuation	-	-	_	U	_	_	_
+14	разве	_	Word	-	-	_	L	_	_	_
+15	только	_	Word	-	-	_	_	_	D	_
+16	удавов	_	Word	-	+	_	H	_	_	_
+17	снаружи	_	Word	-	+	_	_	_	E	_
+18	и	_	Word	-	-	_	_	_	_	N
+19	изнутри	_	Word	-	-	_	_	_	_	C
+20	.	_	Punctuation	-	-	_	_	_	_	U
+21	-	_	Punctuation	-	-	_	_	_	_	U
+

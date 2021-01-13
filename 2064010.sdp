@@ -1,0 +1,8 @@
+# format = ucca
+1	Это	_	Word	-	-	_	A	_	_
+2	был	_	Word	-	+	_	_	_	_
+3	очень	_	Word	-	-	_	_	D	_
+4	гордый	_	Word	-	+	_	_	_	E
+5	цветок	_	Word	-	+	_	A	_	_
+6	...	_	Punctuation	-	-	_	_	_	U
+

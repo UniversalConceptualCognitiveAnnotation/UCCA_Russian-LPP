@@ -1,0 +1,21 @@
+# format = ucca
+1	Да	_	Word	-	-	_	_	G	_	_	_	_	_
+2	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+3	право	_	Word	-	+	_	_	G	_	_	_	_	_
+4	же	_	Word	-	-	_	Terminal	_	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	U	_	_	_	_	_
+6	взрослые	_	Word	-	+	_	_	_	_	_	_	A	_
+7	очень	_	Word	-	+	_	_	_	_	D	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+9	очень	_	Word	-	-	_	_	_	C	_	_	_	_
+10	странный	_	Word	-	+	_	_	_	_	_	E	_	_
+11	народ	_	Word	-	+	_	_	A	_	_	_	_	_
+12	",	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+13	-	_	Punctuation	-	-	_	_	_	_	_	_	U	_
+14	подумал	_	Word	-	+	_	_	_	_	_	_	_	_
+15	он	_	Word	-	-	_	_	_	_	_	_	A	A*
+16	,	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+17	продолжая	_	Word	-	-	_	_	_	_	_	_	_	D
+18	путь	_	Word	-	+	_	_	_	_	_	_	H	_
+19	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+

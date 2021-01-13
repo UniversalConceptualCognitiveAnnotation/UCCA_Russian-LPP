@@ -1,0 +1,8 @@
+# format = ucca
+1	Деловой	_	Word	-	+	_	_	A
+2	человек	_	Word	-	-	_	A	_
+3	поднял	_	Word	-	+	_	_	_
+4	голову	_	Word	-	-	_	_	A
+5	.	_	Punctuation	-	-	_	_	U
+6	-	_	Punctuation	-	-	_	_	U
+

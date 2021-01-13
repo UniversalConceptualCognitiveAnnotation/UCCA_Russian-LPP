@@ -1,0 +1,10 @@
+# format = ucca
+1	Поэтому	_	Word	-	-	_	L	_
+2	он	_	Word	-	-	_	A	_
+3	прочистил	_	Word	-	+	_	_	_
+4	и	_	Word	-	-	_	_	E
+5	потухший	_	Word	-	-	_	_	E
+6	вулкан	_	Word	-	+	_	A	_
+7	тоже	_	Word	-	-	_	_	E
+8	.	_	Punctuation	-	-	_	_	U
+

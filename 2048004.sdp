@@ -1,0 +1,10 @@
+# format = ucca
+1	Дети	_	Word	-	-	_	A	_
+2	должны	_	Word	-	-	_	D	_
+3	быть	_	Word	-	-	_	F	_
+4	очень	_	Word	-	-	_	D	_
+5	снисходительны	_	Word	-	+	_	_	_
+6	к	_	Word	-	-	_	_	R
+7	взрослым	_	Word	-	+	_	A	_
+8	.	_	Punctuation	-	-	_	_	U
+

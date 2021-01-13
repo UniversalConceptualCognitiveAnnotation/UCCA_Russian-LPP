@@ -1,0 +1,16 @@
+# format = ucca
+1	Итак	_	Word	-	-	_	L	_	_	_
+2	,	_	Punctuation	-	-	_	U	_	_	_
+3	мне	_	Word	-	-	_	A	_	_	_
+4	пришлось	_	Word	-	-	_	D	_	_	_
+5	выбирать	_	Word	-	+	_	_	_	_	_
+6	другую	_	Word	-	-	_	_	E	_	_
+7	профессию	_	Word	-	+	_	A	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_
+9	и	_	Word	-	-	_	L	_	_	_
+10	я	_	Word	-	-	_	_	_	A	_
+11	выучился	_	Word	-	+	_	H	_	_	_
+12	на	_	Word	-	-	_	_	_	_	R
+13	летчика	_	Word	-	+	_	_	_	A	_
+14	.	_	Punctuation	-	-	_	_	_	_	U
+

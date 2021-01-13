@@ -1,0 +1,12 @@
+# format = ucca
+1	Цветы	_	Word	-	-	_	A	_	_
+2	мы	_	Word	-	-	_	A	_	_
+3	не	_	Word	-	-	_	D	_	_
+4	отмечаем	_	Word	-	+	_	_	A	_
+5	,	_	Punctuation	-	-	_	_	U	_
+6	-	_	Punctuation	-	-	_	_	U	_
+7	сказал	_	Word	-	+	_	_	_	_
+8	географ	_	Word	-	+	_	_	A	_
+9	.	_	Punctuation	-	-	_	_	_	U
+10	-	_	Punctuation	-	-	_	_	_	U
+

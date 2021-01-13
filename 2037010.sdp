@@ -1,0 +1,8 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_
+2	долго	_	Word	-	-	_	D	_
+3	жил	_	Word	-	+	_	_	_
+4	среди	_	Word	-	-	_	_	R
+5	взрослых	_	Word	-	+	_	A	_
+6	.	_	Punctuation	-	-	_	_	U
+

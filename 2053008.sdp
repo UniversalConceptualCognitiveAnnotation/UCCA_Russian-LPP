@@ -1,0 +1,19 @@
+# format = ucca
+1	А	_	Word	-	-	_	L	_	_	_
+2	когда	_	Word	-	-	_	L	_	_	_
+3	я	_	Word	-	-	_	A	_	_	_
+4	рисовал	_	Word	-	+	_	_	_	_	_
+5	баобабы	_	Word	-	-	_	A	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_
+7	меня	_	Word	-	-	_	_	A	_	_
+8	вдохновляло	_	Word	-	+	_	H	_	_	_
+9	сознание	_	Word	-	+	_	_	A	_	_
+10	,	_	Punctuation	-	-	_	_	_	U	_
+11	что	_	Word	-	-	_	_	_	_	R
+12	это	_	Word	-	-	_	_	_	_	A
+13	страшно	_	Word	-	-	_	_	_	_	D
+14	важно	_	Word	-	+	_	_	_	E	_
+15	и	_	Word	-	-	_	_	_	_	N
+16	неотложно	_	Word	-	-	_	_	_	_	C
+17	.	_	Punctuation	-	-	_	_	_	_	U
+

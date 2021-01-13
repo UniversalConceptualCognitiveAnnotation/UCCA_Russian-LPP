@@ -1,0 +1,12 @@
+# format = ucca
+1	Когда	_	Word	-	-	_	L	_
+2	даешь	_	Word	-	-	_	D	_
+3	себя	_	Word	-	-	_	A	_
+4	приручить	_	Word	-	+	_	_	_
+5	,	_	Punctuation	-	-	_	U	_
+6	потом	_	Word	-	-	_	L	_
+7	случается	_	Word	-	-	_	_	D
+8	и	_	Word	-	-	_	_	F
+9	плакать	_	Word	-	+	_	H	_
+10	.	_	Punctuation	-	-	_	_	U
+

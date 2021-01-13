@@ -1,0 +1,11 @@
+# format = ucca
+1	Звезды	_	Word	-	+	_	_	A	_
+2	чьи	_	Word	-	-	_	A	_	_
+3	?	_	Punctuation	-	-	_	_	U	_
+4	-	_	Punctuation	-	-	_	_	U	_
+5	ворчливо	_	Word	-	-	_	_	D	_
+6	спросил	_	Word	-	+	_	_	_	_
+7	делец	_	Word	-	+	_	_	A	_
+8	.	_	Punctuation	-	-	_	_	_	U
+9	-	_	Punctuation	-	-	_	_	_	U
+

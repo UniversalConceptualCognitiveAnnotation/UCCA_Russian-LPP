@@ -1,0 +1,25 @@
+# format = ucca
+1	Да	_	Word	-	-	_	F	_	_	_	_
+2	ведь	_	Word	-	-	_	L	_	_	_	_
+3	если	_	Word	-	-	_	L	_	_	_	_
+4	путешественник	_	Word	-	-	_	A	_	_	_	_
+5	станет	_	Word	-	-	_	D	_	_	_	_
+6	врать	_	Word	-	+	_	_	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_	_	_
+8	в	_	Word	-	-	_	_	R	_	_	_
+9	учебниках	_	Word	-	+	_	_	_	A	_	_
+10	географии	_	Word	-	-	_	_	E	_	_	_
+11	все	_	Word	-	-	_	_	_	A	_	_
+12	перепутается	_	Word	-	+	_	H	_	_	_	_
+13	.	_	Punctuation	-	-	_	U	_	_	_	_
+14	И	_	Word	-	-	_	L	_	_	_	_
+15	если	_	Word	-	-	_	L	_	_	_	_
+16	он	_	Word	-	-	_	_	_	_	A	_
+17	выпивает	_	Word	-	+	_	H	_	_	_	_
+18	лишнее	_	Word	-	-	_	_	_	_	A	_
+19	-	_	Punctuation	-	-	_	U	_	_	_	_
+20	тоже	_	Word	-	-	_	_	_	_	_	D
+21	беда	_	Word	-	+	_	H	_	_	_	_
+22	.	_	Punctuation	-	-	_	_	_	_	_	U
+23	-	_	Punctuation	-	-	_	_	_	_	_	U
+

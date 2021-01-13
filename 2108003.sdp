@@ -1,0 +1,9 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_	_
+2	достал	_	Word	-	+	_	_	_	_
+3	из	_	Word	-	-	_	_	R	_
+4	кармана	_	Word	-	+	_	A	_	_
+5	свои	_	Word	-	-	_	_	_	E
+6	рисунки	_	Word	-	+	_	A	_	_
+7	.	_	Punctuation	-	-	_	_	_	U
+

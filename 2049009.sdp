@@ -1,0 +1,12 @@
+# format = ucca
+1	Конечно	_	Word	-	-	_	G	_	_
+2	,	_	Punctuation	-	-	_	U	_	_
+3	я	_	Word	-	-	_	A	_	_
+4	стараюсь	_	Word	-	-	_	D	_	_
+5	передать	_	Word	-	+	_	_	_	_
+6	сходство	_	Word	-	-	_	A	_	_
+7	как	_	Word	-	+	_	_	_	E
+8	можно	_	Word	-	-	_	_	Terminal	_
+9	лучше	_	Word	-	+	_	D	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

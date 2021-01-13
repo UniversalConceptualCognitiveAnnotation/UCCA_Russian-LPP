@@ -1,0 +1,8 @@
+# format = ucca
+1	Она	_	Word	-	-	_	A	_
+2	была	_	Word	-	-	_	F	_
+3	как	_	Word	-	+	_	_	_
+4	подарок	_	Word	-	+	_	A	_
+5	сердцу	_	Word	-	-	_	_	E
+6	.	_	Punctuation	-	-	_	_	U
+

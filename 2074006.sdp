@@ -1,0 +1,7 @@
+# format = ucca
+1	А	_	Word	-	-	_	L
+2	,	_	Punctuation	-	-	_	U
+3	звезды	_	Word	-	+	_	_
+4	?	_	Punctuation	-	-	_	U
+5	-	_	Punctuation	-	-	_	U
+

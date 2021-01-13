@@ -1,0 +1,11 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	A*
+2	не	_	Word	-	-	_	D	_
+3	сказал	_	Word	-	+	_	_	_
+4	этого	_	Word	-	-	_	A	A*
+5	вслух	_	Word	-	-	_	D	_
+6	,	_	Punctuation	-	-	_	U	_
+7	только	_	Word	-	-	_	L	_
+8	подумал	_	Word	-	+	_	H	_
+9	.	_	Punctuation	-	-	_	_	U
+

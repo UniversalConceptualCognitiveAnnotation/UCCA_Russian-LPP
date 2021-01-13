@@ -1,0 +1,13 @@
+# format = ucca
+1	Но	_	Word	-	-	_	_	L	_	_
+2	тут	_	Word	-	-	_	_	L	_	_
+3	в	_	Word	-	-	_	R	_	_	_
+4	песке	_	Word	-	+	_	_	A	_	_
+5	шевельнулось	_	Word	-	+	_	_	_	_	_
+6	колечко	_	Word	-	+	_	_	A	_	_
+7	цвета	_	Word	-	-	_	_	_	C	_
+8	лунного	_	Word	-	-	_	_	_	_	E
+9	луча	_	Word	-	+	_	_	_	C	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+11	-	_	Punctuation	-	-	_	_	_	_	U
+

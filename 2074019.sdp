@@ -1,0 +1,15 @@
+# format = ucca
+1	Чтобы	_	Word	-	-	_	L	_	_	_
+2	покупать	_	Word	-	+	_	_	_	_	_
+3	еще	_	Word	-	-	_	_	E	_	_
+4	новые	_	Word	-	-	_	_	E	_	_
+5	звезды	_	Word	-	+	_	A	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_
+7	если	_	Word	-	-	_	L	_	_	_
+8	их	_	Word	-	-	_	_	_	_	A
+9	кто	_	Word	-	+	_	_	_	_	A
+10	-	_	Punctuation	-	-	_	_	_	U	_
+11	нибудь	_	Word	-	-	_	_	_	Terminal	_
+12	откроет	_	Word	-	+	_	H	_	_	_
+13	.	_	Punctuation	-	-	_	_	_	_	U
+

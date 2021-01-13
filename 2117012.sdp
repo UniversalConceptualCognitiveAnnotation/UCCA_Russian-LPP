@@ -1,0 +1,18 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	_	A*	_	A*
+2	сказал	_	Word	-	+	_	_	_	_	_	_
+3	:	_	Punctuation	-	-	_	U	_	_	_	_
+4	-	_	Punctuation	-	-	_	U	_	_	_	_
+5	Ну	_	Word	-	+	_	A	_	_	_	_
+6	...	_	Punctuation	-	-	_	_	U	_	_	_
+7	вот	_	Word	-	-	_	_	Terminal	_	_	_
+8	и	_	Word	-	-	_	_	Terminal	_	_	_
+9	все	_	Word	-	-	_	_	Terminal	_	_	_
+10	...	_	Punctuation	-	-	_	U	_	_	_	_
+11	Помедлил	_	Word	-	+	_	H	_	_	_	_
+12	еще	_	Word	-	-	_	_	_	_	Q	_
+13	минуту	_	Word	-	+	_	_	_	T	_	_
+14	и	_	Word	-	-	_	L	_	_	_	_
+15	встал	_	Word	-	+	_	H	_	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+

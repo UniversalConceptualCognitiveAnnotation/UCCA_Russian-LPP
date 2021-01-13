@@ -1,0 +1,10 @@
+# format = ucca
+1	А	_	Word	-	-	_	_	L
+2	на	_	Word	-	+	_	_	G
+3	самом	_	Word	-	-	_	Terminal	_
+4	деле	_	Word	-	-	_	Terminal	_
+5	он	_	Word	-	+	_	_	_
+6	не	_	Word	-	-	_	_	D
+7	человек	_	Word	-	-	_	_	A
+8	.	_	Punctuation	-	-	_	_	U
+

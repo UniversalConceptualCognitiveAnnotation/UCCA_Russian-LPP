@@ -1,0 +1,12 @@
+# format = ucca
+1	Они	_	Word	-	-	_	A	_	_	A*
+2	раскрывались	_	Word	-	+	_	_	_	_	_
+3	поутру	_	Word	-	-	_	T	_	_	_
+4	в	_	Word	-	-	_	_	R	_	_
+5	траве	_	Word	-	+	_	A	_	_	_
+6	и	_	Word	-	-	_	L	_	_	_
+7	под	_	Word	-	-	_	_	_	R	_
+8	вечер	_	Word	-	+	_	_	_	_	T
+9	увядали	_	Word	-	+	_	H	_	_	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+

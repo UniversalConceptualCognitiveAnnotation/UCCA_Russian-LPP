@@ -1,0 +1,17 @@
+# format = ucca
+1	И	_	Word	-	-	_	L	_	_	_
+2	пришлось	_	Word	-	-	_	D	_	_	_
+3	мне	_	Word	-	-	_	A	_	_	_
+4	поломать	_	Word	-	+	_	_	_	_	_
+5	голову	_	Word	-	-	_	Terminal	_	_	_
+6	,	_	Punctuation	-	-	_	U	_	_	_
+7	пока	_	Word	-	-	_	L	_	_	_
+8	я	_	Word	-	-	_	_	A	_	_
+9	додумался	_	Word	-	+	_	H	_	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_
+11	в	_	Word	-	-	_	_	_	R	_
+12	чем	_	Word	-	+	_	_	A	_	_
+13	тут	_	Word	-	-	_	_	_	_	A
+14	дело	_	Word	-	+	_	_	_	E	_
+15	.	_	Punctuation	-	-	_	_	_	_	U
+

@@ -1,0 +1,13 @@
+# format = ucca
+1	Он	_	Word	-	-	_	_	A
+2	за	_	Word	-	-	_	R	_
+3	всю	_	Word	-	-	_	Q	_
+4	свою	_	Word	-	-	_	E	_
+5	жизнь	_	Word	-	+	_	_	A
+6	ни	_	Word	-	-	_	_	D
+7	разу	_	Word	-	-	_	_	D
+8	не	_	Word	-	-	_	_	D
+9	понюхал	_	Word	-	+	_	_	_
+10	цветка	_	Word	-	-	_	_	A
+11	.	_	Punctuation	-	-	_	_	U
+

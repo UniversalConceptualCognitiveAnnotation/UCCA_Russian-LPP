@@ -1,0 +1,16 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_	A*	_
+2	показал	_	Word	-	+	_	_	_	_	_
+3	мое	_	Word	-	-	_	_	E	_	_
+4	творение	_	Word	-	+	_	A	_	_	_
+5	взрослым	_	Word	-	-	_	A	_	_	_
+6	и	_	Word	-	-	_	L	_	_	_
+7	спросил	_	Word	-	+	_	H	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	U	_
+9	не	_	Word	-	-	_	_	_	_	D
+10	страшно	_	Word	-	+	_	_	_	A	_
+11	ли	_	Word	-	-	_	_	_	_	F
+12	им	_	Word	-	-	_	_	_	_	A
+13	.	_	Punctuation	-	-	_	_	_	_	U
+14	-	_	Punctuation	-	-	_	_	_	_	U
+

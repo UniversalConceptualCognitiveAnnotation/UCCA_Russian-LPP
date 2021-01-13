@@ -1,0 +1,10 @@
+# format = ucca
+1	Чего	_	Word	-	-	_	A	_
+2	ждать	_	Word	-	+	_	_	P*
+3	?	_	Punctuation	-	-	_	_	U
+4	-	_	Punctuation	-	-	_	_	U
+5	Чтобы	_	Word	-	-	_	_	R
+6	солнце	_	Word	-	-	_	_	A
+7	зашло	_	Word	-	+	_	H	_
+8	.	_	Punctuation	-	-	_	_	U
+

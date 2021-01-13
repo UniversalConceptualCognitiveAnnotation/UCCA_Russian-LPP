@@ -1,0 +1,13 @@
+# format = ucca
+1	Я	_	Word	-	+	_	_	A	_	_	_
+2	тоже	_	Word	-	-	_	E	_	_	_	_
+3	сел	_	Word	-	+	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_
+5	потому	_	Word	-	+	_	_	L	_	_	_
+6	что	_	Word	-	-	_	_	_	Terminal	_	_
+7	у	_	Word	-	-	_	_	_	_	R	_
+8	меня	_	Word	-	+	_	_	_	_	_	A
+9	подкосились	_	Word	-	+	_	_	H	_	_	_
+10	ноги	_	Word	-	-	_	_	_	_	_	A
+11	.	_	Punctuation	-	-	_	_	_	_	_	U
+

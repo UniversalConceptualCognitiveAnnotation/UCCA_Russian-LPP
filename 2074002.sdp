@@ -1,0 +1,18 @@
+# format = ucca
+1	Деловой	_	Word	-	+	_	_	A	_	_	_
+2	человек	_	Word	-	-	_	A	_	A*	_	_
+3	понял	_	Word	-	+	_	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_
+5	что	_	Word	-	-	_	_	_	R	_	_
+6	надо	_	Word	-	-	_	_	_	D	_	_
+7	ответить	_	Word	-	+	_	_	A	_	_	_
+8	,	_	Punctuation	-	-	_	_	U	_	_	_
+9	а	_	Word	-	+	_	_	L	_	_	_
+10	то	_	Word	-	-	_	_	_	_	Terminal	_
+11	не	_	Word	-	-	_	_	_	_	_	D
+12	будет	_	Word	-	-	_	_	_	_	_	F
+13	ему	_	Word	-	-	_	_	_	_	_	A
+14	покоя	_	Word	-	+	_	_	H	_	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	_	U
+16	-	_	Punctuation	-	-	_	_	_	_	_	U
+

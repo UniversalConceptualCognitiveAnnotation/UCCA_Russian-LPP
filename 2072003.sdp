@@ -1,0 +1,13 @@
+# format = ucca
+1	Что	_	Word	-	+	_	_	A	_	_
+2	это	_	Word	-	-	_	E	_	_	_
+3	ты	_	Word	-	-	_	_	A	_	_
+4	делаешь	_	Word	-	+	_	_	_	A	_
+5	?	_	Punctuation	-	-	_	_	_	U	_
+6	-	_	Punctuation	-	-	_	_	_	U	_
+7	спросил	_	Word	-	+	_	_	_	_	_
+8	Маленький	_	Word	-	-	_	_	_	_	E
+9	принц	_	Word	-	+	_	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+11	-	_	Punctuation	-	-	_	_	_	_	U
+

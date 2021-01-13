@@ -1,0 +1,11 @@
+# format = ucca
+1	Она	_	Word	-	-	_	A	_
+2	ничего	_	Word	-	-	_	A	_
+3	не	_	Word	-	-	_	D	_
+4	могла	_	Word	-	-	_	D	_
+5	знать	_	Word	-	+	_	_	_
+6	о	_	Word	-	-	_	_	R
+7	других	_	Word	-	-	_	_	E
+8	мирах	_	Word	-	+	_	A	_
+9	.	_	Punctuation	-	-	_	_	U
+

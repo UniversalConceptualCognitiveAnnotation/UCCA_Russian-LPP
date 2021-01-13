@@ -1,0 +1,35 @@
+# format = ucca
+1	Я	_	Word	-	+	_	_	A	_	_	_	_
+2	не	_	Word	-	-	_	D	_	_	_	_	_
+3	трава	_	Word	-	-	_	A	_	_	_	_	_
+4	,	_	Punctuation	-	-	_	_	U	_	_	_	_
+5	-	_	Punctuation	-	-	_	_	U	_	_	_	_
+6	тихо	_	Word	-	-	_	_	D	_	_	_	_
+7	заметил	_	Word	-	+	_	_	_	_	_	_	_
+8	цветок	_	Word	-	-	_	_	A	A*	A*	_	_
+9	.	_	Punctuation	-	-	_	_	_	U	_	_	_
+10	-	_	Punctuation	-	-	_	_	_	U	_	_	_
+11	Простите	_	Word	-	+	_	_	H	_	_	_	_
+12	меня	_	Word	-	-	_	_	_	A	_	_	_
+13	...	_	Punctuation	-	-	_	_	U	_	_	_	_
+14	-	_	Punctuation	-	-	_	_	U	_	_	_	_
+15	Нет	_	Word	-	-	_	_	_	_	G	_	_
+16	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+17	тигры	_	Word	-	-	_	_	_	_	A	_	_
+18	мне	_	Word	-	-	_	_	_	_	A	_	_
+19	не	_	Word	-	-	_	_	_	_	D	_	_
+20	страшны	_	Word	-	+	_	_	H	_	_	_	_
+21	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+22	но	_	Word	-	-	_	_	_	_	L	_	_
+23	я	_	Word	-	-	_	_	_	_	_	A	_
+24	ужасно	_	Word	-	-	_	_	_	_	_	D	_
+25	боюсь	_	Word	-	+	_	_	_	_	H	_	_
+26	сквозняков	_	Word	-	-	_	_	_	_	_	A	_
+27	.	_	Punctuation	-	-	_	_	_	_	U	_	_
+28	У	_	Word	-	-	_	_	_	_	_	_	R
+29	вас	_	Word	-	+	_	_	_	_	H	_	_
+30	нет	_	Word	-	-	_	_	_	_	_	_	D
+31	ширмы	_	Word	-	-	_	_	_	_	_	_	A
+32	?	_	Punctuation	-	-	_	_	_	_	_	_	U
+33	"	_	Punctuation	-	-	_	_	_	_	_	_	U
+

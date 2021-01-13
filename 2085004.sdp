@@ -1,0 +1,12 @@
+# format = ucca
+1	Если	_	Word	-	-	_	L	_	_
+2	поглядеть	_	Word	-	+	_	_	_	_
+3	со	_	Word	-	-	_	_	R	_
+4	стороны	_	Word	-	+	_	A	_	_
+5	,	_	Punctuation	-	-	_	U	_	_
+6	это	_	Word	-	-	_	A*	_	A
+7	было	_	Word	-	-	_	_	_	F
+8	великолепное	_	Word	-	-	_	_	_	D
+9	зрелище	_	Word	-	+	_	H	_	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

@@ -1,0 +1,11 @@
+# format = ucca
+1	Ничего	_	Word	-	-	_	A	_
+2	не	_	Word	-	-	_	D	_
+3	делаю	_	Word	-	+	_	_	_
+4	.	_	Punctuation	-	-	_	U	_
+5	Я	_	Word	-	-	_	A*	A
+6	ими	_	Word	-	-	_	A*	A
+7	владею	_	Word	-	+	_	H	_
+8	.	_	Punctuation	-	-	_	_	U
+9	-	_	Punctuation	-	-	_	_	U
+

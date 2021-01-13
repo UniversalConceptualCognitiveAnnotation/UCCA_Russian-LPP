@@ -1,0 +1,13 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	_	A*	_
+2	серьезно	_	Word	-	-	_	D	_	_	_
+3	посмотрел	_	Word	-	+	_	_	_	_	_
+4	на	_	Word	-	-	_	_	R	_	_
+5	меня	_	Word	-	+	_	A	_	_	_
+6	и	_	Word	-	-	_	L	_	_	_
+7	обвил	_	Word	-	+	_	H	_	_	_
+8	мою	_	Word	-	-	_	_	_	_	E
+9	шею	_	Word	-	+	_	_	_	A	_
+10	руками	_	Word	-	-	_	_	_	D	_
+11	.	_	Punctuation	-	-	_	_	_	U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+1	Она	_	Word	-	-	_	A	_	A*	_	_
+2	не	_	Word	-	-	_	D	_	_	_	_
+3	желала	_	Word	-	-	_	D	_	_	_	_
+4	явиться	_	Word	-	+	_	_	_	_	_	_
+5	на	_	Word	-	-	_	_	R	_	_	_
+6	свет	_	Word	-	+	_	A	_	_	_	_
+7	встрепанная	_	Word	-	+	_	H	_	_	_	_
+8	,	_	Punctuation	-	-	_	U	_	_	_	_
+9	точно	_	Word	-	-	_	L	_	_	_	_
+10	какой	_	Word	-	+	_	_	_	_	_	E
+11	-	_	Punctuation	-	-	_	_	_	_	U	_
+12	нибудь	_	Word	-	-	_	_	_	_	Terminal	_
+13	мак	_	Word	-	+	_	H	_	_	_	_
+14	.	_	Punctuation	-	-	_	_	_	_	_	U
+

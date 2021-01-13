@@ -1,0 +1,19 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_	_	_	_	_
+2	очень	_	Word	-	-	_	D	_	_	_	_	_
+3	рад	_	Word	-	+	_	_	_	_	_	A	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+5	что	_	Word	-	-	_	_	R	_	_	_	_
+6	ты	_	Word	-	-	_	_	A	_	_	_	_
+7	согласен	_	Word	-	+	_	A	_	_	_	_	_
+8	с	_	Word	-	-	_	_	_	_	R	_	_
+9	моим	_	Word	-	-	_	_	_	A	_	_	_
+10	другом	_	Word	-	+	_	_	_	_	E	_	_
+11	Лисом	_	Word	-	+	_	_	A	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	_	_	U	_
+13	-	_	Punctuation	-	-	_	_	_	_	_	U	_
+14	отозвался	_	Word	-	+	_	_	_	_	_	_	_
+15	Маленький	_	Word	-	-	_	_	_	_	_	_	E
+16	принц	_	Word	-	+	_	_	_	_	_	A	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

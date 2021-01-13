@@ -1,0 +1,13 @@
+# format = ucca
+1	XXIII	_	Word	-	+	_	_	_	_	_
+2	-	_	Punctuation	-	-	_	U	_	_	_
+3	Добрый	_	Word	-	+	_	_	_	A	_
+4	день	_	Word	-	-	_	_	Terminal	_	_
+5	,	_	Punctuation	-	-	_	_	_	U	_
+6	-	_	Punctuation	-	-	_	_	_	U	_
+7	сказал	_	Word	-	+	_	H	_	_	_
+8	Маленький	_	Word	-	-	_	_	_	_	E
+9	принц	_	Word	-	+	_	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+11	-	_	Punctuation	-	-	_	_	_	_	U
+

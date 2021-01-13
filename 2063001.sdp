@@ -1,0 +1,10 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	A*
+2	думал	_	Word	-	+	_	_	_
+3	,	_	Punctuation	-	-	_	U	_
+4	что	_	Word	-	-	_	_	R
+5	никогда	_	Word	-	-	_	_	T
+6	не	_	Word	-	-	_	_	D
+7	вернется	_	Word	-	+	_	A	_
+8	.	_	Punctuation	-	-	_	_	U
+

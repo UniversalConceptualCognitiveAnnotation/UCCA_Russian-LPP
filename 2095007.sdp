@@ -1,0 +1,19 @@
+# format = ucca
+1	Это	_	Word	-	+	_	_	_	_	A	_	_
+2	давно	_	Word	-	-	_	_	T	_	_	_	_
+3	забытое	_	Word	-	+	_	_	_	E	_	_	_
+4	понятие	_	Word	-	+	_	A	_	_	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+6	-	_	Punctuation	-	-	_	_	_	_	U	_	_
+7	объяснил	_	Word	-	+	_	_	_	_	_	_	_
+8	Лис	_	Word	-	-	_	_	_	_	A	_	_
+9	.	_	Punctuation	-	-	_	_	_	_	U	_	_
+10	-	_	Punctuation	-	-	_	_	_	_	U	_	_
+11	Оно	_	Word	-	-	_	_	_	_	_	A	_
+12	означает	_	Word	-	+	_	H	_	_	_	_	_
+13	:	_	Punctuation	-	-	_	_	_	_	_	U	_
+14	создать	_	Word	-	+	_	_	_	_	_	A	_
+15	узы	_	Word	-	-	_	_	_	_	_	_	A
+16	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+17	-	_	Punctuation	-	-	_	_	_	_	_	_	U
+

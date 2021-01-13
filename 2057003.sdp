@@ -1,0 +1,8 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A
+2	никогда	_	Word	-	-	_	T
+3	никого	_	Word	-	-	_	A
+4	не	_	Word	-	-	_	D
+5	любил	_	Word	-	+	_	_
+6	.	_	Punctuation	-	-	_	U
+

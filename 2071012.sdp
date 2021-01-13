@@ -1,0 +1,19 @@
+# format = ucca
+1	Так	_	Word	-	-	_	_	L	_	_	_
+2	минут	_	Word	-	+	_	_	T	_	_	_
+3	пять	_	Word	-	-	_	Q	_	_	_	_
+4	подряд	_	Word	-	-	_	E	_	_	_	_
+5	повторялось	_	Word	-	+	_	_	_	_	_	_
+6	одно	_	Word	-	+	_	_	A	_	_	_
+7	и	_	Word	-	-	_	_	_	Terminal	_	_
+8	то	_	Word	-	-	_	_	_	Terminal	_	_
+9	же	_	Word	-	-	_	_	_	Terminal	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_	_
+11	и	_	Word	-	-	_	_	L	_	_	_
+12	Маленькому	_	Word	-	-	_	_	_	_	E	_
+13	принцу	_	Word	-	+	_	_	_	_	_	A
+14	это	_	Word	-	-	_	_	_	_	_	A
+15	наскучило	_	Word	-	+	_	_	H	_	_	_
+16	.	_	Punctuation	-	-	_	_	_	_	_	U
+17	-	_	Punctuation	-	-	_	_	_	_	_	U
+

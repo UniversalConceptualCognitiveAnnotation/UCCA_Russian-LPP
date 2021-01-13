@@ -1,0 +1,22 @@
+# format = ucca
+1	Пятьсот	_	Word	-	+	_	_	_	_	_	_
+2	один	_	Word	-	-	_	Terminal	_	_	_	_
+3	миллион	_	Word	-	-	_	Terminal	_	_	_	_
+4	шестьсот	_	Word	-	-	_	Terminal	_	_	_	_
+5	двадцать	_	Word	-	-	_	Terminal	_	_	_	_
+6	две	_	Word	-	-	_	Terminal	_	_	_	_
+7	тысячи	_	Word	-	-	_	Terminal	_	_	_	_
+8	семьсот	_	Word	-	-	_	Terminal	_	_	_	_
+9	тридцать	_	Word	-	-	_	Terminal	_	_	_	_
+10	одна	_	Word	-	-	_	Terminal	_	_	_	_
+11	.	_	Punctuation	-	-	_	U	_	_	_	_
+12	Я	_	Word	-	+	_	H	_	_	_	_
+13	человек	_	Word	-	+	_	_	A	_	_	_
+14	серьезный	_	Word	-	-	_	_	_	E	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_
+16	я	_	Word	-	-	_	_	_	_	A	_
+17	люблю	_	Word	-	+	_	H	_	_	_	_
+18	точность	_	Word	-	+	_	_	_	_	A	_
+19	.	_	Punctuation	-	-	_	_	_	_	_	U
+20	-	_	Punctuation	-	-	_	_	_	_	_	U
+

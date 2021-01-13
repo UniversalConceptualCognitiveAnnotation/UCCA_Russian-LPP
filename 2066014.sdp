@@ -1,0 +1,17 @@
+# format = ucca
+1	Ибо	_	Word	-	-	_	L	_	_
+2	он	_	Word	-	-	_	A	A*	_
+3	был	_	Word	-	-	_	F	_	_
+4	поистине	_	Word	-	-	_	D	_	_
+5	полновластный	_	Word	-	-	_	D	_	_
+6	монарх	_	Word	-	+	_	_	_	_
+7	и	_	Word	-	-	_	L	_	_
+8	не	_	Word	-	-	_	_	D	_
+9	знал	_	Word	-	+	_	H	_	_
+10	никаких	_	Word	-	-	_	_	_	Q
+11	пределов	_	Word	-	+	_	_	A	_
+12	и	_	Word	-	-	_	_	_	N
+13	ограничений	_	Word	-	-	_	_	_	C
+14	.	_	Punctuation	-	-	_	_	_	U
+15	-	_	Punctuation	-	-	_	_	_	U
+

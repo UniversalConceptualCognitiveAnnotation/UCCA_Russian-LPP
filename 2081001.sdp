@@ -1,0 +1,13 @@
+# format = ucca
+1	На	_	Word	-	-	_	R	_	_	_	_
+2	ней	_	Word	-	+	_	_	A	_	_	_
+3	жил	_	Word	-	+	_	_	_	_	_	_
+4	старик	_	Word	-	+	_	_	A	_	_	_
+5	,	_	Punctuation	-	-	_	_	_	U	_	_
+6	который	_	Word	-	-	_	_	_	_	R	_
+7	писал	_	Word	-	+	_	_	_	E	_	_
+8	толстенные	_	Word	-	-	_	_	_	_	_	E
+9	книги	_	Word	-	+	_	_	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	_	_	U
+11	-	_	Punctuation	-	-	_	_	_	_	_	U
+

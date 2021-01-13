@@ -1,0 +1,20 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	_	_	_	_
+2	сказал	_	Word	-	+	_	_	_	_	_	_
+3	просто	_	Word	-	-	_	D	_	_	_	_
+4	:	_	Punctuation	-	-	_	U	_	_	_	_
+5	-	_	Punctuation	-	-	_	U	_	_	_	_
+6	Вода	_	Word	-	-	_	_	A	_	_	_
+7	бывает	_	Word	-	-	_	_	F	_	_	_
+8	нужна	_	Word	-	+	_	A	_	_	_	_
+9	и	_	Word	-	-	_	_	_	E	_	_
+10	сердцу	_	Word	-	+	_	_	A	_	_	_
+11	...	_	Punctuation	-	-	_	U	_	_	_	_
+12	Я	_	Word	-	-	_	_	_	_	A	A*
+13	не	_	Word	-	-	_	_	_	_	D	_
+14	понял	_	Word	-	+	_	H	_	_	_	_
+15	,	_	Punctuation	-	-	_	U	_	_	_	_
+16	но	_	Word	-	-	_	L	_	_	_	_
+17	промолчал	_	Word	-	+	_	H	_	_	_	_
+18	.	_	Punctuation	-	-	_	_	_	_	_	U
+

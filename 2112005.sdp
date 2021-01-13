@@ -1,0 +1,11 @@
+# format = ucca
+1	Но	_	Word	-	-	_	_	L
+2	не	_	Word	-	-	_	_	D
+3	смел	_	Word	-	-	_	_	D
+4	больше	_	Word	-	-	_	_	D
+5	ни	_	Word	-	-	_	E	_
+6	о	_	Word	-	-	_	R	_
+7	чем	_	Word	-	+	_	_	A
+8	спрашивать	_	Word	-	+	_	_	_
+9	.	_	Punctuation	-	-	_	_	U
+

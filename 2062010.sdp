@@ -1,0 +1,19 @@
+# format = ucca
+1	Конечно	_	Word	-	-	_	_	_	_	G	_	_
+2	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+3	мы	_	Word	-	+	_	_	_	_	_	A*	_
+4	,	_	Punctuation	-	-	_	U	_	_	_	_	_
+5	люди	_	Word	-	+	_	E	_	_	_	_	_
+6	на	_	Word	-	-	_	_	_	R	_	_	_
+7	Земле	_	Word	-	+	_	_	E	_	_	_	_
+8	,	_	Punctuation	-	-	_	_	_	_	U	_	_
+9	слишком	_	Word	-	-	_	_	_	_	D	_	_
+10	малы	_	Word	-	+	_	_	_	_	_	_	_
+11	и	_	Word	-	-	_	_	_	_	L	_	_
+12	не	_	Word	-	-	_	_	_	_	_	D	_
+13	можем	_	Word	-	-	_	_	_	_	_	D	_
+14	прочищать	_	Word	-	+	_	_	_	_	H	_	_
+15	наши	_	Word	-	-	_	_	_	_	_	_	E
+16	вулканы	_	Word	-	+	_	_	_	_	_	A	_
+17	.	_	Punctuation	-	-	_	_	_	_	_	_	U
+

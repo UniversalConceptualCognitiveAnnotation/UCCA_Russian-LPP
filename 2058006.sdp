@@ -1,0 +1,17 @@
+# format = ucca
+1	Я	_	Word	-	-	_	A	_	_	_
+2	и	_	Word	-	-	_	L	_	_	_
+3	думать	_	Word	-	+	_	_	_	_	_
+4	забыл	_	Word	-	-	_	D	_	_	_
+5	про	_	Word	-	-	_	_	R	_	_
+6	злополучный	_	Word	-	-	_	_	E	_	_
+7	болт	_	Word	-	+	_	A	_	_	_
+8	и	_	Word	-	-	_	_	N	_	_
+9	молоток	_	Word	-	-	_	_	C	_	_
+10	,	_	Punctuation	-	-	_	_	U	_	_
+11	про	_	Word	-	-	_	_	_	R	_
+12	жажду	_	Word	-	+	_	_	C	_	_
+13	и	_	Word	-	-	_	_	N	_	_
+14	смерть	_	Word	-	+	_	_	C	_	_
+15	.	_	Punctuation	-	-	_	_	_	_	U
+

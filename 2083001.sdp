@@ -1,0 +1,11 @@
+# format = ucca
+1	И	_	Word	-	-	_	L	_	_
+2	он	_	Word	-	-	_	A	_	A*
+3	раскрыл	_	Word	-	+	_	_	_	_
+4	толстенную	_	Word	-	-	_	_	E	_
+5	книгу	_	Word	-	+	_	A	_	_
+6	и	_	Word	-	-	_	L	_	_
+7	очинил	_	Word	-	+	_	H	_	_
+8	карандаш	_	Word	-	-	_	_	_	A
+9	.	_	Punctuation	-	-	_	_	_	U
+

@@ -1,0 +1,13 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	_
+2	сказал	_	Word	-	+	_	_	_
+3	:	_	Punctuation	-	-	_	U	_
+4	-	_	Punctuation	-	-	_	U	_
+5	Пожалуйста	_	Word	-	-	_	_	F
+6	...	_	Punctuation	-	-	_	_	U
+7	нарисуй	_	Word	-	+	_	A	_
+8	мне	_	Word	-	-	_	_	A
+9	барашка	_	Word	-	-	_	_	A
+10	!	_	Punctuation	-	-	_	_	U
+11	-	_	Punctuation	-	-	_	_	U
+

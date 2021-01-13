@@ -1,0 +1,10 @@
+# format = ucca
+1	Засветив	_	Word	-	+	_	_	_	_
+2	свои	_	Word	-	-	_	_	E	_
+3	огни	_	Word	-	+	_	A	_	_
+4	,	_	Punctuation	-	-	_	U	_	_
+5	они	_	Word	-	-	_	A*	_	A
+6	отправлялись	_	Word	-	-	_	_	_	D
+7	спать	_	Word	-	+	_	H	_	_
+8	.	_	Punctuation	-	-	_	_	_	U
+

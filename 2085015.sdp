@@ -1,0 +1,8 @@
+# format = ucca
+1	Да	_	Word	-	-	_	G
+2	,	_	Punctuation	-	-	_	U
+3	это	_	Word	-	-	_	A
+4	было	_	Word	-	-	_	F
+5	блистательно	_	Word	-	+	_	_
+6	.	_	Punctuation	-	-	_	U
+

@@ -1,0 +1,18 @@
+# format = ucca
+1	Но	_	Word	-	-	_	L	_	_
+2	деревни	_	Word	-	-	_	A	_	_
+3	тут	_	Word	-	-	_	A	_	_
+4	нигде	_	Word	-	-	_	D	_	_
+5	не	_	Word	-	-	_	D	_	_
+6	было	_	Word	-	+	_	_	_	_
+7	,	_	Punctuation	-	-	_	U	_	_
+8	и	_	Word	-	-	_	L	_	_
+9	я	_	Word	-	-	_	_	A	_
+10	подумал	_	Word	-	+	_	H	_	_
+11	,	_	Punctuation	-	-	_	_	U	_
+12	что	_	Word	-	-	_	_	_	R
+13	это	_	Word	-	+	_	_	A	_
+14	сон	_	Word	-	-	_	_	_	A
+15	.	_	Punctuation	-	-	_	_	_	U
+16	-	_	Punctuation	-	-	_	_	_	U
+

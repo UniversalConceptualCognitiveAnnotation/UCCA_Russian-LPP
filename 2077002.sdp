@@ -1,0 +1,12 @@
+# format = ucca
+1	На	_	Word	-	-	_	R	_	_	_
+2	ней	_	Word	-	+	_	_	A	_	_
+3	только	_	Word	-	-	_	_	_	E	_
+4	и	_	Word	-	-	_	_	F	_	_
+5	помещалось	_	Word	-	+	_	_	_	_	_
+6	что	_	Word	-	-	_	_	_	R	_
+7	фонарь	_	Word	-	+	_	_	A	_	_
+8	да	_	Word	-	-	_	_	_	N	_
+9	фонарщик	_	Word	-	+	_	_	_	C	_
+10	.	_	Punctuation	-	-	_	_	_	_	U
+

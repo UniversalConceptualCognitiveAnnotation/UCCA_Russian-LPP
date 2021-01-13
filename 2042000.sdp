@@ -1,0 +1,12 @@
+# format = ucca
+1	III	_	Word	-	+	_	_	_	_
+2	Не	_	Word	-	-	_	_	D	_
+3	скоро	_	Word	-	-	_	_	D	_
+4	я	_	Word	-	-	_	_	A	_
+5	понял	_	Word	-	+	_	H	_	_
+6	,	_	Punctuation	-	-	_	_	U	_
+7	откуда	_	Word	-	-	_	_	_	A
+8	он	_	Word	-	-	_	_	_	A
+9	явился	_	Word	-	+	_	_	A	_
+10	.	_	Punctuation	-	-	_	_	_	U
+

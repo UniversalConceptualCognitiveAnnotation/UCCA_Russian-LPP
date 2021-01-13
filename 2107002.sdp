@@ -1,0 +1,8 @@
+# format = ucca
+1	Он	_	Word	-	-	_	A	A*
+2	пил	_	Word	-	+	_	_	_
+3	,	_	Punctuation	-	-	_	U	_
+4	закрыв	_	Word	-	+	_	H	_
+5	глаза	_	Word	-	-	_	_	A
+6	.	_	Punctuation	-	-	_	_	U
+

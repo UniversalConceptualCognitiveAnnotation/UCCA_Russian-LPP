@@ -1,0 +1,8 @@
+# format = ucca
+1	Гасить	_	Word	-	+	_	_	_
+2	фонарь	_	Word	-	-	_	A	_
+3	.	_	Punctuation	-	-	_	U	_
+4	Добрый	_	Word	-	+	_	H	_
+5	вечер	_	Word	-	-	_	_	Terminal
+6	.	_	Punctuation	-	-	_	U	_
+
