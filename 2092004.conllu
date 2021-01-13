@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2092004
+# text = Добрый день , - отозвались розы .
+1	Добрый	_	Word	Word	_	5	A	5:A	_
+2	день	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	отозвались	_	Word	Word	_	0	H	0:H	_
+6	розы	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

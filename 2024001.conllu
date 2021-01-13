@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2024001
+# text = На картинке огромная змея - удав - глотала хищного зверя .
+1	На	_	Word	Word	_	0	H	0:H	_
+2	картинке	_	Word	Word	_	1	A	1:A	_
+3	огромная	_	Word	Word	_	4	E	4:E	_
+4	змея	_	Word	Word	_	8	A	8:A	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	удав	_	Word	Word	_	4	E	4:E	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	глотала	_	Word	Word	_	1	A	1:A	_
+9	хищного	_	Word	Word	_	10	E	10:E	_
+10	зверя	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

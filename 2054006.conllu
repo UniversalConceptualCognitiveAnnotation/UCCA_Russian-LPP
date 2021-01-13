@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2054006
+# text = И в самом деле . Все знают , что , когда в Америке полдень , во Франции солнце уже заходит .
+1	И	_	Word	Word	_	7	L	7:L	_
+2	в	_	Word	Word	_	0	H	0:H	_
+3	самом	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	деле	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Все	_	Word	Word	_	7	A	7:A	_
+7	знают	_	Word	Word	_	2	H	2:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	что	_	Word	Word	_	14	R	14:R	_
+10	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+11	когда	_	Word	Word	_	20	L	20:L	_
+12	в	_	Word	Word	_	13	R	13:R	_
+13	Америке	_	Word	Word	_	14	A	14:A	_
+14	полдень	_	Word	Word	_	7	A	7:A	_
+15	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	во	_	Word	Word	_	17	R	17:R	_
+17	Франции	_	Word	Word	_	20	A	20:A	_
+18	солнце	_	Word	Word	_	20	A	20:A	_
+19	уже	_	Word	Word	_	20	T	20:T	_
+20	заходит	_	Word	Word	_	14	H	14:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

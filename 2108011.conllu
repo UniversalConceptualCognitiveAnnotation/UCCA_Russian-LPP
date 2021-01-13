@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2108011
+# text = Ты что - то задумал и не говоришь мне ... Но он не ответил . -
+1	Ты	_	Word	Word	_	5	A	5:A|8:A	_
+2	что	_	Word	Word	_	5	A	5:A	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	то	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	задумал	_	Word	Word	_	0	H	0:H	_
+6	и	_	Word	Word	_	8	L	8:L	_
+7	не	_	Word	Word	_	8	D	8:D	_
+8	говоришь	_	Word	Word	_	5	H	5:H	_
+9	мне	_	Word	Word	_	8	A	8:A	_
+10	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	Но	_	Word	Word	_	14	L	14:L	_
+12	он	_	Word	Word	_	14	A	14:A	_
+13	не	_	Word	Word	_	14	D	14:D	_
+14	ответил	_	Word	Word	_	5	H	5:H	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+

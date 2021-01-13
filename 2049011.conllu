@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2049011
+# text = Один портрет выходит удачно , а другой ни капли не похож .
+1	Один	_	Word	Word	_	2	Q	2:Q	_
+2	портрет	_	Word	Word	_	0	C	0:C|7:C	_
+3	выходит	_	Word	Word	_	0	H	0:H	_
+4	удачно	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	а	_	Word	Word	_	11	L	11:L	_
+7	другой	_	Word	Word	_	11	A	11:A	_
+8	ни	_	Word	Word	_	11	D	11:D	_
+9	капли	_	Word	Word	_	8	Terminal	8:Terminal	_
+10	не	_	Word	Word	_	11	D	11:D	_
+11	похож	_	Word	Word	_	3	H	3:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

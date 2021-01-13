@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2042002
+# text = Лишь понемногу , из случайных , мимоходом оброненных слов мне все открылось .
+1	Лишь	_	Word	Word	_	2	E	2:E	_
+2	понемногу	_	Word	Word	_	12	D	12:D	_
+3	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+4	из	_	Word	Word	_	9	R	9:R	_
+5	случайных	_	Word	Word	_	9	E	9:E	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	мимоходом	_	Word	Word	_	8	D	8:D	_
+8	оброненных	_	Word	Word	_	9	E	9:E	_
+9	слов	_	Word	Word	_	12	A	12:A	_
+10	мне	_	Word	Word	_	12	A	12:A	_
+11	все	_	Word	Word	_	12	A	12:A	_
+12	открылось	_	Word	Word	_	0	H	0:H	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

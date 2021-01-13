@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2120004
+# text = Если вам случится тут проезжать , заклинаю вас , не спешите , помедлите немного под этой звездой !
+1	Если	_	Word	Word	_	7	L	7:L	_
+2	вам	_	Word	Word	_	3	A	3:A|5:A	_
+3	случится	_	Word	Word	_	0	H	0:H	_
+4	тут	_	Word	Word	_	5	A	5:A	_
+5	проезжать	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	заклинаю	_	Word	Word	_	3	H	3:H	_
+8	вас	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	не	_	Word	Word	_	11	D	11:D	_
+11	спешите	_	Word	Word	_	3	H	3:H	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	помедлите	_	Word	Word	_	3	H	3:H	_
+14	немного	_	Word	Word	_	13	D	13:D	_
+15	под	_	Word	Word	_	17	R	17:R	_
+16	этой	_	Word	Word	_	17	E	17:E	_
+17	звездой	_	Word	Word	_	13	A	13:A	_
+18	!	_	Punctuation	Punctuation	_	17	U	17:U	_
+

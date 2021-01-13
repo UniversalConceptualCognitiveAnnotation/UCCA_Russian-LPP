@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2112006
+# text = Он серьезно посмотрел на меня и обвил мою шею руками .
+1	Он	_	Word	Word	_	3	A	3:A|7:A	_
+2	серьезно	_	Word	Word	_	3	D	3:D	_
+3	посмотрел	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	меня	_	Word	Word	_	3	A	3:A	_
+6	и	_	Word	Word	_	7	L	7:L	_
+7	обвил	_	Word	Word	_	3	H	3:H	_
+8	мою	_	Word	Word	_	9	E	9:E	_
+9	шею	_	Word	Word	_	7	A	7:A	_
+10	руками	_	Word	Word	_	7	D	7:D	_
+11	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

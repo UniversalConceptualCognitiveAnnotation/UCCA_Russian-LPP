@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2105000
+# text = - Знаешь , отчего хороша пустыня ? - сказал он . - Где - то в ней скрываются родники ... Я был поражен .
+1	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+2	Знаешь	_	Word	Word	_	9	A	9:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	отчего	_	Word	Word	_	5	A	5:A	_
+5	хороша	_	Word	Word	_	2	A	2:A	_
+6	пустыня	_	Word	Word	_	5	A	5:A	_
+7	?	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	сказал	_	Word	Word	_	0	H	0:H	_
+10	он	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	Где	_	Word	Word	_	18	A	18:A	_
+14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	то	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	в	_	Word	Word	_	17	R	17:R	_
+17	ней	_	Word	Word	_	13	E	13:E	_
+18	скрываются	_	Word	Word	_	2	H	2:H	_
+19	родники	_	Word	Word	_	18	A	18:A	_
+20	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+21	Я	_	Word	Word	_	23	A	23:A	_
+22	был	_	Word	Word	_	23	F	23:F	_
+23	поражен	_	Word	Word	_	9	H	9:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

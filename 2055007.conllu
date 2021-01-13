@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2055007
+# text = Я был очень занят : в моторе заело один болт , и я старался его отвернуть .
+1	Я	_	Word	Word	_	4	A	4:A	_
+2	был	_	Word	Word	_	4	F	4:F	_
+3	очень	_	Word	Word	_	4	D	4:D	_
+4	занят	_	Word	Word	_	0	H	0:H	_
+5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	в	_	Word	Word	_	7	R	7:R	_
+7	моторе	_	Word	Word	_	8	A	8:A	_
+8	заело	_	Word	Word	_	4	H	4:H	_
+9	один	_	Word	Word	_	10	Q	10:Q	_
+10	болт	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	и	_	Word	Word	_	16	L	16:L	_
+13	я	_	Word	Word	_	16	A	16:A	_
+14	старался	_	Word	Word	_	16	D	16:D	_
+15	его	_	Word	Word	_	16	A	16:A	_
+16	отвернуть	_	Word	Word	_	4	H	4:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

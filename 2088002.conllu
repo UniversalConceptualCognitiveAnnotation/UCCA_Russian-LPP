@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2088002
+# text = Странное ты существо , - сказал он . - Не толще пальца ... - Но могущества у меня больше , чем в пальце короля , - возразила змея .
+1	Странное	_	Word	Word	_	3	E	3:E	_
+2	ты	_	Word	Word	_	3	A	3:A|11:A	_
+3	существо	_	Word	Word	_	6	A	6:A	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	сказал	_	Word	Word	_	0	H	0:H	_
+7	он	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Не	_	Word	Word	_	11	D	11:D	_
+11	толще	_	Word	Word	_	3	H	3:H	_
+12	пальца	_	Word	Word	_	3	H	3:H	_
+13	...	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	Но	_	Word	Word	_	23	L	23:L	_
+16	могущества	_	Word	Word	_	27	A	27:A	_
+17	у	_	Word	Word	_	18	R	18:R	_
+18	меня	_	Word	Word	_	16	A	16:A	_
+19	больше	_	Word	Word	_	16	D	16:D	_
+20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	чем	_	Word	Word	_	23	L	23:L	_
+22	в	_	Word	Word	_	23	R	23:R	_
+23	пальце	_	Word	Word	_	16	H	16:H	_
+24	короля	_	Word	Word	_	23	E	23:E	_
+25	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	возразила	_	Word	Word	_	6	H	6:H	_
+28	змея	_	Word	Word	_	27	A	27:A	_
+29	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

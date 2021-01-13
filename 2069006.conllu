@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2069006
+# text = Маленький принц уже совсем собрался в дорогу , но ему не хотелось огорчать старого монарха .
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	5	A	5:A	_
+3	уже	_	Word	Word	_	5	D	5:D	_
+4	совсем	_	Word	Word	_	5	D	5:D	_
+5	собрался	_	Word	Word	_	0	H	0:H	_
+6	в	_	Word	Word	_	7	R	7:R	_
+7	дорогу	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	но	_	Word	Word	_	13	L	13:L	_
+10	ему	_	Word	Word	_	13	A	13:A	_
+11	не	_	Word	Word	_	13	D	13:D	_
+12	хотелось	_	Word	Word	_	13	D	13:D	_
+13	огорчать	_	Word	Word	_	5	H	5:H	_
+14	старого	_	Word	Word	_	15	E	15:E	_
+15	монарха	_	Word	Word	_	0	A	0:A|14:A	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2097000
+# text = Лис замолчал и долго смотрел на Маленького принца .
+1	Лис	_	Word	Word	_	2	A	2:A|5:A	_
+2	замолчал	_	Word	Word	_	0	H	0:H	_
+3	и	_	Word	Word	_	5	L	5:L	_
+4	долго	_	Word	Word	_	5	D	5:D	_
+5	смотрел	_	Word	Word	_	2	H	2:H	_
+6	на	_	Word	Word	_	8	R	8:R	_
+7	Маленького	_	Word	Word	_	8	E	8:E	_
+8	принца	_	Word	Word	_	5	A	5:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

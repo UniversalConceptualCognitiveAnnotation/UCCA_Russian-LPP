@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2107013
+# text = На рассвете песок становится золотой , как мед .
+1	На	_	Word	Word	_	2	R	2:R	_
+2	рассвете	_	Word	Word	_	5	T	5:T	_
+3	песок	_	Word	Word	_	5	A	5:A	_
+4	становится	_	Word	Word	_	5	D	5:D	_
+5	золотой	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	как	_	Word	Word	_	8	R	8:R	_
+8	мед	_	Word	Word	_	5	A	5:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 2103004
+# text = Он возразил : - Хорошо , если у тебя когда - то был друг , пусть даже надо умереть . Вот я очень рад , что дружил с Лисом ... " Он не понимает , как велика опасность .
+1	Он	_	Word	Word	_	2	A	2:A	_
+2	возразил	_	Word	Word	_	0	H	0:H	_
+3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Хорошо	_	Word	Word	_	9	G	9:G	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	если	_	Word	Word	_	19	L	19:L	_
+8	у	_	Word	Word	_	9	R	9:R	_
+9	тебя	_	Word	Word	_	2	A	2:A	_
+10	когда	_	Word	Word	_	9	T	9:T	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	то	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	был	_	Word	Word	_	9	F	9:F	_
+14	друг	_	Word	Word	_	9	A	9:A	_
+15	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+16	пусть	_	Word	Word	_	19	L	19:L	_
+17	даже	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	надо	_	Word	Word	_	19	D	19:D	_
+19	умереть	_	Word	Word	_	9	H	9:H	_
+20	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+21	Вот	_	Word	Word	_	24	L	24:L	_
+22	я	_	Word	Word	_	24	A	24:A|27:A	_
+23	очень	_	Word	Word	_	24	D	24:D	_
+24	рад	_	Word	Word	_	9	H	9:H	_
+25	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+26	что	_	Word	Word	_	27	R	27:R	_
+27	дружил	_	Word	Word	_	24	A	24:A	_
+28	с	_	Word	Word	_	29	R	29:R	_
+29	Лисом	_	Word	Word	_	27	A	27:A	_
+30	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+31	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+32	Он	_	Word	Word	_	34	A	34:A	_
+33	не	_	Word	Word	_	34	D	34:D	_
+34	понимает	_	Word	Word	_	2	H	2:H	_
+35	,	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	как	_	Word	Word	_	37	D	37:D	_
+37	велика	_	Word	Word	_	34	A	34:A	_
+38	опасность	_	Word	Word	_	37	A	37:A	_
+39	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

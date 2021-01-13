@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2037016
+# text = Я применялся к их понятиям .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	применялся	_	Word	Word	_	0	H	0:H	_
+3	к	_	Word	Word	_	5	R	5:R	_
+4	их	_	Word	Word	_	5	E	5:E	_
+5	понятиям	_	Word	Word	_	2	A	2:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

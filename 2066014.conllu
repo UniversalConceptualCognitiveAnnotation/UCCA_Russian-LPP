@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2066014
+# text = Ибо он был поистине полновластный монарх и не знал никаких пределов и ограничений . -
+1	Ибо	_	Word	Word	_	9	L	9:L	_
+2	он	_	Word	Word	_	6	A	6:A|9:A	_
+3	был	_	Word	Word	_	6	F	6:F	_
+4	поистине	_	Word	Word	_	6	D	6:D	_
+5	полновластный	_	Word	Word	_	6	D	6:D	_
+6	монарх	_	Word	Word	_	0	H	0:H	_
+7	и	_	Word	Word	_	9	L	9:L	_
+8	не	_	Word	Word	_	9	D	9:D	_
+9	знал	_	Word	Word	_	6	H	6:H	_
+10	никаких	_	Word	Word	_	11	Q	11:Q	_
+11	пределов	_	Word	Word	_	9	A	9:A	_
+12	и	_	Word	Word	_	11	N	11:N	_
+13	ограничений	_	Word	Word	_	11	C	11:C	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+

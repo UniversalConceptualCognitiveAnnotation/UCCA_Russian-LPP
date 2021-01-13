@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2113008
+# text = Малыш , я хочу еще послушать , как ты смеешься ...
+1	Малыш	_	Word	Word	_	6	G	6:G	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	я	_	Word	Word	_	6	A	6:A	_
+4	хочу	_	Word	Word	_	6	D	6:D	_
+5	еще	_	Word	Word	_	6	D	6:D	_
+6	послушать	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	как	_	Word	Word	_	10	R	10:R	_
+9	ты	_	Word	Word	_	10	A	10:A	_
+10	смеешься	_	Word	Word	_	6	A	6:A	_
+11	...	_	Punctuation	Punctuation	_	10	U	10:U	_
+

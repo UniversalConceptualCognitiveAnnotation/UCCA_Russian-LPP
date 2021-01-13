@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2074016
+# text = А для чего тебе владеть звездами ? -
+1	А	_	Word	Word	_	5	L	5:L	_
+2	для	_	Word	Word	_	5	L	5:L	_
+3	чего	_	Word	Word	_	0	H	0:H	_
+4	тебе	_	Word	Word	_	5	A	5:A	_
+5	владеть	_	Word	Word	_	3	H	3:H	_
+6	звездами	_	Word	Word	_	5	A	5:A	_
+7	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2037006
+# text = И география , по правде сказать , мне очень пригодилась .
+1	И	_	Word	Word	_	10	L	10:L	_
+2	география	_	Word	Word	_	10	A	10:A	_
+3	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+4	по	_	Word	Word	_	10	G	10:G	_
+5	правде	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	сказать	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+8	мне	_	Word	Word	_	10	A	10:A	_
+9	очень	_	Word	Word	_	10	D	10:D	_
+10	пригодилась	_	Word	Word	_	0	H	0:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

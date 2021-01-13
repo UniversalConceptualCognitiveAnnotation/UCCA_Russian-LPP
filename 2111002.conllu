@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 2111002
+# text = А между тем Маленький принц снова ответил кому - то : - Ну конечно . Ты найдешь мои следы на песке . И тогда жди . Сегодня ночью я туда приду .
+1	А	_	Word	Word	_	7	L	7:L	_
+2	между	_	Word	Word	_	7	L	7:L	_
+3	тем	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	Маленький	_	Word	Word	_	5	E	5:E	_
+5	принц	_	Word	Word	_	7	A	7:A	_
+6	снова	_	Word	Word	_	7	D	7:D	_
+7	ответил	_	Word	Word	_	0	H	0:H	_
+8	кому	_	Word	Word	_	7	A	7:A	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	то	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	:	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	Ну	_	Word	Word	_	17	G	17:G	_
+14	конечно	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+16	Ты	_	Word	Word	_	17	A	17:A|25:A	_
+17	найдешь	_	Word	Word	_	7	A	7:A	_
+18	мои	_	Word	Word	_	19	R	19:R	_
+19	следы	_	Word	Word	_	17	A	17:A	_
+20	на	_	Word	Word	_	21	R	21:R	_
+21	песке	_	Word	Word	_	17	A	17:A	_
+22	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+23	И	_	Word	Word	_	25	L	25:L	_
+24	тогда	_	Word	Word	_	25	T	25:T	_
+25	жди	_	Word	Word	_	17	H	17:H	_
+26	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+27	Сегодня	_	Word	Word	_	31	T	31:T	_
+28	ночью	_	Word	Word	_	27	C	27:C	_
+29	я	_	Word	Word	_	31	A	31:A	_
+30	туда	_	Word	Word	_	31	A	31:A	_
+31	приду	_	Word	Word	_	17	H	17:H	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

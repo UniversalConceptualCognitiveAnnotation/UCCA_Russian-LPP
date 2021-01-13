@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2074012
+# text = Ничего не делаю . Я ими владею . -
+1	Ничего	_	Word	Word	_	3	A	3:A	_
+2	не	_	Word	Word	_	3	D	3:D	_
+3	делаю	_	Word	Word	_	0	H	0:H	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Я	_	Word	Word	_	7	A	7:A|3:A	_
+6	ими	_	Word	Word	_	7	A	7:A|3:A	_
+7	владею	_	Word	Word	_	3	H	3:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+

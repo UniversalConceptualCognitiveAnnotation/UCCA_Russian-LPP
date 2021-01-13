@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2054012
+# text = Но Маленький принц не ответил .
+1	Но	_	Word	Word	_	5	L	5:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	5	A	5:A	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	ответил	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

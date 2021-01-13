@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2116014
+# text = Но что - то его тревожило . -
+1	Но	_	Word	Word	_	6	L	6:L	_
+2	что	_	Word	Word	_	6	A	6:A	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	то	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	его	_	Word	Word	_	6	A	6:A	_
+6	тревожило	_	Word	Word	_	0	H	0:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

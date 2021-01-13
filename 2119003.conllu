@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 2119003
+# text = Взгляните на небо .
+1	Взгляните	_	Word	Word	_	0	H	0:H	_
+2	на	_	Word	Word	_	3	R	3:R	_
+3	небо	_	Word	Word	_	1	A	1:A	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

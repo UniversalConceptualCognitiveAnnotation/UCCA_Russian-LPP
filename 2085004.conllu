@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2085004
+# text = Если поглядеть со стороны , это было великолепное зрелище .
+1	Если	_	Word	Word	_	9	L	9:L	_
+2	поглядеть	_	Word	Word	_	0	H	0:H	_
+3	со	_	Word	Word	_	4	R	4:R	_
+4	стороны	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	это	_	Word	Word	_	9	A	9:A|2:A	_
+7	было	_	Word	Word	_	9	F	9:F	_
+8	великолепное	_	Word	Word	_	9	D	9:D	_
+9	зрелище	_	Word	Word	_	2	H	2:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

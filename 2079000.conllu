@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2079000
+# text = Маленький принц смотрел на фонарщика , и ему все больше нравился этот человек , который был так верен своему слову .
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	3	A	3:A	_
+3	смотрел	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	фонарщика	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	и	_	Word	Word	_	11	L	11:L	_
+8	ему	_	Word	Word	_	11	A	11:A	_
+9	все	_	Word	Word	_	10	E	10:E	_
+10	больше	_	Word	Word	_	11	D	11:D	_
+11	нравился	_	Word	Word	_	3	H	3:H	_
+12	этот	_	Word	Word	_	13	E	13:E	_
+13	человек	_	Word	Word	_	11	A	11:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	который	_	Word	Word	_	18	R	18:R	_
+16	был	_	Word	Word	_	18	F	18:F	_
+17	так	_	Word	Word	_	18	D	18:D	_
+18	верен	_	Word	Word	_	13	E	13:E	_
+19	своему	_	Word	Word	_	20	E	20:E	_
+20	слову	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

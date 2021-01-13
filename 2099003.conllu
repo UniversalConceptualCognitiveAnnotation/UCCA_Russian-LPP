@@ -1,0 +1,43 @@
+# format = ucca
+# sent_id = 2099003
+# text = Ты сам виноват , - сказал Маленький принц . - Я ведь не хотел , чтобы тебе было больно ; ты сам пожелал , чтобы я тебя приручил ... - Да , конечно , - сказал Лис . -
+1	Ты	_	Word	Word	_	3	A	3:A	_
+2	сам	_	Word	Word	_	1	F	1:F	_
+3	виноват	_	Word	Word	_	6	A	6:A	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	сказал	_	Word	Word	_	0	H	0:H	_
+7	Маленький	_	Word	Word	_	8	E	8:E	_
+8	принц	_	Word	Word	_	0	A	0:A|7:A	_
+9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	Я	_	Word	Word	_	19	A	19:A	_
+12	ведь	_	Word	Word	_	19	F	19:F	_
+13	не	_	Word	Word	_	19	D	19:D	_
+14	хотел	_	Word	Word	_	19	D	19:D	_
+15	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+16	чтобы	_	Word	Word	_	19	F	19:F	_
+17	тебе	_	Word	Word	_	19	A	19:A	_
+18	было	_	Word	Word	_	19	F	19:F	_
+19	больно	_	Word	Word	_	3	H	3:H	_
+20	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+21	ты	_	Word	Word	_	28	A	28:A	_
+22	сам	_	Word	Word	_	21	F	21:F	_
+23	пожелал	_	Word	Word	_	28	D	28:D	_
+24	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+25	чтобы	_	Word	Word	_	28	R	28:R	_
+26	я	_	Word	Word	_	28	A	28:A	_
+27	тебя	_	Word	Word	_	28	A	28:A	_
+28	приручил	_	Word	Word	_	3	H	3:H	_
+29	...	_	Punctuation	Punctuation	_	6	U	6:U	_
+30	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+31	Да	_	Word	Word	_	36	A	36:A	_
+32	,	_	Punctuation	Punctuation	_	31	U	31:U	_
+33	конечно	_	Word	Word	_	31	G	31:G	_
+34	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+35	-	_	Punctuation	Punctuation	_	36	U	36:U	_
+36	сказал	_	Word	Word	_	6	H	6:H	_
+37	Лис	_	Word	Word	_	36	A	36:A	_
+38	.	_	Punctuation	Punctuation	_	36	U	36:U	_
+39	-	_	Punctuation	Punctuation	_	36	U	36:U	_
+

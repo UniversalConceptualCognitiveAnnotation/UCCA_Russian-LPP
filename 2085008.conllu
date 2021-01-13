@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2085008
+# text = За ними наступал черед фонарщиков Китая .
+1	За	_	Word	Word	_	3	L	3:L	_
+2	ними	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	наступал	_	Word	Word	_	0	H	0:H	_
+4	черед	_	Word	Word	_	3	A	3:A	_
+5	фонарщиков	_	Word	Word	_	4	E	4:E	_
+6	Китая	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

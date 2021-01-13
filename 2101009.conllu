@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2101009
+# text = Нет , это другие , - сказал стрелочник . - Это встречный . -
+1	Нет	_	Word	Word	_	7	A	7:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	это	_	Word	Word	_	1	H	1:H	_
+4	другие	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	сказал	_	Word	Word	_	0	H	0:H	_
+8	стрелочник	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	Это	_	Word	Word	_	1	H	1:H	_
+12	встречный	_	Word	Word	_	11	A	11:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+

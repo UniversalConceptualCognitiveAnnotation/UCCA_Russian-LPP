@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2052002
+# text = Он завладеет всей планетой .
+1	Он	_	Word	Word	_	2	A	2:A	_
+2	завладеет	_	Word	Word	_	0	H	0:H	_
+3	всей	_	Word	Word	_	4	Q	4:Q	_
+4	планетой	_	Word	Word	_	2	A	2:A	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

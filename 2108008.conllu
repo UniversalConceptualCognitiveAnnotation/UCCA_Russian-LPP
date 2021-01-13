@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2108008
+# text = Ну ничего , - успокоил он меня . - Дети и так поймут .
+1	Ну	_	Word	Word	_	13	G	13:G	_
+2	ничего	_	Word	Word	_	1	C	1:C	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	успокоил	_	Word	Word	_	0	H	0:H	_
+6	он	_	Word	Word	_	5	A	5:A	_
+7	меня	_	Word	Word	_	5	A	5:A	_
+8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	Дети	_	Word	Word	_	13	A	13:A	_
+11	и	_	Word	Word	_	13	D	13:D	_
+12	так	_	Word	Word	_	11	C	11:C	_
+13	поймут	_	Word	Word	_	5	A	5:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

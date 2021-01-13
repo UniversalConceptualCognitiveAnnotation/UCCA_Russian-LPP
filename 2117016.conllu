@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2117016
+# text = Мгновенье он оставался недвижим .
+1	Мгновенье	_	Word	Word	_	4	T	4:T	_
+2	он	_	Word	Word	_	4	A	4:A	_
+3	оставался	_	Word	Word	_	4	D	4:D	_
+4	недвижим	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

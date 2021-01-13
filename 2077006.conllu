@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2077006
+# text = Такой уговор , - ответил фонарщик . - Добрый день . -
+1	Такой	_	Word	Word	_	2	A	2:A	_
+2	уговор	_	Word	Word	_	5	A	5:A	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	ответил	_	Word	Word	_	0	H	0:H	_
+6	фонарщик	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	Добрый	_	Word	Word	_	2	H	2:H	_
+10	день	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+12	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+

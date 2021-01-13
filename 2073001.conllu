@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2073001
+# text = Он был так занят , что при появлении Маленького принца даже головы не поднял . -
+1	Он	_	Word	Word	_	4	A	4:A|14:A	_
+2	был	_	Word	Word	_	4	F	4:F	_
+3	так	_	Word	Word	_	4	D	4:D	_
+4	занят	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	что	_	Word	Word	_	8	L	8:L	_
+7	при	_	Word	Word	_	8	L	8:L	_
+8	появлении	_	Word	Word	_	4	H	4:H	_
+9	Маленького	_	Word	Word	_	10	E	10:E	_
+10	принца	_	Word	Word	_	8	A	8:A	_
+11	даже	_	Word	Word	_	14	G	14:G	_
+12	головы	_	Word	Word	_	14	A	14:A	_
+13	не	_	Word	Word	_	14	D	14:D	_
+14	поднял	_	Word	Word	_	4	H	4:H	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+

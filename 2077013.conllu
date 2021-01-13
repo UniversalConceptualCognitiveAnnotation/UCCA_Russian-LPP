@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2077013
+# text = И понимать нечего , - сказал фонарщик . - Уговор есть уговор . Добрый день .
+1	И	_	Word	Word	_	11	L	11:L	_
+2	понимать	_	Word	Word	_	6	A	6:A	_
+3	нечего	_	Word	Word	_	2	D	2:D	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	сказал	_	Word	Word	_	0	H	0:H	_
+7	фонарщик	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Уговор	_	Word	Word	_	11	A	11:A	_
+11	есть	_	Word	Word	_	2	H	2:H	_
+12	уговор	_	Word	Word	_	11	A	11:A	_
+13	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	Добрый	_	Word	Word	_	2	H	2:H	_
+15	день	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

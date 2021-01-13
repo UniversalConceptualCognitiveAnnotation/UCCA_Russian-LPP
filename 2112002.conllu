@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2112002
+# text = Что это тебе вздумалось , малыш ! - воскликнул я . - Чего ради ты заводишь разговоры со змеями ?
+1	Что	_	Word	Word	_	4	A	4:A	_
+2	это	_	Word	Word	_	1	E	1:E	_
+3	тебе	_	Word	Word	_	4	A	4:A	_
+4	вздумалось	_	Word	Word	_	9	A	9:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	малыш	_	Word	Word	_	4	G	4:G	_
+7	!	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	воскликнул	_	Word	Word	_	0	H	0:H	_
+10	я	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	Чего	_	Word	Word	_	4	H	4:H	_
+14	ради	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	ты	_	Word	Word	_	17	A	17:A	_
+16	заводишь	_	Word	Word	_	17	D	17:D	_
+17	разговоры	_	Word	Word	_	4	H	4:H	_
+18	со	_	Word	Word	_	19	R	19:R	_
+19	змеями	_	Word	Word	_	17	A	17:A	_
+20	?	_	Punctuation	Punctuation	_	19	U	19:U	_
+

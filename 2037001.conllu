@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2037001
+# text = Вот как случилось , что шести лет я отказался от блестящей карьеры художника .
+1	Вот	_	Word	Word	_	3	L	3:L	_
+2	как	_	Word	Word	_	3	D	3:D	_
+3	случилось	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	что	_	Word	Word	_	9	R	9:R	_
+6	шести	_	Word	Word	_	7	Q	7:Q	_
+7	лет	_	Word	Word	_	9	T	9:T	_
+8	я	_	Word	Word	_	9	A	9:A	_
+9	отказался	_	Word	Word	_	3	A	3:A	_
+10	от	_	Word	Word	_	12	R	12:R	_
+11	блестящей	_	Word	Word	_	12	E	12:E	_
+12	карьеры	_	Word	Word	_	9	A	9:A	_
+13	художника	_	Word	Word	_	12	E	12:E	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

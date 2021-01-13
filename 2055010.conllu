@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2055010
+# text = Задав какой - нибудь вопрос , Маленький принц уже не отступался , пока не получал ответа .
+1	Задав	_	Word	Word	_	0	H	0:H	_
+2	какой	_	Word	Word	_	5	E	5:E	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	нибудь	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	вопрос	_	Word	Word	_	1	A	1:A	_
+6	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	Маленький	_	Word	Word	_	8	E	8:E	_
+8	принц	_	Word	Word	_	0	C	0:C|1:A|7:A|15:A	_
+9	уже	_	Word	Word	_	11	D	11:D	_
+10	не	_	Word	Word	_	11	D	11:D	_
+11	отступался	_	Word	Word	_	1	H	1:H	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	пока	_	Word	Word	_	15	L	15:L	_
+14	не	_	Word	Word	_	15	D	15:D	_
+15	получал	_	Word	Word	_	1	H	1:H	_
+16	ответа	_	Word	Word	_	15	A	15:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

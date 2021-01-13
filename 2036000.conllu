@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2036000
+# text = Я показал мое творение взрослым и спросил , не страшно ли им . -
+1	Я	_	Word	Word	_	2	A	2:A|7:A	_
+2	показал	_	Word	Word	_	0	H	0:H	_
+3	мое	_	Word	Word	_	4	E	4:E	_
+4	творение	_	Word	Word	_	2	A	2:A	_
+5	взрослым	_	Word	Word	_	2	A	2:A	_
+6	и	_	Word	Word	_	7	L	7:L	_
+7	спросил	_	Word	Word	_	2	H	2:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	не	_	Word	Word	_	10	D	10:D	_
+10	страшно	_	Word	Word	_	7	A	7:A	_
+11	ли	_	Word	Word	_	10	F	10:F	_
+12	им	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+

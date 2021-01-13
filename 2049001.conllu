@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2049001
+# text = Сердце мое больно сжимается , когда я вспоминаю моего маленького друга , и нелегко мне о нем говорить .
+1	Сердце	_	Word	Word	_	4	A	4:A	_
+2	мое	_	Word	Word	_	1	E	1:E	_
+3	больно	_	Word	Word	_	4	D	4:D	_
+4	сжимается	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	когда	_	Word	Word	_	8	L	8:L	_
+7	я	_	Word	Word	_	8	A	8:A	_
+8	вспоминаю	_	Word	Word	_	4	H	4:H	_
+9	моего	_	Word	Word	_	8	A	8:A	_
+10	маленького	_	Word	Word	_	9	E	9:E	_
+11	друга	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	и	_	Word	Word	_	18	L	18:L	_
+14	нелегко	_	Word	Word	_	18	D	18:D	_
+15	мне	_	Word	Word	_	18	A	18:A	_
+16	о	_	Word	Word	_	17	R	17:R	_
+17	нем	_	Word	Word	_	18	A	18:A	_
+18	говорить	_	Word	Word	_	4	H	4:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2064009
+# text = Она не хотела , чтобы Маленький принц видел , как она плачет .
+1	Она	_	Word	Word	_	3	A	3:A	_
+2	не	_	Word	Word	_	3	D	3:D	_
+3	хотела	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	чтобы	_	Word	Word	_	8	R	8:R	_
+6	Маленький	_	Word	Word	_	7	E	7:E	_
+7	принц	_	Word	Word	_	8	A	8:A	_
+8	видел	_	Word	Word	_	3	A	3:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	как	_	Word	Word	_	8	A	8:A	_
+11	она	_	Word	Word	_	12	A	12:A	_
+12	плачет	_	Word	Word	_	10	E	10:E	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

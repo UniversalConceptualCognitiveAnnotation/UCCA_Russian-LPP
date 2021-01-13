@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2040005
+# text = Ты же сам видишь , - сказал он , - это не барашек . Это большой баран . У него рога ... Я опять нарисовал по - другому .
+1	Ты	_	Word	Word	_	4	A	4:A	_
+2	же	_	Word	Word	_	4	F	4:F	_
+3	сам	_	Word	Word	_	4	D	4:D	_
+4	видишь	_	Word	Word	_	7	A	7:A	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	сказал	_	Word	Word	_	0	H	0:H	_
+8	он	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	это	_	Word	Word	_	4	H	4:H	_
+12	не	_	Word	Word	_	11	D	11:D	_
+13	барашек	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	Это	_	Word	Word	_	4	H	4:H	_
+16	большой	_	Word	Word	_	17	E	17:E	_
+17	баран	_	Word	Word	_	15	A	15:A	_
+18	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+19	У	_	Word	Word	_	20	R	20:R	_
+20	него	_	Word	Word	_	4	H	4:H	_
+21	рога	_	Word	Word	_	20	A	20:A	_
+22	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+23	Я	_	Word	Word	_	25	A	25:A	_
+24	опять	_	Word	Word	_	25	D	25:D	_
+25	нарисовал	_	Word	Word	_	7	H	7:H	_
+26	по	_	Word	Word	_	28	R	28:R	_
+27	-	_	Punctuation	Punctuation	_	28	U	28:U	_
+28	другому	_	Word	Word	_	25	D	25:D	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2105001
+# text = Вдруг я понял , почему таинственно лучится песок .
+1	Вдруг	_	Word	Word	_	3	L	3:L	_
+2	я	_	Word	Word	_	3	A	3:A	_
+3	понял	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	почему	_	Word	Word	_	3	A	3:A	_
+6	таинственно	_	Word	Word	_	7	D	7:D	_
+7	лучится	_	Word	Word	_	5	H	5:H	_
+8	песок	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2077001
+# text = Она оказалась меньше всех .
+1	Она	_	Word	Word	_	3	A	3:A	_
+2	оказалась	_	Word	Word	_	3	G	3:G	_
+3	меньше	_	Word	Word	_	0	H	0:H	_
+4	всех	_	Word	Word	_	3	A	3:A	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

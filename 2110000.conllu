@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2110000
+# text = Неподалеку от колодца сохранились развалины древней каменной стены .
+1	Неподалеку	_	Word	Word	_	3	E	3:E	_
+2	от	_	Word	Word	_	1	R	1:R	_
+3	колодца	_	Word	Word	_	4	A	4:A	_
+4	сохранились	_	Word	Word	_	0	H	0:H	_
+5	развалины	_	Word	Word	_	4	A	4:A	_
+6	древней	_	Word	Word	_	8	E	8:E	_
+7	каменной	_	Word	Word	_	8	E	8:E	_
+8	стены	_	Word	Word	_	5	E	5:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

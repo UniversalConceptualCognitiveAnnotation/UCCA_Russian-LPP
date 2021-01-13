@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2049010
+# text = Но я совсем не уверен , что у меня это получится .
+1	Но	_	Word	Word	_	5	L	5:L	_
+2	я	_	Word	Word	_	5	A	5:A	_
+3	совсем	_	Word	Word	_	5	D	5:D	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	уверен	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	что	_	Word	Word	_	9	R	9:R	_
+8	у	_	Word	Word	_	9	R	9:R	_
+9	меня	_	Word	Word	_	5	A	5:A	_
+10	это	_	Word	Word	_	9	A	9:A	_
+11	получится	_	Word	Word	_	9	D	9:D	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

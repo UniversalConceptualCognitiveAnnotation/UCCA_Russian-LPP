@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2091002
+# text = Потухший вулкан служил ему табуретом .
+1	Потухший	_	Word	Word	_	2	E	2:E	_
+2	вулкан	_	Word	Word	_	3	A	3:A	_
+3	служил	_	Word	Word	_	0	H	0:H	_
+4	ему	_	Word	Word	_	3	A	3:A	_
+5	табуретом	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

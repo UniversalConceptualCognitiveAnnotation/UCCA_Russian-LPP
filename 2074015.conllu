@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2074015
+# text = Но я уже видел короля , который ... - Короли ничем не владеют . Они только царствуют . Это совсем не одно и то же . -
+1	Но	_	Word	Word	_	13	L	13:L	_
+2	я	_	Word	Word	_	4	A	4:A	_
+3	уже	_	Word	Word	_	4	D	4:D	_
+4	видел	_	Word	Word	_	0	H	0:H	_
+5	короля	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	который	_	Word	Word	_	5	E	5:E	_
+8	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+10	Короли	_	Word	Word	_	13	A	13:A	_
+11	ничем	_	Word	Word	_	13	A	13:A	_
+12	не	_	Word	Word	_	13	D	13:D	_
+13	владеют	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	Они	_	Word	Word	_	17	A	17:A	_
+16	только	_	Word	Word	_	17	D	17:D	_
+17	царствуют	_	Word	Word	_	13	H	13:H	_
+18	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+19	Это	_	Word	Word	_	22	A	22:A	_
+20	совсем	_	Word	Word	_	22	D	22:D	_
+21	не	_	Word	Word	_	22	D	22:D	_
+22	одно	_	Word	Word	_	13	H	13:H	_
+23	и	_	Word	Word	_	22	Terminal	22:Terminal	_
+24	то	_	Word	Word	_	22	Terminal	22:Terminal	_
+25	же	_	Word	Word	_	22	Terminal	22:Terminal	_
+26	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+27	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+

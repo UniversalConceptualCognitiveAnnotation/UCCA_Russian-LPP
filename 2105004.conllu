@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 2105004
+# text = Но из - за него дом был словно заколдован : в сердце своем он скрывал тайну ... - Да , - сказал я . - Будь то дом , звезды или пустыня - самое прекрасное в них то , чего не увидишь глазами . -
+1	Но	_	Word	Word	_	15	L	15:L	_
+2	из	_	Word	Word	_	5	R	5:R	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	за	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	него	_	Word	Word	_	9	A	9:A	_
+6	дом	_	Word	Word	_	9	A	9:A	_
+7	был	_	Word	Word	_	9	F	9:F	_
+8	словно	_	Word	Word	_	9	G	9:G	_
+9	заколдован	_	Word	Word	_	0	H	0:H	_
+10	:	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	в	_	Word	Word	_	12	R	12:R	_
+12	сердце	_	Word	Word	_	15	A	15:A	_
+13	своем	_	Word	Word	_	12	E	12:E	_
+14	он	_	Word	Word	_	15	A	15:A	_
+15	скрывал	_	Word	Word	_	9	H	9:H	_
+16	тайну	_	Word	Word	_	15	A	15:A	_
+17	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+18	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+19	Да	_	Word	Word	_	35	G	35:G	_
+20	,	_	Punctuation	Punctuation	_	22	U	22:U	_
+21	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+22	сказал	_	Word	Word	_	9	H	9:H	_
+23	я	_	Word	Word	_	22	A	22:A	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+25	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	Будь	_	Word	Word	_	28	Q	28:Q	_
+27	то	_	Word	Word	_	26	Terminal	26:Terminal	_
+28	дом	_	Word	Word	_	35	A	35:A	_
+29	,	_	Punctuation	Punctuation	_	28	U	28:U	_
+30	звезды	_	Word	Word	_	28	C	28:C	_
+31	или	_	Word	Word	_	28	N	28:N	_
+32	пустыня	_	Word	Word	_	28	C	28:C	_
+33	-	_	Punctuation	Punctuation	_	35	U	35:U	_
+34	самое	_	Word	Word	_	35	D	35:D	_
+35	прекрасное	_	Word	Word	_	22	A	22:A	_
+36	в	_	Word	Word	_	28	R	28:R	_
+37	них	_	Word	Word	_	28	E	28:E	_
+38	то	_	Word	Word	_	35	A	35:A	_
+39	,	_	Punctuation	Punctuation	_	38	U	38:U	_
+40	чего	_	Word	Word	_	42	R	42:R	_
+41	не	_	Word	Word	_	42	D	42:D	_
+42	увидишь	_	Word	Word	_	38	E	38:E	_
+43	глазами	_	Word	Word	_	42	A	42:A	_
+44	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+45	-	_	Punctuation	Punctuation	_	42	U	42:U	_
+

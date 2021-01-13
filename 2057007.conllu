@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2057007
+# text = И прямо раздувается от гордости .
+1	И	_	Word	Word	_	3	L	3:L	_
+2	прямо	_	Word	Word	_	3	L	3:L	_
+3	раздувается	_	Word	Word	_	0	H	0:H	_
+4	от	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	гордости	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

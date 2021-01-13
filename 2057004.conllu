@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2057004
+# text = И никогда ничего не делал .
+1	И	_	Word	Word	_	5	L	5:L	_
+2	никогда	_	Word	Word	_	5	T	5:T	_
+3	ничего	_	Word	Word	_	5	A	5:A	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	делал	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

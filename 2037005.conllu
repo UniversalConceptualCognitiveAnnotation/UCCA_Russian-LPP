@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2037005
+# text = Облетел я чуть ли не весь свет .
+1	Облетел	_	Word	Word	_	0	H	0:H	_
+2	я	_	Word	Word	_	1	A	1:A	_
+3	чуть	_	Word	Word	_	1	D	1:D	_
+4	ли	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	не	_	Word	Word	_	1	D	1:D	_
+6	весь	_	Word	Word	_	7	E	7:E	_
+7	свет	_	Word	Word	_	1	A	1:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

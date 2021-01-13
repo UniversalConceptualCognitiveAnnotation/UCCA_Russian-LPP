@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2052004
+# text = И если планета очень маленькая , а баобабов много , они разорвут ее на клочки . -
+1	И	_	Word	Word	_	8	L	8:L	_
+2	если	_	Word	Word	_	8	L	8:L	_
+3	планета	_	Word	Word	_	5	A	5:A	_
+4	очень	_	Word	Word	_	5	D	5:D	_
+5	маленькая	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	а	_	Word	Word	_	8	L	8:L	_
+8	баобабов	_	Word	Word	_	5	H	5:H	_
+9	много	_	Word	Word	_	8	Q	8:Q	_
+10	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	они	_	Word	Word	_	12	A	12:A	_
+12	разорвут	_	Word	Word	_	5	H	5:H	_
+13	ее	_	Word	Word	_	12	A	12:A	_
+14	на	_	Word	Word	_	15	R	15:R	_
+15	клочки	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+

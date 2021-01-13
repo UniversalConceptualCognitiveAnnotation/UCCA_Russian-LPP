@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2106002
+# text = А это был самый настоящий деревенский колодец .
+1	А	_	Word	Word	_	3	L	3:L	_
+2	это	_	Word	Word	_	3	A	3:A	_
+3	был	_	Word	Word	_	0	H	0:H	_
+4	самый	_	Word	Word	_	5	D	5:D	_
+5	настоящий	_	Word	Word	_	7	E	7:E	_
+6	деревенский	_	Word	Word	_	7	E	7:E	_
+7	колодец	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

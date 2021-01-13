@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2049014
+# text = Я пробую рисовать и так и эдак , наугад , с грехом пополам .
+1	Я	_	Word	Word	_	3	A	3:A	_
+2	пробую	_	Word	Word	_	3	D	3:D	_
+3	рисовать	_	Word	Word	_	0	H	0:H	_
+4	и	_	Word	Word	_	3	D	3:D	_
+5	так	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	и	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	эдак	_	Word	Word	_	4	Terminal	4:Terminal	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	наугад	_	Word	Word	_	4	C	4:C	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	с	_	Word	Word	_	4	C	4:C	_
+12	грехом	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	пополам	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

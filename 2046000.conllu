@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2046000
+# text = К счастью для репутации астероида Б - 612 , правитель Турции велел своим подданным под страхом смерти носить европейское платье .
+1	К	_	Word	Word	_	2	R	2:R	_
+2	счастью	_	Word	Word	_	0	H	0:H	_
+3	для	_	Word	Word	_	4	R	4:R	_
+4	репутации	_	Word	Word	_	2	A	2:A	_
+5	астероида	_	Word	Word	_	4	A	4:A	_
+6	Б	_	Word	Word	_	5	Q	5:Q	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	612	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	правитель	_	Word	Word	_	12	A	12:A	_
+11	Турции	_	Word	Word	_	10	A	10:A	_
+12	велел	_	Word	Word	_	2	H	2:H	_
+13	своим	_	Word	Word	_	12	A	12:A	_
+14	подданным	_	Word	Word	_	13	A	13:A|16:A|18:A	_
+15	под	_	Word	Word	_	16	R	16:R	_
+16	страхом	_	Word	Word	_	12	A	12:A	_
+17	смерти	_	Word	Word	_	16	A	16:A	_
+18	носить	_	Word	Word	_	16	H	16:H	_
+19	европейское	_	Word	Word	_	20	E	20:E	_
+20	платье	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2072007
+# text = О чем забыть ? - спросил Маленький принц .
+1	О	_	Word	Word	_	2	R	2:R	_
+2	чем	_	Word	Word	_	3	A	3:A	_
+3	забыть	_	Word	Word	_	6	A	6:A	_
+4	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	спросил	_	Word	Word	_	0	H	0:H	_
+7	Маленький	_	Word	Word	_	8	E	8:E	_
+8	принц	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

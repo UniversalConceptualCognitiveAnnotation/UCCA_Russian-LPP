@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2098000
+# text = Назавтра Маленький принц вновь пришел на то же место . -
+1	Назавтра	_	Word	Word	_	5	T	5:T	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	5	A	5:A	_
+4	вновь	_	Word	Word	_	5	D	5:D	_
+5	пришел	_	Word	Word	_	0	H	0:H	_
+6	на	_	Word	Word	_	9	R	9:R	_
+7	то	_	Word	Word	_	9	E	9:E	_
+8	же	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	место	_	Word	Word	_	5	A	5:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2044004
+# text = И прибавил не без грусти : - Если идти все прямо да прямо , далеко не уйдешь ...
+1	И	_	Word	Word	_	2	L	2:L	_
+2	прибавил	_	Word	Word	_	0	H	0:H	_
+3	не	_	Word	Word	_	2	D	2:D	_
+4	без	_	Word	Word	_	5	E	5:E	_
+5	грусти	_	Word	Word	_	2	D	2:D	_
+6	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Если	_	Word	Word	_	17	L	17:L	_
+9	идти	_	Word	Word	_	2	A	2:A	_
+10	все	_	Word	Word	_	9	D	9:D	_
+11	прямо	_	Word	Word	_	9	A	9:A	_
+12	да	_	Word	Word	_	11	Terminal	11:Terminal	_
+13	прямо	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+15	далеко	_	Word	Word	_	17	D	17:D	_
+16	не	_	Word	Word	_	17	D	17:D	_
+17	уйдешь	_	Word	Word	_	9	H	9:H	_
+18	...	_	Punctuation	Punctuation	_	17	U	17:U	_
+

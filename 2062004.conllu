@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2062004
+# text = На них очень удобно по утрам разогревать завтрак .
+1	На	_	Word	Word	_	2	R	2:R	_
+2	них	_	Word	Word	_	7	A	7:A	_
+3	очень	_	Word	Word	_	4	E	4:E	_
+4	удобно	_	Word	Word	_	7	D	7:D	_
+5	по	_	Word	Word	_	6	R	6:R	_
+6	утрам	_	Word	Word	_	7	T	7:T	_
+7	разогревать	_	Word	Word	_	0	H	0:H	_
+8	завтрак	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

@@ -1,0 +1,7 @@
+# format = ucca
+# sent_id = 2104016
+# text = Это правда .
+1	Это	_	Word	Word	_	2	A	2:A	_
+2	правда	_	Word	Word	_	0	H	0:H	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

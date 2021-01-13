@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2090001
+# text = Здравствуй , - отвечал цветок . -
+1	Здравствуй	_	Word	Word	_	4	A	4:A	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	отвечал	_	Word	Word	_	0	H	0:H	_
+5	цветок	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

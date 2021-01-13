@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2049013
+# text = И я плохо помню , какого цвета была его одежда .
+1	И	_	Word	Word	_	4	L	4:L	_
+2	я	_	Word	Word	_	4	A	4:A	_
+3	плохо	_	Word	Word	_	4	D	4:D	_
+4	помню	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	какого	_	Word	Word	_	7	A	7:A	_
+7	цвета	_	Word	Word	_	4	A	4:A	_
+8	была	_	Word	Word	_	7	F	7:F	_
+9	его	_	Word	Word	_	10	E	10:E	_
+10	одежда	_	Word	Word	_	7	A	7:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

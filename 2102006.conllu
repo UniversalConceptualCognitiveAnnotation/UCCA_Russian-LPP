@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2102006
+# text = А что делать в эти пятьдесят три минуты ? -
+1	А	_	Word	Word	_	3	L	3:L	_
+2	что	_	Word	Word	_	3	A	3:A	_
+3	делать	_	Word	Word	_	0	H	0:H	_
+4	в	_	Word	Word	_	8	R	8:R	_
+5	эти	_	Word	Word	_	8	E	8:E	_
+6	пятьдесят	_	Word	Word	_	8	Q	8:Q	_
+7	три	_	Word	Word	_	6	C	6:C	_
+8	минуты	_	Word	Word	_	3	T	3:T	_
+9	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2061007
+# text = Хотя Маленький принц и полюбил прекрасный цветок , и рад был ему служить , но вскоре в душе его пробудились сомнения .
+1	Хотя	_	Word	Word	_	13	L	13:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	0	C	0:C|2:A|13:A	_
+4	и	_	Word	Word	_	13	L	13:L	_
+5	полюбил	_	Word	Word	_	0	H	0:H	_
+6	прекрасный	_	Word	Word	_	7	E	7:E	_
+7	цветок	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	и	_	Word	Word	_	13	L	13:L	_
+10	рад	_	Word	Word	_	13	D	13:D	_
+11	был	_	Word	Word	_	13	F	13:F	_
+12	ему	_	Word	Word	_	13	A	13:A	_
+13	служить	_	Word	Word	_	5	H	5:H	_
+14	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+15	но	_	Word	Word	_	21	L	21:L	_
+16	вскоре	_	Word	Word	_	21	L	21:L	_
+17	в	_	Word	Word	_	18	R	18:R	_
+18	душе	_	Word	Word	_	21	A	21:A	_
+19	его	_	Word	Word	_	18	E	18:E	_
+20	пробудились	_	Word	Word	_	21	D	21:D	_
+21	сомнения	_	Word	Word	_	5	H	5:H	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

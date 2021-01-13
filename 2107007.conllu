@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 2107007
+# text = Когда я был маленький , так светились для меня рождественские подарки : сияньем свеч на елке , пением органа в час полночной мессы , ласковыми улыбками . -
+1	Когда	_	Word	Word	_	7	L	7:L	_
+2	я	_	Word	Word	_	4	A	4:A	_
+3	был	_	Word	Word	_	4	F	4:F	_
+4	маленький	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	так	_	Word	Word	_	7	A	7:A	_
+7	светились	_	Word	Word	_	4	H	4:H	_
+8	для	_	Word	Word	_	9	R	9:R	_
+9	меня	_	Word	Word	_	0	C	0:C|13:A|18:A|26:A	_
+10	рождественские	_	Word	Word	_	11	E	11:E	_
+11	подарки	_	Word	Word	_	0	C	0:C|13:A|18:A|26:A	_
+12	:	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	сияньем	_	Word	Word	_	4	H	4:H	_
+14	свеч	_	Word	Word	_	13	A	13:A	_
+15	на	_	Word	Word	_	16	R	16:R	_
+16	елке	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	пением	_	Word	Word	_	4	H	4:H	_
+19	органа	_	Word	Word	_	18	A	18:A	_
+20	в	_	Word	Word	_	23	R	23:R	_
+21	час	_	Word	Word	_	23	T	23:T	_
+22	полночной	_	Word	Word	_	21	C	21:C	_
+23	мессы	_	Word	Word	_	18	A	18:A	_
+24	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+25	ласковыми	_	Word	Word	_	26	E	26:E	_
+26	улыбками	_	Word	Word	_	4	H	4:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+

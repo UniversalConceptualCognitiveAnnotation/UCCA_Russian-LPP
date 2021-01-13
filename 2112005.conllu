@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2112005
+# text = Но не смел больше ни о чем спрашивать .
+1	Но	_	Word	Word	_	8	L	8:L	_
+2	не	_	Word	Word	_	8	D	8:D	_
+3	смел	_	Word	Word	_	8	D	8:D	_
+4	больше	_	Word	Word	_	8	D	8:D	_
+5	ни	_	Word	Word	_	7	E	7:E	_
+6	о	_	Word	Word	_	7	R	7:R	_
+7	чем	_	Word	Word	_	8	A	8:A	_
+8	спрашивать	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

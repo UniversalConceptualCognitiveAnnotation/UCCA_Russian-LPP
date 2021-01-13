@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2050007
+# text = Но Маленький принц прибавил : - Значит , они и баобабы тоже едят ?
+1	Но	_	Word	Word	_	4	L	4:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	4	A	4:A	_
+4	прибавил	_	Word	Word	_	0	H	0:H	_
+5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Значит	_	Word	Word	_	13	G	13:G	_
+8	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+9	они	_	Word	Word	_	13	A	13:A	_
+10	и	_	Word	Word	_	11	F	11:F	_
+11	баобабы	_	Word	Word	_	13	A	13:A	_
+12	тоже	_	Word	Word	_	11	E	11:E	_
+13	едят	_	Word	Word	_	4	A	4:A	_
+14	?	_	Punctuation	Punctuation	_	13	U	13:U	_
+

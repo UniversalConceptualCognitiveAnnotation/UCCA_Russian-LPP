@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2049016
+# text = Но вы уж не взыщите .
+1	Но	_	Word	Word	_	5	L	5:L	_
+2	вы	_	Word	Word	_	5	A	5:A	_
+3	уж	_	Word	Word	_	5	F	5:F	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	взыщите	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

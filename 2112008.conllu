@@ -1,0 +1,53 @@
+# format = ucca
+# sent_id = 2112008
+# text = Он сказал : - Я рад , что ты нашел , в чем там была беда с твоей машиной . Теперь ты можешь вернуться домой ... - Откуда ты знаешь ?! Я как раз собирался сказать ему , что , вопреки всем ожиданиям , мне удалось исправить самолет !
+1	Он	_	Word	Word	_	2	A	2:A	_
+2	сказал	_	Word	Word	_	0	H	0:H	_
+3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Я	_	Word	Word	_	6	A	6:A	_
+6	рад	_	Word	Word	_	2	A	2:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	что	_	Word	Word	_	10	R	10:R	_
+9	ты	_	Word	Word	_	10	A	10:A	_
+10	нашел	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	в	_	Word	Word	_	13	R	13:R	_
+13	чем	_	Word	Word	_	16	A	16:A	_
+14	там	_	Word	Word	_	16	A	16:A	_
+15	была	_	Word	Word	_	16	F	16:F	_
+16	беда	_	Word	Word	_	10	A	10:A	_
+17	с	_	Word	Word	_	19	R	19:R	_
+18	твоей	_	Word	Word	_	19	E	19:E	_
+19	машиной	_	Word	Word	_	16	A	16:A	_
+20	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+21	Теперь	_	Word	Word	_	24	T	24:T	_
+22	ты	_	Word	Word	_	24	A	24:A	_
+23	можешь	_	Word	Word	_	24	D	24:D	_
+24	вернуться	_	Word	Word	_	6	H	6:H	_
+25	домой	_	Word	Word	_	24	A	24:A	_
+26	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+28	Откуда	_	Word	Word	_	30	A	30:A	_
+29	ты	_	Word	Word	_	30	A	30:A	_
+30	знаешь	_	Word	Word	_	2	H	2:H	_
+31	?!	_	Punctuation	Punctuation	_	2	U	2:U	_
+32	Я	_	Word	Word	_	36	A	36:A	_
+33	как	_	Word	Word	_	36	T	36:T	_
+34	раз	_	Word	Word	_	33	Terminal	33:Terminal	_
+35	собирался	_	Word	Word	_	36	D	36:D	_
+36	сказать	_	Word	Word	_	2	H	2:H	_
+37	ему	_	Word	Word	_	36	A	36:A	_
+38	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+39	что	_	Word	Word	_	47	R	47:R	_
+40	,	_	Punctuation	Punctuation	_	47	U	47:U	_
+41	вопреки	_	Word	Word	_	47	G	47:G	_
+42	всем	_	Word	Word	_	41	Terminal	41:Terminal	_
+43	ожиданиям	_	Word	Word	_	41	Terminal	41:Terminal	_
+44	,	_	Punctuation	Punctuation	_	47	U	47:U	_
+45	мне	_	Word	Word	_	47	A	47:A	_
+46	удалось	_	Word	Word	_	47	D	47:D	_
+47	исправить	_	Word	Word	_	36	A	36:A	_
+48	самолет	_	Word	Word	_	47	A	47:A	_
+49	!	_	Punctuation	Punctuation	_	47	U	47:U	_
+

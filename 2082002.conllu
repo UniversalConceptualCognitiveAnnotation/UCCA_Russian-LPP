@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2082002
+# text = Да ведь если путешественник станет врать , в учебниках географии все перепутается . И если он выпивает лишнее - тоже беда . -
+1	Да	_	Word	Word	_	6	F	6:F	_
+2	ведь	_	Word	Word	_	12	L	12:L	_
+3	если	_	Word	Word	_	12	L	12:L	_
+4	путешественник	_	Word	Word	_	6	A	6:A	_
+5	станет	_	Word	Word	_	6	D	6:D	_
+6	врать	_	Word	Word	_	0	H	0:H	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	в	_	Word	Word	_	9	R	9:R	_
+9	учебниках	_	Word	Word	_	12	A	12:A	_
+10	географии	_	Word	Word	_	9	E	9:E	_
+11	все	_	Word	Word	_	12	A	12:A	_
+12	перепутается	_	Word	Word	_	6	H	6:H	_
+13	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+14	И	_	Word	Word	_	17	L	17:L	_
+15	если	_	Word	Word	_	17	L	17:L	_
+16	он	_	Word	Word	_	17	A	17:A	_
+17	выпивает	_	Word	Word	_	6	H	6:H	_
+18	лишнее	_	Word	Word	_	17	A	17:A	_
+19	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+20	тоже	_	Word	Word	_	21	D	21:D	_
+21	беда	_	Word	Word	_	6	H	6:H	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+

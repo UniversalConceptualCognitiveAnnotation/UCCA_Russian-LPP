@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2083003
+# text = И только после того как путешественник представит доказательства , можно записать его рассказ чернилами . -
+1	И	_	Word	Word	_	11	L	11:L	_
+2	только	_	Word	Word	_	3	E	3:E	_
+3	после	_	Word	Word	_	11	L	11:L	_
+4	того	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	как	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	путешественник	_	Word	Word	_	7	A	7:A	_
+7	представит	_	Word	Word	_	0	H	0:H	_
+8	доказательства	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	можно	_	Word	Word	_	11	D	11:D	_
+11	записать	_	Word	Word	_	7	H	7:H	_
+12	его	_	Word	Word	_	13	A	13:A	_
+13	рассказ	_	Word	Word	_	11	A	11:A	_
+14	чернилами	_	Word	Word	_	11	A	11:A	_
+15	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+16	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+

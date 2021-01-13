@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2099004
+# text = Но ты будешь плакать ! -
+1	Но	_	Word	Word	_	4	L	4:L	_
+2	ты	_	Word	Word	_	4	A	4:A	_
+3	будешь	_	Word	Word	_	4	F	4:F	_
+4	плакать	_	Word	Word	_	0	H	0:H	_
+5	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

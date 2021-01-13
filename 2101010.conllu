@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2101010
+# text = Им было нехорошо там , где они были прежде ? -
+1	Им	_	Word	Word	_	3	A	3:A	_
+2	было	_	Word	Word	_	3	F	3:F	_
+3	нехорошо	_	Word	Word	_	0	H	0:H	_
+4	там	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	где	_	Word	Word	_	8	R	8:R	_
+7	они	_	Word	Word	_	8	A	8:A	_
+8	были	_	Word	Word	_	4	E	4:E	_
+9	прежде	_	Word	Word	_	8	D	8:D	_
+10	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+

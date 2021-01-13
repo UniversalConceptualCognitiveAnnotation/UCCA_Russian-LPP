@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2087002
+# text = Но тут в песке шевельнулось колечко цвета лунного луча . -
+1	Но	_	Word	Word	_	5	L	5:L	_
+2	тут	_	Word	Word	_	5	L	5:L	_
+3	в	_	Word	Word	_	4	R	4:R	_
+4	песке	_	Word	Word	_	5	A	5:A	_
+5	шевельнулось	_	Word	Word	_	0	H	0:H	_
+6	колечко	_	Word	Word	_	5	A	5:A	_
+7	цвета	_	Word	Word	_	6	C	6:C	_
+8	лунного	_	Word	Word	_	9	E	9:E	_
+9	луча	_	Word	Word	_	6	C	6:C	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2074005
+# text = Пчелы ? - Да нет же . Такие маленькие , золотые , всякий лентяй как посмотрит на них , так и размечтается . А я человек серьезный . Мне мечтать некогда . -
+1	Пчелы	_	Word	Word	_	0	A	0:A|4:A	_
+2	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	Да	_	Word	Word	_	1	H	1:H	_
+5	нет	_	Word	Word	_	4	G	4:G	_
+6	же	_	Word	Word	_	4	F	4:F	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	Такие	_	Word	Word	_	9	A	9:A	_
+9	маленькие	_	Word	Word	_	4	H	4:H	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	золотые	_	Word	Word	_	9	C	9:C	_
+12	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+13	всякий	_	Word	Word	_	14	E	14:E	_
+14	лентяй	_	Word	Word	_	0	C	0:C|22:A	_
+15	как	_	Word	Word	_	16	L	16:L	_
+16	посмотрит	_	Word	Word	_	4	H	4:H	_
+17	на	_	Word	Word	_	18	R	18:R	_
+18	них	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+20	так	_	Word	Word	_	22	L	22:L	_
+21	и	_	Word	Word	_	22	L	22:L	_
+22	размечтается	_	Word	Word	_	4	H	4:H	_
+23	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+24	А	_	Word	Word	_	25	L	25:L	_
+25	я	_	Word	Word	_	4	H	4:H	_
+26	человек	_	Word	Word	_	25	A	25:A	_
+27	серьезный	_	Word	Word	_	26	E	26:E	_
+28	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+29	Мне	_	Word	Word	_	30	A	30:A	_
+30	мечтать	_	Word	Word	_	4	H	4:H	_
+31	некогда	_	Word	Word	_	30	D	30:D	_
+32	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+33	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+

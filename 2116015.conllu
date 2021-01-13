@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2116015
+# text = Напрасно ты идешь со мной . Тебе будет больно на меня смотреть . Тебе покажется , будто я умираю , но это неправда ...
+1	Напрасно	_	Word	Word	_	3	G	3:G	_
+2	ты	_	Word	Word	_	3	A	3:A	_
+3	идешь	_	Word	Word	_	0	H	0:H	_
+4	со	_	Word	Word	_	5	R	5:R	_
+5	мной	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Тебе	_	Word	Word	_	9	A	9:A|12:A	_
+8	будет	_	Word	Word	_	9	F	9:F	_
+9	больно	_	Word	Word	_	3	H	3:H	_
+10	на	_	Word	Word	_	12	A	12:A	_
+11	меня	_	Word	Word	_	12	A	12:A	_
+12	смотреть	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	Тебе	_	Word	Word	_	15	A	15:A	_
+15	покажется	_	Word	Word	_	3	H	3:H	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	будто	_	Word	Word	_	19	R	19:R	_
+18	я	_	Word	Word	_	19	A	19:A	_
+19	умираю	_	Word	Word	_	15	A	15:A	_
+20	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+21	но	_	Word	Word	_	23	L	23:L	_
+22	это	_	Word	Word	_	23	A	23:A	_
+23	неправда	_	Word	Word	_	3	H	3:H	_
+24	...	_	Punctuation	Punctuation	_	23	U	23:U	_
+

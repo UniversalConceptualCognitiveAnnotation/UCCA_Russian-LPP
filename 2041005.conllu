@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 2041005
+# text = Ведь у меня дома всего очень мало ... - Ему хватит . Я тебе даю совсем маленького барашка . - Не такого уж маленького ... - сказал он , наклонив голову и разглядывая рисунок . -
+1	Ведь	_	Word	Word	_	7	G	7:G	_
+2	у	_	Word	Word	_	3	R	3:R	_
+3	меня	_	Word	Word	_	4	E	4:E	_
+4	дома	_	Word	Word	_	7	A	7:A	_
+5	всего	_	Word	Word	_	7	A	7:A	_
+6	очень	_	Word	Word	_	7	D	7:D	_
+7	мало	_	Word	Word	_	0	H	0:H	_
+8	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	Ему	_	Word	Word	_	11	A	11:A	_
+11	хватит	_	Word	Word	_	7	H	7:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Я	_	Word	Word	_	15	A	15:A	_
+14	тебе	_	Word	Word	_	15	A	15:A	_
+15	даю	_	Word	Word	_	0	P	0:P|24:P	_
+16	совсем	_	Word	Word	_	17	D	17:D	_
+17	маленького	_	Word	Word	_	18	E	18:E	_
+18	барашка	_	Word	Word	_	0	C	0:C|17:A|24:A	_
+19	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+20	-	_	Punctuation	Punctuation	_	24	U	24:U	_
+21	Не	_	Word	Word	_	24	D	24:D	_
+22	такого	_	Word	Word	_	24	D	24:D	_
+23	уж	_	Word	Word	_	24	F	24:F	_
+24	маленького	_	Word	Word	_	27	A	27:A	_
+25	...	_	Punctuation	Punctuation	_	27	U	27:U	_
+26	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+27	сказал	_	Word	Word	_	0	P	0:P|7:P	_
+28	он	_	Word	Word	_	27	A	27:A|30:A|33:A	_
+29	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	наклонив	_	Word	Word	_	7	H	7:H	_
+31	голову	_	Word	Word	_	30	A	30:A	_
+32	и	_	Word	Word	_	33	L	33:L	_
+33	разглядывая	_	Word	Word	_	7	H	7:H	_
+34	рисунок	_	Word	Word	_	33	A	33:A	_
+35	.	_	Punctuation	Punctuation	_	33	U	33:U	_
+36	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+

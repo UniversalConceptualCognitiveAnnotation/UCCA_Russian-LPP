@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2116004
+# text = Тебе покажется , что мне больно . Покажется даже , что я умираю . Так уж оно бывает . Не приходи , не надо . -
+1	Тебе	_	Word	Word	_	2	A	2:A|8:A	_
+2	покажется	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	что	_	Word	Word	_	6	R	6:R	_
+5	мне	_	Word	Word	_	6	A	6:A	_
+6	больно	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+8	Покажется	_	Word	Word	_	2	H	2:H	_
+9	даже	_	Word	Word	_	18	L	18:L	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	что	_	Word	Word	_	13	R	13:R	_
+12	я	_	Word	Word	_	13	A	13:A	_
+13	умираю	_	Word	Word	_	8	A	8:A	_
+14	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	Так	_	Word	Word	_	18	F	18:F	_
+16	уж	_	Word	Word	_	18	L	18:L	_
+17	оно	_	Word	Word	_	18	A	18:A	_
+18	бывает	_	Word	Word	_	2	H	2:H	_
+19	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	Не	_	Word	Word	_	21	D	21:D	_
+21	приходи	_	Word	Word	_	2	H	2:H	_
+22	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+23	не	_	Word	Word	_	2	H	2:H	_
+24	надо	_	Word	Word	_	23	D	23:D	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+

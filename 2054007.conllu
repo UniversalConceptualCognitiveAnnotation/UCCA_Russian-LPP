@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2054007
+# text = И если бы за одну минуту перенестись во Францию , можно было бы полюбоваться закатом .
+1	И	_	Word	Word	_	14	L	14:L	_
+2	если	_	Word	Word	_	14	L	14:L	_
+3	бы	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	за	_	Word	Word	_	6	R	6:R	_
+5	одну	_	Word	Word	_	6	Q	6:Q	_
+6	минуту	_	Word	Word	_	7	T	7:T	_
+7	перенестись	_	Word	Word	_	0	H	0:H	_
+8	во	_	Word	Word	_	9	R	9:R	_
+9	Францию	_	Word	Word	_	7	A	7:A	_
+10	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	можно	_	Word	Word	_	14	D	14:D	_
+12	было	_	Word	Word	_	14	F	14:F	_
+13	бы	_	Word	Word	_	14	F	14:F	_
+14	полюбоваться	_	Word	Word	_	7	H	7:H	_
+15	закатом	_	Word	Word	_	14	A	14:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

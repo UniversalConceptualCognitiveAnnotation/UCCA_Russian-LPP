@@ -1,0 +1,45 @@
+# format = ucca
+# sent_id = 2085016
+# text = Только тому фонарщику , что должен был зажигать единственный фонарь на Северном полюсе , да еще его собрату на Южном полюсе - только этим двоим жилось легко и беззаботно : им приходилось заниматься своим делом всего два раза в год .
+1	Только	_	Word	Word	_	3	E	3:E	_
+2	тому	_	Word	Word	_	3	E	3:E	_
+3	фонарщику	_	Word	Word	_	0	C	0:C|8:A|25:C	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	что	_	Word	Word	_	8	R	8:R	_
+6	должен	_	Word	Word	_	8	D	8:D	_
+7	был	_	Word	Word	_	8	F	8:F	_
+8	зажигать	_	Word	Word	_	3	E	3:E	_
+9	единственный	_	Word	Word	_	10	Q	10:Q	_
+10	фонарь	_	Word	Word	_	8	A	8:A	_
+11	на	_	Word	Word	_	13	R	13:R	_
+12	Северном	_	Word	Word	_	13	E	13:E	_
+13	полюсе	_	Word	Word	_	8	A	8:A	_
+14	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	да	_	Word	Word	_	3	N	3:N	_
+16	еще	_	Word	Word	_	3	N	3:N	_
+17	его	_	Word	Word	_	3	C	3:C	_
+18	собрату	_	Word	Word	_	17	A	17:A	_
+19	на	_	Word	Word	_	21	R	21:R	_
+20	Южном	_	Word	Word	_	21	E	21:E	_
+21	полюсе	_	Word	Word	_	17	A	17:A	_
+22	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+23	только	_	Word	Word	_	25	E	25:E	_
+24	этим	_	Word	Word	_	25	E	25:E	_
+25	двоим	_	Word	Word	_	3	C	3:C	_
+26	жилось	_	Word	Word	_	0	H	0:H	_
+27	легко	_	Word	Word	_	26	D	26:D	_
+28	и	_	Word	Word	_	27	N	27:N	_
+29	беззаботно	_	Word	Word	_	27	C	27:C	_
+30	:	_	Punctuation	Punctuation	_	26	U	26:U	_
+31	им	_	Word	Word	_	35	A	35:A	_
+32	приходилось	_	Word	Word	_	35	D	35:D	_
+33	заниматься	_	Word	Word	_	35	D	35:D	_
+34	своим	_	Word	Word	_	35	E	35:E	_
+35	делом	_	Word	Word	_	26	H	26:H	_
+36	всего	_	Word	Word	_	38	E	38:E	_
+37	два	_	Word	Word	_	38	Q	38:Q	_
+38	раза	_	Word	Word	_	35	T	35:T	_
+39	в	_	Word	Word	_	40	R	40:R	_
+40	год	_	Word	Word	_	38	E	38:E	_
+41	.	_	Punctuation	Punctuation	_	40	U	40:U	_
+

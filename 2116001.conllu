@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2116001
+# text = Как будто вместо звезд я подарил тебе целую кучу смеющихся бубенцов ... И он опять засмеялся .
+1	Как	_	Word	Word	_	6	G	6:G	_
+2	будто	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	вместо	_	Word	Word	_	4	L	4:L	_
+4	звезд	_	Word	Word	_	6	H	6:H	_
+5	я	_	Word	Word	_	6	A	6:A|4:A	_
+6	подарил	_	Word	Word	_	0	H	0:H	_
+7	тебе	_	Word	Word	_	6	A	6:A|4:A	_
+8	целую	_	Word	Word	_	9	E	9:E	_
+9	кучу	_	Word	Word	_	11	Q	11:Q	_
+10	смеющихся	_	Word	Word	_	11	E	11:E	_
+11	бубенцов	_	Word	Word	_	6	A	6:A	_
+12	...	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	И	_	Word	Word	_	16	L	16:L	_
+14	он	_	Word	Word	_	16	A	16:A	_
+15	опять	_	Word	Word	_	16	D	16:D	_
+16	засмеялся	_	Word	Word	_	6	H	6:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2112009
+# text = Он не ответил , он только сказал : - И я тоже сегодня вернусь домой .
+1	Он	_	Word	Word	_	3	A	3:A	_
+2	не	_	Word	Word	_	3	D	3:D	_
+3	ответил	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	он	_	Word	Word	_	7	A	7:A	_
+6	только	_	Word	Word	_	7	D	7:D	_
+7	сказал	_	Word	Word	_	3	H	3:H	_
+8	:	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	И	_	Word	Word	_	11	E	11:E	_
+11	я	_	Word	Word	_	14	A	14:A	_
+12	тоже	_	Word	Word	_	14	D	14:D	_
+13	сегодня	_	Word	Word	_	14	T	14:T	_
+14	вернусь	_	Word	Word	_	7	A	7:A	_
+15	домой	_	Word	Word	_	14	A	14:A	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

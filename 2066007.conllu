@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2066007
+# text = Где же тут царствовать ? -
+1	Где	_	Word	Word	_	3	E	3:E	_
+2	же	_	Word	Word	_	4	F	4:F	_
+3	тут	_	Word	Word	_	4	A	4:A	_
+4	царствовать	_	Word	Word	_	0	H	0:H	_
+5	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

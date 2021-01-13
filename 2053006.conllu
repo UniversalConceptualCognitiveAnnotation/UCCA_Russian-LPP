@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2053006
+# text = Быть может , вы спросите : отчего в моей книжке нет больше таких внушительных рисунков , как этот , с баобабами ?
+1	Быть	_	Word	Word	_	5	L	5:L	_
+2	может	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	вы	_	Word	Word	_	5	A	5:A	_
+5	спросите	_	Word	Word	_	0	H	0:H	_
+6	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	отчего	_	Word	Word	_	5	A	5:A	_
+8	в	_	Word	Word	_	10	R	10:R	_
+9	моей	_	Word	Word	_	10	E	10:E	_
+10	книжке	_	Word	Word	_	11	A	11:A	_
+11	нет	_	Word	Word	_	7	H	7:H	_
+12	больше	_	Word	Word	_	11	D	11:D	_
+13	таких	_	Word	Word	_	15	E	15:E	_
+14	внушительных	_	Word	Word	_	15	E	15:E	_
+15	рисунков	_	Word	Word	_	11	A	11:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	как	_	Word	Word	_	18	R	18:R	_
+18	этот	_	Word	Word	_	15	E	15:E	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	с	_	Word	Word	_	21	R	21:R	_
+21	баобабами	_	Word	Word	_	18	E	18:E	_
+22	?	_	Punctuation	Punctuation	_	21	U	21:U	_
+

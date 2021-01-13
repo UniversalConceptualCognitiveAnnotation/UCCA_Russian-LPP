@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2096004
+# text = Как интересно ! А куры там есть ? - Нет . -
+1	Как	_	Word	Word	_	2	D	2:D	_
+2	интересно	_	Word	Word	_	0	H	0:H	_
+3	!	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	А	_	Word	Word	_	10	L	10:L	_
+5	куры	_	Word	Word	_	7	A	7:A|10:A	_
+6	там	_	Word	Word	_	7	A	7:A|10:A	_
+7	есть	_	Word	Word	_	0	S	0:S|10:S	_
+8	?	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	Нет	_	Word	Word	_	2	H	2:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+

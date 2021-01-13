@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2060004
+# text = У нее было четыре шипа , и однажды она сказала ему : - Пусть приходят тигры , не боюсь я их когтей ! -
+1	У	_	Word	Word	_	2	R	2:R	_
+2	нее	_	Word	Word	_	3	A	3:A	_
+3	было	_	Word	Word	_	0	H	0:H	_
+4	четыре	_	Word	Word	_	5	Q	5:Q	_
+5	шипа	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	и	_	Word	Word	_	10	L	10:L	_
+8	однажды	_	Word	Word	_	10	T	10:T	_
+9	она	_	Word	Word	_	10	A	10:A	_
+10	сказала	_	Word	Word	_	3	H	3:H	_
+11	ему	_	Word	Word	_	10	A	10:A	_
+12	:	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	Пусть	_	Word	Word	_	15	G	15:G	_
+15	приходят	_	Word	Word	_	10	A	10:A	_
+16	тигры	_	Word	Word	_	15	A	15:A	_
+17	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	не	_	Word	Word	_	19	D	19:D	_
+19	боюсь	_	Word	Word	_	15	H	15:H	_
+20	я	_	Word	Word	_	19	A	19:A	_
+21	их	_	Word	Word	_	22	E	22:E	_
+22	когтей	_	Word	Word	_	19	A	19:A	_
+23	!	_	Punctuation	Punctuation	_	22	U	22:U	_
+24	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+

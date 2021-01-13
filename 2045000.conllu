@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2045000
+# text = IV Так я сделал еще одно важное открытие : его родная планета вся - то величиной с дом !
+1	IV	_	Word	Word	_	0	H	0:H	_
+2	Так	_	Word	Word	_	8	L	8:L	_
+3	я	_	Word	Word	_	8	A	8:A	_
+4	сделал	_	Word	Word	_	8	F	8:F	_
+5	еще	_	Word	Word	_	6	E	6:E	_
+6	одно	_	Word	Word	_	8	D	8:D	_
+7	важное	_	Word	Word	_	8	D	8:D	_
+8	открытие	_	Word	Word	_	1	H	1:H	_
+9	:	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	его	_	Word	Word	_	12	E	12:E	_
+11	родная	_	Word	Word	_	12	E	12:E	_
+12	планета	_	Word	Word	_	16	A	16:A	_
+13	вся	_	Word	Word	_	16	D	16:D	_
+14	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	то	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	величиной	_	Word	Word	_	8	A	8:A	_
+17	с	_	Word	Word	_	18	R	18:R	_
+18	дом	_	Word	Word	_	16	A	16:A	_
+19	!	_	Punctuation	Punctuation	_	18	U	18:U	_
+

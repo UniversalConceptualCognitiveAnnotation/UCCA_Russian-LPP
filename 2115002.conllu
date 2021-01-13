@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2115002
+# text = Вот это и есть мой подарок ... Это будет как с водой ... - Как так ? -
+1	Вот	_	Word	Word	_	9	L	9:L	_
+2	это	_	Word	Word	_	4	A	4:A	_
+3	и	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	есть	_	Word	Word	_	0	H	0:H	_
+5	мой	_	Word	Word	_	6	E	6:E	_
+6	подарок	_	Word	Word	_	4	A	4:A	_
+7	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	Это	_	Word	Word	_	9	A	9:A	_
+9	будет	_	Word	Word	_	4	H	4:H	_
+10	как	_	Word	Word	_	12	R	12:R	_
+11	с	_	Word	Word	_	12	R	12:R	_
+12	водой	_	Word	Word	_	9	A	9:A	_
+13	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+15	Как	_	Word	Word	_	4	H	4:H	_
+16	так	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	?	_	Punctuation	Punctuation	_	15	U	15:U	_
+18	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+

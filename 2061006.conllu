@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2061006
+# text = Тогда она закашляла сильнее : пускай его все - таки помучит совесть !
+1	Тогда	_	Word	Word	_	11	L	11:L	_
+2	она	_	Word	Word	_	3	A	3:A	_
+3	закашляла	_	Word	Word	_	0	H	0:H	_
+4	сильнее	_	Word	Word	_	3	D	3:D	_
+5	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	пускай	_	Word	Word	_	11	L	11:L	_
+7	его	_	Word	Word	_	11	A	11:A	_
+8	все	_	Word	Word	_	11	G	11:G	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	таки	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	помучит	_	Word	Word	_	3	H	3:H	_
+12	совесть	_	Word	Word	_	11	A	11:A	_
+13	!	_	Punctuation	Punctuation	_	11	U	11:U	_
+

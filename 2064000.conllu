@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2064000
+# text = И ни слова упрека .
+1	И	_	Word	Word	_	4	L	4:L	_
+2	ни	_	Word	Word	_	4	D	4:D	_
+3	слова	_	Word	Word	_	4	A	4:A	_
+4	упрека	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

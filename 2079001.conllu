@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2079001
+# text = Маленький принц вспомнил , как он когда - то переставлял стул с места на место , чтобы лишний раз поглядеть на закат .
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	3	A	3:A	_
+3	вспомнил	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	как	_	Word	Word	_	10	R	10:R	_
+6	он	_	Word	Word	_	10	A	10:A|20:A	_
+7	когда	_	Word	Word	_	10	T	10:T	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	то	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	переставлял	_	Word	Word	_	3	A	3:A	_
+11	стул	_	Word	Word	_	10	A	10:A	_
+12	с	_	Word	Word	_	13	R	13:R	_
+13	места	_	Word	Word	_	10	A	10:A	_
+14	на	_	Word	Word	_	13	N	13:N	_
+15	место	_	Word	Word	_	13	C	13:C	_
+16	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	чтобы	_	Word	Word	_	20	L	20:L	_
+18	лишний	_	Word	Word	_	19	Q	19:Q	_
+19	раз	_	Word	Word	_	20	D	20:D	_
+20	поглядеть	_	Word	Word	_	10	H	10:H	_
+21	на	_	Word	Word	_	22	R	22:R	_
+22	закат	_	Word	Word	_	20	A	20:A	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2115001
+# text = Ах , малыш , малыш , как я люблю , когда ты смеешься ! -
+1	Ах	_	Word	Word	_	9	F	9:F	_
+2	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+3	малыш	_	Word	Word	_	9	G	9:G	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	малыш	_	Word	Word	_	3	C	3:C	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	как	_	Word	Word	_	9	D	9:D	_
+8	я	_	Word	Word	_	9	A	9:A	_
+9	люблю	_	Word	Word	_	0	H	0:H	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	когда	_	Word	Word	_	13	R	13:R	_
+12	ты	_	Word	Word	_	13	A	13:A	_
+13	смеешься	_	Word	Word	_	9	A	9:A	_
+14	!	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+

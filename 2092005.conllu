@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2092005
+# text = И Маленький принц увидел , что все они похожи на его цветок . -
+1	И	_	Word	Word	_	4	L	4:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	4	A	4:A	_
+4	увидел	_	Word	Word	_	0	H	0:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	что	_	Word	Word	_	9	R	9:R	_
+7	все	_	Word	Word	_	8	Q	8:Q	_
+8	они	_	Word	Word	_	9	A	9:A	_
+9	похожи	_	Word	Word	_	4	A	4:A	_
+10	на	_	Word	Word	_	12	R	12:R	_
+11	его	_	Word	Word	_	12	E	12:E	_
+12	цветок	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+

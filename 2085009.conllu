@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2085009
+# text = Исполнив свой танец , они тоже скрывались за кулисами .
+1	Исполнив	_	Word	Word	_	3	D	3:D	_
+2	свой	_	Word	Word	_	3	E	3:E	_
+3	танец	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	они	_	Word	Word	_	0	C	0:C|3:A	_
+6	тоже	_	Word	Word	_	5	E	5:E	_
+7	скрывались	_	Word	Word	_	3	H	3:H	_
+8	за	_	Word	Word	_	9	R	9:R	_
+9	кулисами	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

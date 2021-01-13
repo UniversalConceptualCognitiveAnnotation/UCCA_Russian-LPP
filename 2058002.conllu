@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2058002
+# text = Он больше не мог говорить .
+1	Он	_	Word	Word	_	5	A	5:A	_
+2	больше	_	Word	Word	_	5	D	5:D	_
+3	не	_	Word	Word	_	5	D	5:D	_
+4	мог	_	Word	Word	_	5	D	5:D	_
+5	говорить	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

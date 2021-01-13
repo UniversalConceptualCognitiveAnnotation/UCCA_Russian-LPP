@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2117004
+# text = Он немного пал духом .
+1	Он	_	Word	Word	_	3	A	3:A	_
+2	немного	_	Word	Word	_	3	D	3:D	_
+3	пал	_	Word	Word	_	0	H	0:H	_
+4	духом	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

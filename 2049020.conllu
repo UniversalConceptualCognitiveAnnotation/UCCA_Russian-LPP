@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2049020
+# text = Может быть , я немного похож на взрослых .
+1	Может	_	Word	Word	_	6	G	6:G	_
+2	быть	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	я	_	Word	Word	_	6	A	6:A	_
+5	немного	_	Word	Word	_	6	D	6:D	_
+6	похож	_	Word	Word	_	0	H	0:H	_
+7	на	_	Word	Word	_	8	R	8:R	_
+8	взрослых	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

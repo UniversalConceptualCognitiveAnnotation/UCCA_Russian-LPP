@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2107006
+# text = Она была как подарок сердцу .
+1	Она	_	Word	Word	_	3	A	3:A	_
+2	была	_	Word	Word	_	3	F	3:F	_
+3	как	_	Word	Word	_	0	H	0:H	_
+4	подарок	_	Word	Word	_	3	A	3:A	_
+5	сердцу	_	Word	Word	_	4	E	4:E	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

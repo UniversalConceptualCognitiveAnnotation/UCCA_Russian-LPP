@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2062007
+# text = Поэтому он прочистил и потухший вулкан тоже .
+1	Поэтому	_	Word	Word	_	3	L	3:L	_
+2	он	_	Word	Word	_	3	A	3:A	_
+3	прочистил	_	Word	Word	_	0	H	0:H	_
+4	и	_	Word	Word	_	6	E	6:E	_
+5	потухший	_	Word	Word	_	6	E	6:E	_
+6	вулкан	_	Word	Word	_	3	A	3:A	_
+7	тоже	_	Word	Word	_	6	E	6:E	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

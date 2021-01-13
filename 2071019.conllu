@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2071019
+# text = Ну , доставь мне удовольствие , все равно восхищайся мною ! -
+1	Ну	_	Word	Word	_	5	G	5:G	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	доставь	_	Word	Word	_	5	D	5:D	_
+4	мне	_	Word	Word	_	5	A	5:A	_
+5	удовольствие	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	все	_	Word	Word	_	9	G	9:G	_
+8	равно	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	восхищайся	_	Word	Word	_	5	H	5:H	_
+10	мною	_	Word	Word	_	9	A	9:A	_
+11	!	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+

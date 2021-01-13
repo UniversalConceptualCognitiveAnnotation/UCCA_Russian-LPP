@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2057012
+# text = Маленький принц даже побледнел от гнева . -
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	0	A	0:A|6:A	_
+3	даже	_	Word	Word	_	4	G	4:G	_
+4	побледнел	_	Word	Word	_	0	H	0:H	_
+5	от	_	Word	Word	_	6	R	6:R	_
+6	гнева	_	Word	Word	_	4	A	4:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

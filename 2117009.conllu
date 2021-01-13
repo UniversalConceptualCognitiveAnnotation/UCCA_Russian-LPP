@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2117009
+# text = И он сел на песок , потому что ему стало страшно .
+1	И	_	Word	Word	_	11	L	11:L	_
+2	он	_	Word	Word	_	3	A	3:A	_
+3	сел	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	песок	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	потому	_	Word	Word	_	11	L	11:L	_
+8	что	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	ему	_	Word	Word	_	11	A	11:A	_
+10	стало	_	Word	Word	_	11	D	11:D	_
+11	страшно	_	Word	Word	_	3	H	3:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

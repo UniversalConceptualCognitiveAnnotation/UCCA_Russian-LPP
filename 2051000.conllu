@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2051000
+# text = А потом сказал рассудительно : - Баобабы сперва , пока не вырастут , бывают совсем маленькие . -
+1	А	_	Word	Word	_	3	L	3:L	_
+2	потом	_	Word	Word	_	3	T	3:T	_
+3	сказал	_	Word	Word	_	0	H	0:H	_
+4	рассудительно	_	Word	Word	_	3	D	3:D	_
+5	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Баобабы	_	Word	Word	_	16	A	16:A|12:A	_
+8	сперва	_	Word	Word	_	16	T	16:T	_
+9	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+10	пока	_	Word	Word	_	12	L	12:L	_
+11	не	_	Word	Word	_	12	D	12:D	_
+12	вырастут	_	Word	Word	_	16	H	16:H	_
+13	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+14	бывают	_	Word	Word	_	16	F	16:F	_
+15	совсем	_	Word	Word	_	16	D	16:D	_
+16	маленькие	_	Word	Word	_	3	A	3:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+

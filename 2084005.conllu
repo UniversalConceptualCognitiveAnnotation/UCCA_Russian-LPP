@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2084005
+# text = Но мужество тотчас вернулось к нему . -
+1	Но	_	Word	Word	_	2	L	2:L	_
+2	мужество	_	Word	Word	_	0	H	0:H	_
+3	тотчас	_	Word	Word	_	2	T	2:T	_
+4	вернулось	_	Word	Word	_	2	D	2:D	_
+5	к	_	Word	Word	_	6	R	6:R	_
+6	нему	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

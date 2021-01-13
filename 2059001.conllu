@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2059001
+# text = На планете Маленького принца всегда росли простые , скромные цветы - у них было мало лепестков , они занимали совсем мало места и никого не беспокоили .
+1	На	_	Word	Word	_	2	R	2:R	_
+2	планете	_	Word	Word	_	6	A	6:A	_
+3	Маленького	_	Word	Word	_	4	E	4:E	_
+4	принца	_	Word	Word	_	2	E	2:E	_
+5	всегда	_	Word	Word	_	6	D	6:D	_
+6	росли	_	Word	Word	_	0	H	0:H	_
+7	простые	_	Word	Word	_	10	E	10:E	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	скромные	_	Word	Word	_	10	E	10:E	_
+10	цветы	_	Word	Word	_	6	A	6:A	_
+11	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	у	_	Word	Word	_	13	R	13:R	_
+13	них	_	Word	Word	_	14	A	14:A	_
+14	было	_	Word	Word	_	6	H	6:H	_
+15	мало	_	Word	Word	_	16	Q	16:Q	_
+16	лепестков	_	Word	Word	_	14	A	14:A	_
+17	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+18	они	_	Word	Word	_	19	A	19:A|26:A	_
+19	занимали	_	Word	Word	_	6	H	6:H	_
+20	совсем	_	Word	Word	_	21	E	21:E	_
+21	мало	_	Word	Word	_	22	Q	22:Q	_
+22	места	_	Word	Word	_	19	A	19:A	_
+23	и	_	Word	Word	_	26	L	26:L	_
+24	никого	_	Word	Word	_	26	A	26:A	_
+25	не	_	Word	Word	_	26	D	26:D	_
+26	беспокоили	_	Word	Word	_	6	H	6:H	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+

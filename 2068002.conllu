@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2068002
+# text = А когда условия будут благоприятные ? - осведомился Маленький принц . -
+1	А	_	Word	Word	_	5	L	5:L	_
+2	когда	_	Word	Word	_	5	T	5:T	_
+3	условия	_	Word	Word	_	5	A	5:A	_
+4	будут	_	Word	Word	_	5	F	5:F	_
+5	благоприятные	_	Word	Word	_	8	A	8:A	_
+6	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	осведомился	_	Word	Word	_	0	H	0:H	_
+9	Маленький	_	Word	Word	_	10	E	10:E	_
+10	принц	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+

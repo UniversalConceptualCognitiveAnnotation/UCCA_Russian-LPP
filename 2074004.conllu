@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2074004
+# text = Это что же , мухи ? - Да нет же , такие маленькие , блестящие . -
+1	Это	_	Word	Word	_	0	A	0:A|8:A	_
+2	что	_	Word	Word	_	1	F	1:F	_
+3	же	_	Word	Word	_	1	F	1:F	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	мухи	_	Word	Word	_	1	A	1:A|8:A	_
+6	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	Да	_	Word	Word	_	1	H	1:H	_
+9	нет	_	Word	Word	_	8	G	8:G	_
+10	же	_	Word	Word	_	8	F	8:F	_
+11	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	такие	_	Word	Word	_	13	A	13:A	_
+13	маленькие	_	Word	Word	_	8	H	8:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	блестящие	_	Word	Word	_	13	C	13:C	_
+16	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+

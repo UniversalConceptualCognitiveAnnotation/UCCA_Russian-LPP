@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2100006
+# text = Прощай , - сказал Лис . - Вот мой секрет , он очень прост : зорко одно лишь сердце . Самого главного глазами не увидишь . -
+1	Прощай	_	Word	Word	_	4	A	4:A	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	сказал	_	Word	Word	_	0	H	0:H	_
+5	Лис	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	Вот	_	Word	Word	_	1	H	1:H	_
+9	мой	_	Word	Word	_	10	E	10:E	_
+10	секрет	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+12	он	_	Word	Word	_	14	A	14:A	_
+13	очень	_	Word	Word	_	14	D	14:D	_
+14	прост	_	Word	Word	_	1	H	1:H	_
+15	:	_	Punctuation	Punctuation	_	1	U	1:U	_
+16	зорко	_	Word	Word	_	1	H	1:H	_
+17	одно	_	Word	Word	_	19	E	19:E	_
+18	лишь	_	Word	Word	_	19	F	19:F	_
+19	сердце	_	Word	Word	_	16	A	16:A	_
+20	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	Самого	_	Word	Word	_	22	D	22:D	_
+22	главного	_	Word	Word	_	25	A	25:A	_
+23	глазами	_	Word	Word	_	25	A	25:A	_
+24	не	_	Word	Word	_	25	D	25:D	_
+25	увидишь	_	Word	Word	_	1	H	1:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	-	_	Punctuation	Punctuation	_	25	U	25:U	_
+

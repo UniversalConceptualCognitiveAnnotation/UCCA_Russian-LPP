@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2101011
+# text = Там хорошо , где нас нет , - сказал стрелочник .
+1	Там	_	Word	Word	_	2	A	2:A	_
+2	хорошо	_	Word	Word	_	9	A	9:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	где	_	Word	Word	_	6	R	6:R	_
+5	нас	_	Word	Word	_	6	A	6:A	_
+6	нет	_	Word	Word	_	1	E	1:E	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	сказал	_	Word	Word	_	0	H	0:H	_
+10	стрелочник	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

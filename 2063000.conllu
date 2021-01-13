@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2063000
+# text = Потом Маленький принц не без грусти вырвал последние ростки баобабов .
+1	Потом	_	Word	Word	_	7	L	7:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	7	A	7:A	_
+4	не	_	Word	Word	_	6	R	6:R	_
+5	без	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	грусти	_	Word	Word	_	7	D	7:D	_
+7	вырвал	_	Word	Word	_	0	H	0:H	_
+8	последние	_	Word	Word	_	9	E	9:E	_
+9	ростки	_	Word	Word	_	7	A	7:A	_
+10	баобабов	_	Word	Word	_	9	E	9:E	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

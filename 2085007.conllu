@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2085007
+# text = Засветив свои огни , они отправлялись спать .
+1	Засветив	_	Word	Word	_	0	H	0:H	_
+2	свои	_	Word	Word	_	3	E	3:E	_
+3	огни	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	они	_	Word	Word	_	7	A	7:A|1:A	_
+6	отправлялись	_	Word	Word	_	7	D	7:D	_
+7	спать	_	Word	Word	_	1	H	1:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

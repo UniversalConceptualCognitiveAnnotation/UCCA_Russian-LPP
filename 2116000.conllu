@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2116000
+# text = Он опять засмеялся . -
+1	Он	_	Word	Word	_	3	A	3:A	_
+2	опять	_	Word	Word	_	3	D	3:D	_
+3	засмеялся	_	Word	Word	_	0	H	0:H	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+

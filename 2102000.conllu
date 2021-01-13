@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2102000
+# text = XXIII - Добрый день , - сказал Маленький принц . -
+1	XXIII	_	Word	Word	_	0	H	0:H	_
+2	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Добрый	_	Word	Word	_	7	A	7:A	_
+4	день	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	сказал	_	Word	Word	_	1	H	1:H	_
+8	Маленький	_	Word	Word	_	9	E	9:E	_
+9	принц	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2081002
+# text = Смотрите - ка ! Вот прибыл путешественник ! - воскликнул он , заметив Маленького принца .
+1	Смотрите	_	Word	Word	_	10	A	10:A	_
+2	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	ка	_	Word	Word	_	1	F	1:F	_
+4	!	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Вот	_	Word	Word	_	6	G	6:G	_
+6	прибыл	_	Word	Word	_	1	H	1:H	_
+7	путешественник	_	Word	Word	_	6	A	6:A	_
+8	!	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	воскликнул	_	Word	Word	_	0	H	0:H	_
+11	он	_	Word	Word	_	10	A	10:A|13:A	_
+12	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+13	заметив	_	Word	Word	_	10	H	10:H	_
+14	Маленького	_	Word	Word	_	15	E	15:E	_
+15	принца	_	Word	Word	_	13	A	13:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

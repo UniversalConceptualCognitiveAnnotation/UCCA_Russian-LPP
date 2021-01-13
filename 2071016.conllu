@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2071016
+# text = Ты и правда мой восторженный почитатель ? - спросил он Маленького принца . - А как это - почитать ? -
+1	Ты	_	Word	Word	_	6	A	6:A	_
+2	и	_	Word	Word	_	6	F	6:F	_
+3	правда	_	Word	Word	_	6	G	6:G	_
+4	мой	_	Word	Word	_	6	A	6:A	_
+5	восторженный	_	Word	Word	_	6	D	6:D	_
+6	почитатель	_	Word	Word	_	9	A	9:A	_
+7	?	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	спросил	_	Word	Word	_	0	H	0:H	_
+10	он	_	Word	Word	_	9	A	9:A	_
+11	Маленького	_	Word	Word	_	12	E	12:E	_
+12	принца	_	Word	Word	_	0	C	0:C|11:A|17:A	_
+13	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+14	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+15	А	_	Word	Word	_	17	L	17:L	_
+16	как	_	Word	Word	_	17	A	17:A	_
+17	это	_	Word	Word	_	9	H	9:H	_
+18	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	почитать	_	Word	Word	_	17	A	17:A	_
+20	?	_	Punctuation	Punctuation	_	17	U	17:U	_
+21	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+

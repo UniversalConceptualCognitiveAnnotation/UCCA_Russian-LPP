@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2075013
+# text = Забавно ! - подумал Маленький принц . - И даже поэтично . Но не так уж это серьезно ".
+1	Забавно	_	Word	Word	_	4	A	4:A	_
+2	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	подумал	_	Word	Word	_	0	H	0:H	_
+5	Маленький	_	Word	Word	_	6	E	6:E	_
+6	принц	_	Word	Word	_	0	A	0:A|5:A	_
+7	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	И	_	Word	Word	_	11	L	11:L	_
+10	даже	_	Word	Word	_	11	G	11:G	_
+11	поэтично	_	Word	Word	_	1	H	1:H	_
+12	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	Но	_	Word	Word	_	18	L	18:L	_
+14	не	_	Word	Word	_	18	D	18:D	_
+15	так	_	Word	Word	_	18	D	18:D	_
+16	уж	_	Word	Word	_	18	F	18:F	_
+17	это	_	Word	Word	_	18	A	18:A|1:A|11:A	_
+18	серьезно	_	Word	Word	_	1	H	1:H	_
+19	".	_	Punctuation	Punctuation	_	18	U	18:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2049000
+# text = Ибо я совсем не хочу , чтобы мою книжку читали просто ради забавы .
+1	Ибо	_	Word	Word	_	5	L	5:L	_
+2	я	_	Word	Word	_	5	A	5:A	_
+3	совсем	_	Word	Word	_	5	D	5:D	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	хочу	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	чтобы	_	Word	Word	_	10	R	10:R	_
+8	мою	_	Word	Word	_	9	E	9:E	_
+9	книжку	_	Word	Word	_	10	A	10:A	_
+10	читали	_	Word	Word	_	5	A	5:A	_
+11	просто	_	Word	Word	_	10	D	10:D	_
+12	ради	_	Word	Word	_	13	R	13:R	_
+13	забавы	_	Word	Word	_	10	D	10:D	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

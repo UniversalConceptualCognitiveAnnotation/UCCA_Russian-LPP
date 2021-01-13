@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 2040001
+# text = И очень изумился , когда малыш воскликнул : - Нет , нет ! Мне не надо слона в удаве ! Удав слишком опасный , а слон слишком большой . У меня дома все очень маленькое . Мне нужен барашек . Нарисуй барашка .
+1	И	_	Word	Word	_	7	L	7:L	_
+2	очень	_	Word	Word	_	3	D	3:D	_
+3	изумился	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	когда	_	Word	Word	_	7	L	7:L	_
+6	малыш	_	Word	Word	_	7	A	7:A	_
+7	воскликнул	_	Word	Word	_	3	H	3:H	_
+8	:	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	Нет	_	Word	Word	_	16	G	16:G	_
+11	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+12	нет	_	Word	Word	_	16	G	16:G	_
+13	!	_	Punctuation	Punctuation	_	16	U	16:U	_
+14	Мне	_	Word	Word	_	16	A	16:A	_
+15	не	_	Word	Word	_	16	D	16:D	_
+16	надо	_	Word	Word	_	7	A	7:A	_
+17	слона	_	Word	Word	_	16	A	16:A	_
+18	в	_	Word	Word	_	19	R	19:R	_
+19	удаве	_	Word	Word	_	17	E	17:E	_
+20	!	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	Удав	_	Word	Word	_	23	A	23:A	_
+22	слишком	_	Word	Word	_	23	D	23:D	_
+23	опасный	_	Word	Word	_	16	H	16:H	_
+24	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+25	а	_	Word	Word	_	28	L	28:L	_
+26	слон	_	Word	Word	_	28	A	28:A	_
+27	слишком	_	Word	Word	_	28	D	28:D	_
+28	большой	_	Word	Word	_	16	H	16:H	_
+29	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+30	У	_	Word	Word	_	31	R	31:R	_
+31	меня	_	Word	Word	_	35	A	35:A	_
+32	дома	_	Word	Word	_	35	A	35:A	_
+33	все	_	Word	Word	_	35	A	35:A	_
+34	очень	_	Word	Word	_	35	D	35:D	_
+35	маленькое	_	Word	Word	_	16	H	16:H	_
+36	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+37	Мне	_	Word	Word	_	38	A	38:A	_
+38	нужен	_	Word	Word	_	16	H	16:H	_
+39	барашек	_	Word	Word	_	38	A	38:A	_
+40	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+41	Нарисуй	_	Word	Word	_	16	H	16:H	_
+42	барашка	_	Word	Word	_	41	A	41:A	_
+43	.	_	Punctuation	Punctuation	_	41	U	41:U	_
+

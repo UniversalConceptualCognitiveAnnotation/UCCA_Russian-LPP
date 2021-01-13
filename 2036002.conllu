@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2036002
+# text = А это была совсем не шляпа .
+1	А	_	Word	Word	_	3	L	3:L	_
+2	это	_	Word	Word	_	3	A	3:A	_
+3	была	_	Word	Word	_	0	H	0:H	_
+4	совсем	_	Word	Word	_	6	E	6:E	_
+5	не	_	Word	Word	_	6	E	6:E	_
+6	шляпа	_	Word	Word	_	3	A	3:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

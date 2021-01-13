@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 2117006
+# text = Подумай , как забавно ! У тебя будет пятьсот миллионов бубенцов , а у меня - пятьсот миллионов родников ... И тут он тоже замолчал , потому что заплакал . -
+1	Подумай	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	как	_	Word	Word	_	4	R	4:R	_
+4	забавно	_	Word	Word	_	1	A	1:A	_
+5	!	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	У	_	Word	Word	_	7	R	7:R	_
+7	тебя	_	Word	Word	_	8	A	8:A	_
+8	будет	_	Word	Word	_	1	H	1:H	_
+9	пятьсот	_	Word	Word	_	11	Q	11:Q	_
+10	миллионов	_	Word	Word	_	9	C	9:C	_
+11	бубенцов	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	а	_	Word	Word	_	15	L	15:L	_
+14	у	_	Word	Word	_	15	R	15:R	_
+15	меня	_	Word	Word	_	1	H	1:H	_
+16	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	пятьсот	_	Word	Word	_	19	Q	19:Q	_
+18	миллионов	_	Word	Word	_	17	C	17:C	_
+19	родников	_	Word	Word	_	15	A	15:A	_
+20	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	И	_	Word	Word	_	25	L	25:L	_
+22	тут	_	Word	Word	_	25	L	25:L	_
+23	он	_	Word	Word	_	25	A	25:A|29:A	_
+24	тоже	_	Word	Word	_	25	D	25:D	_
+25	замолчал	_	Word	Word	_	1	H	1:H	_
+26	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+27	потому	_	Word	Word	_	29	L	29:L	_
+28	что	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	заплакал	_	Word	Word	_	1	H	1:H	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	-	_	Punctuation	Punctuation	_	29	U	29:U	_
+

@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 2108015
+# text = Все - таки я спросил : - Значит , неделю назад , в то утро , когда мы познакомились , ты не случайно бродил тут совсем один , за тысячу миль от человеческого жилья ? Ты возвращался к месту , где тогда упал ?
+1	Все	_	Word	Word	_	5	G	5:G	_
+2	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	таки	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	я	_	Word	Word	_	5	A	5:A	_
+5	спросил	_	Word	Word	_	0	H	0:H	_
+6	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	Значит	_	Word	Word	_	24	G	24:G	_
+9	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+10	неделю	_	Word	Word	_	24	T	24:T	_
+11	назад	_	Word	Word	_	10	E	10:E	_
+12	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	в	_	Word	Word	_	15	R	15:R	_
+14	то	_	Word	Word	_	15	E	15:E	_
+15	утро	_	Word	Word	_	10	C	10:C	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	когда	_	Word	Word	_	19	R	19:R	_
+18	мы	_	Word	Word	_	19	A	19:A	_
+19	познакомились	_	Word	Word	_	15	E	15:E	_
+20	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+21	ты	_	Word	Word	_	24	A	24:A	_
+22	не	_	Word	Word	_	23	E	23:E	_
+23	случайно	_	Word	Word	_	24	D	24:D	_
+24	бродил	_	Word	Word	_	5	A	5:A	_
+25	тут	_	Word	Word	_	24	A	24:A	_
+26	совсем	_	Word	Word	_	27	E	27:E	_
+27	один	_	Word	Word	_	24	D	24:D	_
+28	,	_	Punctuation	Punctuation	_	24	U	24:U	_
+29	за	_	Word	Word	_	31	R	31:R	_
+30	тысячу	_	Word	Word	_	31	Q	31:Q	_
+31	миль	_	Word	Word	_	25	E	25:E	_
+32	от	_	Word	Word	_	34	R	34:R	_
+33	человеческого	_	Word	Word	_	34	E	34:E	_
+34	жилья	_	Word	Word	_	31	E	31:E	_
+35	?	_	Punctuation	Punctuation	_	24	U	24:U	_
+36	Ты	_	Word	Word	_	37	A	37:A|43:A	_
+37	возвращался	_	Word	Word	_	24	H	24:H	_
+38	к	_	Word	Word	_	39	R	39:R	_
+39	месту	_	Word	Word	_	37	A	37:A	_
+40	,	_	Punctuation	Punctuation	_	39	U	39:U	_
+41	где	_	Word	Word	_	43	R	43:R	_
+42	тогда	_	Word	Word	_	43	T	43:T	_
+43	упал	_	Word	Word	_	39	E	39:E	_
+44	?	_	Punctuation	Punctuation	_	43	U	43:U	_
+

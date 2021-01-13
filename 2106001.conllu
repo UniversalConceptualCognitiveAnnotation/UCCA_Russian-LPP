@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2106001
+# text = Обычно здесь колодец - просто яма в песке .
+1	Обычно	_	Word	Word	_	2	D	2:D	_
+2	здесь	_	Word	Word	_	0	H	0:H	_
+3	колодец	_	Word	Word	_	2	A	2:A	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	просто	_	Word	Word	_	2	D	2:D	_
+6	яма	_	Word	Word	_	2	A	2:A	_
+7	в	_	Word	Word	_	8	R	8:R	_
+8	песке	_	Word	Word	_	6	E	6:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

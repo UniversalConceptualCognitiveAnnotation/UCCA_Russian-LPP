@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2108014
+# text = И опять , бог весть почему , тяжело стало у меня на душе .
+1	И	_	Word	Word	_	8	L	8:L	_
+2	опять	_	Word	Word	_	8	L	8:L	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	бог	_	Word	Word	_	8	G	8:G	_
+5	весть	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	почему	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	тяжело	_	Word	Word	_	0	H	0:H	_
+9	стало	_	Word	Word	_	8	D	8:D	_
+10	у	_	Word	Word	_	11	R	11:R	_
+11	меня	_	Word	Word	_	8	A	8:A	_
+12	на	_	Word	Word	_	13	R	13:R	_
+13	душе	_	Word	Word	_	11	C	11:C	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2069005
+# text = Нет , не пора , - возразил король .
+1	Нет	_	Word	Word	_	3	G	3:G	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	не	_	Word	Word	_	7	A	7:A	_
+4	пора	_	Word	Word	_	3	D	3:D	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	возразил	_	Word	Word	_	0	H	0:H	_
+8	король	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

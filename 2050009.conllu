@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2050009
+# text = Услыхав про слонов , Маленький принц засмеялся : - Их пришлось бы поставить друг на друга ...
+1	Услыхав	_	Word	Word	_	0	H	0:H	_
+2	про	_	Word	Word	_	3	R	3:R	_
+3	слонов	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	Маленький	_	Word	Word	_	6	E	6:E	_
+6	принц	_	Word	Word	_	0	A	0:A|1:A|13:A	_
+7	засмеялся	_	Word	Word	_	1	H	1:H	_
+8	:	_	Punctuation	Punctuation	_	1	U	1:U	_
+9	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+10	Их	_	Word	Word	_	13	A	13:A	_
+11	пришлось	_	Word	Word	_	13	D	13:D	_
+12	бы	_	Word	Word	_	13	F	13:F	_
+13	поставить	_	Word	Word	_	1	H	1:H	_
+14	друг	_	Word	Word	_	13	D	13:D	_
+15	на	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	друга	_	Word	Word	_	14	Terminal	14:Terminal	_
+17	...	_	Punctuation	Punctuation	_	13	U	13:U	_
+

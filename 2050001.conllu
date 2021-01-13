@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2050001
+# text = Он рассказывал об этом понемножку , когда приходилось к слову .
+1	Он	_	Word	Word	_	2	A	2:A	_
+2	рассказывал	_	Word	Word	_	0	H	0:H	_
+3	об	_	Word	Word	_	4	R	4:R	_
+4	этом	_	Word	Word	_	2	A	2:A	_
+5	понемножку	_	Word	Word	_	2	D	2:D	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	когда	_	Word	Word	_	10	L	10:L	_
+8	приходилось	_	Word	Word	_	10	D	10:D	_
+9	к	_	Word	Word	_	10	R	10:R	_
+10	слову	_	Word	Word	_	2	H	2:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

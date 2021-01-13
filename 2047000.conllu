@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2047000
+# text = Я вам рассказал так подробно об астероиде Б - 612 и даже сообщил его номер только из - за взрослых .
+1	Я	_	Word	Word	_	3	A	3:A|13:A	_
+2	вам	_	Word	Word	_	3	A	3:A|13:A	_
+3	рассказал	_	Word	Word	_	0	H	0:H	_
+4	так	_	Word	Word	_	5	E	5:E	_
+5	подробно	_	Word	Word	_	3	D	3:D	_
+6	об	_	Word	Word	_	7	R	7:R	_
+7	астероиде	_	Word	Word	_	3	A	3:A	_
+8	Б	_	Word	Word	_	7	Q	7:Q	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	612	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	и	_	Word	Word	_	13	L	13:L	_
+12	даже	_	Word	Word	_	13	G	13:G	_
+13	сообщил	_	Word	Word	_	3	H	3:H	_
+14	его	_	Word	Word	_	15	E	15:E	_
+15	номер	_	Word	Word	_	13	A	13:A	_
+16	только	_	Word	Word	_	20	E	20:E	_
+17	из	_	Word	Word	_	20	R	20:R	_
+18	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	за	_	Word	Word	_	17	Terminal	17:Terminal	_
+20	взрослых	_	Word	Word	_	13	A	13:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

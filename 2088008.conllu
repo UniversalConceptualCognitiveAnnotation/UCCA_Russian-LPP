@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2088008
+# text = Я решаю все загадки , - сказала змея .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	решаю	_	Word	Word	_	7	A	7:A	_
+3	все	_	Word	Word	_	4	Q	4:Q	_
+4	загадки	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	сказала	_	Word	Word	_	0	H	0:H	_
+8	змея	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

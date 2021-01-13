@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2066005
+# text = Но Маленький принц недоумевал .
+1	Но	_	Word	Word	_	4	L	4:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	0	A	0:A|2:A	_
+4	недоумевал	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

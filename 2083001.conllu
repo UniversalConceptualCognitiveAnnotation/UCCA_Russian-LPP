@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2083001
+# text = И он раскрыл толстенную книгу и очинил карандаш .
+1	И	_	Word	Word	_	7	L	7:L	_
+2	он	_	Word	Word	_	3	A	3:A|7:A	_
+3	раскрыл	_	Word	Word	_	0	H	0:H	_
+4	толстенную	_	Word	Word	_	5	E	5:E	_
+5	книгу	_	Word	Word	_	3	A	3:A	_
+6	и	_	Word	Word	_	7	L	7:L	_
+7	очинил	_	Word	Word	_	3	H	3:H	_
+8	карандаш	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

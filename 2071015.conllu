@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2071015
+# text = Тщеславные люди глухи ко всему , кроме похвал . -
+1	Тщеславные	_	Word	Word	_	2	E	2:E	_
+2	люди	_	Word	Word	_	3	A	3:A	_
+3	глухи	_	Word	Word	_	0	H	0:H	_
+4	ко	_	Word	Word	_	5	R	5:R	_
+5	всему	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	кроме	_	Word	Word	_	8	R	8:R	_
+8	похвал	_	Word	Word	_	5	E	5:E	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+

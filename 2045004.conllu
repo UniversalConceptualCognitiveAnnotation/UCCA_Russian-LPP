@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 2045004
+# text = У меня есть серьезные основания полагать , что Маленький принц прилетел с планетки , которая называется " астероид Б - 612 ". Этот астероид был замечен в телескоп лишь один раз , в 1909 году , одним турецким астрономом .
+1	У	_	Word	Word	_	2	R	2:R	_
+2	меня	_	Word	Word	_	5	A	5:A	_
+3	есть	_	Word	Word	_	5	F	5:F	_
+4	серьезные	_	Word	Word	_	5	D	5:D	_
+5	основания	_	Word	Word	_	0	H	0:H	_
+6	полагать	_	Word	Word	_	5	A	5:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	что	_	Word	Word	_	11	R	11:R	_
+9	Маленький	_	Word	Word	_	10	E	10:E	_
+10	принц	_	Word	Word	_	0	A	0:A|9:A	_
+11	прилетел	_	Word	Word	_	6	A	6:A	_
+12	с	_	Word	Word	_	13	R	13:R	_
+13	планетки	_	Word	Word	_	11	A	11:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	которая	_	Word	Word	_	16	A	16:A	_
+16	называется	_	Word	Word	_	13	E	13:E	_
+17	"	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	астероид	_	Word	Word	_	16	A	16:A	_
+19	Б	_	Word	Word	_	18	Q	18:Q	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	612	_	Word	Word	_	19	Terminal	19:Terminal	_
+22	".	_	Punctuation	Punctuation	_	5	U	5:U	_
+23	Этот	_	Word	Word	_	24	E	24:E	_
+24	астероид	_	Word	Word	_	26	A	26:A	_
+25	был	_	Word	Word	_	26	F	26:F	_
+26	замечен	_	Word	Word	_	5	H	5:H	_
+27	в	_	Word	Word	_	28	R	28:R	_
+28	телескоп	_	Word	Word	_	26	A	26:A	_
+29	лишь	_	Word	Word	_	31	E	31:E	_
+30	один	_	Word	Word	_	31	Q	31:Q	_
+31	раз	_	Word	Word	_	26	D	26:D	_
+32	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+33	в	_	Word	Word	_	34	R	34:R	_
+34	1909	_	Word	Word	_	26	T	26:T	_
+35	году	_	Word	Word	_	34	C	34:C	_
+36	,	_	Punctuation	Punctuation	_	26	U	26:U	_
+37	одним	_	Word	Word	_	39	Q	39:Q	_
+38	турецким	_	Word	Word	_	39	E	39:E	_
+39	астрономом	_	Word	Word	_	26	A	26:A	_
+40	.	_	Punctuation	Punctuation	_	39	U	39:U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2092001
+# text = А все дороги ведут к людям . -
+1	А	_	Word	Word	_	4	L	4:L	_
+2	все	_	Word	Word	_	3	Q	3:Q	_
+3	дороги	_	Word	Word	_	4	A	4:A	_
+4	ведут	_	Word	Word	_	0	H	0:H	_
+5	к	_	Word	Word	_	6	R	6:R	_
+6	людям	_	Word	Word	_	4	A	4:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

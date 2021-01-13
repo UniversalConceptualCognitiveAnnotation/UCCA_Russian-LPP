@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2066000
+# text = Ведь для короля самое важное - чтобы ему повиновались беспрекословно .
+1	Ведь	_	Word	Word	_	5	L	5:L	_
+2	для	_	Word	Word	_	3	R	3:R	_
+3	короля	_	Word	Word	_	5	A	5:A	_
+4	самое	_	Word	Word	_	5	D	5:D	_
+5	важное	_	Word	Word	_	0	H	0:H	_
+6	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	чтобы	_	Word	Word	_	9	R	9:R	_
+8	ему	_	Word	Word	_	9	A	9:A	_
+9	повиновались	_	Word	Word	_	5	A	5:A	_
+10	беспрекословно	_	Word	Word	_	9	D	9:D	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

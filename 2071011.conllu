@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2071011
+# text = А честолюбец опять стал раскланиваться , снимая шляпу .
+1	А	_	Word	Word	_	7	L	7:L	_
+2	честолюбец	_	Word	Word	_	5	A	5:A|7:A	_
+3	опять	_	Word	Word	_	5	D	5:D	_
+4	стал	_	Word	Word	_	5	D	5:D	_
+5	раскланиваться	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	снимая	_	Word	Word	_	5	H	5:H	_
+8	шляпу	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

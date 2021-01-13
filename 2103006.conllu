@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2103006
+# text = Ему довольно солнечного луча ..."
+1	Ему	_	Word	Word	_	2	A	2:A	_
+2	довольно	_	Word	Word	_	0	H	0:H	_
+3	солнечного	_	Word	Word	_	4	E	4:E	_
+4	луча	_	Word	Word	_	2	A	2:A	_
+5	..."	_	Punctuation	Punctuation	_	4	U	4:U	_
+

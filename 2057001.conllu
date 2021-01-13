@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2057001
+# text = Он за всю свою жизнь ни разу не понюхал цветка .
+1	Он	_	Word	Word	_	9	A	9:A	_
+2	за	_	Word	Word	_	5	R	5:R	_
+3	всю	_	Word	Word	_	5	Q	5:Q	_
+4	свою	_	Word	Word	_	5	E	5:E	_
+5	жизнь	_	Word	Word	_	9	A	9:A	_
+6	ни	_	Word	Word	_	9	D	9:D	_
+7	разу	_	Word	Word	_	9	D	9:D	_
+8	не	_	Word	Word	_	9	D	9:D	_
+9	понюхал	_	Word	Word	_	0	H	0:H	_
+10	цветка	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

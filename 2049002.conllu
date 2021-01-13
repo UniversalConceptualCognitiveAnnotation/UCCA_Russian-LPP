@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2049002
+# text = Вот уже шесть лет , как мой друг вместе с барашком меня покинул .
+1	Вот	_	Word	Word	_	13	L	13:L	_
+2	уже	_	Word	Word	_	4	E	4:E	_
+3	шесть	_	Word	Word	_	4	Q	4:Q	_
+4	лет	_	Word	Word	_	13	T	13:T	_
+5	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+6	как	_	Word	Word	_	13	F	13:F	_
+7	мой	_	Word	Word	_	13	A	13:A	_
+8	друг	_	Word	Word	_	7	A	7:A	_
+9	вместе	_	Word	Word	_	7	N	7:N	_
+10	с	_	Word	Word	_	11	R	11:R	_
+11	барашком	_	Word	Word	_	7	C	7:C	_
+12	меня	_	Word	Word	_	13	A	13:A	_
+13	покинул	_	Word	Word	_	0	H	0:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

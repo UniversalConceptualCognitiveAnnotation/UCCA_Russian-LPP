@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2118001
+# text = Когда я вернулся , товарищи рады были вновь увидеть меня живым и невредимым .
+1	Когда	_	Word	Word	_	6	L	6:L	_
+2	я	_	Word	Word	_	3	A	3:A|5:A	_
+3	вернулся	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	товарищи	_	Word	Word	_	6	A	6:A|9:A	_
+6	рады	_	Word	Word	_	3	H	3:H	_
+7	были	_	Word	Word	_	6	F	6:F	_
+8	вновь	_	Word	Word	_	9	D	9:D	_
+9	увидеть	_	Word	Word	_	6	A	6:A	_
+10	меня	_	Word	Word	_	9	A	9:A|11:A|13:A	_
+11	живым	_	Word	Word	_	9	A	9:A	_
+12	и	_	Word	Word	_	13	L	13:L	_
+13	невредимым	_	Word	Word	_	11	H	11:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

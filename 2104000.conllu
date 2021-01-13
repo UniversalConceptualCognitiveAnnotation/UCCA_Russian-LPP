@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2104000
+# text = Я не сказал этого вслух , только подумал .
+1	Я	_	Word	Word	_	3	A	3:A|8:A	_
+2	не	_	Word	Word	_	3	D	3:D	_
+3	сказал	_	Word	Word	_	0	H	0:H	_
+4	этого	_	Word	Word	_	3	A	3:A|8:A	_
+5	вслух	_	Word	Word	_	3	D	3:D	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	только	_	Word	Word	_	8	L	8:L	_
+8	подумал	_	Word	Word	_	3	H	3:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

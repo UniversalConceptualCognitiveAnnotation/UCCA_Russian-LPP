@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2071022
+# text = Право же , взрослые - очень странные люди ", - только и подумал он , пускаясь в путь .
+1	Право	_	Word	Word	_	4	G	4:G	_
+2	же	_	Word	Word	_	4	F	4:F	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	взрослые	_	Word	Word	_	13	A	13:A	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	очень	_	Word	Word	_	7	D	7:D	_
+7	странные	_	Word	Word	_	8	E	8:E	_
+8	люди	_	Word	Word	_	4	A	4:A	_
+9	",	_	Punctuation	Punctuation	_	13	U	13:U	_
+10	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+11	только	_	Word	Word	_	13	F	13:F	_
+12	и	_	Word	Word	_	13	F	13:F	_
+13	подумал	_	Word	Word	_	0	H	0:H	_
+14	он	_	Word	Word	_	13	A	13:A|18:A	_
+15	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+16	пускаясь	_	Word	Word	_	18	D	18:D	_
+17	в	_	Word	Word	_	18	R	18:R	_
+18	путь	_	Word	Word	_	13	H	13:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

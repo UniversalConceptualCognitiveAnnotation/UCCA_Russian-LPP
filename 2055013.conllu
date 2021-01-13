@@ -1,0 +1,7 @@
+# format = ucca
+# sent_id = 2055013
+# text = Наступило молчание .
+1	Наступило	_	Word	Word	_	2	D	2:D	_
+2	молчание	_	Word	Word	_	0	H	0:H	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2107010
+# text = И Маленький принц сказал : - Но глаза слепы . Искать надо сердцем .
+1	И	_	Word	Word	_	4	L	4:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	4	A	4:A	_
+4	сказал	_	Word	Word	_	0	H	0:H	_
+5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Но	_	Word	Word	_	11	L	11:L	_
+8	глаза	_	Word	Word	_	9	A	9:A	_
+9	слепы	_	Word	Word	_	4	A	4:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Искать	_	Word	Word	_	9	H	9:H	_
+12	надо	_	Word	Word	_	11	D	11:D	_
+13	сердцем	_	Word	Word	_	11	A	11:A	_
+14	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

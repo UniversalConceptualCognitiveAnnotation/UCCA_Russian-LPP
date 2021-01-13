@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2040003
+# text = Он внимательно посмотрел на мой рисунок и сказал : - Нет , этот барашек совсем хилый . Нарисуй другого . Я нарисовал .
+1	Он	_	Word	Word	_	3	A	3:A|8:A	_
+2	внимательно	_	Word	Word	_	3	D	3:D	_
+3	посмотрел	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	6	R	6:R	_
+5	мой	_	Word	Word	_	6	E	6:E	_
+6	рисунок	_	Word	Word	_	3	A	3:A	_
+7	и	_	Word	Word	_	8	L	8:L	_
+8	сказал	_	Word	Word	_	3	H	3:H	_
+9	:	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Нет	_	Word	Word	_	16	G	16:G	_
+12	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+13	этот	_	Word	Word	_	14	E	14:E	_
+14	барашек	_	Word	Word	_	0	C	0:C|19:C	_
+15	совсем	_	Word	Word	_	16	D	16:D	_
+16	хилый	_	Word	Word	_	8	A	8:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	Нарисуй	_	Word	Word	_	16	H	16:H	_
+19	другого	_	Word	Word	_	18	A	18:A|22:A	_
+20	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+21	Я	_	Word	Word	_	22	A	22:A	_
+22	нарисовал	_	Word	Word	_	3	H	3:H	_
+23	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2045001
+# text = Впрочем , это меня не слишком удивило .
+1	Впрочем	_	Word	Word	_	7	L	7:L	_
+2	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+3	это	_	Word	Word	_	7	A	7:A	_
+4	меня	_	Word	Word	_	7	A	7:A	_
+5	не	_	Word	Word	_	7	D	7:D	_
+6	слишком	_	Word	Word	_	7	D	7:D	_
+7	удивило	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

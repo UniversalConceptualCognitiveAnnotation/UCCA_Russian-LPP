@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2106004
+# text = Как странно , - сказал я Маленькому принцу , - тут все приготовлено : и ворот , и ведро , и веревка ... Он засмеялся , тронул веревку , стал раскручивать ворот .
+1	Как	_	Word	Word	_	2	A	2:A	_
+2	странно	_	Word	Word	_	5	A	5:A	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	сказал	_	Word	Word	_	0	H	0:H	_
+6	я	_	Word	Word	_	5	A	5:A	_
+7	Маленькому	_	Word	Word	_	8	E	8:E	_
+8	принцу	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+11	тут	_	Word	Word	_	13	A	13:A	_
+12	все	_	Word	Word	_	13	A	13:A	_
+13	приготовлено	_	Word	Word	_	2	H	2:H	_
+14	:	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	и	_	Word	Word	_	16	N	16:N	_
+16	ворот	_	Word	Word	_	12	E	12:E	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	и	_	Word	Word	_	16	N	16:N	_
+19	ведро	_	Word	Word	_	16	C	16:C	_
+20	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+21	и	_	Word	Word	_	16	N	16:N	_
+22	веревка	_	Word	Word	_	16	C	16:C	_
+23	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+24	Он	_	Word	Word	_	25	A	25:A|27:A|31:A	_
+25	засмеялся	_	Word	Word	_	5	H	5:H	_
+26	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+27	тронул	_	Word	Word	_	5	H	5:H	_
+28	веревку	_	Word	Word	_	27	A	27:A	_
+29	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+30	стал	_	Word	Word	_	31	D	31:D	_
+31	раскручивать	_	Word	Word	_	5	H	5:H	_
+32	ворот	_	Word	Word	_	31	A	31:A	_
+33	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

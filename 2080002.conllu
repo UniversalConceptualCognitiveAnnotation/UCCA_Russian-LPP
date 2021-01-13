@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2080002
+# text = Плохо мое дело , - подтвердил фонарщик . - Добрый день .
+1	Плохо	_	Word	Word	_	6	A	6:A	_
+2	мое	_	Word	Word	_	3	E	3:E	_
+3	дело	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	подтвердил	_	Word	Word	_	0	H	0:H	_
+7	фонарщик	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Добрый	_	Word	Word	_	1	H	1:H	_
+11	день	_	Word	Word	_	10	Terminal	10:Terminal	_
+12	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+

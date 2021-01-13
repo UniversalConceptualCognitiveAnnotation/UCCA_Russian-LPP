@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2049018
+# text = Может быть , он думал , что я такой же , как он .
+1	Может	_	Word	Word	_	5	G	5:G	_
+2	быть	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	он	_	Word	Word	_	5	A	5:A	_
+5	думал	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	что	_	Word	Word	_	9	R	9:R	_
+8	я	_	Word	Word	_	9	A	9:A	_
+9	такой	_	Word	Word	_	5	A	5:A	_
+10	же	_	Word	Word	_	9	Terminal	9:Terminal	_
+11	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	как	_	Word	Word	_	13	R	13:R	_
+13	он	_	Word	Word	_	9	A	9:A	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2081018
+# text = Но ведь вы географ !
+1	Но	_	Word	Word	_	4	L	4:L	_
+2	ведь	_	Word	Word	_	4	L	4:L	_
+3	вы	_	Word	Word	_	4	A	4:A	_
+4	географ	_	Word	Word	_	0	H	0:H	_
+5	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+

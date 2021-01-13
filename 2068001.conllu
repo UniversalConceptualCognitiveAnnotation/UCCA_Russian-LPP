@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 2068001
+# text = Будет тебе и заход солнца . Я потребую , чтобы солнце зашло . Но сперва дождусь благоприятных условий , ибо в этом и состоит мудрость правителя . -
+1	Будет	_	Word	Word	_	0	H	0:H	_
+2	тебе	_	Word	Word	_	1	A	1:A	_
+3	и	_	Word	Word	_	4	E	4:E	_
+4	заход	_	Word	Word	_	1	A	1:A	_
+5	солнца	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+7	Я	_	Word	Word	_	8	A	8:A|16:A	_
+8	потребую	_	Word	Word	_	1	H	1:H	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	чтобы	_	Word	Word	_	12	R	12:R	_
+11	солнце	_	Word	Word	_	12	A	12:A	_
+12	зашло	_	Word	Word	_	8	A	8:A	_
+13	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+14	Но	_	Word	Word	_	16	L	16:L	_
+15	сперва	_	Word	Word	_	16	L	16:L	_
+16	дождусь	_	Word	Word	_	1	H	1:H	_
+17	благоприятных	_	Word	Word	_	18	E	18:E	_
+18	условий	_	Word	Word	_	16	A	16:A	_
+19	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+20	ибо	_	Word	Word	_	25	L	25:L	_
+21	в	_	Word	Word	_	22	R	22:R	_
+22	этом	_	Word	Word	_	25	A	25:A	_
+23	и	_	Word	Word	_	25	F	25:F	_
+24	состоит	_	Word	Word	_	25	F	25:F	_
+25	мудрость	_	Word	Word	_	1	H	1:H	_
+26	правителя	_	Word	Word	_	25	A	25:A	_
+27	.	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+

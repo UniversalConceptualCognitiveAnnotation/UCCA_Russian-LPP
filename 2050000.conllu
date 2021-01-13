@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2050000
+# text = V Каждый день я узнавал что - нибудь новое о его планете , о том , как он ее покинул и как странствовал .
+1	V	_	Word	Word	_	0	H	0:H	_
+2	Каждый	_	Word	Word	_	3	Q	3:Q	_
+3	день	_	Word	Word	_	5	T	5:T	_
+4	я	_	Word	Word	_	5	A	5:A	_
+5	узнавал	_	Word	Word	_	1	H	1:H	_
+6	что	_	Word	Word	_	5	A	5:A	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	нибудь	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	новое	_	Word	Word	_	6	E	6:E	_
+10	о	_	Word	Word	_	12	R	12:R	_
+11	его	_	Word	Word	_	12	E	12:E	_
+12	планете	_	Word	Word	_	6	E	6:E	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	о	_	Word	Word	_	20	R	20:R	_
+15	том	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+17	как	_	Word	Word	_	20	D	20:D	_
+18	он	_	Word	Word	_	20	A	20:A|23:A	_
+19	ее	_	Word	Word	_	20	A	20:A	_
+20	покинул	_	Word	Word	_	12	C	12:C	_
+21	и	_	Word	Word	_	12	N	12:N	_
+22	как	_	Word	Word	_	23	D	23:D	_
+23	странствовал	_	Word	Word	_	12	C	12:C	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

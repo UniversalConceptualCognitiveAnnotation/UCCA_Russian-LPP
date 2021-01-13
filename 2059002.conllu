@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2059002
+# text = Они раскрывались поутру в траве и под вечер увядали .
+1	Они	_	Word	Word	_	2	A	2:A|9:A	_
+2	раскрывались	_	Word	Word	_	0	H	0:H	_
+3	поутру	_	Word	Word	_	2	T	2:T	_
+4	в	_	Word	Word	_	5	R	5:R	_
+5	траве	_	Word	Word	_	2	A	2:A	_
+6	и	_	Word	Word	_	9	L	9:L	_
+7	под	_	Word	Word	_	8	R	8:R	_
+8	вечер	_	Word	Word	_	9	T	9:T	_
+9	увядали	_	Word	Word	_	2	H	2:H	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

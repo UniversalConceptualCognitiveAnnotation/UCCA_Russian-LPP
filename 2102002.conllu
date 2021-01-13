@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2102002
+# text = Он торговал самоновейшими пилюлями , которые утоляют жажду .
+1	Он	_	Word	Word	_	2	A	2:A	_
+2	торговал	_	Word	Word	_	0	H	0:H	_
+3	самоновейшими	_	Word	Word	_	4	E	4:E	_
+4	пилюлями	_	Word	Word	_	2	A	2:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	которые	_	Word	Word	_	7	R	7:R	_
+7	утоляют	_	Word	Word	_	4	E	4:E	_
+8	жажду	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

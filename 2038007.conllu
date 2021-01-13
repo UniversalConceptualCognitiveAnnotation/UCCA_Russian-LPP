@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2038007
+# text = Человек , потерпевший кораблекрушение и затерянный на плоту посреди океана , и тот был бы не так одинок .
+1	Человек	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	потерпевший	_	Word	Word	_	1	A	1:A	_
+4	кораблекрушение	_	Word	Word	_	3	A	3:A	_
+5	и	_	Word	Word	_	6	L	6:L	_
+6	затерянный	_	Word	Word	_	3	H	3:H	_
+7	на	_	Word	Word	_	8	R	8:R	_
+8	плоту	_	Word	Word	_	6	A	6:A	_
+9	посреди	_	Word	Word	_	10	R	10:R	_
+10	океана	_	Word	Word	_	6	A	6:A	_
+11	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+12	и	_	Word	Word	_	18	L	18:L	_
+13	тот	_	Word	Word	_	18	A	18:A	_
+14	был	_	Word	Word	_	18	F	18:F	_
+15	бы	_	Word	Word	_	18	F	18:F	_
+16	не	_	Word	Word	_	18	D	18:D	_
+17	так	_	Word	Word	_	18	D	18:D	_
+18	одинок	_	Word	Word	_	1	H	1:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

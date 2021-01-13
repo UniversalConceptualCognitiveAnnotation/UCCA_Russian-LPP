@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2108010
+# text = Я отдал рисунок Маленькому принцу , и сердце у меня сжалось . -
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	отдал	_	Word	Word	_	0	H	0:H	_
+3	рисунок	_	Word	Word	_	2	A	2:A	_
+4	Маленькому	_	Word	Word	_	5	E	5:E	_
+5	принцу	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	и	_	Word	Word	_	11	L	11:L	_
+8	сердце	_	Word	Word	_	11	A	11:A	_
+9	у	_	Word	Word	_	10	R	10:R	_
+10	меня	_	Word	Word	_	8	E	8:E	_
+11	сжалось	_	Word	Word	_	2	H	2:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+

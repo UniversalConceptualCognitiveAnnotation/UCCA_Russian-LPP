@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2049017
+# text = Мой друг никогда мне ничего не объяснял .
+1	Мой	_	Word	Word	_	7	A	7:A	_
+2	друг	_	Word	Word	_	1	A	1:A	_
+3	никогда	_	Word	Word	_	7	T	7:T	_
+4	мне	_	Word	Word	_	7	A	7:A	_
+5	ничего	_	Word	Word	_	7	A	7:A	_
+6	не	_	Word	Word	_	7	D	7:D	_
+7	объяснял	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

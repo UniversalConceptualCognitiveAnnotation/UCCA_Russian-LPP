@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2059007
+# text = А неведомая гостья , скрытая в стенах своей зеленой комнатки , все готовилась , все прихорашивалась .
+1	А	_	Word	Word	_	5	L	5:L	_
+2	неведомая	_	Word	Word	_	3	E	3:E	_
+3	гостья	_	Word	Word	_	0	A	0:A|2:A	_
+4	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	скрытая	_	Word	Word	_	13	H	13:H	_
+6	в	_	Word	Word	_	7	R	7:R	_
+7	стенах	_	Word	Word	_	5	A	5:A	_
+8	своей	_	Word	Word	_	10	E	10:E	_
+9	зеленой	_	Word	Word	_	10	E	10:E	_
+10	комнатки	_	Word	Word	_	7	E	7:E	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	все	_	Word	Word	_	13	D	13:D	_
+13	готовилась	_	Word	Word	_	0	H	0:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	все	_	Word	Word	_	16	D	16:D	_
+16	прихорашивалась	_	Word	Word	_	13	H	13:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,54 @@
+# format = ucca
+# sent_id = 2101015
+# text = Одни только дети знают , что ищут , - промолвил Маленький принц . - Они отдают все свои дни тряпочной кукле , и она становится им очень - очень дорога , и , если ее у них отнимут , дети плачут ... - Их счастье , - сказал стрелочник .
+1	Одни	_	Word	Word	_	3	E	3:E	_
+2	только	_	Word	Word	_	3	E	3:E	_
+3	дети	_	Word	Word	_	4	A	4:A	_
+4	знают	_	Word	Word	_	10	A	10:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	что	_	Word	Word	_	7	A	7:A	_
+7	ищут	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	промолвил	_	Word	Word	_	0	H	0:H	_
+11	Маленький	_	Word	Word	_	12	E	12:E	_
+12	принц	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	Они	_	Word	Word	_	16	A	16:A	_
+16	отдают	_	Word	Word	_	4	H	4:H	_
+17	все	_	Word	Word	_	19	Q	19:Q	_
+18	свои	_	Word	Word	_	19	E	19:E	_
+19	дни	_	Word	Word	_	16	A	16:A	_
+20	тряпочной	_	Word	Word	_	21	E	21:E	_
+21	кукле	_	Word	Word	_	16	A	16:A	_
+22	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+23	и	_	Word	Word	_	30	L	30:L	_
+24	она	_	Word	Word	_	30	A	30:A	_
+25	становится	_	Word	Word	_	30	D	30:D	_
+26	им	_	Word	Word	_	30	A	30:A	_
+27	очень	_	Word	Word	_	30	D	30:D	_
+28	-	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	очень	_	Word	Word	_	27	Terminal	27:Terminal	_
+30	дорога	_	Word	Word	_	4	H	4:H	_
+31	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+32	и	_	Word	Word	_	38	L	38:L	_
+33	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+34	если	_	Word	Word	_	38	L	38:L	_
+35	ее	_	Word	Word	_	38	A	38:A	_
+36	у	_	Word	Word	_	37	R	37:R	_
+37	них	_	Word	Word	_	38	A	38:A	_
+38	отнимут	_	Word	Word	_	4	H	4:H	_
+39	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+40	дети	_	Word	Word	_	41	A	41:A	_
+41	плачут	_	Word	Word	_	4	H	4:H	_
+42	...	_	Punctuation	Punctuation	_	10	U	10:U	_
+43	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+44	Их	_	Word	Word	_	45	A	45:A	_
+45	счастье	_	Word	Word	_	48	A	48:A	_
+46	,	_	Punctuation	Punctuation	_	48	U	48:U	_
+47	-	_	Punctuation	Punctuation	_	48	U	48:U	_
+48	сказал	_	Word	Word	_	10	H	10:H	_
+49	стрелочник	_	Word	Word	_	48	A	48:A	_
+50	.	_	Punctuation	Punctuation	_	49	U	49:U	_
+

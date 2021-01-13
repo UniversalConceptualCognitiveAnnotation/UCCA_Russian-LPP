@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2120007
+# text = не забудьте утешить меня в моей печали .
+1	не	_	Word	Word	_	2	D	2:D	_
+2	забудьте	_	Word	Word	_	0	H	0:H	_
+3	утешить	_	Word	Word	_	2	A	2:A	_
+4	меня	_	Word	Word	_	3	A	3:A	_
+5	в	_	Word	Word	_	7	R	7:R	_
+6	моей	_	Word	Word	_	7	A	7:A	_
+7	печали	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

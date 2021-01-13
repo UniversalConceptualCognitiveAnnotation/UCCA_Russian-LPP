@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2057005
+# text = Он занят только одним : складывает цифры .
+1	Он	_	Word	Word	_	2	A	2:A|6:A	_
+2	занят	_	Word	Word	_	0	H	0:H	_
+3	только	_	Word	Word	_	4	E	4:E	_
+4	одним	_	Word	Word	_	2	A	2:A	_
+5	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	складывает	_	Word	Word	_	2	H	2:H	_
+7	цифры	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

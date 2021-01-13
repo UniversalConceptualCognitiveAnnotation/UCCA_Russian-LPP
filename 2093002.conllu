@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2093002
+# text = И вот перед ним пять тысяч точно таких же цветов в одном только саду ! "
+1	И	_	Word	Word	_	4	L	4:L	_
+2	вот	_	Word	Word	_	4	L	4:L	_
+3	перед	_	Word	Word	_	4	R	4:R	_
+4	ним	_	Word	Word	_	0	H	0:H	_
+5	пять	_	Word	Word	_	6	Q	6:Q	_
+6	тысяч	_	Word	Word	_	10	Q	10:Q	_
+7	точно	_	Word	Word	_	8	D	8:D	_
+8	таких	_	Word	Word	_	10	E	10:E	_
+9	же	_	Word	Word	_	4	F	4:F	_
+10	цветов	_	Word	Word	_	4	A	4:A	_
+11	в	_	Word	Word	_	14	R	14:R	_
+12	одном	_	Word	Word	_	14	Q	14:Q	_
+13	только	_	Word	Word	_	14	E	14:E	_
+14	саду	_	Word	Word	_	4	A	4:A	_
+15	!	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	"	_	Punctuation	Punctuation	_	14	U	14:U	_
+

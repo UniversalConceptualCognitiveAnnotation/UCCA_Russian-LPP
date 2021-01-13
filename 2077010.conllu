@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2077010
+# text = Зачем же ты опять его зажег ? -
+1	Зачем	_	Word	Word	_	0	H	0:H	_
+2	же	_	Word	Word	_	6	F	6:F	_
+3	ты	_	Word	Word	_	6	A	6:A	_
+4	опять	_	Word	Word	_	6	D	6:D	_
+5	его	_	Word	Word	_	6	A	6:A	_
+6	зажег	_	Word	Word	_	1	H	1:H	_
+7	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

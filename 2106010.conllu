@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2106010
+# text = Мне хочется глотнуть этой воды , - промолвил Маленький принц . - Дай мне напиться ...
+1	Мне	_	Word	Word	_	3	A	3:A	_
+2	хочется	_	Word	Word	_	3	D	3:D	_
+3	глотнуть	_	Word	Word	_	8	A	8:A	_
+4	этой	_	Word	Word	_	5	E	5:E	_
+5	воды	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	промолвил	_	Word	Word	_	0	H	0:H	_
+9	Маленький	_	Word	Word	_	10	E	10:E	_
+10	принц	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+12	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	Дай	_	Word	Word	_	3	H	3:H	_
+14	мне	_	Word	Word	_	13	A	13:A|15:A	_
+15	напиться	_	Word	Word	_	13	A	13:A	_
+16	...	_	Punctuation	Punctuation	_	15	U	15:U	_
+

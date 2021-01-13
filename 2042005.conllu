@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2042005
+# text = И я с гордостью объяснил , что умею летать .
+1	И	_	Word	Word	_	5	L	5:L	_
+2	я	_	Word	Word	_	5	A	5:A|9:A	_
+3	с	_	Word	Word	_	4	R	4:R	_
+4	гордостью	_	Word	Word	_	5	D	5:D	_
+5	объяснил	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	что	_	Word	Word	_	9	R	9:R	_
+8	умею	_	Word	Word	_	9	D	9:D	_
+9	летать	_	Word	Word	_	5	A	5:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

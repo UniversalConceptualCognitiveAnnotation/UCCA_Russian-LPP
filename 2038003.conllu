@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2038003
+# text = Со мной не было ни механика , ни пассажиров , и я решил , что попробую сам все починить , хоть это и очень трудно .
+1	Со	_	Word	Word	_	2	R	2:R	_
+2	мной	_	Word	Word	_	4	A	4:A	_
+3	не	_	Word	Word	_	4	D	4:D	_
+4	было	_	Word	Word	_	0	H	0:H	_
+5	ни	_	Word	Word	_	6	Q	6:Q	_
+6	механика	_	Word	Word	_	4	A	4:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	ни	_	Word	Word	_	6	N	6:N	_
+9	пассажиров	_	Word	Word	_	6	C	6:C	_
+10	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	и	_	Word	Word	_	13	L	13:L	_
+12	я	_	Word	Word	_	13	A	13:A|19:A	_
+13	решил	_	Word	Word	_	4	H	4:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	что	_	Word	Word	_	19	R	19:R	_
+16	попробую	_	Word	Word	_	19	D	19:D	_
+17	сам	_	Word	Word	_	19	D	19:D	_
+18	все	_	Word	Word	_	19	A	19:A	_
+19	починить	_	Word	Word	_	13	A	13:A	_
+20	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+21	хоть	_	Word	Word	_	25	L	25:L	_
+22	это	_	Word	Word	_	25	A	25:A	_
+23	и	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	очень	_	Word	Word	_	25	D	25:D	_
+25	трудно	_	Word	Word	_	4	H	4:H	_
+26	.	_	Punctuation	Punctuation	_	25	U	25:U	_
+

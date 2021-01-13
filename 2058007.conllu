@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2058007
+# text = На звезде , на планете - на моей планете по имени Земля , - плакал Маленький принц , и надо было его утешить .
+1	На	_	Word	Word	_	2	R	2:R	_
+2	звезде	_	Word	Word	_	15	A	15:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	планете	_	Word	Word	_	2	C	2:C	_
+6	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	на	_	Word	Word	_	9	R	9:R	_
+8	моей	_	Word	Word	_	9	E	9:E	_
+9	планете	_	Word	Word	_	2	C	2:C	_
+10	по	_	Word	Word	_	12	R	12:R	_
+11	имени	_	Word	Word	_	12	E	12:E	_
+12	Земля	_	Word	Word	_	9	E	9:E	_
+13	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+14	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+15	плакал	_	Word	Word	_	0	H	0:H	_
+16	Маленький	_	Word	Word	_	17	E	17:E	_
+17	принц	_	Word	Word	_	15	A	15:A	_
+18	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+19	и	_	Word	Word	_	23	L	23:L	_
+20	надо	_	Word	Word	_	23	D	23:D	_
+21	было	_	Word	Word	_	23	F	23:F	_
+22	его	_	Word	Word	_	23	A	23:A	_
+23	утешить	_	Word	Word	_	15	H	15:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+

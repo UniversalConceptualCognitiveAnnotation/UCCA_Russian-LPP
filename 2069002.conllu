@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2069002
+# text = Сам себя я могу судить где угодно , - сказал Маленький принц . - Для этого мне незачем оставаться у вас . -
+1	Сам	_	Word	Word	_	10	A	10:A	_
+2	себя	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	я	_	Word	Word	_	1	A	1:A	_
+4	могу	_	Word	Word	_	1	D	1:D	_
+5	судить	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	где	_	Word	Word	_	1	A	1:A	_
+7	угодно	_	Word	Word	_	6	E	6:E	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	сказал	_	Word	Word	_	0	H	0:H	_
+11	Маленький	_	Word	Word	_	12	E	12:E	_
+12	принц	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+14	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+15	Для	_	Word	Word	_	19	L	19:L	_
+16	этого	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	мне	_	Word	Word	_	19	A	19:A	_
+18	незачем	_	Word	Word	_	19	D	19:D	_
+19	оставаться	_	Word	Word	_	1	H	1:H	_
+20	у	_	Word	Word	_	21	R	21:R	_
+21	вас	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+

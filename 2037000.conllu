@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2037000
+# text = Взрослые посоветовали мне не рисовать змей ни снаружи , ни изнутри , а побольше интересоваться географией , историей , арифметикой и правописанием .
+1	Взрослые	_	Word	Word	_	2	A	2:A	_
+2	посоветовали	_	Word	Word	_	0	H	0:H	_
+3	мне	_	Word	Word	_	2	A	2:A|5:A	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	рисовать	_	Word	Word	_	2	A	2:A	_
+6	змей	_	Word	Word	_	5	A	5:A	_
+7	ни	_	Word	Word	_	8	Q	8:Q	_
+8	снаружи	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	ни	_	Word	Word	_	8	N	8:N	_
+11	изнутри	_	Word	Word	_	8	C	8:C	_
+12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	а	_	Word	Word	_	15	L	15:L	_
+14	побольше	_	Word	Word	_	15	D	15:D	_
+15	интересоваться	_	Word	Word	_	2	H	2:H	_
+16	географией	_	Word	Word	_	15	A	15:A	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	историей	_	Word	Word	_	16	C	16:C	_
+19	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	арифметикой	_	Word	Word	_	16	C	16:C	_
+21	и	_	Word	Word	_	16	N	16:N	_
+22	правописанием	_	Word	Word	_	16	C	16:C	_
+23	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

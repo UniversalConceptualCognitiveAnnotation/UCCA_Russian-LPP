@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2081007
+# text = Я географ , - ответил старик . -
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	географ	_	Word	Word	_	5	A	5:A	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	ответил	_	Word	Word	_	0	H	0:H	_
+6	старик	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2118006
+# text = Словно пятьсот миллионов бубенцов ... Но вот что поразительно . Когда я рисовал намордник для барашка , я забыл про ремешок !
+1	Словно	_	Word	Word	_	13	L	13:L	_
+2	пятьсот	_	Word	Word	_	4	Q	4:Q	_
+3	миллионов	_	Word	Word	_	2	C	2:C	_
+4	бубенцов	_	Word	Word	_	0	H	0:H	_
+5	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	Но	_	Word	Word	_	13	L	13:L	_
+7	вот	_	Word	Word	_	13	G	13:G	_
+8	что	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	поразительно	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+11	Когда	_	Word	Word	_	13	L	13:L	_
+12	я	_	Word	Word	_	13	A	13:A	_
+13	рисовал	_	Word	Word	_	4	H	4:H	_
+14	намордник	_	Word	Word	_	13	A	13:A	_
+15	для	_	Word	Word	_	16	R	16:R	_
+16	барашка	_	Word	Word	_	14	E	14:E	_
+17	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+18	я	_	Word	Word	_	19	A	19:A	_
+19	забыл	_	Word	Word	_	4	H	4:H	_
+20	про	_	Word	Word	_	21	R	21:R	_
+21	ремешок	_	Word	Word	_	19	A	19:A	_
+22	!	_	Punctuation	Punctuation	_	21	U	21:U	_
+

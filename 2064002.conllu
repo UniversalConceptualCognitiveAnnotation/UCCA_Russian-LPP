@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2064002
+# text = Он застыл , растерянный , со стеклянным колпаком в руках .
+1	Он	_	Word	Word	_	2	A	2:A|4:A	_
+2	застыл	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	растерянный	_	Word	Word	_	2	H	2:H	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	со	_	Word	Word	_	8	R	8:R	_
+7	стеклянным	_	Word	Word	_	8	E	8:E	_
+8	колпаком	_	Word	Word	_	2	A	2:A	_
+9	в	_	Word	Word	_	10	R	10:R	_
+10	руках	_	Word	Word	_	2	A	2:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

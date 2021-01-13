@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2059009
+# text = Она наряжалась неторопливо , один за другим примеряя лепестки .
+1	Она	_	Word	Word	_	2	A	2:A|8:A	_
+2	наряжалась	_	Word	Word	_	0	H	0:H	_
+3	неторопливо	_	Word	Word	_	2	D	2:D	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	один	_	Word	Word	_	8	D	8:D	_
+6	за	_	Word	Word	_	5	N	5:N	_
+7	другим	_	Word	Word	_	5	C	5:C	_
+8	примеряя	_	Word	Word	_	2	H	2:H	_
+9	лепестки	_	Word	Word	_	8	A	8:A	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

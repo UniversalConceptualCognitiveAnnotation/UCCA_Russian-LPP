@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 2069001
+# text = Тогда суди сам себя , - сказал король . - Это самое трудное . Себя судить куда труднее , чем других . Если ты сумеешь правильно судить себя , значит , ты поистине мудр . -
+1	Тогда	_	Word	Word	_	13	L	13:L	_
+2	суди	_	Word	Word	_	7	A	7:A	_
+3	сам	_	Word	Word	_	2	Terminal	2:Terminal	_
+4	себя	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	сказал	_	Word	Word	_	0	H	0:H	_
+8	король	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	Это	_	Word	Word	_	13	A	13:A	_
+12	самое	_	Word	Word	_	13	D	13:D	_
+13	трудное	_	Word	Word	_	2	H	2:H	_
+14	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+15	Себя	_	Word	Word	_	18	A	18:A	_
+16	судить	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	куда	_	Word	Word	_	18	D	18:D	_
+18	труднее	_	Word	Word	_	2	H	2:H	_
+19	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	чем	_	Word	Word	_	21	L	21:L	_
+21	других	_	Word	Word	_	2	H	2:H	_
+22	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+23	Если	_	Word	Word	_	27	L	27:L	_
+24	ты	_	Word	Word	_	27	A	27:A	_
+25	сумеешь	_	Word	Word	_	27	D	27:D	_
+26	правильно	_	Word	Word	_	27	D	27:D	_
+27	судить	_	Word	Word	_	2	H	2:H	_
+28	себя	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	значит	_	Word	Word	_	34	L	34:L	_
+31	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+32	ты	_	Word	Word	_	34	A	34:A	_
+33	поистине	_	Word	Word	_	34	D	34:D	_
+34	мудр	_	Word	Word	_	2	H	2:H	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+36	-	_	Punctuation	Punctuation	_	34	U	34:U	_
+

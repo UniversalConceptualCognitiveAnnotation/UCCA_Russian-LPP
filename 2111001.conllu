@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2111001
+# text = Но нигде у стены я больше никого не видел и не слышал .
+1	Но	_	Word	Word	_	12	L	12:L	_
+2	нигде	_	Word	Word	_	4	E	4:E	_
+3	у	_	Word	Word	_	4	R	4:R	_
+4	стены	_	Word	Word	_	9	A	9:A	_
+5	я	_	Word	Word	_	9	A	9:A|12:A	_
+6	больше	_	Word	Word	_	9	D	9:D	_
+7	никого	_	Word	Word	_	9	A	9:A|12:A	_
+8	не	_	Word	Word	_	9	D	9:D	_
+9	видел	_	Word	Word	_	0	H	0:H	_
+10	и	_	Word	Word	_	12	L	12:L	_
+11	не	_	Word	Word	_	12	D	12:D	_
+12	слышал	_	Word	Word	_	9	H	9:H	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

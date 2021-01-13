@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2038016
+# text = Это не моя вина .
+1	Это	_	Word	Word	_	4	A	4:A	_
+2	не	_	Word	Word	_	4	D	4:D	_
+3	моя	_	Word	Word	_	4	A	4:A	_
+4	вина	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

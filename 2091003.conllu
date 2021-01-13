@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 2091003
+# text = И теперь он подумал : " С такой высокой горы я сразу увижу всю планету и всех людей ". Но увидел только скалы , острые и тонкие , как иглы . -
+1	И	_	Word	Word	_	21	L	21:L	_
+2	теперь	_	Word	Word	_	21	L	21:L	_
+3	он	_	Word	Word	_	4	A	4:A|21:A	_
+4	подумал	_	Word	Word	_	0	H	0:H	_
+5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	"	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	С	_	Word	Word	_	10	R	10:R	_
+8	такой	_	Word	Word	_	9	D	9:D	_
+9	высокой	_	Word	Word	_	10	E	10:E	_
+10	горы	_	Word	Word	_	13	A	13:A	_
+11	я	_	Word	Word	_	13	A	13:A	_
+12	сразу	_	Word	Word	_	13	D	13:D	_
+13	увижу	_	Word	Word	_	4	A	4:A	_
+14	всю	_	Word	Word	_	15	Q	15:Q	_
+15	планету	_	Word	Word	_	13	A	13:A	_
+16	и	_	Word	Word	_	15	N	15:N	_
+17	всех	_	Word	Word	_	18	Q	18:Q	_
+18	людей	_	Word	Word	_	15	C	15:C	_
+19	".	_	Punctuation	Punctuation	_	4	U	4:U	_
+20	Но	_	Word	Word	_	21	L	21:L	_
+21	увидел	_	Word	Word	_	4	H	4:H	_
+22	только	_	Word	Word	_	23	E	23:E	_
+23	скалы	_	Word	Word	_	21	A	21:A	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	острые	_	Word	Word	_	23	E	23:E	_
+26	и	_	Word	Word	_	25	N	25:N	_
+27	тонкие	_	Word	Word	_	25	C	25:C	_
+28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	как	_	Word	Word	_	30	L	30:L	_
+30	иглы	_	Word	Word	_	27	H	27:H	_
+31	.	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	-	_	Punctuation	Punctuation	_	30	U	30:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2081009
+# text = Как интересно ! - сказал Маленький принц . - Вот это настоящее дело !
+1	Как	_	Word	Word	_	2	D	2:D	_
+2	интересно	_	Word	Word	_	5	A	5:A	_
+3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	сказал	_	Word	Word	_	0	H	0:H	_
+6	Маленький	_	Word	Word	_	7	E	7:E	_
+7	принц	_	Word	Word	_	5	A	5:A	_
+8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	Вот	_	Word	Word	_	13	F	13:F	_
+11	это	_	Word	Word	_	13	A	13:A	_
+12	настоящее	_	Word	Word	_	13	D	13:D	_
+13	дело	_	Word	Word	_	2	H	2:H	_
+14	!	_	Punctuation	Punctuation	_	13	U	13:U	_
+

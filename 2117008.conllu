@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2117008
+# text = Дай мне сделать еще шаг одному .
+1	Дай	_	Word	Word	_	0	H	0:H	_
+2	мне	_	Word	Word	_	1	A	1:A|3:A	_
+3	сделать	_	Word	Word	_	1	A	1:A	_
+4	еще	_	Word	Word	_	5	E	5:E	_
+5	шаг	_	Word	Word	_	3	A	3:A	_
+6	одному	_	Word	Word	_	3	D	3:D	_
+7	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+

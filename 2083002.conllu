@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2083002
+# text = Рассказы путешественников сначала записывают карандашом .
+1	Рассказы	_	Word	Word	_	4	A	4:A	_
+2	путешественников	_	Word	Word	_	1	A	1:A	_
+3	сначала	_	Word	Word	_	4	D	4:D	_
+4	записывают	_	Word	Word	_	0	H	0:H	_
+5	карандашом	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

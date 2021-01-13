@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2068007
+# text = И , по правде говоря , ему уже стало скучновато . -
+1	И	_	Word	Word	_	10	L	10:L	_
+2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+3	по	_	Word	Word	_	10	G	10:G	_
+4	правде	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	говоря	_	Word	Word	_	3	Terminal	3:Terminal	_
+6	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+7	ему	_	Word	Word	_	10	A	10:A	_
+8	уже	_	Word	Word	_	10	D	10:D	_
+9	стало	_	Word	Word	_	10	D	10:D	_
+10	скучновато	_	Word	Word	_	0	H	0:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+

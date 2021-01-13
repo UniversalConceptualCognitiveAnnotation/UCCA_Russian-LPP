@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2075002
+# text = Звезды чьи ? - ворчливо спросил делец . -
+1	Звезды	_	Word	Word	_	6	A	6:A	_
+2	чьи	_	Word	Word	_	1	A	1:A	_
+3	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+4	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	ворчливо	_	Word	Word	_	6	D	6:D	_
+6	спросил	_	Word	Word	_	0	H	0:H	_
+7	делец	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+

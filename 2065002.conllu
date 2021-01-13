@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2065002
+# text = На первом астероиде жил король .
+1	На	_	Word	Word	_	3	R	3:R	_
+2	первом	_	Word	Word	_	3	Q	3:Q	_
+3	астероиде	_	Word	Word	_	4	A	4:A	_
+4	жил	_	Word	Word	_	0	H	0:H	_
+5	король	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

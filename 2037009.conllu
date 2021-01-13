@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2037009
+# text = На своем веку я много встречал разных серьезных людей .
+1	На	_	Word	Word	_	3	R	3:R	_
+2	своем	_	Word	Word	_	3	E	3:E	_
+3	веку	_	Word	Word	_	6	A	6:A	_
+4	я	_	Word	Word	_	6	A	6:A	_
+5	много	_	Word	Word	_	6	D	6:D	_
+6	встречал	_	Word	Word	_	0	H	0:H	_
+7	разных	_	Word	Word	_	9	E	9:E	_
+8	серьезных	_	Word	Word	_	9	E	9:E	_
+9	людей	_	Word	Word	_	6	A	6:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

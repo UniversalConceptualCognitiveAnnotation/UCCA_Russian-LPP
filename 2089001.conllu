@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2089001
+# text = За все время ему попался только один цветок - крохотный , невзрачный цветок о трех лепестках ...
+1	За	_	Word	Word	_	3	R	3:R	_
+2	все	_	Word	Word	_	3	Q	3:Q	_
+3	время	_	Word	Word	_	5	T	5:T	_
+4	ему	_	Word	Word	_	5	A	5:A	_
+5	попался	_	Word	Word	_	0	H	0:H	_
+6	только	_	Word	Word	_	8	E	8:E	_
+7	один	_	Word	Word	_	8	Q	8:Q	_
+8	цветок	_	Word	Word	_	5	A	5:A	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	крохотный	_	Word	Word	_	13	E	13:E	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	невзрачный	_	Word	Word	_	13	E	13:E	_
+13	цветок	_	Word	Word	_	8	E	8:E	_
+14	о	_	Word	Word	_	16	R	16:R	_
+15	трех	_	Word	Word	_	16	Q	16:Q	_
+16	лепестках	_	Word	Word	_	13	E	13:E	_
+17	...	_	Punctuation	Punctuation	_	16	U	16:U	_
+

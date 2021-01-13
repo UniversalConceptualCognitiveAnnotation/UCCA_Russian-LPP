@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2107002
+# text = Он пил , закрыв глаза .
+1	Он	_	Word	Word	_	2	A	2:A|4:A	_
+2	пил	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	закрыв	_	Word	Word	_	2	H	2:H	_
+5	глаза	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

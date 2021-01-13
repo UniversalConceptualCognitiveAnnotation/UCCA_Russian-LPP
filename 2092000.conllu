@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2092000
+# text = XX Долго шел Маленький принц через пески , скалы и снега и наконец набрел на дорогу .
+1	XX	_	Word	Word	_	0	H	0:H	_
+2	Долго	_	Word	Word	_	3	D	3:D	_
+3	шел	_	Word	Word	_	1	H	1:H	_
+4	Маленький	_	Word	Word	_	5	E	5:E	_
+5	принц	_	Word	Word	_	0	C	0:C|4:A|14:A	_
+6	через	_	Word	Word	_	7	R	7:R	_
+7	пески	_	Word	Word	_	3	A	3:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	скалы	_	Word	Word	_	7	C	7:C	_
+10	и	_	Word	Word	_	7	N	7:N	_
+11	снега	_	Word	Word	_	7	C	7:C	_
+12	и	_	Word	Word	_	14	L	14:L	_
+13	наконец	_	Word	Word	_	14	L	14:L	_
+14	набрел	_	Word	Word	_	1	H	1:H	_
+15	на	_	Word	Word	_	16	R	16:R	_
+16	дорогу	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

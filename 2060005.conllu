@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2060005
+# text = На моей планете тигры не водятся , - возразил Маленький принц . - И потом , тигры не едят траву . -
+1	На	_	Word	Word	_	3	R	3:R	_
+2	моей	_	Word	Word	_	3	E	3:E	_
+3	планете	_	Word	Word	_	6	A	6:A	_
+4	тигры	_	Word	Word	_	6	A	6:A	_
+5	не	_	Word	Word	_	6	D	6:D	_
+6	водятся	_	Word	Word	_	9	A	9:A	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	возразил	_	Word	Word	_	0	H	0:H	_
+10	Маленький	_	Word	Word	_	11	E	11:E	_
+11	принц	_	Word	Word	_	9	A	9:A	_
+12	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+14	И	_	Word	Word	_	19	L	19:L	_
+15	потом	_	Word	Word	_	19	L	19:L	_
+16	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+17	тигры	_	Word	Word	_	19	A	19:A	_
+18	не	_	Word	Word	_	19	D	19:D	_
+19	едят	_	Word	Word	_	6	H	6:H	_
+20	траву	_	Word	Word	_	19	A	19:A	_
+21	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+

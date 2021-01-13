@@ -1,0 +1,49 @@
+# format = ucca
+# sent_id = 2083011
+# text = Книги по географии - самые драгоценные книги на свете , - объяснил географ . - Они никогда не устаревают . Ведь это очень редкий случай , чтобы гора сдвинулась с места . Или чтобы океан пересох . Мы пишем о вещах вечных и неизменных .
+1	Книги	_	Word	Word	_	12	A	12:A	_
+2	по	_	Word	Word	_	3	R	3:R	_
+3	географии	_	Word	Word	_	1	E	1:E	_
+4	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	самые	_	Word	Word	_	6	D	6:D	_
+6	драгоценные	_	Word	Word	_	7	E	7:E	_
+7	книги	_	Word	Word	_	1	A	1:A	_
+8	на	_	Word	Word	_	9	R	9:R	_
+9	свете	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+11	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+12	объяснил	_	Word	Word	_	0	H	0:H	_
+13	географ	_	Word	Word	_	12	A	12:A	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+15	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+16	Они	_	Word	Word	_	19	A	19:A	_
+17	никогда	_	Word	Word	_	19	T	19:T	_
+18	не	_	Word	Word	_	19	D	19:D	_
+19	устаревают	_	Word	Word	_	1	H	1:H	_
+20	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+21	Ведь	_	Word	Word	_	25	L	25:L	_
+22	это	_	Word	Word	_	25	F	25:F	_
+23	очень	_	Word	Word	_	24	E	24:E	_
+24	редкий	_	Word	Word	_	25	D	25:D	_
+25	случай	_	Word	Word	_	1	H	1:H	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	чтобы	_	Word	Word	_	29	R	29:R	_
+28	гора	_	Word	Word	_	29	A	29:A	_
+29	сдвинулась	_	Word	Word	_	25	A	25:A	_
+30	с	_	Word	Word	_	31	R	31:R	_
+31	места	_	Word	Word	_	29	A	29:A	_
+32	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+33	Или	_	Word	Word	_	36	L	36:L	_
+34	чтобы	_	Word	Word	_	36	R	36:R	_
+35	океан	_	Word	Word	_	36	A	36:A	_
+36	пересох	_	Word	Word	_	29	H	29:H	_
+37	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+38	Мы	_	Word	Word	_	39	A	39:A	_
+39	пишем	_	Word	Word	_	1	H	1:H	_
+40	о	_	Word	Word	_	41	R	41:R	_
+41	вещах	_	Word	Word	_	39	A	39:A	_
+42	вечных	_	Word	Word	_	41	E	41:E	_
+43	и	_	Word	Word	_	42	N	42:N	_
+44	неизменных	_	Word	Word	_	42	C	42:C	_
+45	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

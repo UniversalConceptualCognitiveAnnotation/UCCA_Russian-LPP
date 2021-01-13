@@ -1,0 +1,8 @@
+# format = ucca
+# sent_id = 2055009
+# text = Зачем нужны шипы ?
+1	Зачем	_	Word	Word	_	0	H	0:H	_
+2	нужны	_	Word	Word	_	3	D	3:D	_
+3	шипы	_	Word	Word	_	1	H	1:H	_
+4	?	_	Punctuation	Punctuation	_	3	U	3:U	_
+

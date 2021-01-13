@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2064005
+# text = Но ветер ... - Не так уж я простужена ... Ночная свежесть пойдет мне на пользу . Ведь я - цветок . -
+1	Но	_	Word	Word	_	9	L	9:L	_
+2	ветер	_	Word	Word	_	0	H	0:H	_
+3	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Не	_	Word	Word	_	9	D	9:D	_
+6	так	_	Word	Word	_	9	D	9:D	_
+7	уж	_	Word	Word	_	9	F	9:F	_
+8	я	_	Word	Word	_	9	A	9:A	_
+9	простужена	_	Word	Word	_	2	H	2:H	_
+10	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	Ночная	_	Word	Word	_	12	E	12:E	_
+12	свежесть	_	Word	Word	_	16	A	16:A	_
+13	пойдет	_	Word	Word	_	16	F	16:F	_
+14	мне	_	Word	Word	_	16	A	16:A	_
+15	на	_	Word	Word	_	16	R	16:R	_
+16	пользу	_	Word	Word	_	9	H	9:H	_
+17	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+18	Ведь	_	Word	Word	_	19	L	19:L	_
+19	я	_	Word	Word	_	9	H	9:H	_
+20	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+21	цветок	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+23	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+

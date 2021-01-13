@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2109001
+# text = А я прибавил нерешительно : - Может быть , это потому , что исполняется год ?.. И снова он покраснел .
+1	А	_	Word	Word	_	20	L	20:L	_
+2	я	_	Word	Word	_	3	A	3:A	_
+3	прибавил	_	Word	Word	_	0	H	0:H	_
+4	нерешительно	_	Word	Word	_	3	D	3:D	_
+5	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Может	_	Word	Word	_	10	G	10:G	_
+8	быть	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+10	это	_	Word	Word	_	3	A	3:A	_
+11	потому	_	Word	Word	_	14	L	14:L	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	что	_	Word	Word	_	11	Terminal	11:Terminal	_
+14	исполняется	_	Word	Word	_	10	H	10:H	_
+15	год	_	Word	Word	_	14	A	14:A	_
+16	?..	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	И	_	Word	Word	_	20	L	20:L	_
+18	снова	_	Word	Word	_	20	D	20:D	_
+19	он	_	Word	Word	_	20	A	20:A	_
+20	покраснел	_	Word	Word	_	3	H	3:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

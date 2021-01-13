@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2061001
+# text = Ведь ее занесло сюда , когда она была еще зернышком .
+1	Ведь	_	Word	Word	_	8	L	8:L	_
+2	ее	_	Word	Word	_	3	A	3:A	_
+3	занесло	_	Word	Word	_	0	H	0:H	_
+4	сюда	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	когда	_	Word	Word	_	8	L	8:L	_
+7	она	_	Word	Word	_	8	A	8:A	_
+8	была	_	Word	Word	_	3	H	3:H	_
+9	еще	_	Word	Word	_	8	D	8:D	_
+10	зернышком	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

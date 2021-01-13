@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2049004
+# text = Это очень печально , когда забывают друзей .
+1	Это	_	Word	Word	_	3	F	3:F	_
+2	очень	_	Word	Word	_	3	D	3:D	_
+3	печально	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	когда	_	Word	Word	_	6	R	6:R	_
+6	забывают	_	Word	Word	_	3	A	3:A	_
+7	друзей	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

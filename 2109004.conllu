@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 2109004
+# text = Но он сказал : - Пора тебе приниматься за работу . Иди к своей машине . Я буду ждать тебя здесь . Возвращайся завтра вечером ... Однако мне не стало спокойнее .
+1	Но	_	Word	Word	_	31	L	31:L	_
+2	он	_	Word	Word	_	3	A	3:A	_
+3	сказал	_	Word	Word	_	0	H	0:H	_
+4	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	Пора	_	Word	Word	_	10	D	10:D	_
+7	тебе	_	Word	Word	_	10	A	10:A|12:A	_
+8	приниматься	_	Word	Word	_	10	D	10:D	_
+9	за	_	Word	Word	_	10	R	10:R	_
+10	работу	_	Word	Word	_	3	A	3:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	Иди	_	Word	Word	_	10	H	10:H	_
+13	к	_	Word	Word	_	15	R	15:R	_
+14	своей	_	Word	Word	_	15	E	15:E	_
+15	машине	_	Word	Word	_	12	A	12:A	_
+16	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+17	Я	_	Word	Word	_	19	A	19:A	_
+18	буду	_	Word	Word	_	19	F	19:F	_
+19	ждать	_	Word	Word	_	10	H	10:H	_
+20	тебя	_	Word	Word	_	19	A	19:A|23:A	_
+21	здесь	_	Word	Word	_	19	A	19:A	_
+22	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+23	Возвращайся	_	Word	Word	_	10	H	10:H	_
+24	завтра	_	Word	Word	_	23	T	23:T	_
+25	вечером	_	Word	Word	_	24	C	24:C	_
+26	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+27	Однако	_	Word	Word	_	31	L	31:L	_
+28	мне	_	Word	Word	_	31	A	31:A	_
+29	не	_	Word	Word	_	31	D	31:D	_
+30	стало	_	Word	Word	_	31	D	31:D	_
+31	спокойнее	_	Word	Word	_	3	H	3:H	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

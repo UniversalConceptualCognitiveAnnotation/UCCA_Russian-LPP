@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2065010
+# text = Но я робею ... я больше не могу ... - вымолвил Маленький принц и густо покраснел . -
+1	Но	_	Word	Word	_	8	L	8:L	_
+2	я	_	Word	Word	_	3	A	3:A	_
+3	робею	_	Word	Word	_	11	A	11:A	_
+4	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	я	_	Word	Word	_	8	A	8:A	_
+6	больше	_	Word	Word	_	8	D	8:D	_
+7	не	_	Word	Word	_	8	D	8:D	_
+8	могу	_	Word	Word	_	3	H	3:H	_
+9	...	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	вымолвил	_	Word	Word	_	0	H	0:H	_
+12	Маленький	_	Word	Word	_	13	E	13:E	_
+13	принц	_	Word	Word	_	0	C	0:C|12:A|16:A	_
+14	и	_	Word	Word	_	16	L	16:L	_
+15	густо	_	Word	Word	_	16	D	16:D	_
+16	покраснел	_	Word	Word	_	11	H	11:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+

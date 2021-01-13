@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2119000
+# text = А иногда я говорю себе : бываешь же порой рассеянным ... Тогда все может случиться !
+1	А	_	Word	Word	_	15	L	15:L	_
+2	иногда	_	Word	Word	_	4	D	4:D	_
+3	я	_	Word	Word	_	4	A	4:A|10:A	_
+4	говорю	_	Word	Word	_	0	H	0:H	_
+5	себе	_	Word	Word	_	4	A	4:A	_
+6	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	бываешь	_	Word	Word	_	10	F	10:F	_
+8	же	_	Word	Word	_	10	F	10:F	_
+9	порой	_	Word	Word	_	10	D	10:D	_
+10	рассеянным	_	Word	Word	_	4	A	4:A	_
+11	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+12	Тогда	_	Word	Word	_	15	L	15:L	_
+13	все	_	Word	Word	_	15	A	15:A	_
+14	может	_	Word	Word	_	15	D	15:D	_
+15	случиться	_	Word	Word	_	4	H	4:H	_
+16	!	_	Punctuation	Punctuation	_	15	U	15:U	_
+

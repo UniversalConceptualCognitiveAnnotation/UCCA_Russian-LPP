@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2100011
+# text = Я в ответе за мою розу ... - повторил Маленький принц , чтобы лучше запомнить .
+1	Я	_	Word	Word	_	3	A	3:A	_
+2	в	_	Word	Word	_	3	R	3:R	_
+3	ответе	_	Word	Word	_	9	A	9:A	_
+4	за	_	Word	Word	_	6	R	6:R	_
+5	мою	_	Word	Word	_	6	E	6:E	_
+6	розу	_	Word	Word	_	3	A	3:A	_
+7	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	повторил	_	Word	Word	_	0	H	0:H	_
+10	Маленький	_	Word	Word	_	11	E	11:E	_
+11	принц	_	Word	Word	_	0	C	0:C|10:A|15:A	_
+12	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+13	чтобы	_	Word	Word	_	15	L	15:L	_
+14	лучше	_	Word	Word	_	15	D	15:D	_
+15	запомнить	_	Word	Word	_	9	H	9:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

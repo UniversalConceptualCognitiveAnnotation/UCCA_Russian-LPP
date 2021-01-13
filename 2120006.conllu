@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2120006
+# text = Тогда - очень прошу вас ! -
+1	Тогда	_	Word	Word	_	4	L	4:L	_
+2	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	очень	_	Word	Word	_	4	D	4:D	_
+4	прошу	_	Word	Word	_	0	H	0:H	_
+5	вас	_	Word	Word	_	4	A	4:A	_
+6	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

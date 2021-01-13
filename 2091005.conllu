@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2091005
+# text = Добрый день ... день ... день ..." - откликнулось эхо . -
+1	Добрый	_	Word	Word	_	9	A	9:A	_
+2	день	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	день	_	Word	Word	_	1	G	1:G	_
+5	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	день	_	Word	Word	_	1	G	1:G	_
+7	..."	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	откликнулось	_	Word	Word	_	0	H	0:H	_
+10	эхо	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+

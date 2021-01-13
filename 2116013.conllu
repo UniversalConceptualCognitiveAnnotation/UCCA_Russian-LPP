@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2116013
+# text = И взял меня за руку .
+1	И	_	Word	Word	_	2	L	2:L	_
+2	взял	_	Word	Word	_	0	H	0:H	_
+3	меня	_	Word	Word	_	2	A	2:A	_
+4	за	_	Word	Word	_	5	R	5:R	_
+5	руку	_	Word	Word	_	2	A	2:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

@@ -1,0 +1,55 @@
+# format = ucca
+# sent_id = 2084004
+# text = Моя краса и радость недолговечна , - сказал себе Маленький принц , - и ей нечем защищаться от мира : у нее только и есть что четыре шипа . А я бросил ее , и она осталась на моей планете совсем одна !" Это впервые он пожалел о покинутом цветке .
+1	Моя	_	Word	Word	_	2	A	2:A|4:A	_
+2	краса	_	Word	Word	_	17	H	17:H	_
+3	и	_	Word	Word	_	4	L	4:L	_
+4	радость	_	Word	Word	_	17	H	17:H	_
+5	недолговечна	_	Word	Word	_	2	D	2:D|4:D	_
+6	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+7	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	сказал	_	Word	Word	_	0	H	0:H	_
+9	себе	_	Word	Word	_	8	A	8:A	_
+10	Маленький	_	Word	Word	_	11	E	11:E	_
+11	принц	_	Word	Word	_	8	A	8:A	_
+12	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+13	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+14	и	_	Word	Word	_	25	L	25:L	_
+15	ей	_	Word	Word	_	17	A	17:A	_
+16	нечем	_	Word	Word	_	17	A	17:A	_
+17	защищаться	_	Word	Word	_	8	A	8:A	_
+18	от	_	Word	Word	_	19	R	19:R	_
+19	мира	_	Word	Word	_	17	A	17:A	_
+20	:	_	Punctuation	Punctuation	_	17	U	17:U	_
+21	у	_	Word	Word	_	22	R	22:R	_
+22	нее	_	Word	Word	_	25	A	25:A	_
+23	только	_	Word	Word	_	28	E	28:E	_
+24	и	_	Word	Word	_	25	F	25:F	_
+25	есть	_	Word	Word	_	17	H	17:H	_
+26	что	_	Word	Word	_	25	F	25:F	_
+27	четыре	_	Word	Word	_	28	Q	28:Q	_
+28	шипа	_	Word	Word	_	25	A	25:A	_
+29	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+30	А	_	Word	Word	_	32	L	32:L	_
+31	я	_	Word	Word	_	32	A	32:A	_
+32	бросил	_	Word	Word	_	17	H	17:H	_
+33	ее	_	Word	Word	_	32	A	32:A	_
+34	,	_	Punctuation	Punctuation	_	17	U	17:U	_
+35	и	_	Word	Word	_	37	L	37:L	_
+36	она	_	Word	Word	_	37	A	37:A	_
+37	осталась	_	Word	Word	_	17	H	17:H	_
+38	на	_	Word	Word	_	40	R	40:R	_
+39	моей	_	Word	Word	_	40	E	40:E	_
+40	планете	_	Word	Word	_	37	A	37:A	_
+41	совсем	_	Word	Word	_	42	E	42:E	_
+42	одна	_	Word	Word	_	37	D	37:D	_
+43	!"	_	Punctuation	Punctuation	_	8	U	8:U	_
+44	Это	_	Word	Word	_	47	F	47:F	_
+45	впервые	_	Word	Word	_	47	D	47:D	_
+46	он	_	Word	Word	_	47	A	47:A|49:A	_
+47	пожалел	_	Word	Word	_	8	H	8:H	_
+48	о	_	Word	Word	_	50	R	50:R	_
+49	покинутом	_	Word	Word	_	50	E	50:E	_
+50	цветке	_	Word	Word	_	47	A	47:A	_
+51	.	_	Punctuation	Punctuation	_	50	U	50:U	_
+

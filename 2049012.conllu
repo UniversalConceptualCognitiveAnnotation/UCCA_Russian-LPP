@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2049012
+# text = Вот и с ростом то же : на одном рисунке принц у меня чересчур большой , на другом - чересчур маленький .
+1	Вот	_	Word	Word	_	15	L	15:L	_
+2	и	_	Word	Word	_	15	L	15:L	_
+3	с	_	Word	Word	_	4	R	4:R	_
+4	ростом	_	Word	Word	_	0	H	0:H	_
+5	то	_	Word	Word	_	4	D	4:D	_
+6	же	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+8	на	_	Word	Word	_	10	R	10:R	_
+9	одном	_	Word	Word	_	10	Q	10:Q	_
+10	рисунке	_	Word	Word	_	0	C	0:C|18:C	_
+11	принц	_	Word	Word	_	0	A	0:A|21:A	_
+12	у	_	Word	Word	_	13	R	13:R	_
+13	меня	_	Word	Word	_	15	A	15:A|21:A	_
+14	чересчур	_	Word	Word	_	15	D	15:D	_
+15	большой	_	Word	Word	_	4	H	4:H	_
+16	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+17	на	_	Word	Word	_	18	R	18:R	_
+18	другом	_	Word	Word	_	21	A	21:A	_
+19	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+20	чересчур	_	Word	Word	_	21	D	21:D	_
+21	маленький	_	Word	Word	_	4	H	4:H	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

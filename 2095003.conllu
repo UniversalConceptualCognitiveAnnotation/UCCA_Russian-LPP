@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2095003
+# text = Но , подумав , спросил : - А как это - приручить ? -
+1	Но	_	Word	Word	_	5	L	5:L	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	подумав	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	спросил	_	Word	Word	_	3	H	3:H	_
+6	:	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	А	_	Word	Word	_	9	L	9:L	_
+9	как	_	Word	Word	_	5	A	5:A	_
+10	это	_	Word	Word	_	9	F	9:F	_
+11	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+12	приручить	_	Word	Word	_	9	A	9:A	_
+13	?	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2087003
+# text = Добрый вечер , - сказал на всякий случай Маленький принц . -
+1	Добрый	_	Word	Word	_	5	A	5:A	_
+2	вечер	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	сказал	_	Word	Word	_	0	H	0:H	_
+6	на	_	Word	Word	_	5	D	5:D	_
+7	всякий	_	Word	Word	_	6	Terminal	6:Terminal	_
+8	случай	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	Маленький	_	Word	Word	_	10	E	10:E	_
+10	принц	_	Word	Word	_	5	A	5:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+

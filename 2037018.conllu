@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2037018
+# text = И взрослые были очень довольны , что познакомились с таким здравомыслящим человеком .
+1	И	_	Word	Word	_	5	L	5:L	_
+2	взрослые	_	Word	Word	_	5	A	5:A|8:A	_
+3	были	_	Word	Word	_	5	D	5:D	_
+4	очень	_	Word	Word	_	5	D	5:D	_
+5	довольны	_	Word	Word	_	0	H	0:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	что	_	Word	Word	_	8	R	8:R	_
+8	познакомились	_	Word	Word	_	5	A	5:A	_
+9	с	_	Word	Word	_	12	R	12:R	_
+10	таким	_	Word	Word	_	12	E	12:E	_
+11	здравомыслящим	_	Word	Word	_	12	E	12:E	_
+12	человеком	_	Word	Word	_	8	A	8:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

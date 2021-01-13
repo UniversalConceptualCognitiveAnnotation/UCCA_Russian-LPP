@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2060003
+# text = Скоро оказалось , что красавица горда и обидчива , и Маленький принц совсем с ней измучился .
+1	Скоро	_	Word	Word	_	2	T	2:T	_
+2	оказалось	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	что	_	Word	Word	_	6	R	6:R	_
+5	красавица	_	Word	Word	_	6	A	6:A	_
+6	горда	_	Word	Word	_	2	A	2:A	_
+7	и	_	Word	Word	_	6	N	6:N	_
+8	обидчива	_	Word	Word	_	6	C	6:C	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	и	_	Word	Word	_	16	L	16:L	_
+11	Маленький	_	Word	Word	_	12	E	12:E	_
+12	принц	_	Word	Word	_	16	A	16:A	_
+13	совсем	_	Word	Word	_	16	D	16:D	_
+14	с	_	Word	Word	_	15	R	15:R	_
+15	ней	_	Word	Word	_	16	A	16:A	_
+16	измучился	_	Word	Word	_	2	H	2:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

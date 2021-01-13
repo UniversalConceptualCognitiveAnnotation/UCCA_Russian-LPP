@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2049021
+# text = Наверно , я старею .
+1	Наверно	_	Word	Word	_	4	G	4:G	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	я	_	Word	Word	_	4	A	4:A	_
+4	старею	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

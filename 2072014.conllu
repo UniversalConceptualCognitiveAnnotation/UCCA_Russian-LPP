@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2072014
+# text = Да , право же , взрослые очень , очень странный народ ", - подумал он , продолжая путь .
+1	Да	_	Word	Word	_	6	G	6:G	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	право	_	Word	Word	_	6	G	6:G	_
+4	же	_	Word	Word	_	3	Terminal	3:Terminal	_
+5	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	взрослые	_	Word	Word	_	14	A	14:A	_
+7	очень	_	Word	Word	_	10	D	10:D	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	очень	_	Word	Word	_	7	C	7:C	_
+10	странный	_	Word	Word	_	11	E	11:E	_
+11	народ	_	Word	Word	_	6	A	6:A	_
+12	",	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+14	подумал	_	Word	Word	_	0	H	0:H	_
+15	он	_	Word	Word	_	14	A	14:A|18:A	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	продолжая	_	Word	Word	_	18	D	18:D	_
+18	путь	_	Word	Word	_	14	H	14:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

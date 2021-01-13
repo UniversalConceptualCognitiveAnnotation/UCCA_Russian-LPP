@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2071013
+# text = А что надо сделать , чтобы шляпа упала ? - спросил он .
+1	А	_	Word	Word	_	8	L	8:L	_
+2	что	_	Word	Word	_	4	A	4:A	_
+3	надо	_	Word	Word	_	4	D	4:D	_
+4	сделать	_	Word	Word	_	11	A	11:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	чтобы	_	Word	Word	_	8	L	8:L	_
+7	шляпа	_	Word	Word	_	8	A	8:A	_
+8	упала	_	Word	Word	_	4	H	4:H	_
+9	?	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	спросил	_	Word	Word	_	0	H	0:H	_
+12	он	_	Word	Word	_	11	A	11:A	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

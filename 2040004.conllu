@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2040004
+# text = Мой новый друг мягко , снисходительно улыбнулся . -
+1	Мой	_	Word	Word	_	7	A	7:A	_
+2	новый	_	Word	Word	_	1	D	1:D	_
+3	друг	_	Word	Word	_	1	A	1:A	_
+4	мягко	_	Word	Word	_	7	D	7:D	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	снисходительно	_	Word	Word	_	7	D	7:D	_
+7	улыбнулся	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+

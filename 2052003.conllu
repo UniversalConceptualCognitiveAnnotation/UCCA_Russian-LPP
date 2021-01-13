@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2052003
+# text = Он пронижет ее насквозь своими корнями .
+1	Он	_	Word	Word	_	2	A	2:A	_
+2	пронижет	_	Word	Word	_	0	H	0:H	_
+3	ее	_	Word	Word	_	2	A	2:A	_
+4	насквозь	_	Word	Word	_	2	D	2:D	_
+5	своими	_	Word	Word	_	6	E	6:E	_
+6	корнями	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

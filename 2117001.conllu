@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2117001
+# text = Видишь ли ... это очень далеко . Мое тело слишком тяжелое . Мне его не унести .
+1	Видишь	_	Word	Word	_	0	H	0:H	_
+2	ли	_	Word	Word	_	1	F	1:F	_
+3	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	это	_	Word	Word	_	6	A	6:A	_
+5	очень	_	Word	Word	_	6	D	6:D	_
+6	далеко	_	Word	Word	_	1	H	1:H	_
+7	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+8	Мое	_	Word	Word	_	9	E	9:E	_
+9	тело	_	Word	Word	_	11	A	11:A	_
+10	слишком	_	Word	Word	_	11	D	11:D	_
+11	тяжелое	_	Word	Word	_	1	H	1:H	_
+12	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	Мне	_	Word	Word	_	16	A	16:A	_
+14	его	_	Word	Word	_	16	A	16:A	_
+15	не	_	Word	Word	_	16	D	16:D	_
+16	унести	_	Word	Word	_	1	H	1:H	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

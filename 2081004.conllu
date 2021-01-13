@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2081004
+# text = Он уже столько странствовал ! -
+1	Он	_	Word	Word	_	4	A	4:A	_
+2	уже	_	Word	Word	_	4	D	4:D	_
+3	столько	_	Word	Word	_	4	D	4:D	_
+4	странствовал	_	Word	Word	_	0	H	0:H	_
+5	!	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

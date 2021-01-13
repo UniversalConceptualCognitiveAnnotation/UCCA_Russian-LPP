@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2083000
+# text = Географ вдруг разволновался : - Но ты ведь и сам путешественник ! Ты явился издалека ! Расскажи мне о своей планете !
+1	Географ	_	Word	Word	_	3	A	3:A|11:A	_
+2	вдруг	_	Word	Word	_	3	D	3:D	_
+3	разволновался	_	Word	Word	_	0	H	0:H	_
+4	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	Но	_	Word	Word	_	14	L	14:L	_
+7	ты	_	Word	Word	_	11	A	11:A	_
+8	ведь	_	Word	Word	_	11	F	11:F	_
+9	и	_	Word	Word	_	11	F	11:F	_
+10	сам	_	Word	Word	_	7	F	7:F	_
+11	путешественник	_	Word	Word	_	3	H	3:H	_
+12	!	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Ты	_	Word	Word	_	14	A	14:A|17:A	_
+14	явился	_	Word	Word	_	11	H	11:H	_
+15	издалека	_	Word	Word	_	14	A	14:A	_
+16	!	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	Расскажи	_	Word	Word	_	11	H	11:H	_
+18	мне	_	Word	Word	_	17	A	17:A	_
+19	о	_	Word	Word	_	21	R	21:R	_
+20	своей	_	Word	Word	_	21	E	21:E	_
+21	планете	_	Word	Word	_	17	A	17:A	_
+22	!	_	Punctuation	Punctuation	_	21	U	21:U	_
+

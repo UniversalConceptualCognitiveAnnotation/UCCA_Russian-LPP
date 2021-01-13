@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2101005
+# text = Как они спешат ! - удивился Маленький принц . - Что они ищут ? -
+1	Как	_	Word	Word	_	3	D	3:D	_
+2	они	_	Word	Word	_	3	A	3:A	_
+3	спешат	_	Word	Word	_	6	A	6:A	_
+4	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	удивился	_	Word	Word	_	0	H	0:H	_
+7	Маленький	_	Word	Word	_	8	E	8:E	_
+8	принц	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	Что	_	Word	Word	_	13	A	13:A	_
+12	они	_	Word	Word	_	13	A	13:A	_
+13	ищут	_	Word	Word	_	3	H	3:H	_
+14	?	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	-	_	Punctuation	Punctuation	_	13	U	13:U	_
+

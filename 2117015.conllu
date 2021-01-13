@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2117015
+# text = Точно желтая молния мелькнула у его ног .
+1	Точно	_	Word	Word	_	4	L	4:L	_
+2	желтая	_	Word	Word	_	3	E	3:E	_
+3	молния	_	Word	Word	_	4	A	4:A	_
+4	мелькнула	_	Word	Word	_	0	H	0:H	_
+5	у	_	Word	Word	_	7	R	7:R	_
+6	его	_	Word	Word	_	7	E	7:E	_
+7	ног	_	Word	Word	_	4	A	4:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

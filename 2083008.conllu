@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2083008
+# text = Почему ?! Это ведь самое красивое ! -
+1	Почему	_	Word	Word	_	0	H	0:H	_
+2	?!	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Это	_	Word	Word	_	6	A	6:A	_
+4	ведь	_	Word	Word	_	6	F	6:F	_
+5	самое	_	Word	Word	_	6	D	6:D	_
+6	красивое	_	Word	Word	_	1	H	1:H	_
+7	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

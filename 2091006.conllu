@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2091006
+# text = Кто вы ? - спросил Маленький принц . "
+1	Кто	_	Word	Word	_	5	A	5:A	_
+2	вы	_	Word	Word	_	1	A	1:A	_
+3	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	спросил	_	Word	Word	_	0	H	0:H	_
+6	Маленький	_	Word	Word	_	7	E	7:E	_
+7	принц	_	Word	Word	_	0	A	0:A|6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

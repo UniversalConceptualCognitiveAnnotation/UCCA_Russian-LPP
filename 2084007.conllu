@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2084007
+# text = Посети планету Земля , - отвечал географ . - У нее неплохая репутация ... И Маленький принц пустился в путь , но мысли его были о покинутом цветке .
+1	Посети	_	Word	Word	_	6	A	6:A	_
+2	планету	_	Word	Word	_	1	A	1:A	_
+3	Земля	_	Word	Word	_	2	E	2:E	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	отвечал	_	Word	Word	_	0	H	0:H	_
+7	географ	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	У	_	Word	Word	_	11	R	11:R	_
+11	нее	_	Word	Word	_	13	A	13:A	_
+12	неплохая	_	Word	Word	_	13	D	13:D	_
+13	репутация	_	Word	Word	_	1	H	1:H	_
+14	...	_	Punctuation	Punctuation	_	6	U	6:U	_
+15	И	_	Word	Word	_	20	L	20:L	_
+16	Маленький	_	Word	Word	_	17	E	17:E	_
+17	принц	_	Word	Word	_	20	A	20:A	_
+18	пустился	_	Word	Word	_	20	D	20:D	_
+19	в	_	Word	Word	_	20	R	20:R	_
+20	путь	_	Word	Word	_	6	H	6:H	_
+21	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+22	но	_	Word	Word	_	23	L	23:L	_
+23	мысли	_	Word	Word	_	6	H	6:H	_
+24	его	_	Word	Word	_	23	A	23:A|27:A	_
+25	были	_	Word	Word	_	23	F	23:F	_
+26	о	_	Word	Word	_	28	R	28:R	_
+27	покинутом	_	Word	Word	_	28	E	28:E	_
+28	цветке	_	Word	Word	_	23	A	23:A	_
+29	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

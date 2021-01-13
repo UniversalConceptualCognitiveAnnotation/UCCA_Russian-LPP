@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2117014
+# text = А я не мог шевельнуться .
+1	А	_	Word	Word	_	5	L	5:L	_
+2	я	_	Word	Word	_	5	A	5:A	_
+3	не	_	Word	Word	_	5	D	5:D	_
+4	мог	_	Word	Word	_	5	D	5:D	_
+5	шевельнуться	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

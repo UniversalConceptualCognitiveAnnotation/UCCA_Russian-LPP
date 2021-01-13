@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2071021
+# text = И он сбежал от честолюбца . "
+1	И	_	Word	Word	_	3	L	3:L	_
+2	он	_	Word	Word	_	3	A	3:A	_
+3	сбежал	_	Word	Word	_	0	H	0:H	_
+4	от	_	Word	Word	_	5	R	5:R	_
+5	честолюбца	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	"	_	Punctuation	Punctuation	_	5	U	5:U	_
+

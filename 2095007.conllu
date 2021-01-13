@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2095007
+# text = Это давно забытое понятие , - объяснил Лис . - Оно означает : создать узы . -
+1	Это	_	Word	Word	_	7	A	7:A	_
+2	давно	_	Word	Word	_	3	T	3:T	_
+3	забытое	_	Word	Word	_	4	E	4:E	_
+4	понятие	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	объяснил	_	Word	Word	_	0	H	0:H	_
+8	Лис	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+11	Оно	_	Word	Word	_	12	A	12:A	_
+12	означает	_	Word	Word	_	1	H	1:H	_
+13	:	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	создать	_	Word	Word	_	12	A	12:A	_
+15	узы	_	Word	Word	_	14	A	14:A	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+17	-	_	Punctuation	Punctuation	_	14	U	14:U	_
+

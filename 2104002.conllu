@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2104002
+# text = Но все - таки мы пустились в путь .
+1	Но	_	Word	Word	_	8	L	8:L	_
+2	все	_	Word	Word	_	8	L	8:L	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	таки	_	Word	Word	_	2	Terminal	2:Terminal	_
+5	мы	_	Word	Word	_	8	A	8:A	_
+6	пустились	_	Word	Word	_	8	D	8:D	_
+7	в	_	Word	Word	_	8	R	8:R	_
+8	путь	_	Word	Word	_	0	H	0:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

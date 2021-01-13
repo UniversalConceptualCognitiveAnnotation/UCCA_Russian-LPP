@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 2049008
+# text = Не так это просто - в моем возрасте вновь приниматься за рисование , если за всю свою жизнь только и нарисовал что удава снаружи и изнутри , да и то в шесть лет !
+1	Не	_	Word	Word	_	4	D	4:D	_
+2	так	_	Word	Word	_	4	D	4:D	_
+3	это	_	Word	Word	_	4	A	4:A	_
+4	просто	_	Word	Word	_	0	H	0:H	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	в	_	Word	Word	_	8	R	8:R	_
+7	моем	_	Word	Word	_	8	A	8:A	_
+8	возрасте	_	Word	Word	_	4	H	4:H	_
+9	вновь	_	Word	Word	_	12	D	12:D	_
+10	приниматься	_	Word	Word	_	12	D	12:D	_
+11	за	_	Word	Word	_	12	R	12:R	_
+12	рисование	_	Word	Word	_	4	H	4:H	_
+13	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+14	если	_	Word	Word	_	21	L	21:L	_
+15	за	_	Word	Word	_	18	R	18:R	_
+16	всю	_	Word	Word	_	18	D	18:D	_
+17	свою	_	Word	Word	_	18	A	18:A	_
+18	жизнь	_	Word	Word	_	21	T	21:T	_
+19	только	_	Word	Word	_	21	D	21:D	_
+20	и	_	Word	Word	_	21	F	21:F	_
+21	нарисовал	_	Word	Word	_	4	H	4:H	_
+22	что	_	Word	Word	_	21	F	21:F	_
+23	удава	_	Word	Word	_	0	C	0:C|33:A	_
+24	снаружи	_	Word	Word	_	23	E	23:E	_
+25	и	_	Word	Word	_	24	N	24:N	_
+26	изнутри	_	Word	Word	_	24	C	24:C	_
+27	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+28	да	_	Word	Word	_	33	L	33:L	_
+29	и	_	Word	Word	_	33	L	33:L	_
+30	то	_	Word	Word	_	29	Terminal	29:Terminal	_
+31	в	_	Word	Word	_	33	R	33:R	_
+32	шесть	_	Word	Word	_	33	Q	33:Q	_
+33	лет	_	Word	Word	_	4	H	4:H	_
+34	!	_	Punctuation	Punctuation	_	33	U	33:U	_
+

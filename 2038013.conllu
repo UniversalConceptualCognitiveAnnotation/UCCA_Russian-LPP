@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2038013
+# text = И вижу - стоит необыкновенный какой - то малыш и серьезно меня разглядывает .
+1	И	_	Word	Word	_	13	L	13:L	_
+2	вижу	_	Word	Word	_	0	H	0:H	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	стоит	_	Word	Word	_	2	A	2:A	_
+5	необыкновенный	_	Word	Word	_	9	E	9:E	_
+6	какой	_	Word	Word	_	9	E	9:E	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	то	_	Word	Word	_	6	Terminal	6:Terminal	_
+9	малыш	_	Word	Word	_	0	C	0:C|5:A|13:A	_
+10	и	_	Word	Word	_	13	L	13:L	_
+11	серьезно	_	Word	Word	_	13	D	13:D	_
+12	меня	_	Word	Word	_	13	A	13:A	_
+13	разглядывает	_	Word	Word	_	2	H	2:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

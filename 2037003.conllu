@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2037003
+# text = Взрослые никогда ничего не понимают сами , а для детей очень утомительно без конца им все объяснять и растолковывать .
+1	Взрослые	_	Word	Word	_	5	A	5:A	_
+2	никогда	_	Word	Word	_	5	D	5:D	_
+3	ничего	_	Word	Word	_	5	A	5:A	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	понимают	_	Word	Word	_	0	H	0:H	_
+6	сами	_	Word	Word	_	5	D	5:D	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	а	_	Word	Word	_	12	L	12:L	_
+9	для	_	Word	Word	_	10	R	10:R	_
+10	детей	_	Word	Word	_	0	C	0:C|17:A|19:A	_
+11	очень	_	Word	Word	_	12	D	12:D	_
+12	утомительно	_	Word	Word	_	5	H	5:H	_
+13	без	_	Word	Word	_	17	D	17:D	_
+14	конца	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	им	_	Word	Word	_	17	A	17:A|19:A	_
+16	все	_	Word	Word	_	17	A	17:A|19:A	_
+17	объяснять	_	Word	Word	_	12	A	12:A	_
+18	и	_	Word	Word	_	19	L	19:L	_
+19	растолковывать	_	Word	Word	_	5	H	5:H	_
+20	.	_	Punctuation	Punctuation	_	19	U	19:U	_
+

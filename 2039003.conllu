@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2039003
+# text = По его виду никак нельзя было сказать , что это ребенок , потерявшийся в необитаемой пустыне , вдалеке от всякого жилья .
+1	По	_	Word	Word	_	3	R	3:R	_
+2	его	_	Word	Word	_	3	A	3:A	_
+3	виду	_	Word	Word	_	7	A	7:A	_
+4	никак	_	Word	Word	_	7	D	7:D	_
+5	нельзя	_	Word	Word	_	7	D	7:D	_
+6	было	_	Word	Word	_	7	F	7:F	_
+7	сказать	_	Word	Word	_	0	H	0:H	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	что	_	Word	Word	_	10	R	10:R	_
+10	это	_	Word	Word	_	7	A	7:A	_
+11	ребенок	_	Word	Word	_	10	A	10:A	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	потерявшийся	_	Word	Word	_	11	E	11:E	_
+14	в	_	Word	Word	_	16	R	16:R	_
+15	необитаемой	_	Word	Word	_	16	E	16:E	_
+16	пустыне	_	Word	Word	_	13	A	13:A	_
+17	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+18	вдалеке	_	Word	Word	_	21	R	21:R	_
+19	от	_	Word	Word	_	21	R	21:R	_
+20	всякого	_	Word	Word	_	21	E	21:E	_
+21	жилья	_	Word	Word	_	13	A	13:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+

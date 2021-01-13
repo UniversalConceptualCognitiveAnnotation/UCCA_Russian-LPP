@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2107001
+# text = Я поднес ведро к его губам .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	поднес	_	Word	Word	_	0	H	0:H	_
+3	ведро	_	Word	Word	_	2	A	2:A	_
+4	к	_	Word	Word	_	6	R	6:R	_
+5	его	_	Word	Word	_	6	E	6:E	_
+6	губам	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

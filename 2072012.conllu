@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2072012
+# text = Совестно пить ! - объяснил пьяница , и больше от него нельзя было добиться ни слова .
+1	Совестно	_	Word	Word	_	5	A	5:A	_
+2	пить	_	Word	Word	_	1	A	1:A	_
+3	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	объяснил	_	Word	Word	_	0	H	0:H	_
+6	пьяница	_	Word	Word	_	5	A	5:A	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	и	_	Word	Word	_	14	L	14:L	_
+9	больше	_	Word	Word	_	14	D	14:D	_
+10	от	_	Word	Word	_	11	R	11:R	_
+11	него	_	Word	Word	_	14	A	14:A	_
+12	нельзя	_	Word	Word	_	14	D	14:D	_
+13	было	_	Word	Word	_	14	F	14:F	_
+14	добиться	_	Word	Word	_	5	H	5:H	_
+15	ни	_	Word	Word	_	16	Q	16:Q	_
+16	слова	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

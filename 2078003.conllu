@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 2078003
+# text = Да вот так . Планета делает полный оборот за одну минуту , и у меня нет ни секунды передышки . Каждую минуту я гашу фонарь и опять его зажигаю . -
+1	Да	_	Word	Word	_	3	G	3:G	_
+2	вот	_	Word	Word	_	3	A	3:A	_
+3	так	_	Word	Word	_	0	H	0:H	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Планета	_	Word	Word	_	8	A	8:A	_
+6	делает	_	Word	Word	_	8	F	8:F	_
+7	полный	_	Word	Word	_	8	D	8:D	_
+8	оборот	_	Word	Word	_	3	H	3:H	_
+9	за	_	Word	Word	_	11	R	11:R	_
+10	одну	_	Word	Word	_	11	Q	11:Q	_
+11	минуту	_	Word	Word	_	8	T	8:T	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	и	_	Word	Word	_	19	L	19:L	_
+14	у	_	Word	Word	_	15	R	15:R	_
+15	меня	_	Word	Word	_	19	A	19:A	_
+16	нет	_	Word	Word	_	19	D	19:D	_
+17	ни	_	Word	Word	_	18	Q	18:Q	_
+18	секунды	_	Word	Word	_	19	T	19:T	_
+19	передышки	_	Word	Word	_	3	H	3:H	_
+20	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+21	Каждую	_	Word	Word	_	22	Q	22:Q	_
+22	минуту	_	Word	Word	_	24	T	24:T|29:T	_
+23	я	_	Word	Word	_	24	A	24:A|29:A	_
+24	гашу	_	Word	Word	_	3	H	3:H	_
+25	фонарь	_	Word	Word	_	24	A	24:A	_
+26	и	_	Word	Word	_	29	L	29:L	_
+27	опять	_	Word	Word	_	29	D	29:D	_
+28	его	_	Word	Word	_	29	A	29:A	_
+29	зажигаю	_	Word	Word	_	3	H	3:H	_
+30	.	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	-	_	Punctuation	Punctuation	_	29	U	29:U	_
+

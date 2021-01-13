@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2087001
+# text = Он подумал даже , что залетел по ошибке на какую - то другую планету .
+1	Он	_	Word	Word	_	2	A	2:A|6:A	_
+2	подумал	_	Word	Word	_	0	H	0:H	_
+3	даже	_	Word	Word	_	2	G	2:G	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	что	_	Word	Word	_	6	R	6:R	_
+6	залетел	_	Word	Word	_	2	A	2:A	_
+7	по	_	Word	Word	_	8	R	8:R	_
+8	ошибке	_	Word	Word	_	6	D	6:D	_
+9	на	_	Word	Word	_	14	R	14:R	_
+10	какую	_	Word	Word	_	14	E	14:E	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	то	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	другую	_	Word	Word	_	14	E	14:E	_
+14	планету	_	Word	Word	_	6	A	6:A	_
+15	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

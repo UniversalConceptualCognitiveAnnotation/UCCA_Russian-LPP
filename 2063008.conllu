@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2063008
+# text = Я была глупая , - сказала она наконец . - Прости меня . И постарайся быть счастливым .
+1	Я	_	Word	Word	_	3	A	3:A	_
+2	была	_	Word	Word	_	3	F	3:F	_
+3	глупая	_	Word	Word	_	6	A	6:A	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	сказала	_	Word	Word	_	0	H	0:H	_
+7	она	_	Word	Word	_	6	A	6:A	_
+8	наконец	_	Word	Word	_	6	T	6:T	_
+9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	Прости	_	Word	Word	_	3	H	3:H	_
+12	меня	_	Word	Word	_	11	A	11:A	_
+13	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+14	И	_	Word	Word	_	17	L	17:L	_
+15	постарайся	_	Word	Word	_	17	D	17:D	_
+16	быть	_	Word	Word	_	17	F	17:F	_
+17	счастливым	_	Word	Word	_	3	H	3:H	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

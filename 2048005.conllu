@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2048005
+# text = Но мы , те , кто понимает , что такое жизнь , - мы , конечно , смеемся над номерами и цифрами !
+1	Но	_	Word	Word	_	18	L	18:L	_
+2	мы	_	Word	Word	_	18	A	18:A	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	те	_	Word	Word	_	7	R	7:R	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	кто	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	понимает	_	Word	Word	_	2	E	2:E	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	что	_	Word	Word	_	10	A	10:A	_
+10	такое	_	Word	Word	_	7	A	7:A	_
+11	жизнь	_	Word	Word	_	10	A	10:A	_
+12	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+13	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	мы	_	Word	Word	_	2	F	2:F	_
+15	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+16	конечно	_	Word	Word	_	18	G	18:G	_
+17	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+18	смеемся	_	Word	Word	_	0	H	0:H	_
+19	над	_	Word	Word	_	20	R	20:R	_
+20	номерами	_	Word	Word	_	18	A	18:A	_
+21	и	_	Word	Word	_	20	N	20:N	_
+22	цифрами	_	Word	Word	_	20	C	20:C	_
+23	!	_	Punctuation	Punctuation	_	20	U	20:U	_
+

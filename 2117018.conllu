@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2117018
+# text = Потом упал - медленно , как падает дерево .
+1	Потом	_	Word	Word	_	7	L	7:L	_
+2	упал	_	Word	Word	_	0	H	0:H	_
+3	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	медленно	_	Word	Word	_	2	D	2:D	_
+5	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	как	_	Word	Word	_	7	L	7:L	_
+7	падает	_	Word	Word	_	2	H	2:H	_
+8	дерево	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

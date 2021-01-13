@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2054003
+# text = Ну , придется подождать . -
+1	Ну	_	Word	Word	_	4	G	4:G	_
+2	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+3	придется	_	Word	Word	_	4	D	4:D	_
+4	подождать	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

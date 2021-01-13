@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2087000
+# text = Итак , попав на Землю , Маленький принц не увидел ни души и очень удивился .
+1	Итак	_	Word	Word	_	10	L	10:L	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	попав	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	Землю	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	Маленький	_	Word	Word	_	8	E	8:E	_
+8	принц	_	Word	Word	_	0	C	0:C|3:A|7:A|15:A	_
+9	не	_	Word	Word	_	10	D	10:D	_
+10	увидел	_	Word	Word	_	3	H	3:H	_
+11	ни	_	Word	Word	_	10	D	10:D	_
+12	души	_	Word	Word	_	10	A	10:A	_
+13	и	_	Word	Word	_	15	L	15:L	_
+14	очень	_	Word	Word	_	15	D	15:D	_
+15	удивился	_	Word	Word	_	3	H	3:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

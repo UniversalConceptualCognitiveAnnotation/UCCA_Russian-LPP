@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2065007
+# text = Маленький принц оглянулся - нельзя ли где - нибудь сесть , но великолепная горностаевая мантия покрывала всю планету .
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	0	C	0:C|1:A|10:A	_
+3	оглянулся	_	Word	Word	_	0	H	0:H	_
+4	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	нельзя	_	Word	Word	_	10	D	10:D	_
+6	ли	_	Word	Word	_	10	F	10:F	_
+7	где	_	Word	Word	_	10	A	10:A	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	нибудь	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	сесть	_	Word	Word	_	3	H	3:H	_
+11	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	но	_	Word	Word	_	16	L	16:L	_
+13	великолепная	_	Word	Word	_	15	E	15:E	_
+14	горностаевая	_	Word	Word	_	15	E	15:E	_
+15	мантия	_	Word	Word	_	16	A	16:A	_
+16	покрывала	_	Word	Word	_	3	H	3:H	_
+17	всю	_	Word	Word	_	18	Q	18:Q	_
+18	планету	_	Word	Word	_	16	A	16:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

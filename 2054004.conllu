@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2054004
+# text = Чего ждать ? - Чтобы солнце зашло .
+1	Чего	_	Word	Word	_	2	A	2:A	_
+2	ждать	_	Word	Word	_	0	P	0:P|7:P	_
+3	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+4	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	Чтобы	_	Word	Word	_	7	R	7:R	_
+6	солнце	_	Word	Word	_	7	A	7:A	_
+7	зашло	_	Word	Word	_	2	H	2:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

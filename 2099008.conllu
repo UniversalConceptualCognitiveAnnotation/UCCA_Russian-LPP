@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 2099008
+# text = Потом прибавил : - Поди взгляни еще раз на розы . Ты поймешь , что твоя роза - единственная в мире . А когда вернешься , чтобы проститься со мной , я открою тебе один секрет . Это будет мой тебе подарок .
+1	Потом	_	Word	Word	_	2	T	2:T	_
+2	прибавил	_	Word	Word	_	0	H	0:H	_
+3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Поди	_	Word	Word	_	2	A	2:A	_
+6	взгляни	_	Word	Word	_	5	H	5:H	_
+7	еще	_	Word	Word	_	8	E	8:E	_
+8	раз	_	Word	Word	_	6	D	6:D	_
+9	на	_	Word	Word	_	10	R	10:R	_
+10	розы	_	Word	Word	_	6	A	6:A	_
+11	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	Ты	_	Word	Word	_	13	A	13:A|5:A|6:A|25:A|28:A	_
+13	поймешь	_	Word	Word	_	5	H	5:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	что	_	Word	Word	_	19	R	19:R	_
+16	твоя	_	Word	Word	_	17	E	17:E	_
+17	роза	_	Word	Word	_	19	A	19:A	_
+18	-	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	единственная	_	Word	Word	_	13	A	13:A	_
+20	в	_	Word	Word	_	21	R	21:R	_
+21	мире	_	Word	Word	_	19	D	19:D	_
+22	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+23	А	_	Word	Word	_	25	L	25:L	_
+24	когда	_	Word	Word	_	25	L	25:L	_
+25	вернешься	_	Word	Word	_	5	H	5:H	_
+26	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+27	чтобы	_	Word	Word	_	28	L	28:L	_
+28	проститься	_	Word	Word	_	5	H	5:H	_
+29	со	_	Word	Word	_	30	R	30:R	_
+30	мной	_	Word	Word	_	28	A	28:A	_
+31	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+32	я	_	Word	Word	_	33	A	33:A	_
+33	открою	_	Word	Word	_	5	H	5:H	_
+34	тебе	_	Word	Word	_	33	A	33:A	_
+35	один	_	Word	Word	_	36	Q	36:Q	_
+36	секрет	_	Word	Word	_	33	A	33:A	_
+37	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+38	Это	_	Word	Word	_	39	A	39:A	_
+39	будет	_	Word	Word	_	5	H	5:H	_
+40	мой	_	Word	Word	_	42	E	42:E	_
+41	тебе	_	Word	Word	_	42	E	42:E	_
+42	подарок	_	Word	Word	_	39	A	39:A	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

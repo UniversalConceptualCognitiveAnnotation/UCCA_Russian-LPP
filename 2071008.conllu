@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2071008
+# text = Честолюбец приподнял шляпу и скромно раскланялся . "
+1	Честолюбец	_	Word	Word	_	2	A	2:A|6:A	_
+2	приподнял	_	Word	Word	_	0	H	0:H	_
+3	шляпу	_	Word	Word	_	2	A	2:A	_
+4	и	_	Word	Word	_	6	L	6:L	_
+5	скромно	_	Word	Word	_	6	D	6:D	_
+6	раскланялся	_	Word	Word	_	2	H	2:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	"	_	Punctuation	Punctuation	_	6	U	6:U	_
+

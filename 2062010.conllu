@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2062010
+# text = Конечно , мы , люди на Земле , слишком малы и не можем прочищать наши вулканы .
+1	Конечно	_	Word	Word	_	10	G	10:G	_
+2	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+3	мы	_	Word	Word	_	0	C	0:C|14:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	люди	_	Word	Word	_	3	E	3:E	_
+6	на	_	Word	Word	_	7	R	7:R	_
+7	Земле	_	Word	Word	_	5	E	5:E	_
+8	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+9	слишком	_	Word	Word	_	10	D	10:D	_
+10	малы	_	Word	Word	_	0	H	0:H	_
+11	и	_	Word	Word	_	14	L	14:L	_
+12	не	_	Word	Word	_	14	D	14:D	_
+13	можем	_	Word	Word	_	14	D	14:D	_
+14	прочищать	_	Word	Word	_	10	H	10:H	_
+15	наши	_	Word	Word	_	16	E	16:E	_
+16	вулканы	_	Word	Word	_	14	A	14:A	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 2058009
+# text = Я говорил ему : " Цветку , который ты любишь , ничто не грозит ... Я нарисую твоему барашку намордник ... Нарисую для твоего цветка броню ... Я ..." Я не знал , что еще ему сказать .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	говорил	_	Word	Word	_	0	H	0:H	_
+3	ему	_	Word	Word	_	2	A	2:A	_
+4	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	"	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Цветку	_	Word	Word	_	14	A	14:A	_
+7	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	который	_	Word	Word	_	10	R	10:R	_
+9	ты	_	Word	Word	_	10	A	10:A	_
+10	любишь	_	Word	Word	_	6	E	6:E	_
+11	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+12	ничто	_	Word	Word	_	14	A	14:A	_
+13	не	_	Word	Word	_	14	D	14:D	_
+14	грозит	_	Word	Word	_	2	A	2:A	_
+15	...	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	Я	_	Word	Word	_	17	A	17:A|22:A	_
+17	нарисую	_	Word	Word	_	14	H	14:H	_
+18	твоему	_	Word	Word	_	19	E	19:E	_
+19	барашку	_	Word	Word	_	17	A	17:A	_
+20	намордник	_	Word	Word	_	17	A	17:A	_
+21	...	_	Punctuation	Punctuation	_	14	U	14:U	_
+22	Нарисую	_	Word	Word	_	14	H	14:H	_
+23	для	_	Word	Word	_	25	R	25:R	_
+24	твоего	_	Word	Word	_	25	E	25:E	_
+25	цветка	_	Word	Word	_	22	A	22:A	_
+26	броню	_	Word	Word	_	22	A	22:A	_
+27	...	_	Punctuation	Punctuation	_	14	U	14:U	_
+28	Я	_	Word	Word	_	14	H	14:H	_
+29	..."	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	Я	_	Word	Word	_	32	A	32:A|37:A	_
+31	не	_	Word	Word	_	32	D	32:D	_
+32	знал	_	Word	Word	_	2	H	2:H	_
+33	,	_	Punctuation	Punctuation	_	32	U	32:U	_
+34	что	_	Word	Word	_	37	A	37:A	_
+35	еще	_	Word	Word	_	34	E	34:E	_
+36	ему	_	Word	Word	_	37	A	37:A	_
+37	сказать	_	Word	Word	_	32	A	32:A	_
+38	.	_	Punctuation	Punctuation	_	37	U	37:U	_
+

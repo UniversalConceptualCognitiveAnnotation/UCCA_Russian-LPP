@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 2065006
+# text = Подойди , я хочу тебя рассмотреть , - сказал король , ужасно гордый тем , что он может быть для кого - то королем .
+1	Подойди	_	Word	Word	_	9	A	9:A	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	я	_	Word	Word	_	6	A	6:A	_
+4	хочу	_	Word	Word	_	6	D	6:D	_
+5	тебя	_	Word	Word	_	6	A	6:A|1:A	_
+6	рассмотреть	_	Word	Word	_	1	H	1:H	_
+7	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+9	сказал	_	Word	Word	_	0	H	0:H	_
+10	король	_	Word	Word	_	9	A	9:A|13:A	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	ужасно	_	Word	Word	_	13	D	13:D	_
+13	гордый	_	Word	Word	_	9	H	9:H	_
+14	тем	_	Word	Word	_	13	A	13:A	_
+15	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	что	_	Word	Word	_	24	R	24:R	_
+17	он	_	Word	Word	_	24	A	24:A	_
+18	может	_	Word	Word	_	24	D	24:D	_
+19	быть	_	Word	Word	_	24	F	24:F	_
+20	для	_	Word	Word	_	21	R	21:R	_
+21	кого	_	Word	Word	_	24	A	24:A	_
+22	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	то	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	королем	_	Word	Word	_	14	E	14:E	_
+25	.	_	Punctuation	Punctuation	_	24	U	24:U	_
+

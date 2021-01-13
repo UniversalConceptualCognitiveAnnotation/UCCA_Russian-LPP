@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2072010
+# text = Отчего же тебе совестно ? - спросил Маленький принц .
+1	Отчего	_	Word	Word	_	4	A	4:A	_
+2	же	_	Word	Word	_	4	F	4:F	_
+3	тебе	_	Word	Word	_	4	A	4:A	_
+4	совестно	_	Word	Word	_	7	A	7:A	_
+5	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	спросил	_	Word	Word	_	0	H	0:H	_
+8	Маленький	_	Word	Word	_	9	E	9:E	_
+9	принц	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

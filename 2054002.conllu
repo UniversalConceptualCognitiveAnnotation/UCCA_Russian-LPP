@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2054002
+# text = Я узнал об этом наутро четвертого дня , когда ты сказал : - Я очень люблю закат . Пойдем посмотрим , как заходит солнце . -
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	узнал	_	Word	Word	_	0	H	0:H	_
+3	об	_	Word	Word	_	4	R	4:R	_
+4	этом	_	Word	Word	_	2	A	2:A	_
+5	наутро	_	Word	Word	_	2	T	2:T	_
+6	четвертого	_	Word	Word	_	7	Q	7:Q	_
+7	дня	_	Word	Word	_	5	E	5:E	_
+8	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+9	когда	_	Word	Word	_	11	L	11:L	_
+10	ты	_	Word	Word	_	11	A	11:A	_
+11	сказал	_	Word	Word	_	2	H	2:H	_
+12	:	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	Я	_	Word	Word	_	16	A	16:A	_
+15	очень	_	Word	Word	_	16	D	16:D	_
+16	люблю	_	Word	Word	_	11	A	11:A	_
+17	закат	_	Word	Word	_	16	A	16:A	_
+18	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+19	Пойдем	_	Word	Word	_	20	F	20:F	_
+20	посмотрим	_	Word	Word	_	16	H	16:H	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	как	_	Word	Word	_	23	D	23:D	_
+23	заходит	_	Word	Word	_	20	A	20:A	_
+24	солнце	_	Word	Word	_	23	A	23:A	_
+25	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+

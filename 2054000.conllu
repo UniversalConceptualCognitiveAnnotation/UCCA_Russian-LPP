@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2054000
+# text = VI О Маленький принц ! Понемногу я понял также , как печальна и однообразна была твоя жизнь .
+1	VI	_	Word	Word	_	0	H	0:H	_
+2	О	_	Word	Word	_	8	F	8:F	_
+3	Маленький	_	Word	Word	_	4	E	4:E	_
+4	принц	_	Word	Word	_	8	G	8:G	_
+5	!	_	Punctuation	Punctuation	_	8	U	8:U	_
+6	Понемногу	_	Word	Word	_	8	D	8:D	_
+7	я	_	Word	Word	_	8	A	8:A	_
+8	понял	_	Word	Word	_	1	H	1:H	_
+9	также	_	Word	Word	_	8	D	8:D	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	как	_	Word	Word	_	12	R	12:R	_
+12	печальна	_	Word	Word	_	8	A	8:A	_
+13	и	_	Word	Word	_	12	N	12:N	_
+14	однообразна	_	Word	Word	_	12	C	12:C	_
+15	была	_	Word	Word	_	12	F	12:F	_
+16	твоя	_	Word	Word	_	17	A	17:A	_
+17	жизнь	_	Word	Word	_	12	A	12:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2099001
+# text = И вот настал час прощанья . -
+1	И	_	Word	Word	_	3	L	3:L	_
+2	вот	_	Word	Word	_	3	L	3:L	_
+3	настал	_	Word	Word	_	0	H	0:H	_
+4	час	_	Word	Word	_	3	A	3:A	_
+5	прощанья	_	Word	Word	_	4	E	4:E	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+

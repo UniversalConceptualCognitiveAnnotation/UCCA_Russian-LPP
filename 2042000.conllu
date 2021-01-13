@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2042000
+# text = III Не скоро я понял , откуда он явился .
+1	III	_	Word	Word	_	0	H	0:H	_
+2	Не	_	Word	Word	_	5	D	5:D	_
+3	скоро	_	Word	Word	_	5	D	5:D	_
+4	я	_	Word	Word	_	5	A	5:A	_
+5	понял	_	Word	Word	_	1	H	1:H	_
+6	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	откуда	_	Word	Word	_	9	A	9:A	_
+8	он	_	Word	Word	_	9	A	9:A	_
+9	явился	_	Word	Word	_	5	A	5:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

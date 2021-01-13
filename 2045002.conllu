@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 2045002
+# text = Я знал , что кроме таких больших планет , как Земля , Юпитер , Марс , Венера , существуют еще сотни других , которым даже имен не дали , и среди них такие маленькие , что их и в телескоп трудно разглядеть .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	знал	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	что	_	Word	Word	_	19	R	19:R	_
+5	кроме	_	Word	Word	_	8	R	8:R	_
+6	таких	_	Word	Word	_	8	E	8:E	_
+7	больших	_	Word	Word	_	8	E	8:E	_
+8	планет	_	Word	Word	_	0	C	0:C|7:A|21:C|28:A|34:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	как	_	Word	Word	_	11	R	11:R	_
+11	Земля	_	Word	Word	_	8	E	8:E	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	Юпитер	_	Word	Word	_	11	C	11:C	_
+14	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	Марс	_	Word	Word	_	11	C	11:C	_
+16	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+17	Венера	_	Word	Word	_	11	C	11:C	_
+18	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+19	существуют	_	Word	Word	_	2	A	2:A	_
+20	еще	_	Word	Word	_	21	E	21:E	_
+21	сотни	_	Word	Word	_	19	A	19:A	_
+22	других	_	Word	Word	_	21	E	21:E	_
+23	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+24	которым	_	Word	Word	_	28	R	28:R	_
+25	даже	_	Word	Word	_	28	D	28:D	_
+26	имен	_	Word	Word	_	28	A	28:A	_
+27	не	_	Word	Word	_	28	D	28:D	_
+28	дали	_	Word	Word	_	21	E	21:E	_
+29	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+30	и	_	Word	Word	_	32	L	32:L	_
+31	среди	_	Word	Word	_	32	R	32:R	_
+32	них	_	Word	Word	_	2	H	2:H	_
+33	такие	_	Word	Word	_	34	D	34:D	_
+34	маленькие	_	Word	Word	_	32	A	32:A	_
+35	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+36	что	_	Word	Word	_	42	L	42:L	_
+37	их	_	Word	Word	_	42	A	42:A	_
+38	и	_	Word	Word	_	40	E	40:E	_
+39	в	_	Word	Word	_	40	R	40:R	_
+40	телескоп	_	Word	Word	_	42	A	42:A	_
+41	трудно	_	Word	Word	_	42	D	42:D	_
+42	разглядеть	_	Word	Word	_	2	H	2:H	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+

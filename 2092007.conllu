@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2092007
+# text = Мы - розы , - отвечали розы . -
+1	Мы	_	Word	Word	_	6	A	6:A	_
+2	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	розы	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	отвечали	_	Word	Word	_	0	H	0:H	_
+7	розы	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

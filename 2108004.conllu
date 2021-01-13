@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 2108004
+# text = Маленький принц поглядел на них и засмеялся : - Баобабы у тебя похожи на капусту ... А я - то гордился своими баобабами ! -
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	0	S	0:S|7:A|13:A	_
+3	поглядел	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	них	_	Word	Word	_	3	A	3:A	_
+6	и	_	Word	Word	_	7	L	7:L	_
+7	засмеялся	_	Word	Word	_	3	H	3:H	_
+8	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+9	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+10	Баобабы	_	Word	Word	_	13	A	13:A	_
+11	у	_	Word	Word	_	12	R	12:R	_
+12	тебя	_	Word	Word	_	13	A	13:A	_
+13	похожи	_	Word	Word	_	3	H	3:H	_
+14	на	_	Word	Word	_	15	R	15:R	_
+15	капусту	_	Word	Word	_	13	A	13:A	_
+16	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+17	А	_	Word	Word	_	21	L	21:L	_
+18	я	_	Word	Word	_	21	A	21:A	_
+19	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	то	_	Word	Word	_	21	L	21:L	_
+21	гордился	_	Word	Word	_	3	H	3:H	_
+22	своими	_	Word	Word	_	23	E	23:E	_
+23	баобабами	_	Word	Word	_	21	A	21:A	_
+24	!	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+

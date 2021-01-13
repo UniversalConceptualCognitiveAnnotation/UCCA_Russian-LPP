@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2051005
+# text = А значит , есть там хорошие семена хороших , полезных трав и вредные семена дурной , сорной травы .
+1	А	_	Word	Word	_	14	L	14:L	_
+2	значит	_	Word	Word	_	14	L	14:L	_
+3	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+4	есть	_	Word	Word	_	0	H	0:H	_
+5	там	_	Word	Word	_	4	A	4:A	_
+6	хорошие	_	Word	Word	_	7	E	7:E	_
+7	семена	_	Word	Word	_	4	A	4:A	_
+8	хороших	_	Word	Word	_	11	E	11:E	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	полезных	_	Word	Word	_	11	E	11:E	_
+11	трав	_	Word	Word	_	7	E	7:E	_
+12	и	_	Word	Word	_	14	L	14:L	_
+13	вредные	_	Word	Word	_	14	E	14:E	_
+14	семена	_	Word	Word	_	4	H	4:H	_
+15	дурной	_	Word	Word	_	18	E	18:E	_
+16	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+17	сорной	_	Word	Word	_	18	E	18:E	_
+18	травы	_	Word	Word	_	14	E	14:E	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+

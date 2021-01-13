@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2104007
+# text = Но он не ответил .
+1	Но	_	Word	Word	_	4	L	4:L	_
+2	он	_	Word	Word	_	4	A	4:A	_
+3	не	_	Word	Word	_	4	D	4:D	_
+4	ответил	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

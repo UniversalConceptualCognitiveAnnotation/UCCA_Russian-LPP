@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2062011
+# text = Вот почему они доставляют нам столько неприятностей .
+1	Вот	_	Word	Word	_	7	L	7:L	_
+2	почему	_	Word	Word	_	7	L	7:L	_
+3	они	_	Word	Word	_	7	A	7:A	_
+4	доставляют	_	Word	Word	_	7	D	7:D	_
+5	нам	_	Word	Word	_	7	A	7:A	_
+6	столько	_	Word	Word	_	7	D	7:D	_
+7	неприятностей	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

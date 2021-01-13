@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 2071004
+# text = Это чтобы раскланиваться , - объяснил честолюбец . - Чтобы раскланиваться , когда меня приветствуют . К несчастью , сюда никто не заглядывает . -
+1	Это	_	Word	Word	_	6	A	6:A	_
+2	чтобы	_	Word	Word	_	3	L	3:L	_
+3	раскланиваться	_	Word	Word	_	1	H	1:H	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	объяснил	_	Word	Word	_	0	H	0:H	_
+7	честолюбец	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Чтобы	_	Word	Word	_	11	L	11:L	_
+11	раскланиваться	_	Word	Word	_	1	H	1:H	_
+12	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+13	когда	_	Word	Word	_	15	L	15:L	_
+14	меня	_	Word	Word	_	15	A	15:A	_
+15	приветствуют	_	Word	Word	_	1	H	1:H	_
+16	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+17	К	_	Word	Word	_	23	G	23:G	_
+18	несчастью	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+20	сюда	_	Word	Word	_	23	A	23:A	_
+21	никто	_	Word	Word	_	23	A	23:A	_
+22	не	_	Word	Word	_	23	D	23:D	_
+23	заглядывает	_	Word	Word	_	1	H	1:H	_
+24	.	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+

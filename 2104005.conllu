@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2104005
+# text = От жажды меня немного лихорадило , и я видел их будто во сне .
+1	От	_	Word	Word	_	5	L	5:L	_
+2	жажды	_	Word	Word	_	0	H	0:H	_
+3	меня	_	Word	Word	_	5	A	5:A|2:A	_
+4	немного	_	Word	Word	_	5	D	5:D	_
+5	лихорадило	_	Word	Word	_	2	H	2:H	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	и	_	Word	Word	_	9	L	9:L	_
+8	я	_	Word	Word	_	9	A	9:A	_
+9	видел	_	Word	Word	_	2	H	2:H	_
+10	их	_	Word	Word	_	9	A	9:A|13:A	_
+11	будто	_	Word	Word	_	13	L	13:L	_
+12	во	_	Word	Word	_	13	R	13:R	_
+13	сне	_	Word	Word	_	2	H	2:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

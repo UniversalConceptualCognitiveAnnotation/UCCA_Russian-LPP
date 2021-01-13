@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2049003
+# text = И я пытаюсь рассказать о нем для того , чтобы его не забыть .
+1	И	_	Word	Word	_	13	L	13:L	_
+2	я	_	Word	Word	_	4	A	4:A|13:A	_
+3	пытаюсь	_	Word	Word	_	4	D	4:D	_
+4	рассказать	_	Word	Word	_	0	H	0:H	_
+5	о	_	Word	Word	_	6	R	6:R	_
+6	нем	_	Word	Word	_	4	A	4:A	_
+7	для	_	Word	Word	_	13	L	13:L	_
+8	того	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	чтобы	_	Word	Word	_	7	Terminal	7:Terminal	_
+11	его	_	Word	Word	_	13	A	13:A	_
+12	не	_	Word	Word	_	13	D	13:D	_
+13	забыть	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

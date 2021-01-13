@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2064008
+# text = Потом прибавила : - Да не тяни же , это невыносимо ! Решил уйти - так уходи .
+1	Потом	_	Word	Word	_	2	L	2:L	_
+2	прибавила	_	Word	Word	_	0	H	0:H	_
+3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Да	_	Word	Word	_	7	F	7:F	_
+6	не	_	Word	Word	_	7	D	7:D	_
+7	тяни	_	Word	Word	_	2	A	2:A	_
+8	же	_	Word	Word	_	7	F	7:F	_
+9	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	это	_	Word	Word	_	11	A	11:A	_
+11	невыносимо	_	Word	Word	_	7	H	7:H	_
+12	!	_	Punctuation	Punctuation	_	7	U	7:U	_
+13	Решил	_	Word	Word	_	14	D	14:D	_
+14	уйти	_	Word	Word	_	7	H	7:H	_
+15	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+16	так	_	Word	Word	_	17	L	17:L	_
+17	уходи	_	Word	Word	_	7	H	7:H	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

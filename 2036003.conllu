@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2036003
+# text = Это был удав , который проглотил слона .
+1	Это	_	Word	Word	_	2	A	2:A	_
+2	был	_	Word	Word	_	0	H	0:H	_
+3	удав	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	который	_	Word	Word	_	6	R	6:R	_
+6	проглотил	_	Word	Word	_	3	E	3:E	_
+7	слона	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2081001
+# text = На ней жил старик , который писал толстенные книги . -
+1	На	_	Word	Word	_	2	R	2:R	_
+2	ней	_	Word	Word	_	3	A	3:A	_
+3	жил	_	Word	Word	_	0	H	0:H	_
+4	старик	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	который	_	Word	Word	_	7	R	7:R	_
+7	писал	_	Word	Word	_	4	E	4:E	_
+8	толстенные	_	Word	Word	_	9	E	9:E	_
+9	книги	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+

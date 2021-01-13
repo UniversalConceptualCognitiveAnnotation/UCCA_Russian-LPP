@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2038001
+# text = И вот шесть лет назад пришлось мне сделать вынужденную посадку в Сахаре .
+1	И	_	Word	Word	_	10	L	10:L	_
+2	вот	_	Word	Word	_	10	L	10:L	_
+3	шесть	_	Word	Word	_	4	Q	4:Q	_
+4	лет	_	Word	Word	_	10	T	10:T	_
+5	назад	_	Word	Word	_	4	R	4:R	_
+6	пришлось	_	Word	Word	_	10	D	10:D	_
+7	мне	_	Word	Word	_	10	A	10:A	_
+8	сделать	_	Word	Word	_	10	F	10:F	_
+9	вынужденную	_	Word	Word	_	10	D	10:D	_
+10	посадку	_	Word	Word	_	0	H	0:H	_
+11	в	_	Word	Word	_	12	R	12:R	_
+12	Сахаре	_	Word	Word	_	10	A	10:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

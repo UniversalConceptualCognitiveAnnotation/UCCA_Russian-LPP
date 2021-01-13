@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2077000
+# text = XIV Пятая планета была очень занятная .
+1	XIV	_	Word	Word	_	0	H	0:H	_
+2	Пятая	_	Word	Word	_	3	Q	3:Q	_
+3	планета	_	Word	Word	_	6	A	6:A	_
+4	была	_	Word	Word	_	6	F	6:F	_
+5	очень	_	Word	Word	_	6	D	6:D	_
+6	занятная	_	Word	Word	_	1	H	1:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

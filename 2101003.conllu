@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2101003
+# text = Сортирую пассажиров , - отвечал стрелочник . - Отправляю их в поездах по тысяче человек зараз - один поезд направо , другой налево .
+1	Сортирую	_	Word	Word	_	5	A	5:A	_
+2	пассажиров	_	Word	Word	_	1	A	1:A	_
+3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	отвечал	_	Word	Word	_	0	H	0:H	_
+6	стрелочник	_	Word	Word	_	5	A	5:A	_
+7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	Отправляю	_	Word	Word	_	1	H	1:H	_
+10	их	_	Word	Word	_	9	A	9:A	_
+11	в	_	Word	Word	_	12	R	12:R	_
+12	поездах	_	Word	Word	_	9	A	9:A	_
+13	по	_	Word	Word	_	15	R	15:R	_
+14	тысяче	_	Word	Word	_	15	Q	15:Q	_
+15	человек	_	Word	Word	_	10	E	10:E	_
+16	зараз	_	Word	Word	_	15	E	15:E	_
+17	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+18	один	_	Word	Word	_	19	Q	19:Q	_
+19	поезд	_	Word	Word	_	12	E	12:E	_
+20	направо	_	Word	Word	_	19	R	19:R	_
+21	,	_	Punctuation	Punctuation	_	19	U	19:U	_
+22	другой	_	Word	Word	_	19	C	19:C	_
+23	налево	_	Word	Word	_	22	R	22:R	_
+24	.	_	Punctuation	Punctuation	_	22	U	22:U	_
+

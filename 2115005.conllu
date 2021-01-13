@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2115005
+# text = И он сам засмеялся . -
+1	И	_	Word	Word	_	4	L	4:L	_
+2	он	_	Word	Word	_	4	A	4:A	_
+3	сам	_	Word	Word	_	2	F	2:F	_
+4	засмеялся	_	Word	Word	_	0	H	0:H	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

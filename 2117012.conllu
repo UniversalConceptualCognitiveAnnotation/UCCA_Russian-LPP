@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2117012
+# text = Он сказал : - Ну ... вот и все ... Помедлил еще минуту и встал .
+1	Он	_	Word	Word	_	2	A	2:A|11:A|15:A	_
+2	сказал	_	Word	Word	_	0	H	0:H	_
+3	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	Ну	_	Word	Word	_	2	A	2:A	_
+6	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	вот	_	Word	Word	_	5	Terminal	5:Terminal	_
+8	и	_	Word	Word	_	5	Terminal	5:Terminal	_
+9	все	_	Word	Word	_	5	Terminal	5:Terminal	_
+10	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	Помедлил	_	Word	Word	_	2	H	2:H	_
+12	еще	_	Word	Word	_	13	Q	13:Q	_
+13	минуту	_	Word	Word	_	11	T	11:T	_
+14	и	_	Word	Word	_	15	L	15:L	_
+15	встал	_	Word	Word	_	2	H	2:H	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

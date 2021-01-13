@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2118005
+# text = А по ночам я люблю слушать звезды .
+1	А	_	Word	Word	_	5	L	5:L	_
+2	по	_	Word	Word	_	3	R	3:R	_
+3	ночам	_	Word	Word	_	5	T	5:T	_
+4	я	_	Word	Word	_	5	A	5:A|6:A	_
+5	люблю	_	Word	Word	_	0	H	0:H	_
+6	слушать	_	Word	Word	_	5	A	5:A	_
+7	звезды	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

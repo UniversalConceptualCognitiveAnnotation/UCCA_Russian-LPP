@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2058010
+# text = Я чувствовал себя ужасно неловким и неуклюжим .
+1	Я	_	Word	Word	_	5	A	5:A|7:A	_
+2	чувствовал	_	Word	Word	_	5	D	5:D|7:D	_
+3	себя	_	Word	Word	_	5	F	5:F	_
+4	ужасно	_	Word	Word	_	5	D	5:D|7:D	_
+5	неловким	_	Word	Word	_	0	H	0:H	_
+6	и	_	Word	Word	_	7	L	7:L	_
+7	неуклюжим	_	Word	Word	_	5	H	5:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

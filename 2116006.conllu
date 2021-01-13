@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2116006
+# text = Но он был чем - то озабочен . -
+1	Но	_	Word	Word	_	7	L	7:L	_
+2	он	_	Word	Word	_	7	A	7:A	_
+3	был	_	Word	Word	_	7	F	7:F	_
+4	чем	_	Word	Word	_	7	A	7:A	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	то	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	озабочен	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+

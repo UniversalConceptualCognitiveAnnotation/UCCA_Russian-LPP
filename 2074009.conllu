@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2074009
+# text = Пятьсот один миллион шестьсот двадцать две тысячи семьсот тридцать одна . Я человек серьезный , я люблю точность . -
+1	Пятьсот	_	Word	Word	_	0	H	0:H	_
+2	один	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	миллион	_	Word	Word	_	1	Terminal	1:Terminal	_
+4	шестьсот	_	Word	Word	_	1	Terminal	1:Terminal	_
+5	двадцать	_	Word	Word	_	1	Terminal	1:Terminal	_
+6	две	_	Word	Word	_	1	Terminal	1:Terminal	_
+7	тысячи	_	Word	Word	_	1	Terminal	1:Terminal	_
+8	семьсот	_	Word	Word	_	1	Terminal	1:Terminal	_
+9	тридцать	_	Word	Word	_	1	Terminal	1:Terminal	_
+10	одна	_	Word	Word	_	1	Terminal	1:Terminal	_
+11	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+12	Я	_	Word	Word	_	1	H	1:H	_
+13	человек	_	Word	Word	_	12	A	12:A	_
+14	серьезный	_	Word	Word	_	13	E	13:E	_
+15	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+16	я	_	Word	Word	_	17	A	17:A	_
+17	люблю	_	Word	Word	_	1	H	1:H	_
+18	точность	_	Word	Word	_	17	A	17:A	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+

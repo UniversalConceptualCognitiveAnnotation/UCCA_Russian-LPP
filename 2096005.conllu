@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2096005
+# text = Нет в мире совершенства ! - вздохнул Лис .
+1	Нет	_	Word	Word	_	4	D	4:D	_
+2	в	_	Word	Word	_	3	R	3:R	_
+3	мире	_	Word	Word	_	4	A	4:A	_
+4	совершенства	_	Word	Word	_	7	A	7:A	_
+5	!	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	вздохнул	_	Word	Word	_	0	H	0:H	_
+8	Лис	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2052001
+# text = А если баобаб не распознать вовремя , потом от него уже не избавишься .
+1	А	_	Word	Word	_	13	L	13:L	_
+2	если	_	Word	Word	_	13	L	13:L	_
+3	баобаб	_	Word	Word	_	5	A	5:A	_
+4	не	_	Word	Word	_	5	D	5:D	_
+5	распознать	_	Word	Word	_	0	H	0:H	_
+6	вовремя	_	Word	Word	_	5	T	5:T	_
+7	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+8	потом	_	Word	Word	_	13	T	13:T	_
+9	от	_	Word	Word	_	10	R	10:R	_
+10	него	_	Word	Word	_	13	A	13:A	_
+11	уже	_	Word	Word	_	13	D	13:D	_
+12	не	_	Word	Word	_	13	D	13:D	_
+13	избавишься	_	Word	Word	_	5	H	5:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

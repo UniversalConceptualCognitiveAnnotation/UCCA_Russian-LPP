@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2024004
+# text = Вот что я нарисовал :
+1	Вот	_	Word	Word	_	4	F	4:F	_
+2	что	_	Word	Word	_	4	A	4:A	_
+3	я	_	Word	Word	_	4	A	4:A	_
+4	нарисовал	_	Word	Word	_	0	H	0:H	_
+5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+

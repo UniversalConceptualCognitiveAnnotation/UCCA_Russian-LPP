@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 2038017
+# text = Когда мне было шесть лет , взрослые внушили мне , что художника из меня не выйдет , и я ничего не научился рисовать , кроме удавов - снаружи и изнутри .
+1	Когда	_	Word	Word	_	8	L	8:L	_
+2	мне	_	Word	Word	_	3	A	3:A	_
+3	было	_	Word	Word	_	0	H	0:H	_
+4	шесть	_	Word	Word	_	5	Q	5:Q	_
+5	лет	_	Word	Word	_	3	T	3:T	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	взрослые	_	Word	Word	_	8	A	8:A	_
+8	внушили	_	Word	Word	_	3	H	3:H	_
+9	мне	_	Word	Word	_	8	A	8:A	_
+10	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	что	_	Word	Word	_	12	R	12:R	_
+12	художника	_	Word	Word	_	8	A	8:A	_
+13	из	_	Word	Word	_	14	R	14:R	_
+14	меня	_	Word	Word	_	12	A	12:A	_
+15	не	_	Word	Word	_	12	D	12:D	_
+16	выйдет	_	Word	Word	_	12	D	12:D	_
+17	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+18	и	_	Word	Word	_	22	L	22:L	_
+19	я	_	Word	Word	_	22	A	22:A|23:A	_
+20	ничего	_	Word	Word	_	23	A	23:A	_
+21	не	_	Word	Word	_	22	D	22:D	_
+22	научился	_	Word	Word	_	3	H	3:H	_
+23	рисовать	_	Word	Word	_	22	A	22:A	_
+24	,	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	кроме	_	Word	Word	_	26	R	26:R	_
+26	удавов	_	Word	Word	_	20	E	20:E	_
+27	-	_	Punctuation	Punctuation	_	26	U	26:U	_
+28	снаружи	_	Word	Word	_	26	E	26:E	_
+29	и	_	Word	Word	_	28	N	28:N	_
+30	изнутри	_	Word	Word	_	28	C	28:C	_
+31	.	_	Punctuation	Punctuation	_	28	U	28:U	_
+

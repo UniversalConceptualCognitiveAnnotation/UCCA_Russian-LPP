@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2074006
+# text = А , звезды ? -
+1	А	_	Word	Word	_	3	L	3:L	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	звезды	_	Word	Word	_	0	H	0:H	_
+4	?	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+

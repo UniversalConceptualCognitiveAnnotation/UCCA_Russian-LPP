@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2104009
+# text = Я знал , что не следует его расспрашивать .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	знал	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	что	_	Word	Word	_	8	R	8:R	_
+5	не	_	Word	Word	_	8	D	8:D	_
+6	следует	_	Word	Word	_	8	D	8:D	_
+7	его	_	Word	Word	_	8	A	8:A	_
+8	расспрашивать	_	Word	Word	_	2	A	2:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

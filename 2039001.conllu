@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2039001
+# text = Не забудьте , я находился за тысячи миль от человеческого жилья .
+1	Не	_	Word	Word	_	2	D	2:D	_
+2	забудьте	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	я	_	Word	Word	_	5	A	5:A	_
+5	находился	_	Word	Word	_	2	A	2:A	_
+6	за	_	Word	Word	_	11	R	11:R	_
+7	тысячи	_	Word	Word	_	8	Q	8:Q	_
+8	миль	_	Word	Word	_	11	Q	11:Q	_
+9	от	_	Word	Word	_	11	R	11:R	_
+10	человеческого	_	Word	Word	_	11	E	11:E	_
+11	жилья	_	Word	Word	_	5	A	5:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

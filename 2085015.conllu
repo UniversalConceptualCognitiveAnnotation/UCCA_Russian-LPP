@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2085015
+# text = Да , это было блистательно .
+1	Да	_	Word	Word	_	5	G	5:G	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	это	_	Word	Word	_	5	A	5:A	_
+4	было	_	Word	Word	_	5	F	5:F	_
+5	блистательно	_	Word	Word	_	0	H	0:H	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

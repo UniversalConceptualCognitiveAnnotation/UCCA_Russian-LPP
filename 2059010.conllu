@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2059010
+# text = Она не желала явиться на свет встрепанная , точно какой - нибудь мак .
+1	Она	_	Word	Word	_	4	A	4:A|7:A	_
+2	не	_	Word	Word	_	4	D	4:D	_
+3	желала	_	Word	Word	_	4	D	4:D	_
+4	явиться	_	Word	Word	_	0	H	0:H	_
+5	на	_	Word	Word	_	6	R	6:R	_
+6	свет	_	Word	Word	_	4	A	4:A	_
+7	встрепанная	_	Word	Word	_	4	H	4:H	_
+8	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	точно	_	Word	Word	_	13	L	13:L	_
+10	какой	_	Word	Word	_	13	E	13:E	_
+11	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	нибудь	_	Word	Word	_	10	Terminal	10:Terminal	_
+13	мак	_	Word	Word	_	4	H	4:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2062002
+# text = Он заботливо прочистил действующие вулканы .
+1	Он	_	Word	Word	_	3	A	3:A	_
+2	заботливо	_	Word	Word	_	3	D	3:D	_
+3	прочистил	_	Word	Word	_	0	H	0:H	_
+4	действующие	_	Word	Word	_	5	E	5:E	_
+5	вулканы	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

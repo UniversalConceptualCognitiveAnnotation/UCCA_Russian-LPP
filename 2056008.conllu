@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2056008
+# text = Он тряхнул головой , и ветер растрепал его золотые волосы .
+1	Он	_	Word	Word	_	2	A	2:A	_
+2	тряхнул	_	Word	Word	_	0	H	0:H	_
+3	головой	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	и	_	Word	Word	_	7	L	7:L	_
+6	ветер	_	Word	Word	_	7	A	7:A	_
+7	растрепал	_	Word	Word	_	2	H	2:H	_
+8	его	_	Word	Word	_	10	E	10:E	_
+9	золотые	_	Word	Word	_	10	E	10:E	_
+10	волосы	_	Word	Word	_	7	A	7:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

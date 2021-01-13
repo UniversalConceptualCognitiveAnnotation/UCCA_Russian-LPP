@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2087006
+# text = Вот как . А разве на Земле нет людей ? -
+1	Вот	_	Word	Word	_	2	A	2:A	_
+2	как	_	Word	Word	_	0	H	0:H	_
+3	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	А	_	Word	Word	_	8	L	8:L	_
+5	разве	_	Word	Word	_	8	L	8:L	_
+6	на	_	Word	Word	_	7	R	7:R	_
+7	Земле	_	Word	Word	_	8	A	8:A	_
+8	нет	_	Word	Word	_	2	H	2:H	_
+9	людей	_	Word	Word	_	8	A	8:A	_
+10	?	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+

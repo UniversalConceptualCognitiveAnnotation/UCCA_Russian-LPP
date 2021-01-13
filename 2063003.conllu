@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2063003
+# text = А когда он в последний раз полил чудесный цветок и собрался накрыть колпаком , ему даже захотелось плакать . -
+1	А	_	Word	Word	_	12	L	12:L	_
+2	когда	_	Word	Word	_	12	L	12:L	_
+3	он	_	Word	Word	_	7	A	7:A|12:A	_
+4	в	_	Word	Word	_	6	R	6:R	_
+5	последний	_	Word	Word	_	6	E	6:E	_
+6	раз	_	Word	Word	_	7	T	7:T	_
+7	полил	_	Word	Word	_	0	H	0:H	_
+8	чудесный	_	Word	Word	_	9	E	9:E	_
+9	цветок	_	Word	Word	_	0	C	0:C|12:A	_
+10	и	_	Word	Word	_	12	L	12:L	_
+11	собрался	_	Word	Word	_	12	D	12:D	_
+12	накрыть	_	Word	Word	_	7	H	7:H	_
+13	колпаком	_	Word	Word	_	12	A	12:A	_
+14	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	ему	_	Word	Word	_	18	A	18:A	_
+16	даже	_	Word	Word	_	18	G	18:G	_
+17	захотелось	_	Word	Word	_	18	D	18:D	_
+18	плакать	_	Word	Word	_	7	H	7:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+

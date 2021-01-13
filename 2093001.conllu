@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2093001
+# text = Его красавица говорила ему , что подобных ей нет во всей Вселенной .
+1	Его	_	Word	Word	_	2	E	2:E	_
+2	красавица	_	Word	Word	_	0	A	0:A|1:A	_
+3	говорила	_	Word	Word	_	0	H	0:H	_
+4	ему	_	Word	Word	_	3	A	3:A	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	что	_	Word	Word	_	9	R	9:R	_
+7	подобных	_	Word	Word	_	9	A	9:A	_
+8	ей	_	Word	Word	_	7	A	7:A	_
+9	нет	_	Word	Word	_	3	A	3:A	_
+10	во	_	Word	Word	_	12	R	12:R	_
+11	всей	_	Word	Word	_	12	Q	12:Q	_
+12	Вселенной	_	Word	Word	_	9	A	9:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

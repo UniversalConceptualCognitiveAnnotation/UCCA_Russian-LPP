@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2050006
+# text = Я не понял , почему это так важно , что барашки едят кусты .
+1	Я	_	Word	Word	_	3	A	3:A	_
+2	не	_	Word	Word	_	3	D	3:D	_
+3	понял	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	почему	_	Word	Word	_	3	A	3:A	_
+6	это	_	Word	Word	_	8	F	8:F	_
+7	так	_	Word	Word	_	8	D	8:D	_
+8	важно	_	Word	Word	_	5	H	5:H	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	что	_	Word	Word	_	12	R	12:R	_
+11	барашки	_	Word	Word	_	12	A	12:A	_
+12	едят	_	Word	Word	_	8	A	8:A	_
+13	кусты	_	Word	Word	_	12	A	12:A	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

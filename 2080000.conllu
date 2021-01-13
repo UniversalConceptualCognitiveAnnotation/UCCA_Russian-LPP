@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2080000
+# text = - Ну , от этого мне мало толку , - сказал фонарщик . - Больше всего на свете я люблю спать . -
+1	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+2	Ну	_	Word	Word	_	8	G	8:G	_
+3	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+4	от	_	Word	Word	_	5	R	5:R	_
+5	этого	_	Word	Word	_	8	A	8:A	_
+6	мне	_	Word	Word	_	8	A	8:A	_
+7	мало	_	Word	Word	_	8	D	8:D	_
+8	толку	_	Word	Word	_	11	A	11:A	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	сказал	_	Word	Word	_	0	H	0:H	_
+12	фонарщик	_	Word	Word	_	11	A	11:A	_
+13	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+15	Больше	_	Word	Word	_	20	D	20:D	_
+16	всего	_	Word	Word	_	15	Terminal	15:Terminal	_
+17	на	_	Word	Word	_	15	Terminal	15:Terminal	_
+18	свете	_	Word	Word	_	15	Terminal	15:Terminal	_
+19	я	_	Word	Word	_	20	A	20:A	_
+20	люблю	_	Word	Word	_	8	H	8:H	_
+21	спать	_	Word	Word	_	20	A	20:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+

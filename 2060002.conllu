@@ -1,0 +1,36 @@
+# format = ucca
+# sent_id = 2060002
+# text = А она вскоре заметила : - Кажется , пора завтракать . Будьте так добры , позаботьтесь обо мне ... Маленький принц очень смутился , разыскал лейку и полил цветок ключевой водой .
+1	А	_	Word	Word	_	23	L	23:L	_
+2	она	_	Word	Word	_	4	A	4:A	_
+3	вскоре	_	Word	Word	_	4	D	4:D	_
+4	заметила	_	Word	Word	_	0	H	0:H	_
+5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Кажется	_	Word	Word	_	4	A	4:A	_
+8	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	пора	_	Word	Word	_	10	T	10:T	_
+10	завтракать	_	Word	Word	_	7	A	7:A	_
+11	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+12	Будьте	_	Word	Word	_	16	F	16:F	_
+13	так	_	Word	Word	_	16	F	16:F	_
+14	добры	_	Word	Word	_	16	F	16:F	_
+15	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	позаботьтесь	_	Word	Word	_	7	H	7:H	_
+17	обо	_	Word	Word	_	18	R	18:R	_
+18	мне	_	Word	Word	_	16	A	16:A	_
+19	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+20	Маленький	_	Word	Word	_	21	E	21:E	_
+21	принц	_	Word	Word	_	0	A	0:A|25:A	_
+22	очень	_	Word	Word	_	23	D	23:D	_
+23	смутился	_	Word	Word	_	4	H	4:H	_
+24	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+25	разыскал	_	Word	Word	_	4	H	4:H	_
+26	лейку	_	Word	Word	_	25	A	25:A	_
+27	и	_	Word	Word	_	28	L	28:L	_
+28	полил	_	Word	Word	_	4	H	4:H	_
+29	цветок	_	Word	Word	_	28	A	28:A	_
+30	ключевой	_	Word	Word	_	31	E	31:E	_
+31	водой	_	Word	Word	_	28	A	28:A	_
+32	.	_	Punctuation	Punctuation	_	31	U	31:U	_
+

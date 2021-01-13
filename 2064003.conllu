@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2064003
+# text = Откуда эта тихая нежность ? -
+1	Откуда	_	Word	Word	_	0	H	0:H	_
+2	эта	_	Word	Word	_	4	E	4:E	_
+3	тихая	_	Word	Word	_	4	D	4:D	_
+4	нежность	_	Word	Word	_	1	A	1:A	_
+5	?	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

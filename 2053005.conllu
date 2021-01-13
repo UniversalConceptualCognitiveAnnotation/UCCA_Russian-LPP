@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2053005
+# text = Вот почему я так трудился над этим рисунком , и мне не жаль потраченного труда .
+1	Вот	_	Word	Word	_	13	L	13:L	_
+2	почему	_	Word	Word	_	13	L	13:L	_
+3	я	_	Word	Word	_	5	A	5:A	_
+4	так	_	Word	Word	_	5	D	5:D	_
+5	трудился	_	Word	Word	_	0	H	0:H	_
+6	над	_	Word	Word	_	8	R	8:R	_
+7	этим	_	Word	Word	_	8	E	8:E	_
+8	рисунком	_	Word	Word	_	5	A	5:A	_
+9	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+10	и	_	Word	Word	_	13	L	13:L	_
+11	мне	_	Word	Word	_	13	A	13:A|15:A	_
+12	не	_	Word	Word	_	13	D	13:D	_
+13	жаль	_	Word	Word	_	5	H	5:H	_
+14	потраченного	_	Word	Word	_	15	D	15:D	_
+15	труда	_	Word	Word	_	13	A	13:A	_
+16	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

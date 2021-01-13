@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2065001
+# text = Вот он и решил для начала посетить их : надо же найти себе занятие да и поучиться чему - нибудь .
+1	Вот	_	Word	Word	_	12	L	12:L	_
+2	он	_	Word	Word	_	7	A	7:A	_
+3	и	_	Word	Word	_	12	L	12:L	_
+4	решил	_	Word	Word	_	7	D	7:D	_
+5	для	_	Word	Word	_	6	R	6:R	_
+6	начала	_	Word	Word	_	7	D	7:D	_
+7	посетить	_	Word	Word	_	0	H	0:H	_
+8	их	_	Word	Word	_	7	A	7:A	_
+9	:	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	надо	_	Word	Word	_	12	D	12:D	_
+11	же	_	Word	Word	_	12	F	12:F	_
+12	найти	_	Word	Word	_	7	H	7:H	_
+13	себе	_	Word	Word	_	12	A	12:A	_
+14	занятие	_	Word	Word	_	12	A	12:A	_
+15	да	_	Word	Word	_	17	L	17:L	_
+16	и	_	Word	Word	_	17	L	17:L	_
+17	поучиться	_	Word	Word	_	7	H	7:H	_
+18	чему	_	Word	Word	_	17	A	17:A	_
+19	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	нибудь	_	Word	Word	_	18	Terminal	18:Terminal	_
+21	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

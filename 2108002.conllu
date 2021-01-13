@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2108002
+# text = Помнишь , ты обещал ... намордник для моего барашка ... Я ведь в ответе за тот цветок .
+1	Помнишь	_	Word	Word	_	0	H	0:H	_
+2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	ты	_	Word	Word	_	4	A	4:A	_
+4	обещал	_	Word	Word	_	1	A	1:A	_
+5	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	намордник	_	Word	Word	_	4	A	4:A	_
+7	для	_	Word	Word	_	9	R	9:R	_
+8	моего	_	Word	Word	_	9	E	9:E	_
+9	барашка	_	Word	Word	_	6	E	6:E	_
+10	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	Я	_	Word	Word	_	13	A	13:A	_
+12	ведь	_	Word	Word	_	13	F	13:F	_
+13	в	_	Word	Word	_	1	H	1:H	_
+14	ответе	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	за	_	Word	Word	_	17	R	17:R	_
+16	тот	_	Word	Word	_	17	E	17:E	_
+17	цветок	_	Word	Word	_	13	A	13:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2053008
+# text = А когда я рисовал баобабы , меня вдохновляло сознание , что это страшно важно и неотложно .
+1	А	_	Word	Word	_	8	L	8:L	_
+2	когда	_	Word	Word	_	8	L	8:L	_
+3	я	_	Word	Word	_	4	A	4:A	_
+4	рисовал	_	Word	Word	_	0	H	0:H	_
+5	баобабы	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	меня	_	Word	Word	_	8	A	8:A	_
+8	вдохновляло	_	Word	Word	_	4	H	4:H	_
+9	сознание	_	Word	Word	_	8	A	8:A	_
+10	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	что	_	Word	Word	_	14	R	14:R	_
+12	это	_	Word	Word	_	14	A	14:A	_
+13	страшно	_	Word	Word	_	14	D	14:D	_
+14	важно	_	Word	Word	_	9	E	9:E	_
+15	и	_	Word	Word	_	14	N	14:N	_
+16	неотложно	_	Word	Word	_	14	C	14:C	_
+17	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

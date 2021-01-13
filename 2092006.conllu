@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2092006
+# text = Кто вы ? - спросил он , пораженный . -
+1	Кто	_	Word	Word	_	5	A	5:A	_
+2	вы	_	Word	Word	_	1	A	1:A	_
+3	?	_	Punctuation	Punctuation	_	5	U	5:U	_
+4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+5	спросил	_	Word	Word	_	0	H	0:H	_
+6	он	_	Word	Word	_	5	A	5:A|8:A	_
+7	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+8	пораженный	_	Word	Word	_	5	H	5:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+

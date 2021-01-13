@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 2114000
+# text = Но он сказал : - Сегодня ночью исполнится год . Моя звезда станет как раз над тем местом , где я упал год назад ... - Послушай , малыш , ведь все это - и змея , и свиданье со звездой - просто дурной сон , правда ?
+1	Но	_	Word	Word	_	27	L	27:L	_
+2	он	_	Word	Word	_	3	A	3:A	_
+3	сказал	_	Word	Word	_	0	H	0:H	_
+4	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	Сегодня	_	Word	Word	_	8	T	8:T	_
+7	ночью	_	Word	Word	_	6	C	6:C	_
+8	исполнится	_	Word	Word	_	3	A	3:A	_
+9	год	_	Word	Word	_	8	A	8:A	_
+10	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Моя	_	Word	Word	_	12	E	12:E	_
+12	звезда	_	Word	Word	_	13	A	13:A	_
+13	станет	_	Word	Word	_	8	H	8:H	_
+14	как	_	Word	Word	_	18	E	18:E	_
+15	раз	_	Word	Word	_	14	Terminal	14:Terminal	_
+16	над	_	Word	Word	_	18	R	18:R	_
+17	тем	_	Word	Word	_	18	E	18:E	_
+18	местом	_	Word	Word	_	13	A	13:A	_
+19	,	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	где	_	Word	Word	_	22	R	22:R	_
+21	я	_	Word	Word	_	22	A	22:A	_
+22	упал	_	Word	Word	_	18	E	18:E	_
+23	год	_	Word	Word	_	22	T	22:T	_
+24	назад	_	Word	Word	_	23	R	23:R	_
+25	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+26	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+27	Послушай	_	Word	Word	_	3	H	3:H	_
+28	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+29	малыш	_	Word	Word	_	27	A	27:A	_
+30	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+31	ведь	_	Word	Word	_	33	L	33:L	_
+32	все	_	Word	Word	_	33	Q	33:Q	_
+33	это	_	Word	Word	_	27	H	27:H	_
+34	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+35	и	_	Word	Word	_	36	R	36:R	_
+36	змея	_	Word	Word	_	33	E	33:E	_
+37	,	_	Punctuation	Punctuation	_	36	U	36:U	_
+38	и	_	Word	Word	_	39	R	39:R	_
+39	свиданье	_	Word	Word	_	36	C	36:C	_
+40	со	_	Word	Word	_	41	R	41:R	_
+41	звездой	_	Word	Word	_	39	A	39:A	_
+42	-	_	Punctuation	Punctuation	_	33	U	33:U	_
+43	просто	_	Word	Word	_	33	G	33:G	_
+44	дурной	_	Word	Word	_	45	E	45:E	_
+45	сон	_	Word	Word	_	33	A	33:A	_
+46	,	_	Punctuation	Punctuation	_	33	U	33:U	_
+47	правда	_	Word	Word	_	33	G	33:G	_
+48	?	_	Punctuation	Punctuation	_	33	U	33:U	_
+

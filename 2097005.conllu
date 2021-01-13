@@ -1,0 +1,52 @@
+# format = ucca
+# sent_id = 2097005
+# text = Надо запастись терпеньем , - ответил Лис . - Сперва сядь вон там , поодаль , на траву - вот так . Я буду на тебя искоса поглядывать , а ты молчи . Слова только мешают понимать друг друга . Но с каждым днем садись немножко ближе ...
+1	Надо	_	Word	Word	_	3	D	3:D	_
+2	запастись	_	Word	Word	_	3	D	3:D	_
+3	терпеньем	_	Word	Word	_	6	A	6:A	_
+4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	ответил	_	Word	Word	_	0	H	0:H	_
+7	Лис	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	Сперва	_	Word	Word	_	11	D	11:D	_
+11	сядь	_	Word	Word	_	3	H	3:H	_
+12	вон	_	Word	Word	_	13	E	13:E	_
+13	там	_	Word	Word	_	11	A	11:A	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	поодаль	_	Word	Word	_	13	E	13:E	_
+16	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+17	на	_	Word	Word	_	18	R	18:R	_
+18	траву	_	Word	Word	_	13	E	13:E	_
+19	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+20	вот	_	Word	Word	_	21	R	21:R	_
+21	так	_	Word	Word	_	3	H	3:H	_
+22	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+23	Я	_	Word	Word	_	28	A	28:A	_
+24	буду	_	Word	Word	_	28	F	28:F	_
+25	на	_	Word	Word	_	26	R	26:R	_
+26	тебя	_	Word	Word	_	28	A	28:A	_
+27	искоса	_	Word	Word	_	28	D	28:D	_
+28	поглядывать	_	Word	Word	_	3	H	3:H	_
+29	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+30	а	_	Word	Word	_	32	L	32:L	_
+31	ты	_	Word	Word	_	32	A	32:A|3:A|45:A	_
+32	молчи	_	Word	Word	_	3	H	3:H	_
+33	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+34	Слова	_	Word	Word	_	37	A	37:A	_
+35	только	_	Word	Word	_	36	E	36:E	_
+36	мешают	_	Word	Word	_	37	D	37:D	_
+37	понимать	_	Word	Word	_	3	H	3:H	_
+38	друг	_	Word	Word	_	37	A	37:A	_
+39	друга	_	Word	Word	_	38	Terminal	38:Terminal	_
+40	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+41	Но	_	Word	Word	_	45	L	45:L	_
+42	с	_	Word	Word	_	44	R	44:R	_
+43	каждым	_	Word	Word	_	44	Q	44:Q	_
+44	днем	_	Word	Word	_	45	T	45:T	_
+45	садись	_	Word	Word	_	3	H	3:H	_
+46	немножко	_	Word	Word	_	47	E	47:E	_
+47	ближе	_	Word	Word	_	45	D	45:D	_
+48	...	_	Punctuation	Punctuation	_	47	U	47:U	_
+

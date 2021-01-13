@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2108000
+# text = - Ты должен сдержать слово , - мягко сказал Маленький принц , снова садясь рядом со мною . -
+1	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+2	Ты	_	Word	Word	_	4	A	4:A	_
+3	должен	_	Word	Word	_	4	D	4:D	_
+4	сдержать	_	Word	Word	_	9	A	9:A	_
+5	слово	_	Word	Word	_	4	A	4:A	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+8	мягко	_	Word	Word	_	9	D	9:D	_
+9	сказал	_	Word	Word	_	0	H	0:H	_
+10	Маленький	_	Word	Word	_	11	E	11:E	_
+11	принц	_	Word	Word	_	0	A	0:A|14:A	_
+12	,	_	Punctuation	Punctuation	_	14	U	14:U	_
+13	снова	_	Word	Word	_	14	D	14:D	_
+14	садясь	_	Word	Word	_	9	H	9:H	_
+15	рядом	_	Word	Word	_	17	R	17:R	_
+16	со	_	Word	Word	_	15	C	15:C	_
+17	мною	_	Word	Word	_	14	A	14:A	_
+18	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+19	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+

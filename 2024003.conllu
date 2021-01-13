@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2024003
+# text = Это был мой рисунок No1 .
+1	Это	_	Word	Word	_	2	A	2:A	_
+2	был	_	Word	Word	_	0	H	0:H	_
+3	мой	_	Word	Word	_	4	E	4:E	_
+4	рисунок	_	Word	Word	_	2	A	2:A	_
+5	No1	_	Word	Word	_	4	Q	4:Q	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+

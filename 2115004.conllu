@@ -1,0 +1,44 @@
+# format = ucca
+# sent_id = 2115004
+# text = Ты посмотришь ночью на небо , а ведь там будет такая звезда , где я живу , где я смеюсь , - и ты услышишь , что все звезды смеются . У тебя будут звезды , которые умеют смеяться !
+1	Ты	_	Word	Word	_	2	A	2:A	_
+2	посмотришь	_	Word	Word	_	0	H	0:H	_
+3	ночью	_	Word	Word	_	2	T	2:T	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	небо	_	Word	Word	_	2	A	2:A	_
+6	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+7	а	_	Word	Word	_	10	L	10:L	_
+8	ведь	_	Word	Word	_	7	C	7:C	_
+9	там	_	Word	Word	_	10	A	10:A	_
+10	будет	_	Word	Word	_	2	H	2:H	_
+11	такая	_	Word	Word	_	12	E	12:E	_
+12	звезда	_	Word	Word	_	10	A	10:A	_
+13	,	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	где	_	Word	Word	_	16	R	16:R	_
+15	я	_	Word	Word	_	16	A	16:A	_
+16	живу	_	Word	Word	_	12	E	12:E	_
+17	,	_	Punctuation	Punctuation	_	16	U	16:U	_
+18	где	_	Word	Word	_	20	R	20:R	_
+19	я	_	Word	Word	_	20	A	20:A	_
+20	смеюсь	_	Word	Word	_	16	C	16:C	_
+21	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+22	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+23	и	_	Word	Word	_	25	L	25:L	_
+24	ты	_	Word	Word	_	25	A	25:A	_
+25	услышишь	_	Word	Word	_	2	H	2:H	_
+26	,	_	Punctuation	Punctuation	_	25	U	25:U	_
+27	что	_	Word	Word	_	30	R	30:R	_
+28	все	_	Word	Word	_	29	Q	29:Q	_
+29	звезды	_	Word	Word	_	30	A	30:A	_
+30	смеются	_	Word	Word	_	25	A	25:A	_
+31	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+32	У	_	Word	Word	_	33	R	33:R	_
+33	тебя	_	Word	Word	_	34	A	34:A	_
+34	будут	_	Word	Word	_	2	H	2:H	_
+35	звезды	_	Word	Word	_	34	A	34:A	_
+36	,	_	Punctuation	Punctuation	_	35	U	35:U	_
+37	которые	_	Word	Word	_	39	R	39:R	_
+38	умеют	_	Word	Word	_	39	D	39:D	_
+39	смеяться	_	Word	Word	_	35	E	35:E	_
+40	!	_	Punctuation	Punctuation	_	39	U	39:U	_
+

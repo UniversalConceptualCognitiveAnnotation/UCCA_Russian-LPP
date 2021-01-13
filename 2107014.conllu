@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2107014
+# text = И от этого тоже я был счастлив .
+1	И	_	Word	Word	_	7	L	7:L	_
+2	от	_	Word	Word	_	3	R	3:R	_
+3	этого	_	Word	Word	_	7	A	7:A	_
+4	тоже	_	Word	Word	_	3	E	3:E	_
+5	я	_	Word	Word	_	7	A	7:A	_
+6	был	_	Word	Word	_	7	F	7:F	_
+7	счастлив	_	Word	Word	_	0	H	0:H	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

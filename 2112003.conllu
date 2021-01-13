@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2112003
+# text = Я развязал его неизменный золотой шарф .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	развязал	_	Word	Word	_	0	H	0:H	_
+3	его	_	Word	Word	_	6	E	6:E	_
+4	неизменный	_	Word	Word	_	6	E	6:E	_
+5	золотой	_	Word	Word	_	6	E	6:E	_
+6	шарф	_	Word	Word	_	2	A	2:A	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

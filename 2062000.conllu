@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2062000
+# text = IX Как я понял , он решил странствовать с перелетными птицами .
+1	IX	_	Word	Word	_	0	H	0:H	_
+2	Как	_	Word	Word	_	4	R	4:R	_
+3	я	_	Word	Word	_	4	A	4:A	_
+4	понял	_	Word	Word	_	1	H	1:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	он	_	Word	Word	_	8	A	8:A	_
+7	решил	_	Word	Word	_	8	D	8:D	_
+8	странствовать	_	Word	Word	_	4	A	4:A	_
+9	с	_	Word	Word	_	11	R	11:R	_
+10	перелетными	_	Word	Word	_	11	E	11:E	_
+11	птицами	_	Word	Word	_	8	A	8:A	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

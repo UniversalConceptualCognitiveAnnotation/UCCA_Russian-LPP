@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2063002
+# text = Но в то утро привычная работа доставляла ему необыкновенное удовольствие .
+1	Но	_	Word	Word	_	10	L	10:L	_
+2	в	_	Word	Word	_	4	R	4:R	_
+3	то	_	Word	Word	_	4	E	4:E	_
+4	утро	_	Word	Word	_	10	T	10:T	_
+5	привычная	_	Word	Word	_	6	D	6:D	_
+6	работа	_	Word	Word	_	10	A	10:A	_
+7	доставляла	_	Word	Word	_	10	D	10:D	_
+8	ему	_	Word	Word	_	10	A	10:A|6:A	_
+9	необыкновенное	_	Word	Word	_	10	D	10:D	_
+10	удовольствие	_	Word	Word	_	0	H	0:H	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2066011
+# text = Король повел рукою , скромно указывая на свою планету , а также и на другие планеты , и на звезды . -
+1	Король	_	Word	Word	_	0	A	0:A|6:A|16:A|20:A	_
+2	повел	_	Word	Word	_	0	H	0:H	_
+3	рукою	_	Word	Word	_	2	A	2:A	_
+4	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+5	скромно	_	Word	Word	_	6	D	6:D	_
+6	указывая	_	Word	Word	_	2	H	2:H	_
+7	на	_	Word	Word	_	9	R	9:R	_
+8	свою	_	Word	Word	_	9	E	9:E	_
+9	планету	_	Word	Word	_	6	A	6:A	_
+10	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+11	а	_	Word	Word	_	16	L	16:L	_
+12	также	_	Word	Word	_	16	L	16:L	_
+13	и	_	Word	Word	_	16	L	16:L	_
+14	на	_	Word	Word	_	16	R	16:R	_
+15	другие	_	Word	Word	_	16	E	16:E	_
+16	планеты	_	Word	Word	_	2	H	2:H	_
+17	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+18	и	_	Word	Word	_	20	L	20:L	_
+19	на	_	Word	Word	_	20	R	20:R	_
+20	звезды	_	Word	Word	_	2	H	2:H	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	-	_	Punctuation	Punctuation	_	20	U	20:U	_
+

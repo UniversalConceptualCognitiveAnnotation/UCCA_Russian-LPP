@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 2044002
+# text = Тут мой друг опять весело рассмеялся : - Да куда же он пойдет ? - Мало ли куда ? Все прямо , прямо , куда глаза глядят .
+1	Тут	_	Word	Word	_	13	L	13:L	_
+2	мой	_	Word	Word	_	6	A	6:A	_
+3	друг	_	Word	Word	_	2	A	2:A	_
+4	опять	_	Word	Word	_	6	D	6:D	_
+5	весело	_	Word	Word	_	6	D	6:D	_
+6	рассмеялся	_	Word	Word	_	0	H	0:H	_
+7	:	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	Да	_	Word	Word	_	13	F	13:F	_
+10	куда	_	Word	Word	_	13	A	13:A	_
+11	же	_	Word	Word	_	13	F	13:F	_
+12	он	_	Word	Word	_	13	A	13:A|16:A|27:A	_
+13	пойдет	_	Word	Word	_	6	H	6:H	_
+14	?	_	Punctuation	Punctuation	_	16	U	16:U	_
+15	-	_	Punctuation	Punctuation	_	16	U	16:U	_
+16	Мало	_	Word	Word	_	6	H	6:H	_
+17	ли	_	Word	Word	_	16	Terminal	16:Terminal	_
+18	куда	_	Word	Word	_	16	Terminal	16:Terminal	_
+19	?	_	Punctuation	Punctuation	_	16	U	16:U	_
+20	Все	_	Word	Word	_	21	E	21:E	_
+21	прямо	_	Word	Word	_	27	D	27:D	_
+22	,	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	прямо	_	Word	Word	_	21	Terminal	21:Terminal	_
+24	,	_	Punctuation	Punctuation	_	27	U	27:U	_
+25	куда	_	Word	Word	_	27	A	27:A	_
+26	глаза	_	Word	Word	_	27	A	27:A	_
+27	глядят	_	Word	Word	_	16	H	16:H	_
+28	.	_	Punctuation	Punctuation	_	27	U	27:U	_
+

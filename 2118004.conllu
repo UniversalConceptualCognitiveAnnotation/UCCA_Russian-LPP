@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2118004
+# text = Не такое уж оно было тяжелое .
+1	Не	_	Word	Word	_	2	E	2:E	_
+2	такое	_	Word	Word	_	6	D	6:D	_
+3	уж	_	Word	Word	_	6	F	6:F	_
+4	оно	_	Word	Word	_	6	A	6:A	_
+5	было	_	Word	Word	_	6	F	6:F	_
+6	тяжелое	_	Word	Word	_	0	H	0:H	_
+7	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+

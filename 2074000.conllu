@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2074000
+# text = Деловой человек поднял голову . -
+1	Деловой	_	Word	Word	_	3	A	3:A	_
+2	человек	_	Word	Word	_	1	A	1:A	_
+3	поднял	_	Word	Word	_	0	H	0:H	_
+4	голову	_	Word	Word	_	3	A	3:A	_
+5	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+

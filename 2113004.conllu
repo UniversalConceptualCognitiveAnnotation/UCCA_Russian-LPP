@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2113004
+# text = Ты напугался , малыш ... Ну еще бы не напугаться !
+1	Ты	_	Word	Word	_	2	A	2:A	_
+2	напугался	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	малыш	_	Word	Word	_	2	G	2:G	_
+5	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+6	Ну	_	Word	Word	_	10	L	10:L	_
+7	еще	_	Word	Word	_	6	C	6:C	_
+8	бы	_	Word	Word	_	7	Terminal	7:Terminal	_
+9	не	_	Word	Word	_	10	D	10:D	_
+10	напугаться	_	Word	Word	_	2	H	2:H	_
+11	!	_	Punctuation	Punctuation	_	10	U	10:U	_
+

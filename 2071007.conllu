@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2071007
+# text = Маленький принц захлопал в ладоши .
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	3	A	3:A	_
+3	захлопал	_	Word	Word	_	0	H	0:H	_
+4	в	_	Word	Word	_	5	R	5:R	_
+5	ладоши	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+

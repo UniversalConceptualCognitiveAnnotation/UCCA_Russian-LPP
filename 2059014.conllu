@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2059014
+# text = И вот однажды утром , едва взошло солнце , лепестки раскрылись .
+1	И	_	Word	Word	_	11	L	11:L	_
+2	вот	_	Word	Word	_	11	L	11:L	_
+3	однажды	_	Word	Word	_	4	E	4:E	_
+4	утром	_	Word	Word	_	11	T	11:T	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	едва	_	Word	Word	_	7	R	7:R	_
+7	взошло	_	Word	Word	_	4	E	4:E	_
+8	солнце	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	лепестки	_	Word	Word	_	11	A	11:A	_
+11	раскрылись	_	Word	Word	_	0	H	0:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+

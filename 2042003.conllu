@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 2042003
+# text = Так , когда он впервые увидел мой самолет ( самолет я рисовать не стану , мне все равно не справиться ), он спросил : - Что это за штука ? -
+1	Так	_	Word	Word	_	12	L	12:L	_
+2	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+3	когда	_	Word	Word	_	12	L	12:L	_
+4	он	_	Word	Word	_	6	A	6:A	_
+5	впервые	_	Word	Word	_	6	D	6:D	_
+6	увидел	_	Word	Word	_	0	H	0:H	_
+7	мой	_	Word	Word	_	8	E	8:E	_
+8	самолет	_	Word	Word	_	6	A	6:A	_
+9	(	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	самолет	_	Word	Word	_	12	A	12:A	_
+11	я	_	Word	Word	_	12	A	12:A	_
+12	рисовать	_	Word	Word	_	6	H	6:H	_
+13	не	_	Word	Word	_	12	D	12:D	_
+14	стану	_	Word	Word	_	12	D	12:D	_
+15	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+16	мне	_	Word	Word	_	6	H	6:H	_
+17	все	_	Word	Word	_	16	D	16:D	_
+18	равно	_	Word	Word	_	17	Terminal	17:Terminal	_
+19	не	_	Word	Word	_	16	D	16:D	_
+20	справиться	_	Word	Word	_	16	D	16:D	_
+21	),	_	Punctuation	Punctuation	_	6	U	6:U	_
+22	он	_	Word	Word	_	23	A	23:A	_
+23	спросил	_	Word	Word	_	6	H	6:H	_
+24	:	_	Punctuation	Punctuation	_	23	U	23:U	_
+25	-	_	Punctuation	Punctuation	_	23	U	23:U	_
+26	Что	_	Word	Word	_	29	E	29:E	_
+27	это	_	Word	Word	_	29	A	29:A	_
+28	за	_	Word	Word	_	29	R	29:R	_
+29	штука	_	Word	Word	_	23	A	23:A	_
+30	?	_	Punctuation	Punctuation	_	29	U	29:U	_
+31	-	_	Punctuation	Punctuation	_	29	U	29:U	_
+

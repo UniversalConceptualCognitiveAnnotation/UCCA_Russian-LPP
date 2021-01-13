@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2074008
+# text = Пятьсот миллионов звезд ? Что же ты с ними со всеми делаешь ? -
+1	Пятьсот	_	Word	Word	_	3	Q	3:Q	_
+2	миллионов	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	звезд	_	Word	Word	_	0	H	0:H	_
+4	?	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	Что	_	Word	Word	_	12	A	12:A	_
+6	же	_	Word	Word	_	12	F	12:F	_
+7	ты	_	Word	Word	_	12	A	12:A	_
+8	с	_	Word	Word	_	9	R	9:R	_
+9	ними	_	Word	Word	_	12	A	12:A	_
+10	со	_	Word	Word	_	11	R	11:R	_
+11	всеми	_	Word	Word	_	9	Q	9:Q	_
+12	делаешь	_	Word	Word	_	3	H	3:H	_
+13	?	_	Punctuation	Punctuation	_	12	U	12:U	_
+14	-	_	Punctuation	Punctuation	_	12	U	12:U	_
+

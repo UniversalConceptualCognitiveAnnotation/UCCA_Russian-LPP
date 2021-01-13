@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2062001
+# text = В последнее утро он старательней обычного прибрал свою планету .
+1	В	_	Word	Word	_	3	R	3:R	_
+2	последнее	_	Word	Word	_	3	E	3:E	_
+3	утро	_	Word	Word	_	7	T	7:T	_
+4	он	_	Word	Word	_	7	A	7:A	_
+5	старательней	_	Word	Word	_	6	E	6:E	_
+6	обычного	_	Word	Word	_	7	D	7:D	_
+7	прибрал	_	Word	Word	_	0	H	0:H	_
+8	свою	_	Word	Word	_	9	E	9:E	_
+9	планету	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

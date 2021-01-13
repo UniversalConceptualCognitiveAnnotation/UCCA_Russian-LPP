@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2066015
+# text = И звезды вам повинуются ? - спросил Маленький принц . -
+1	И	_	Word	Word	_	4	L	4:L	_
+2	звезды	_	Word	Word	_	4	A	4:A	_
+3	вам	_	Word	Word	_	4	A	4:A	_
+4	повинуются	_	Word	Word	_	7	A	7:A	_
+5	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	спросил	_	Word	Word	_	0	H	0:H	_
+8	Маленький	_	Word	Word	_	9	E	9:E	_
+9	принц	_	Word	Word	_	7	A	7:A	_
+10	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	-	_	Punctuation	Punctuation	_	9	U	9:U	_
+

@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2060006
+# text = Я не трава , - тихо заметил цветок . - Простите меня ... - Нет , тигры мне не страшны , но я ужасно боюсь сквозняков . У вас нет ширмы ? "
+1	Я	_	Word	Word	_	7	A	7:A	_
+2	не	_	Word	Word	_	1	D	1:D	_
+3	трава	_	Word	Word	_	1	A	1:A	_
+4	,	_	Punctuation	Punctuation	_	7	U	7:U	_
+5	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	тихо	_	Word	Word	_	7	D	7:D	_
+7	заметил	_	Word	Word	_	0	H	0:H	_
+8	цветок	_	Word	Word	_	7	A	7:A|11:A|20:A	_
+9	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+10	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+11	Простите	_	Word	Word	_	7	H	7:H	_
+12	меня	_	Word	Word	_	11	A	11:A	_
+13	...	_	Punctuation	Punctuation	_	7	U	7:U	_
+14	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+15	Нет	_	Word	Word	_	20	G	20:G	_
+16	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+17	тигры	_	Word	Word	_	20	A	20:A	_
+18	мне	_	Word	Word	_	20	A	20:A	_
+19	не	_	Word	Word	_	20	D	20:D	_
+20	страшны	_	Word	Word	_	7	H	7:H	_
+21	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+22	но	_	Word	Word	_	25	L	25:L	_
+23	я	_	Word	Word	_	25	A	25:A	_
+24	ужасно	_	Word	Word	_	25	D	25:D	_
+25	боюсь	_	Word	Word	_	20	H	20:H	_
+26	сквозняков	_	Word	Word	_	25	A	25:A	_
+27	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+28	У	_	Word	Word	_	29	R	29:R	_
+29	вас	_	Word	Word	_	20	H	20:H	_
+30	нет	_	Word	Word	_	29	D	29:D	_
+31	ширмы	_	Word	Word	_	29	A	29:A	_
+32	?	_	Punctuation	Punctuation	_	29	U	29:U	_
+33	"	_	Punctuation	Punctuation	_	29	U	29:U	_
+

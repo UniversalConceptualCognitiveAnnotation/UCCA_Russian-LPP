@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2113000
+# text = Он задумчиво смотрел куда - то вдаль . -
+1	Он	_	Word	Word	_	3	A	3:A	_
+2	задумчиво	_	Word	Word	_	3	D	3:D	_
+3	смотрел	_	Word	Word	_	0	H	0:H	_
+4	куда	_	Word	Word	_	3	A	3:A	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	то	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	вдаль	_	Word	Word	_	4	C	4:C	_
+8	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+9	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

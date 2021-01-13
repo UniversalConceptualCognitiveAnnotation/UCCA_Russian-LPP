@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2072002
+# text = Когда он явился на эту планету , пьяница молча сидел , уставясь на полчища бутылок - пустых и полных . -
+1	Когда	_	Word	Word	_	10	L	10:L	_
+2	он	_	Word	Word	_	3	A	3:A	_
+3	явился	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	6	R	6:R	_
+5	эту	_	Word	Word	_	6	E	6:E	_
+6	планету	_	Word	Word	_	3	A	3:A	_
+7	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+8	пьяница	_	Word	Word	_	10	A	10:A|12:A	_
+9	молча	_	Word	Word	_	10	D	10:D	_
+10	сидел	_	Word	Word	_	3	H	3:H	_
+11	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+12	уставясь	_	Word	Word	_	3	H	3:H	_
+13	на	_	Word	Word	_	15	R	15:R	_
+14	полчища	_	Word	Word	_	15	Q	15:Q	_
+15	бутылок	_	Word	Word	_	12	A	12:A	_
+16	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	пустых	_	Word	Word	_	15	E	15:E	_
+18	и	_	Word	Word	_	17	N	17:N	_
+19	полных	_	Word	Word	_	17	C	17:C	_
+20	.	_	Punctuation	Punctuation	_	17	U	17:U	_
+21	-	_	Punctuation	Punctuation	_	17	U	17:U	_
+

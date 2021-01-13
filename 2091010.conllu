@@ -1,0 +1,56 @@
+# format = ucca
+# sent_id = 2091010
+# text = Какая странная планета ! - подумал Маленький принц . - Совсем сухая , вся в иглах и соленая . И у людей не хватает воображения . Они только повторяют то , что им скажешь ... Дома у меня был цветок , моя краса и радость , и он всегда заговаривал первым ".
+1	Какая	_	Word	Word	_	2	D	2:D	_
+2	странная	_	Word	Word	_	6	A	6:A	_
+3	планета	_	Word	Word	_	2	A	2:A|12:A|14:C|18:A|25:A	_
+4	!	_	Punctuation	Punctuation	_	6	U	6:U	_
+5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+6	подумал	_	Word	Word	_	0	H	0:H	_
+7	Маленький	_	Word	Word	_	8	E	8:E	_
+8	принц	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+10	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	Совсем	_	Word	Word	_	12	D	12:D	_
+12	сухая	_	Word	Word	_	2	H	2:H	_
+13	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+14	вся	_	Word	Word	_	2	H	2:H	_
+15	в	_	Word	Word	_	16	R	16:R	_
+16	иглах	_	Word	Word	_	14	A	14:A	_
+17	и	_	Word	Word	_	18	L	18:L	_
+18	соленая	_	Word	Word	_	2	H	2:H	_
+19	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+20	И	_	Word	Word	_	25	L	25:L	_
+21	у	_	Word	Word	_	22	R	22:R	_
+22	людей	_	Word	Word	_	25	A	25:A	_
+23	не	_	Word	Word	_	25	D	25:D	_
+24	хватает	_	Word	Word	_	25	D	25:D	_
+25	воображения	_	Word	Word	_	2	H	2:H	_
+26	.	_	Punctuation	Punctuation	_	2	U	2:U	_
+27	Они	_	Word	Word	_	29	A	29:A	_
+28	только	_	Word	Word	_	29	D	29:D	_
+29	повторяют	_	Word	Word	_	2	H	2:H	_
+30	то	_	Word	Word	_	29	A	29:A	_
+31	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	что	_	Word	Word	_	30	E	30:E	_
+33	им	_	Word	Word	_	34	A	34:A	_
+34	скажешь	_	Word	Word	_	32	E	32:E	_
+35	...	_	Punctuation	Punctuation	_	2	U	2:U	_
+36	Дома	_	Word	Word	_	39	A	39:A	_
+37	у	_	Word	Word	_	38	R	38:R	_
+38	меня	_	Word	Word	_	39	A	39:A	_
+39	был	_	Word	Word	_	2	H	2:H	_
+40	цветок	_	Word	Word	_	39	A	39:A	_
+41	,	_	Punctuation	Punctuation	_	40	U	40:U	_
+42	моя	_	Word	Word	_	43	A	43:A	_
+43	краса	_	Word	Word	_	40	E	40:E	_
+44	и	_	Word	Word	_	43	N	43:N	_
+45	радость	_	Word	Word	_	43	C	43:C	_
+46	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+47	и	_	Word	Word	_	50	L	50:L	_
+48	он	_	Word	Word	_	50	A	50:A	_
+49	всегда	_	Word	Word	_	50	T	50:T	_
+50	заговаривал	_	Word	Word	_	2	H	2:H	_
+51	первым	_	Word	Word	_	50	D	50:D	_
+52	".	_	Punctuation	Punctuation	_	50	U	50:U	_
+

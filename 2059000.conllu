@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2059000
+# text = VIII Очень скоро я лучше узнал этот цветок .
+1	VIII	_	Word	Word	_	0	H	0:H	_
+2	Очень	_	Word	Word	_	3	E	3:E	_
+3	скоро	_	Word	Word	_	6	T	6:T	_
+4	я	_	Word	Word	_	6	A	6:A	_
+5	лучше	_	Word	Word	_	6	D	6:D	_
+6	узнал	_	Word	Word	_	1	H	1:H	_
+7	этот	_	Word	Word	_	8	E	8:E	_
+8	цветок	_	Word	Word	_	6	A	6:A	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

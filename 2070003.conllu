@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2070003
+# text = Странный народ эти взрослые ", - сказал себе Маленький принц , продолжая путь .
+1	Странный	_	Word	Word	_	2	E	2:E	_
+2	народ	_	Word	Word	_	7	A	7:A	_
+3	эти	_	Word	Word	_	4	E	4:E	_
+4	взрослые	_	Word	Word	_	2	A	2:A	_
+5	",	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	сказал	_	Word	Word	_	0	H	0:H	_
+8	себе	_	Word	Word	_	7	A	7:A	_
+9	Маленький	_	Word	Word	_	10	E	10:E	_
+10	принц	_	Word	Word	_	0	A	0:A|13:A	_
+11	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+12	продолжая	_	Word	Word	_	13	D	13:D	_
+13	путь	_	Word	Word	_	7	H	7:H	_
+14	.	_	Punctuation	Punctuation	_	13	U	13:U	_
+

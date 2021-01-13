@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2082004
+# text = Потому что у пьяниц двоится в глазах . И там , где на самом деле одна гора , географ отметит две . -
+1	Потому	_	Word	Word	_	20	L	20:L	_
+2	что	_	Word	Word	_	1	Terminal	1:Terminal	_
+3	у	_	Word	Word	_	4	R	4:R	_
+4	пьяниц	_	Word	Word	_	5	A	5:A	_
+5	двоится	_	Word	Word	_	0	H	0:H	_
+6	в	_	Word	Word	_	7	R	7:R	_
+7	глазах	_	Word	Word	_	5	A	5:A	_
+8	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+9	И	_	Word	Word	_	20	L	20:L	_
+10	там	_	Word	Word	_	20	A	20:A	_
+11	,	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	где	_	Word	Word	_	17	R	17:R	_
+13	на	_	Word	Word	_	17	G	17:G	_
+14	самом	_	Word	Word	_	13	Terminal	13:Terminal	_
+15	деле	_	Word	Word	_	13	Terminal	13:Terminal	_
+16	одна	_	Word	Word	_	17	Q	17:Q	_
+17	гора	_	Word	Word	_	0	C	0:C|21:C	_
+18	,	_	Punctuation	Punctuation	_	20	U	20:U	_
+19	географ	_	Word	Word	_	20	A	20:A	_
+20	отметит	_	Word	Word	_	5	H	5:H	_
+21	две	_	Word	Word	_	20	A	20:A	_
+22	.	_	Punctuation	Punctuation	_	21	U	21:U	_
+23	-	_	Punctuation	Punctuation	_	21	U	21:U	_
+

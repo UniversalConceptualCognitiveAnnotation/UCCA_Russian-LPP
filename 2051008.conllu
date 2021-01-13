@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2051008
+# text = Тогда оно пускает росток ; он расправляется и тянется к солнцу , сперва такой милый , безобидный .
+1	Тогда	_	Word	Word	_	7	L	7:L	_
+2	оно	_	Word	Word	_	3	A	3:A	_
+3	пускает	_	Word	Word	_	0	H	0:H	_
+4	росток	_	Word	Word	_	3	A	3:A	_
+5	;	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	он	_	Word	Word	_	7	A	7:A|9:A|15:A	_
+7	расправляется	_	Word	Word	_	3	H	3:H	_
+8	и	_	Word	Word	_	9	L	9:L	_
+9	тянется	_	Word	Word	_	3	H	3:H	_
+10	к	_	Word	Word	_	11	R	11:R	_
+11	солнцу	_	Word	Word	_	9	A	9:A	_
+12	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+13	сперва	_	Word	Word	_	15	T	15:T	_
+14	такой	_	Word	Word	_	15	D	15:D	_
+15	милый	_	Word	Word	_	3	H	3:H	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	безобидный	_	Word	Word	_	15	C	15:C	_
+18	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+

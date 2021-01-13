@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2037017
+# text = Я говорил с ними об игре в бридж и гольф , о политике и о галстуках .
+1	Я	_	Word	Word	_	2	A	2:A	_
+2	говорил	_	Word	Word	_	0	H	0:H	_
+3	с	_	Word	Word	_	4	R	4:R	_
+4	ними	_	Word	Word	_	2	A	2:A	_
+5	об	_	Word	Word	_	6	R	6:R	_
+6	игре	_	Word	Word	_	2	A	2:A	_
+7	в	_	Word	Word	_	8	R	8:R	_
+8	бридж	_	Word	Word	_	6	E	6:E	_
+9	и	_	Word	Word	_	8	N	8:N	_
+10	гольф	_	Word	Word	_	8	C	8:C	_
+11	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+12	о	_	Word	Word	_	13	R	13:R	_
+13	политике	_	Word	Word	_	6	C	6:C	_
+14	и	_	Word	Word	_	6	N	6:N	_
+15	о	_	Word	Word	_	16	R	16:R	_
+16	галстуках	_	Word	Word	_	6	C	6:C	_
+17	.	_	Punctuation	Punctuation	_	16	U	16:U	_
+

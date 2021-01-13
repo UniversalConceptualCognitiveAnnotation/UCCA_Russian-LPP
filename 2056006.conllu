@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2056006
+# text = А он беспощадно прибавил : - Все ты путаешь ... ничего не понимаешь !
+1	А	_	Word	Word	_	4	L	4:L	_
+2	он	_	Word	Word	_	4	A	4:A	_
+3	беспощадно	_	Word	Word	_	4	D	4:D	_
+4	прибавил	_	Word	Word	_	0	H	0:H	_
+5	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	Все	_	Word	Word	_	9	A	9:A	_
+8	ты	_	Word	Word	_	9	A	9:A|13:A	_
+9	путаешь	_	Word	Word	_	4	A	4:A	_
+10	...	_	Punctuation	Punctuation	_	9	U	9:U	_
+11	ничего	_	Word	Word	_	13	A	13:A	_
+12	не	_	Word	Word	_	13	D	13:D	_
+13	понимаешь	_	Word	Word	_	9	H	9:H	_
+14	!	_	Punctuation	Punctuation	_	13	U	13:U	_
+

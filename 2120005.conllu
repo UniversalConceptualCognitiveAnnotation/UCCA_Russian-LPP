@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 2120005
+# text = И если к вам подойдет маленький мальчик с золотыми волосами , если он будет звонко смеяться и ничего не ответит на ваши вопросы , вы , уж конечно , догадаетесь , кто он такой .
+1	И	_	Word	Word	_	16	L	16:L	_
+2	если	_	Word	Word	_	16	L	16:L	_
+3	к	_	Word	Word	_	4	R	4:R	_
+4	вам	_	Word	Word	_	5	A	5:A	_
+5	подойдет	_	Word	Word	_	0	H	0:H	_
+6	маленький	_	Word	Word	_	7	E	7:E	_
+7	мальчик	_	Word	Word	_	5	A	5:A	_
+8	с	_	Word	Word	_	10	R	10:R	_
+9	золотыми	_	Word	Word	_	10	E	10:E	_
+10	волосами	_	Word	Word	_	7	E	7:E	_
+11	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+12	если	_	Word	Word	_	16	L	16:L	_
+13	он	_	Word	Word	_	16	A	16:A|20:A	_
+14	будет	_	Word	Word	_	16	F	16:F	_
+15	звонко	_	Word	Word	_	16	D	16:D	_
+16	смеяться	_	Word	Word	_	5	H	5:H	_
+17	и	_	Word	Word	_	20	L	20:L	_
+18	ничего	_	Word	Word	_	20	A	20:A	_
+19	не	_	Word	Word	_	20	D	20:D	_
+20	ответит	_	Word	Word	_	5	H	5:H	_
+21	на	_	Word	Word	_	23	R	23:R	_
+22	ваши	_	Word	Word	_	23	E	23:E	_
+23	вопросы	_	Word	Word	_	20	A	20:A	_
+24	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+25	вы	_	Word	Word	_	30	A	30:A	_
+26	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+27	уж	_	Word	Word	_	30	G	30:G	_
+28	конечно	_	Word	Word	_	27	Terminal	27:Terminal	_
+29	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+30	догадаетесь	_	Word	Word	_	5	H	5:H	_
+31	,	_	Punctuation	Punctuation	_	30	U	30:U	_
+32	кто	_	Word	Word	_	34	A	34:A	_
+33	он	_	Word	Word	_	34	A	34:A	_
+34	такой	_	Word	Word	_	30	A	30:A	_
+35	.	_	Punctuation	Punctuation	_	34	U	34:U	_
+

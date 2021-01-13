@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2104001
+# text = Но Маленький принц посмотрел на меня и промолвил : - Мне тоже хочется пить ... Пойдем поищем колодец ... Я устало развел руками : что толку наугад искать колодцы в бескрайней пустыне ?
+1	Но	_	Word	Word	_	8	L	8:L	_
+2	Маленький	_	Word	Word	_	3	E	3:E	_
+3	принц	_	Word	Word	_	0	C	0:C|2:A|8:A	_
+4	посмотрел	_	Word	Word	_	0	H	0:H	_
+5	на	_	Word	Word	_	6	R	6:R	_
+6	меня	_	Word	Word	_	4	A	4:A	_
+7	и	_	Word	Word	_	8	L	8:L	_
+8	промолвил	_	Word	Word	_	4	H	4:H	_
+9	:	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+11	Мне	_	Word	Word	_	14	A	14:A	_
+12	тоже	_	Word	Word	_	11	E	11:E	_
+13	хочется	_	Word	Word	_	14	D	14:D	_
+14	пить	_	Word	Word	_	8	A	8:A	_
+15	...	_	Punctuation	Punctuation	_	14	U	14:U	_
+16	Пойдем	_	Word	Word	_	14	H	14:H	_
+17	поищем	_	Word	Word	_	16	A	16:A	_
+18	колодец	_	Word	Word	_	17	A	17:A	_
+19	...	_	Punctuation	Punctuation	_	4	U	4:U	_
+20	Я	_	Word	Word	_	22	A	22:A	_
+21	устало	_	Word	Word	_	22	D	22:D	_
+22	развел	_	Word	Word	_	4	H	4:H	_
+23	руками	_	Word	Word	_	22	A	22:A	_
+24	:	_	Punctuation	Punctuation	_	4	U	4:U	_
+25	что	_	Word	Word	_	28	L	28:L	_
+26	толку	_	Word	Word	_	27	E	27:E	_
+27	наугад	_	Word	Word	_	28	D	28:D	_
+28	искать	_	Word	Word	_	4	H	4:H	_
+29	колодцы	_	Word	Word	_	28	A	28:A	_
+30	в	_	Word	Word	_	32	R	32:R	_
+31	бескрайней	_	Word	Word	_	32	E	32:E	_
+32	пустыне	_	Word	Word	_	28	A	28:A	_
+33	?	_	Punctuation	Punctuation	_	32	U	32:U	_
+

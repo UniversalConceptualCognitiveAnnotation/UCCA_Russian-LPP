@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2055003
+# text = Даже такие цветы , у которых шипы ? -
+1	Даже	_	Word	Word	_	3	E	3:E	_
+2	такие	_	Word	Word	_	3	E	3:E	_
+3	цветы	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	у	_	Word	Word	_	6	R	6:R	_
+6	которых	_	Word	Word	_	3	E	3:E	_
+7	шипы	_	Word	Word	_	6	A	6:A	_
+8	?	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

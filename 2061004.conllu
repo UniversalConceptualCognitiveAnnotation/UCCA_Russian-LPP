@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2061004
+# text = Красавица смутилась , потом кашлянула раз - другой , чтобы Маленький принц почувствовал , как он перед нею виноват : - Где же ширма ? -
+1	Красавица	_	Word	Word	_	2	A	2:A|5:A|22:A	_
+2	смутилась	_	Word	Word	_	0	H	0:H	_
+3	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+4	потом	_	Word	Word	_	5	L	5:L	_
+5	кашлянула	_	Word	Word	_	2	H	2:H	_
+6	раз	_	Word	Word	_	5	A	5:A	_
+7	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+8	другой	_	Word	Word	_	6	E	6:E	_
+9	,	_	Punctuation	Punctuation	_	2	U	2:U	_
+10	чтобы	_	Word	Word	_	13	L	13:L	_
+11	Маленький	_	Word	Word	_	12	E	12:E	_
+12	принц	_	Word	Word	_	13	A	13:A	_
+13	почувствовал	_	Word	Word	_	2	H	2:H	_
+14	,	_	Punctuation	Punctuation	_	13	U	13:U	_
+15	как	_	Word	Word	_	19	R	19:R	_
+16	он	_	Word	Word	_	19	A	19:A	_
+17	перед	_	Word	Word	_	18	R	18:R	_
+18	нею	_	Word	Word	_	19	A	19:A	_
+19	виноват	_	Word	Word	_	13	A	13:A	_
+20	:	_	Punctuation	Punctuation	_	2	U	2:U	_
+21	-	_	Punctuation	Punctuation	_	2	U	2:U	_
+22	Где	_	Word	Word	_	2	H	2:H	_
+23	же	_	Word	Word	_	22	F	22:F	_
+24	ширма	_	Word	Word	_	22	A	22:A	_
+25	?	_	Punctuation	Punctuation	_	22	U	22:U	_
+26	-	_	Punctuation	Punctuation	_	22	U	22:U	_
+

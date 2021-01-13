@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2105011
+# text = Светильники надо беречь : порыв ветра может их погасить ... Так я шел ... и на рассвете дошел до колодца .
+1	Светильники	_	Word	Word	_	3	A	3:A	_
+2	надо	_	Word	Word	_	3	D	3:D	_
+3	беречь	_	Word	Word	_	0	H	0:H	_
+4	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	порыв	_	Word	Word	_	9	A	9:A	_
+6	ветра	_	Word	Word	_	5	C	5:C	_
+7	может	_	Word	Word	_	9	D	9:D	_
+8	их	_	Word	Word	_	9	A	9:A	_
+9	погасить	_	Word	Word	_	3	H	3:H	_
+10	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+11	Так	_	Word	Word	_	13	D	13:D	_
+12	я	_	Word	Word	_	13	A	13:A|18:A	_
+13	шел	_	Word	Word	_	3	H	3:H	_
+14	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+15	и	_	Word	Word	_	18	L	18:L	_
+16	на	_	Word	Word	_	17	R	17:R	_
+17	рассвете	_	Word	Word	_	18	A	18:A	_
+18	дошел	_	Word	Word	_	3	H	3:H	_
+19	до	_	Word	Word	_	20	R	20:R	_
+20	колодца	_	Word	Word	_	18	A	18:A	_
+21	.	_	Punctuation	Punctuation	_	20	U	20:U	_
+

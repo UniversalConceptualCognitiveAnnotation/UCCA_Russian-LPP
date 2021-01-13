@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2038010
+# text = А ?.. - Нарисуй мне барашка ... Я вскочил , точно надо мною грянул гром .
+1	А	_	Word	Word	_	0	H	0:H	_
+2	?..	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+4	Нарисуй	_	Word	Word	_	1	H	1:H	_
+5	мне	_	Word	Word	_	4	A	4:A	_
+6	барашка	_	Word	Word	_	4	A	4:A	_
+7	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+8	Я	_	Word	Word	_	9	A	9:A	_
+9	вскочил	_	Word	Word	_	1	H	1:H	_
+10	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+11	точно	_	Word	Word	_	14	L	14:L	_
+12	надо	_	Word	Word	_	13	R	13:R	_
+13	мною	_	Word	Word	_	14	A	14:A	_
+14	грянул	_	Word	Word	_	1	H	1:H	_
+15	гром	_	Word	Word	_	14	A	14:A	_
+16	.	_	Punctuation	Punctuation	_	14	U	14:U	_
+

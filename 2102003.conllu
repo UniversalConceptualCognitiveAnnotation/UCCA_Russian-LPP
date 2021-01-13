@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2102003
+# text = Проглотишь такую пилюлю - и потом целую неделю не хочется пить . -
+1	Проглотишь	_	Word	Word	_	0	H	0:H	_
+2	такую	_	Word	Word	_	3	E	3:E	_
+3	пилюлю	_	Word	Word	_	1	A	1:A	_
+4	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+5	и	_	Word	Word	_	11	L	11:L	_
+6	потом	_	Word	Word	_	11	L	11:L	_
+7	целую	_	Word	Word	_	8	E	8:E	_
+8	неделю	_	Word	Word	_	11	A	11:A	_
+9	не	_	Word	Word	_	11	D	11:D	_
+10	хочется	_	Word	Word	_	11	D	11:D	_
+11	пить	_	Word	Word	_	1	H	1:H	_
+12	.	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	-	_	Punctuation	Punctuation	_	11	U	11:U	_
+

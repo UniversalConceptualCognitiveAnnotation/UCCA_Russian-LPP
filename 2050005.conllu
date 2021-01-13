@@ -1,0 +1,7 @@
+# format = ucca
+# sent_id = 2050005
+# text = Вот хорошо !
+1	Вот	_	Word	Word	_	0	H	0:H	_
+2	хорошо	_	Word	Word	_	1	G	1:G	_
+3	!	_	Punctuation	Punctuation	_	1	U	1:U	_
+

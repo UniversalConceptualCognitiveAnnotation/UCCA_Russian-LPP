@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2081003
+# text = Маленький принц сел на стол , чтобы отдышаться .
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	0	C	0:C|1:A|8:A	_
+3	сел	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	стол	_	Word	Word	_	3	A	3:A	_
+6	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	чтобы	_	Word	Word	_	8	L	8:L	_
+8	отдышаться	_	Word	Word	_	3	H	3:H	_
+9	.	_	Punctuation	Punctuation	_	8	U	8:U	_
+

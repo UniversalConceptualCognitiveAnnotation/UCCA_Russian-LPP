@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2050003
+# text = Это тоже вышло из - за барашка .
+1	Это	_	Word	Word	_	3	A	3:A	_
+2	тоже	_	Word	Word	_	1	E	1:E	_
+3	вышло	_	Word	Word	_	0	H	0:H	_
+4	из	_	Word	Word	_	7	R	7:R	_
+5	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	за	_	Word	Word	_	4	Terminal	4:Terminal	_
+7	барашка	_	Word	Word	_	3	A	3:A	_
+8	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+

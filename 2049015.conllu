@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2049015
+# text = Наконец , я могу ошибиться и в каких - то важных подробностях .
+1	Наконец	_	Word	Word	_	5	L	5:L	_
+2	,	_	Punctuation	Punctuation	_	5	U	5:U	_
+3	я	_	Word	Word	_	5	A	5:A	_
+4	могу	_	Word	Word	_	5	D	5:D	_
+5	ошибиться	_	Word	Word	_	0	H	0:H	_
+6	и	_	Word	Word	_	5	F	5:F	_
+7	в	_	Word	Word	_	12	R	12:R	_
+8	каких	_	Word	Word	_	12	E	12:E	_
+9	-	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	то	_	Word	Word	_	8	Terminal	8:Terminal	_
+11	важных	_	Word	Word	_	12	E	12:E	_
+12	подробностях	_	Word	Word	_	5	A	5:A	_
+13	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

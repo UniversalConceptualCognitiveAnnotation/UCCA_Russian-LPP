@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2101004
+# text = И скорый поезд , сверкая освещенными окнами , с громом промчался мимо , и будка стрелочника вся задрожала . -
+1	И	_	Word	Word	_	18	L	18:L	_
+2	скорый	_	Word	Word	_	3	E	3:E	_
+3	поезд	_	Word	Word	_	11	A	11:A	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	сверкая	_	Word	Word	_	3	E	3:E	_
+6	освещенными	_	Word	Word	_	7	E	7:E	_
+7	окнами	_	Word	Word	_	5	A	5:A	_
+8	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+9	с	_	Word	Word	_	10	R	10:R	_
+10	громом	_	Word	Word	_	11	D	11:D	_
+11	промчался	_	Word	Word	_	0	H	0:H	_
+12	мимо	_	Word	Word	_	11	A	11:A	_
+13	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+14	и	_	Word	Word	_	18	L	18:L	_
+15	будка	_	Word	Word	_	18	A	18:A	_
+16	стрелочника	_	Word	Word	_	15	E	15:E	_
+17	вся	_	Word	Word	_	18	D	18:D	_
+18	задрожала	_	Word	Word	_	11	H	11:H	_
+19	.	_	Punctuation	Punctuation	_	18	U	18:U	_
+20	-	_	Punctuation	Punctuation	_	18	U	18:U	_
+

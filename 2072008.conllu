@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2072008
+# text = Ему стало жаль пьяницу . -
+1	Ему	_	Word	Word	_	3	A	3:A	_
+2	стало	_	Word	Word	_	3	D	3:D	_
+3	жаль	_	Word	Word	_	0	H	0:H	_
+4	пьяницу	_	Word	Word	_	3	A	3:A	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

@@ -1,0 +1,48 @@
+# format = ucca
+# sent_id = 2090004
+# text = Люди ? Ах да ... Их всего - то , кажется , шесть или семь . Я видел их много лет назад . Но где их искать - неизвестно . Их носит ветром . У них нет корней - это очень неудобно . -
+1	Люди	_	Word	Word	_	0	H	0:H	_
+2	?	_	Punctuation	Punctuation	_	1	U	1:U	_
+3	Ах	_	Word	Word	_	1	G	1:G	_
+4	да	_	Word	Word	_	1	G	1:G	_
+5	...	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	Их	_	Word	Word	_	1	H	1:H	_
+7	всего	_	Word	Word	_	6	E	6:E	_
+8	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+9	то	_	Word	Word	_	7	Terminal	7:Terminal	_
+10	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+11	кажется	_	Word	Word	_	6	G	6:G	_
+12	,	_	Punctuation	Punctuation	_	6	U	6:U	_
+13	шесть	_	Word	Word	_	6	Q	6:Q	_
+14	или	_	Word	Word	_	13	N	13:N	_
+15	семь	_	Word	Word	_	13	C	13:C	_
+16	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+17	Я	_	Word	Word	_	18	A	18:A	_
+18	видел	_	Word	Word	_	1	H	1:H	_
+19	их	_	Word	Word	_	18	A	18:A	_
+20	много	_	Word	Word	_	21	Q	21:Q	_
+21	лет	_	Word	Word	_	18	T	18:T	_
+22	назад	_	Word	Word	_	21	R	21:R	_
+23	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+24	Но	_	Word	Word	_	29	L	29:L	_
+25	где	_	Word	Word	_	27	A	27:A	_
+26	их	_	Word	Word	_	27	A	27:A	_
+27	искать	_	Word	Word	_	29	A	29:A	_
+28	-	_	Punctuation	Punctuation	_	29	U	29:U	_
+29	неизвестно	_	Word	Word	_	1	H	1:H	_
+30	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+31	Их	_	Word	Word	_	32	A	32:A	_
+32	носит	_	Word	Word	_	1	H	1:H	_
+33	ветром	_	Word	Word	_	32	A	32:A	_
+34	.	_	Punctuation	Punctuation	_	1	U	1:U	_
+35	У	_	Word	Word	_	36	R	36:R	_
+36	них	_	Word	Word	_	1	H	1:H	_
+37	нет	_	Word	Word	_	36	D	36:D	_
+38	корней	_	Word	Word	_	36	A	36:A	_
+39	-	_	Punctuation	Punctuation	_	1	U	1:U	_
+40	это	_	Word	Word	_	42	A	42:A	_
+41	очень	_	Word	Word	_	42	D	42:D	_
+42	неудобно	_	Word	Word	_	1	H	1:H	_
+43	.	_	Punctuation	Punctuation	_	42	U	42:U	_
+44	-	_	Punctuation	Punctuation	_	42	U	42:U	_
+

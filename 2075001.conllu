@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2075001
+# text = И стал спрашивать дальше : - А как можно владеть звездами ? -
+1	И	_	Word	Word	_	3	L	3:L	_
+2	стал	_	Word	Word	_	3	D	3:D	_
+3	спрашивать	_	Word	Word	_	0	H	0:H	_
+4	дальше	_	Word	Word	_	3	D	3:D	_
+5	:	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	-	_	Punctuation	Punctuation	_	3	U	3:U	_
+7	А	_	Word	Word	_	10	L	10:L	_
+8	как	_	Word	Word	_	10	D	10:D	_
+9	можно	_	Word	Word	_	10	D	10:D	_
+10	владеть	_	Word	Word	_	3	A	3:A	_
+11	звездами	_	Word	Word	_	10	A	10:A	_
+12	?	_	Punctuation	Punctuation	_	10	U	10:U	_
+13	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+

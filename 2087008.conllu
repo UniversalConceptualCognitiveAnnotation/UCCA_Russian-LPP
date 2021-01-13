@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2087008
+# text = Маленький принц сел на камень и поднял глаза к небу . -
+1	Маленький	_	Word	Word	_	2	E	2:E	_
+2	принц	_	Word	Word	_	0	C	0:C|1:A|7:A	_
+3	сел	_	Word	Word	_	0	H	0:H	_
+4	на	_	Word	Word	_	5	R	5:R	_
+5	камень	_	Word	Word	_	3	A	3:A	_
+6	и	_	Word	Word	_	7	L	7:L	_
+7	поднял	_	Word	Word	_	3	H	3:H	_
+8	глаза	_	Word	Word	_	7	A	7:A	_
+9	к	_	Word	Word	_	10	R	10:R	_
+10	небу	_	Word	Word	_	7	A	7:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
+12	-	_	Punctuation	Punctuation	_	10	U	10:U	_
+

@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2064010
+# text = Это был очень гордый цветок ...
+1	Это	_	Word	Word	_	2	A	2:A	_
+2	был	_	Word	Word	_	0	H	0:H	_
+3	очень	_	Word	Word	_	4	D	4:D	_
+4	гордый	_	Word	Word	_	5	E	5:E	_
+5	цветок	_	Word	Word	_	2	A	2:A	_
+6	...	_	Punctuation	Punctuation	_	5	U	5:U	_
+

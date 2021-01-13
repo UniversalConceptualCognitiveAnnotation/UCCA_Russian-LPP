@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2055004
+# text = Да , и те , у которых шипы . -
+1	Да	_	Word	Word	_	3	G	3:G	_
+2	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	и	_	Word	Word	_	0	H	0:H	_
+4	те	_	Word	Word	_	3	E	3:E	_
+5	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+6	у	_	Word	Word	_	7	R	7:R	_
+7	которых	_	Word	Word	_	3	E	3:E	_
+8	шипы	_	Word	Word	_	7	A	7:A	_
+9	.	_	Punctuation	Punctuation	_	7	U	7:U	_
+10	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+

@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2049019
+# text = Но я , к сожалению , не умею увидеть барашка сквозь стенки ящика .
+1	Но	_	Word	Word	_	9	L	9:L	_
+2	я	_	Word	Word	_	9	A	9:A	_
+3	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+4	к	_	Word	Word	_	9	G	9:G	_
+5	сожалению	_	Word	Word	_	4	Terminal	4:Terminal	_
+6	,	_	Punctuation	Punctuation	_	9	U	9:U	_
+7	не	_	Word	Word	_	9	D	9:D	_
+8	умею	_	Word	Word	_	9	D	9:D	_
+9	увидеть	_	Word	Word	_	0	H	0:H	_
+10	барашка	_	Word	Word	_	9	A	9:A	_
+11	сквозь	_	Word	Word	_	12	R	12:R	_
+12	стенки	_	Word	Word	_	9	A	9:A	_
+13	ящика	_	Word	Word	_	12	E	12:E	_
+14	.	_	Punctuation	Punctuation	_	12	U	12:U	_
+

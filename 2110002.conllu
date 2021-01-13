@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2110002
+# text = И услышал его голос . -
+1	И	_	Word	Word	_	2	L	2:L	_
+2	услышал	_	Word	Word	_	0	H	0:H	_
+3	его	_	Word	Word	_	4	E	4:E	_
+4	голос	_	Word	Word	_	2	A	2:A	_
+5	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

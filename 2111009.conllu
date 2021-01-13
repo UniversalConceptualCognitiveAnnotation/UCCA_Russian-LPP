@@ -1,0 +1,40 @@
+# format = ucca
+# sent_id = 2111009
+# text = Нащупывая в кармане револьвер , я бегом бросился к ней , но при звуке шагов змейка тихо заструилась по песку , словно умирающий ручеек , и с еле слышным металлическим звоном неторопливо скрылась меж камней .
+1	Нащупывая	_	Word	Word	_	0	H	0:H	_
+2	в	_	Word	Word	_	3	R	3:R	_
+3	кармане	_	Word	Word	_	1	A	1:A	_
+4	револьвер	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+6	я	_	Word	Word	_	8	A	8:A|1:A	_
+7	бегом	_	Word	Word	_	8	D	8:D	_
+8	бросился	_	Word	Word	_	1	H	1:H	_
+9	к	_	Word	Word	_	10	R	10:R	_
+10	ней	_	Word	Word	_	8	A	8:A	_
+11	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+12	но	_	Word	Word	_	14	L	14:L	_
+13	при	_	Word	Word	_	14	L	14:L	_
+14	звуке	_	Word	Word	_	1	H	1:H	_
+15	шагов	_	Word	Word	_	14	A	14:A	_
+16	змейка	_	Word	Word	_	18	A	18:A|33:A	_
+17	тихо	_	Word	Word	_	18	D	18:D	_
+18	заструилась	_	Word	Word	_	1	H	1:H	_
+19	по	_	Word	Word	_	20	R	20:R	_
+20	песку	_	Word	Word	_	18	A	18:A	_
+21	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+22	словно	_	Word	Word	_	24	L	24:L	_
+23	умирающий	_	Word	Word	_	24	E	24:E	_
+24	ручеек	_	Word	Word	_	1	H	1:H	_
+25	,	_	Punctuation	Punctuation	_	1	U	1:U	_
+26	и	_	Word	Word	_	33	L	33:L	_
+27	с	_	Word	Word	_	31	R	31:R	_
+28	еле	_	Word	Word	_	29	D	29:D	_
+29	слышным	_	Word	Word	_	31	E	31:E	_
+30	металлическим	_	Word	Word	_	31	E	31:E	_
+31	звоном	_	Word	Word	_	33	D	33:D	_
+32	неторопливо	_	Word	Word	_	33	D	33:D	_
+33	скрылась	_	Word	Word	_	1	H	1:H	_
+34	меж	_	Word	Word	_	35	R	35:R	_
+35	камней	_	Word	Word	_	33	A	33:A	_
+36	.	_	Punctuation	Punctuation	_	35	U	35:U	_
+

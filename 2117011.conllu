@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2117011
+# text = Я тоже сел , потому что у меня подкосились ноги .
+1	Я	_	Word	Word	_	3	A	3:A	_
+2	тоже	_	Word	Word	_	1	E	1:E	_
+3	сел	_	Word	Word	_	0	H	0:H	_
+4	,	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	потому	_	Word	Word	_	9	L	9:L	_
+6	что	_	Word	Word	_	5	Terminal	5:Terminal	_
+7	у	_	Word	Word	_	8	R	8:R	_
+8	меня	_	Word	Word	_	9	A	9:A	_
+9	подкосились	_	Word	Word	_	3	H	3:H	_
+10	ноги	_	Word	Word	_	9	A	9:A	_
+11	.	_	Punctuation	Punctuation	_	9	U	9:U	_
+

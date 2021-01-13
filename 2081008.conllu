@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 2081008
+# text = А что такое географ ? - Это ученый , который знает , где находятся моря , реки , города , горы и пустыни . -
+1	А	_	Word	Word	_	7	L	7:L	_
+2	что	_	Word	Word	_	3	A	3:A	_
+3	такое	_	Word	Word	_	0	H	0:H	_
+4	географ	_	Word	Word	_	3	A	3:A|7:A	_
+5	?	_	Punctuation	Punctuation	_	7	U	7:U	_
+6	-	_	Punctuation	Punctuation	_	7	U	7:U	_
+7	Это	_	Word	Word	_	3	H	3:H	_
+8	ученый	_	Word	Word	_	7	A	7:A	_
+9	,	_	Punctuation	Punctuation	_	8	U	8:U	_
+10	который	_	Word	Word	_	11	R	11:R	_
+11	знает	_	Word	Word	_	8	E	8:E	_
+12	,	_	Punctuation	Punctuation	_	11	U	11:U	_
+13	где	_	Word	Word	_	11	A	11:A	_
+14	находятся	_	Word	Word	_	13	E	13:E	_
+15	моря	_	Word	Word	_	14	A	14:A	_
+16	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+17	реки	_	Word	Word	_	15	C	15:C	_
+18	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+19	города	_	Word	Word	_	15	C	15:C	_
+20	,	_	Punctuation	Punctuation	_	15	U	15:U	_
+21	горы	_	Word	Word	_	15	C	15:C	_
+22	и	_	Word	Word	_	15	N	15:N	_
+23	пустыни	_	Word	Word	_	15	C	15:C	_
+24	.	_	Punctuation	Punctuation	_	15	U	15:U	_
+25	-	_	Punctuation	Punctuation	_	15	U	15:U	_
+

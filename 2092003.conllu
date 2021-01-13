@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2092003
+# text = Перед ним был сад , полный роз . -
+1	Перед	_	Word	Word	_	0	H	0:H	_
+2	ним	_	Word	Word	_	1	A	1:A	_
+3	был	_	Word	Word	_	1	F	1:F	_
+4	сад	_	Word	Word	_	1	A	1:A	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	полный	_	Word	Word	_	4	E	4:E	_
+7	роз	_	Word	Word	_	6	A	6:A	_
+8	.	_	Punctuation	Punctuation	_	6	U	6:U	_
+9	-	_	Punctuation	Punctuation	_	6	U	6:U	_
+

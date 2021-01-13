@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2077009
+# text = И он снова засветил фонарь . -
+1	И	_	Word	Word	_	4	L	4:L	_
+2	он	_	Word	Word	_	4	A	4:A	_
+3	снова	_	Word	Word	_	4	D	4:D	_
+4	засветил	_	Word	Word	_	0	H	0:H	_
+5	фонарь	_	Word	Word	_	4	A	4:A	_
+6	.	_	Punctuation	Punctuation	_	4	U	4:U	_
+7	-	_	Punctuation	Punctuation	_	4	U	4:U	_
+

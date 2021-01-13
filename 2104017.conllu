@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2104017
+# text = Мне всегда нравилось в пустыне .
+1	Мне	_	Word	Word	_	3	A	3:A	_
+2	всегда	_	Word	Word	_	3	D	3:D	_
+3	нравилось	_	Word	Word	_	0	H	0:H	_
+4	в	_	Word	Word	_	5	R	5:R	_
+5	пустыне	_	Word	Word	_	3	A	3:A	_
+6	.	_	Punctuation	Punctuation	_	5	U	5:U	_
+
