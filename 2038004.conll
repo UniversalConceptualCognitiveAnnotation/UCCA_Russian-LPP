@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2038004
+1	Я	_	Word	Word	_	4	A	_	_
+1	Я	_	Word	Word	_	7	A*	_	_
+2	должен	_	Word	Word	_	4	D	_	_
+3	был	_	Word	Word	_	4	F	_	_
+4	исправить	_	Word	Word	_	0	H	_	_
+5	мотор	_	Word	Word	_	4	A	_	_
+6	или	_	Word	Word	_	4	L	_	_
+7	погибнуть	_	Word	Word	_	4	H	_	_
+8	.	_	Punctuation	Punctuation	_	7	U	_	_
+

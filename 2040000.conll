@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 2040000
+1	Так	_	Word	Word	_	8	L	_	_
+2	как	_	Word	Word	_	1	Terminal	_	_
+3	я	_	Word	Word	_	8	A	_	_
+4	никогда	_	Word	Word	_	8	A	_	_
+5	в	_	Word	Word	_	6	R	_	_
+6	жизни	_	Word	Word	_	4	E	_	_
+7	не	_	Word	Word	_	8	D	_	_
+8	рисовал	_	Word	Word	_	0	H	_	_
+9	баранов	_	Word	Word	_	8	A	_	_
+10	,	_	Punctuation	Punctuation	_	8	U	_	_
+11	я	_	Word	Word	_	12	A	_	_
+12	повторил	_	Word	Word	_	8	H	_	_
+13	для	_	Word	Word	_	14	R	_	_
+14	него	_	Word	Word	_	12	A	_	_
+15	одну	_	Word	Word	_	19	Q	_	_
+16	из	_	Word	Word	_	15	R	_	_
+17	двух	_	Word	Word	_	15	C	_	_
+18	старых	_	Word	Word	_	19	E	_	_
+19	картинок	_	Word	Word	_	12	A	_	_
+20	,	_	Punctuation	Punctuation	_	19	U	_	_
+21	которые	_	Word	Word	_	26	A	_	_
+22	я	_	Word	Word	_	26	A	_	_
+23	только	_	Word	Word	_	26	D	_	_
+24	и	_	Word	Word	_	26	F	_	_
+25	умею	_	Word	Word	_	26	D	_	_
+26	рисовать	_	Word	Word	_	19	E	_	_
+27	,	_	Punctuation	Punctuation	_	19	U	_	_
+28	-	_	Punctuation	Punctuation	_	19	U	_	_
+29	удава	_	Word	Word	_	19	E	_	_
+30	снаружи	_	Word	Word	_	29	E	_	_
+31	.	_	Punctuation	Punctuation	_	30	U	_	_
+

@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 2049008
+1	Не	_	Word	Word	_	4	D	_	_
+2	так	_	Word	Word	_	4	D	_	_
+3	это	_	Word	Word	_	4	A	_	_
+4	просто	_	Word	Word	_	0	H	_	_
+5	-	_	Punctuation	Punctuation	_	4	U	_	_
+6	в	_	Word	Word	_	8	R	_	_
+7	моем	_	Word	Word	_	8	A	_	_
+8	возрасте	_	Word	Word	_	4	H	_	_
+9	вновь	_	Word	Word	_	12	D	_	_
+10	приниматься	_	Word	Word	_	12	D	_	_
+11	за	_	Word	Word	_	12	R	_	_
+12	рисование	_	Word	Word	_	4	H	_	_
+13	,	_	Punctuation	Punctuation	_	4	U	_	_
+14	если	_	Word	Word	_	4	L	_	_
+15	за	_	Word	Word	_	18	R	_	_
+16	всю	_	Word	Word	_	18	D	_	_
+17	свою	_	Word	Word	_	18	A	_	_
+18	жизнь	_	Word	Word	_	21	T	_	_
+19	только	_	Word	Word	_	21	D	_	_
+20	и	_	Word	Word	_	21	F	_	_
+21	нарисовал	_	Word	Word	_	4	H	_	_
+22	что	_	Word	Word	_	21	F	_	_
+23	удава	_	Word	Word	_	0	C	_	_
+23	удава	_	Word	Word	_	33	A*	_	_
+24	снаружи	_	Word	Word	_	23	E	_	_
+25	и	_	Word	Word	_	24	N	_	_
+26	изнутри	_	Word	Word	_	24	C	_	_
+27	,	_	Punctuation	Punctuation	_	4	U	_	_
+28	да	_	Word	Word	_	4	L	_	_
+29	и	_	Word	Word	_	4	L	_	_
+30	то	_	Word	Word	_	29	Terminal	_	_
+31	в	_	Word	Word	_	33	R	_	_
+32	шесть	_	Word	Word	_	33	Q	_	_
+33	лет	_	Word	Word	_	4	H	_	_
+34	!	_	Punctuation	Punctuation	_	33	U	_	_
+

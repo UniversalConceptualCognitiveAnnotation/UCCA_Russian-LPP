@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2107013
+1	На	_	Word	Word	_	2	R	_	_
+2	рассвете	_	Word	Word	_	5	T	_	_
+3	песок	_	Word	Word	_	5	A	_	_
+4	становится	_	Word	Word	_	5	D	_	_
+5	золотой	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	как	_	Word	Word	_	8	R	_	_
+8	мед	_	Word	Word	_	5	A	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

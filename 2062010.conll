@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2062010
+1	Конечно	_	Word	Word	_	10	G	_	_
+2	,	_	Punctuation	Punctuation	_	10	U	_	_
+3	мы	_	Word	Word	_	0	C	_	_
+3	мы	_	Word	Word	_	14	A*	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	люди	_	Word	Word	_	3	E	_	_
+6	на	_	Word	Word	_	7	R	_	_
+7	Земле	_	Word	Word	_	5	E	_	_
+8	,	_	Punctuation	Punctuation	_	10	U	_	_
+9	слишком	_	Word	Word	_	10	D	_	_
+10	малы	_	Word	Word	_	0	H	_	_
+11	и	_	Word	Word	_	10	L	_	_
+12	не	_	Word	Word	_	14	D	_	_
+13	можем	_	Word	Word	_	14	D	_	_
+14	прочищать	_	Word	Word	_	10	H	_	_
+15	наши	_	Word	Word	_	16	E	_	_
+16	вулканы	_	Word	Word	_	14	A	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+

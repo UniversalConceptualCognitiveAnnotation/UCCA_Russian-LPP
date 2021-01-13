@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2041001
+1	Этот	_	Word	Word	_	3	A	_	_
+2	слишком	_	Word	Word	_	3	D	_	_
+3	старый	_	Word	Word	_	0	H	_	_
+4	.	_	Punctuation	Punctuation	_	3	U	_	_
+5	Мне	_	Word	Word	_	6	A	_	_
+6	нужен	_	Word	Word	_	3	H	_	_
+7	такой	_	Word	Word	_	8	E	_	_
+8	барашек	_	Word	Word	_	6	A	_	_
+9	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	чтобы	_	Word	Word	_	11	R	_	_
+11	жил	_	Word	Word	_	8	E	_	_
+12	долго	_	Word	Word	_	11	D	_	_
+13	.	_	Punctuation	Punctuation	_	11	U	_	_
+

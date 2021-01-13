@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2050009
+1	Услыхав	_	Word	Word	_	0	H	_	_
+2	про	_	Word	Word	_	3	R	_	_
+3	слонов	_	Word	Word	_	1	A	_	_
+4	,	_	Punctuation	Punctuation	_	1	U	_	_
+5	Маленький	_	Word	Word	_	6	E	_	_
+6	принц	_	Word	Word	_	0	A	_	_
+6	принц	_	Word	Word	_	1	A*	_	_
+6	принц	_	Word	Word	_	13	A*	_	_
+7	засмеялся	_	Word	Word	_	1	H	_	_
+8	:	_	Punctuation	Punctuation	_	1	U	_	_
+9	-	_	Punctuation	Punctuation	_	1	U	_	_
+10	Их	_	Word	Word	_	13	A	_	_
+11	пришлось	_	Word	Word	_	13	D	_	_
+12	бы	_	Word	Word	_	13	F	_	_
+13	поставить	_	Word	Word	_	1	H	_	_
+14	друг	_	Word	Word	_	13	D	_	_
+15	на	_	Word	Word	_	14	Terminal	_	_
+16	друга	_	Word	Word	_	14	Terminal	_	_
+17	...	_	Punctuation	Punctuation	_	13	U	_	_
+

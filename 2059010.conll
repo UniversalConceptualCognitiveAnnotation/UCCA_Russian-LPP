@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2059010
+1	Она	_	Word	Word	_	4	A	_	_
+1	Она	_	Word	Word	_	7	A*	_	_
+2	не	_	Word	Word	_	4	D	_	_
+3	желала	_	Word	Word	_	4	D	_	_
+4	явиться	_	Word	Word	_	0	H	_	_
+5	на	_	Word	Word	_	6	R	_	_
+6	свет	_	Word	Word	_	4	A	_	_
+7	встрепанная	_	Word	Word	_	4	H	_	_
+8	,	_	Punctuation	Punctuation	_	4	U	_	_
+9	точно	_	Word	Word	_	4	L	_	_
+10	какой	_	Word	Word	_	13	E	_	_
+11	-	_	Punctuation	Punctuation	_	10	U	_	_
+12	нибудь	_	Word	Word	_	10	Terminal	_	_
+13	мак	_	Word	Word	_	4	H	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2108010
+1	Я	_	Word	Word	_	2	A	_	_
+2	отдал	_	Word	Word	_	0	H	_	_
+3	рисунок	_	Word	Word	_	2	A	_	_
+4	Маленькому	_	Word	Word	_	5	E	_	_
+5	принцу	_	Word	Word	_	2	A	_	_
+6	,	_	Punctuation	Punctuation	_	2	U	_	_
+7	и	_	Word	Word	_	2	L	_	_
+8	сердце	_	Word	Word	_	11	A	_	_
+9	у	_	Word	Word	_	10	R	_	_
+10	меня	_	Word	Word	_	8	E	_	_
+11	сжалось	_	Word	Word	_	2	H	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+13	-	_	Punctuation	Punctuation	_	11	U	_	_
+

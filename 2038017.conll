@@ -1,0 +1,35 @@
+# format = ucca
+# sent_id = 2038017
+1	Когда	_	Word	Word	_	3	L	_	_
+2	мне	_	Word	Word	_	3	A	_	_
+3	было	_	Word	Word	_	0	H	_	_
+4	шесть	_	Word	Word	_	5	Q	_	_
+5	лет	_	Word	Word	_	3	T	_	_
+6	,	_	Punctuation	Punctuation	_	3	U	_	_
+7	взрослые	_	Word	Word	_	8	A	_	_
+8	внушили	_	Word	Word	_	3	H	_	_
+9	мне	_	Word	Word	_	8	A	_	_
+10	,	_	Punctuation	Punctuation	_	8	U	_	_
+11	что	_	Word	Word	_	12	R	_	_
+12	художника	_	Word	Word	_	8	A	_	_
+13	из	_	Word	Word	_	14	R	_	_
+14	меня	_	Word	Word	_	12	A	_	_
+15	не	_	Word	Word	_	12	D	_	_
+16	выйдет	_	Word	Word	_	12	D	_	_
+17	,	_	Punctuation	Punctuation	_	3	U	_	_
+18	и	_	Word	Word	_	3	L	_	_
+19	я	_	Word	Word	_	22	A	_	_
+19	я	_	Word	Word	_	23	A*	_	_
+20	ничего	_	Word	Word	_	23	A	_	_
+21	не	_	Word	Word	_	22	D	_	_
+22	научился	_	Word	Word	_	3	H	_	_
+23	рисовать	_	Word	Word	_	22	A	_	_
+24	,	_	Punctuation	Punctuation	_	23	U	_	_
+25	кроме	_	Word	Word	_	26	R	_	_
+26	удавов	_	Word	Word	_	20	E	_	_
+27	-	_	Punctuation	Punctuation	_	26	U	_	_
+28	снаружи	_	Word	Word	_	26	E	_	_
+29	и	_	Word	Word	_	28	N	_	_
+30	изнутри	_	Word	Word	_	28	C	_	_
+31	.	_	Punctuation	Punctuation	_	28	U	_	_
+

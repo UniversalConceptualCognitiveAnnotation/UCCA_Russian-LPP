@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2040004
+1	Мой	_	Word	Word	_	7	A	_	_
+2	новый	_	Word	Word	_	1	D	_	_
+3	друг	_	Word	Word	_	1	A	_	_
+4	мягко	_	Word	Word	_	7	D	_	_
+5	,	_	Punctuation	Punctuation	_	7	U	_	_
+6	снисходительно	_	Word	Word	_	7	D	_	_
+7	улыбнулся	_	Word	Word	_	0	H	_	_
+8	.	_	Punctuation	Punctuation	_	7	U	_	_
+9	-	_	Punctuation	Punctuation	_	7	U	_	_
+

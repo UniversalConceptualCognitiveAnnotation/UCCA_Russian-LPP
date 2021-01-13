@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2062000
+1	IX	_	Word	Word	_	0	H	_	_
+2	Как	_	Word	Word	_	4	R	_	_
+3	я	_	Word	Word	_	4	A	_	_
+4	понял	_	Word	Word	_	1	H	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	он	_	Word	Word	_	8	A	_	_
+7	решил	_	Word	Word	_	8	D	_	_
+8	странствовать	_	Word	Word	_	4	A	_	_
+9	с	_	Word	Word	_	11	R	_	_
+10	перелетными	_	Word	Word	_	11	E	_	_
+11	птицами	_	Word	Word	_	8	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

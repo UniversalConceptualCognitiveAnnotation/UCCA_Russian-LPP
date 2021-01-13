@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2046000
+1	К	_	Word	Word	_	2	R	_	_
+2	счастью	_	Word	Word	_	0	H	_	_
+3	для	_	Word	Word	_	4	R	_	_
+4	репутации	_	Word	Word	_	2	A	_	_
+5	астероида	_	Word	Word	_	4	A	_	_
+6	Б	_	Word	Word	_	5	Q	_	_
+7	-	_	Punctuation	Punctuation	_	6	U	_	_
+8	612	_	Word	Word	_	6	Terminal	_	_
+9	,	_	Punctuation	Punctuation	_	2	U	_	_
+10	правитель	_	Word	Word	_	12	A	_	_
+11	Турции	_	Word	Word	_	10	A	_	_
+12	велел	_	Word	Word	_	2	H	_	_
+13	своим	_	Word	Word	_	12	A	_	_
+14	подданным	_	Word	Word	_	13	A	_	_
+14	подданным	_	Word	Word	_	16	A*	_	_
+14	подданным	_	Word	Word	_	18	A*	_	_
+15	под	_	Word	Word	_	16	R	_	_
+16	страхом	_	Word	Word	_	12	A	_	_
+17	смерти	_	Word	Word	_	16	A	_	_
+18	носить	_	Word	Word	_	16	H	_	_
+19	европейское	_	Word	Word	_	20	E	_	_
+20	платье	_	Word	Word	_	18	A	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

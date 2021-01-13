@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2083003
+1	И	_	Word	Word	_	7	L	_	_
+2	только	_	Word	Word	_	3	E	_	_
+3	после	_	Word	Word	_	7	L	_	_
+4	того	_	Word	Word	_	3	Terminal	_	_
+5	как	_	Word	Word	_	3	Terminal	_	_
+6	путешественник	_	Word	Word	_	7	A	_	_
+7	представит	_	Word	Word	_	0	H	_	_
+8	доказательства	_	Word	Word	_	7	A	_	_
+9	,	_	Punctuation	Punctuation	_	7	U	_	_
+10	можно	_	Word	Word	_	11	D	_	_
+11	записать	_	Word	Word	_	7	H	_	_
+12	его	_	Word	Word	_	13	A	_	_
+13	рассказ	_	Word	Word	_	11	A	_	_
+14	чернилами	_	Word	Word	_	11	A	_	_
+15	.	_	Punctuation	Punctuation	_	11	U	_	_
+16	-	_	Punctuation	Punctuation	_	11	U	_	_
+

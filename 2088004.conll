@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 2088004
+1	Ну	_	Word	Word	_	7	G	_	_
+2	,	_	Punctuation	Punctuation	_	7	U	_	_
+3	разве	_	Word	Word	_	7	L	_	_
+4	ты	_	Word	Word	_	7	A	_	_
+5	уж	_	Word	Word	_	7	F	_	_
+6	такая	_	Word	Word	_	7	D	_	_
+7	могущественная	_	Word	Word	_	0	H	_	_
+8	?	_	Punctuation	Punctuation	_	7	U	_	_
+9	У	_	Word	Word	_	10	R	_	_
+10	тебя	_	Word	Word	_	7	H	_	_
+11	даже	_	Word	Word	_	10	G	_	_
+12	лап	_	Word	Word	_	10	A	_	_
+13	нет	_	Word	Word	_	10	D	_	_
+14	.	_	Punctuation	Punctuation	_	7	U	_	_
+15	Ты	_	Word	Word	_	17	A	_	_
+16	и	_	Word	Word	_	17	D	_	_
+17	путешествовать	_	Word	Word	_	7	H	_	_
+18	не	_	Word	Word	_	17	D	_	_
+19	можешь	_	Word	Word	_	17	D	_	_
+20	...	_	Punctuation	Punctuation	_	7	U	_	_
+21	-	_	Punctuation	Punctuation	_	7	U	_	_
+22	Я	_	Word	Word	_	24	A	_	_
+23	могу	_	Word	Word	_	24	D	_	_
+23	могу	_	Word	Word	_	30	D*	_	_
+24	унести	_	Word	Word	_	33	A	_	_
+25	тебя	_	Word	Word	_	24	A	_	_
+25	тебя	_	Word	Word	_	30	A*	_	_
+26	дальше	_	Word	Word	_	24	D	_	_
+26	дальше	_	Word	Word	_	30	D*	_	_
+27	,	_	Punctuation	Punctuation	_	24	U	_	_
+28	чем	_	Word	Word	_	24	L	_	_
+29	любой	_	Word	Word	_	30	E	_	_
+30	корабль	_	Word	Word	_	24	H	_	_
+31	,	_	Punctuation	Punctuation	_	33	U	_	_
+32	-	_	Punctuation	Punctuation	_	33	U	_	_
+33	сказала	_	Word	Word	_	7	H	_	_
+34	змея	_	Word	Word	_	33	A	_	_
+35	.	_	Punctuation	Punctuation	_	33	U	_	_
+

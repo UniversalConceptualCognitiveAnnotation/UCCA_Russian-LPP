@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2117011
+1	Я	_	Word	Word	_	3	A	_	_
+2	тоже	_	Word	Word	_	1	E	_	_
+3	сел	_	Word	Word	_	0	H	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	потому	_	Word	Word	_	3	L	_	_
+6	что	_	Word	Word	_	5	Terminal	_	_
+7	у	_	Word	Word	_	8	R	_	_
+8	меня	_	Word	Word	_	9	A	_	_
+9	подкосились	_	Word	Word	_	3	H	_	_
+10	ноги	_	Word	Word	_	9	A	_	_
+11	.	_	Punctuation	Punctuation	_	9	U	_	_
+

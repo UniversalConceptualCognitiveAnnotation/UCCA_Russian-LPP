@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2047004
+1	Когда	_	Word	Word	_	2	L	_	_
+2	говоришь	_	Word	Word	_	0	H	_	_
+3	взрослым	_	Word	Word	_	2	A	_	_
+4	:	_	Punctuation	Punctuation	_	2	U	_	_
+5	"	_	Punctuation	Punctuation	_	2	U	_	_
+6	Я	_	Word	Word	_	7	A	_	_
+7	видел	_	Word	Word	_	2	A	_	_
+8	красивый	_	Word	Word	_	9	E	_	_
+9	дом	_	Word	Word	_	7	A	_	_
+10	из	_	Word	Word	_	12	R	_	_
+11	розового	_	Word	Word	_	12	E	_	_
+12	кирпича	_	Word	Word	_	9	E	_	_
+13	,	_	Punctuation	Punctuation	_	7	U	_	_
+14	в	_	Word	Word	_	15	R	_	_
+15	окнах	_	Word	Word	_	7	H	_	_
+16	у	_	Word	Word	_	17	R	_	_
+17	него	_	Word	Word	_	15	A	_	_
+18	герань	_	Word	Word	_	15	A	_	_
+19	,	_	Punctuation	Punctuation	_	7	U	_	_
+20	а	_	Word	Word	_	7	L	_	_
+21	на	_	Word	Word	_	22	R	_	_
+22	крыше	_	Word	Word	_	7	H	_	_
+23	голуби	_	Word	Word	_	22	A	_	_
+24	",	_	Punctuation	Punctuation	_	2	U	_	_
+25	-	_	Punctuation	Punctuation	_	2	U	_	_
+26	они	_	Word	Word	_	30	A	_	_
+27	никак	_	Word	Word	_	30	D	_	_
+28	не	_	Word	Word	_	30	D	_	_
+29	могут	_	Word	Word	_	30	D	_	_
+30	представить	_	Word	Word	_	2	H	_	_
+31	себе	_	Word	Word	_	30	Terminal	_	_
+32	этот	_	Word	Word	_	33	E	_	_
+33	дом	_	Word	Word	_	30	A	_	_
+34	.	_	Punctuation	Punctuation	_	33	U	_	_
+

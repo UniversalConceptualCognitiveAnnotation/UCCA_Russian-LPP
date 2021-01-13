@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2054000
+1	VI	_	Word	Word	_	0	H	_	_
+2	О	_	Word	Word	_	8	F	_	_
+3	Маленький	_	Word	Word	_	4	E	_	_
+4	принц	_	Word	Word	_	8	G	_	_
+5	!	_	Punctuation	Punctuation	_	8	U	_	_
+6	Понемногу	_	Word	Word	_	8	D	_	_
+7	я	_	Word	Word	_	8	A	_	_
+8	понял	_	Word	Word	_	1	H	_	_
+9	также	_	Word	Word	_	8	D	_	_
+10	,	_	Punctuation	Punctuation	_	8	U	_	_
+11	как	_	Word	Word	_	12	R	_	_
+12	печальна	_	Word	Word	_	8	A	_	_
+13	и	_	Word	Word	_	12	N	_	_
+14	однообразна	_	Word	Word	_	12	C	_	_
+15	была	_	Word	Word	_	12	F	_	_
+16	твоя	_	Word	Word	_	17	A	_	_
+17	жизнь	_	Word	Word	_	12	A	_	_
+18	.	_	Punctuation	Punctuation	_	17	U	_	_
+

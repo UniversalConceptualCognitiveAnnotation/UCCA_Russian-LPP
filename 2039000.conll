@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2039000
+1	Итак	_	Word	Word	_	7	L	_	_
+2	,	_	Punctuation	Punctuation	_	7	U	_	_
+3	я	_	Word	Word	_	7	A	_	_
+4	во	_	Word	Word	_	7	D	_	_
+5	все	_	Word	Word	_	4	Terminal	_	_
+6	глаза	_	Word	Word	_	4	Terminal	_	_
+7	смотрел	_	Word	Word	_	0	H	_	_
+8	на	_	Word	Word	_	11	R	_	_
+9	это	_	Word	Word	_	11	E	_	_
+10	необычайное	_	Word	Word	_	11	E	_	_
+11	явление	_	Word	Word	_	7	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

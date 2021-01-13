@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2120006
+1	Тогда	_	Word	Word	_	4	L	_	_
+2	-	_	Punctuation	Punctuation	_	4	U	_	_
+3	очень	_	Word	Word	_	4	D	_	_
+4	прошу	_	Word	Word	_	0	H	_	_
+5	вас	_	Word	Word	_	4	A	_	_
+6	!	_	Punctuation	Punctuation	_	4	U	_	_
+7	-	_	Punctuation	Punctuation	_	4	U	_	_
+

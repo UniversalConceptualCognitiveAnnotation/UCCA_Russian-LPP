@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2102005
+1	От	_	Word	Word	_	2	R	_	_
+2	них	_	Word	Word	_	4	A	_	_
+3	большая	_	Word	Word	_	4	D	_	_
+4	экономия	_	Word	Word	_	8	A	_	_
+5	времени	_	Word	Word	_	4	A	_	_
+6	,	_	Punctuation	Punctuation	_	8	U	_	_
+7	-	_	Punctuation	Punctuation	_	8	U	_	_
+8	ответил	_	Word	Word	_	0	H	_	_
+9	торговец	_	Word	Word	_	8	A	_	_
+10	.	_	Punctuation	Punctuation	_	8	U	_	_
+11	-	_	Punctuation	Punctuation	_	8	U	_	_
+12	По	_	Word	Word	_	13	R	_	_
+13	подсчетам	_	Word	Word	_	4	H	_	_
+14	специалистов	_	Word	Word	_	13	A	_	_
+15	,	_	Punctuation	Punctuation	_	13	U	_	_
+16	можно	_	Word	Word	_	17	D	_	_
+17	сэкономить	_	Word	Word	_	13	A	_	_
+18	пятьдесят	_	Word	Word	_	20	Q	_	_
+19	три	_	Word	Word	_	18	C	_	_
+20	минуты	_	Word	Word	_	17	A	_	_
+21	в	_	Word	Word	_	22	R	_	_
+22	неделю	_	Word	Word	_	17	A	_	_
+23	.	_	Punctuation	Punctuation	_	22	U	_	_
+24	-	_	Punctuation	Punctuation	_	22	U	_	_
+

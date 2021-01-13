@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2072010
+1	Отчего	_	Word	Word	_	4	A	_	_
+2	же	_	Word	Word	_	4	F	_	_
+3	тебе	_	Word	Word	_	4	A	_	_
+4	совестно	_	Word	Word	_	7	A	_	_
+5	?	_	Punctuation	Punctuation	_	7	U	_	_
+6	-	_	Punctuation	Punctuation	_	7	U	_	_
+7	спросил	_	Word	Word	_	0	H	_	_
+8	Маленький	_	Word	Word	_	9	E	_	_
+9	принц	_	Word	Word	_	7	A	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 2041002
+1	Тут	_	Word	Word	_	4	L	_	_
+2	я	_	Word	Word	_	4	A	_	_
+2	я	_	Word	Word	_	10	A*	_	_
+2	я	_	Word	Word	_	14	A*	_	_
+2	я	_	Word	Word	_	19	A*	_	_
+3	потерял	_	Word	Word	_	4	D	_	_
+4	терпение	_	Word	Word	_	0	H	_	_
+5	-	_	Punctuation	Punctuation	_	4	U	_	_
+6	ведь	_	Word	Word	_	4	L	_	_
+7	надо	_	Word	Word	_	10	D	_	_
+8	было	_	Word	Word	_	10	F	_	_
+9	поскорее	_	Word	Word	_	10	D	_	_
+10	разобрать	_	Word	Word	_	4	H	_	_
+11	мотор	_	Word	Word	_	10	A	_	_
+12	-	_	Punctuation	Punctuation	_	4	U	_	_
+13	и	_	Word	Word	_	4	L	_	_
+14	нацарапал	_	Word	Word	_	4	H	_	_
+15	вот	_	Word	Word	_	16	E	_	_
+16	что	_	Word	Word	_	14	A	_	_
+17	:	_	Punctuation	Punctuation	_	4	U	_	_
+18	И	_	Word	Word	_	4	L	_	_
+19	сказал	_	Word	Word	_	4	H	_	_
+20	малышу	_	Word	Word	_	19	A	_	_
+21	:	_	Punctuation	Punctuation	_	19	U	_	_
+22	-	_	Punctuation	Punctuation	_	19	U	_	_
+23	Вот	_	Word	Word	_	19	A	_	_
+24	тебе	_	Word	Word	_	23	A	_	_
+25	ящик	_	Word	Word	_	23	A	_	_
+26	.	_	Punctuation	Punctuation	_	23	U	_	_
+27	А	_	Word	Word	_	23	L	_	_
+28	в	_	Word	Word	_	29	R	_	_
+29	нем	_	Word	Word	_	30	A	_	_
+30	сидит	_	Word	Word	_	23	H	_	_
+31	твой	_	Word	Word	_	32	E	_	_
+32	барашек	_	Word	Word	_	30	A	_	_
+33	.	_	Punctuation	Punctuation	_	32	U	_	_
+

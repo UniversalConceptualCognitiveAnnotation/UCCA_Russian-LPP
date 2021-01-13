@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2084007
+1	Посети	_	Word	Word	_	6	A	_	_
+2	планету	_	Word	Word	_	1	A	_	_
+3	Земля	_	Word	Word	_	2	E	_	_
+4	,	_	Punctuation	Punctuation	_	6	U	_	_
+5	-	_	Punctuation	Punctuation	_	6	U	_	_
+6	отвечал	_	Word	Word	_	0	H	_	_
+7	географ	_	Word	Word	_	6	A	_	_
+8	.	_	Punctuation	Punctuation	_	6	U	_	_
+9	-	_	Punctuation	Punctuation	_	6	U	_	_
+10	У	_	Word	Word	_	11	R	_	_
+11	нее	_	Word	Word	_	13	A	_	_
+12	неплохая	_	Word	Word	_	13	D	_	_
+13	репутация	_	Word	Word	_	1	H	_	_
+14	...	_	Punctuation	Punctuation	_	6	U	_	_
+15	И	_	Word	Word	_	6	L	_	_
+16	Маленький	_	Word	Word	_	17	E	_	_
+17	принц	_	Word	Word	_	20	A	_	_
+18	пустился	_	Word	Word	_	20	D	_	_
+19	в	_	Word	Word	_	20	R	_	_
+20	путь	_	Word	Word	_	6	H	_	_
+21	,	_	Punctuation	Punctuation	_	6	U	_	_
+22	но	_	Word	Word	_	6	L	_	_
+23	мысли	_	Word	Word	_	6	H	_	_
+24	его	_	Word	Word	_	23	A	_	_
+24	его	_	Word	Word	_	27	A*	_	_
+25	были	_	Word	Word	_	23	F	_	_
+26	о	_	Word	Word	_	28	R	_	_
+27	покинутом	_	Word	Word	_	28	E	_	_
+28	цветке	_	Word	Word	_	23	A	_	_
+29	.	_	Punctuation	Punctuation	_	28	U	_	_
+

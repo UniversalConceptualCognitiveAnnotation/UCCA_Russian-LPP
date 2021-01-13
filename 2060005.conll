@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2060005
+1	На	_	Word	Word	_	3	R	_	_
+2	моей	_	Word	Word	_	3	E	_	_
+3	планете	_	Word	Word	_	6	A	_	_
+4	тигры	_	Word	Word	_	6	A	_	_
+5	не	_	Word	Word	_	6	D	_	_
+6	водятся	_	Word	Word	_	9	A	_	_
+7	,	_	Punctuation	Punctuation	_	9	U	_	_
+8	-	_	Punctuation	Punctuation	_	9	U	_	_
+9	возразил	_	Word	Word	_	0	H	_	_
+10	Маленький	_	Word	Word	_	11	E	_	_
+11	принц	_	Word	Word	_	9	A	_	_
+12	.	_	Punctuation	Punctuation	_	9	U	_	_
+13	-	_	Punctuation	Punctuation	_	9	U	_	_
+14	И	_	Word	Word	_	6	L	_	_
+15	потом	_	Word	Word	_	6	L	_	_
+16	,	_	Punctuation	Punctuation	_	6	U	_	_
+17	тигры	_	Word	Word	_	19	A	_	_
+18	не	_	Word	Word	_	19	D	_	_
+19	едят	_	Word	Word	_	6	H	_	_
+20	траву	_	Word	Word	_	19	A	_	_
+21	.	_	Punctuation	Punctuation	_	19	U	_	_
+22	-	_	Punctuation	Punctuation	_	19	U	_	_
+

@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 2040001
+1	И	_	Word	Word	_	3	L	_	_
+2	очень	_	Word	Word	_	3	D	_	_
+3	изумился	_	Word	Word	_	0	H	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	когда	_	Word	Word	_	3	L	_	_
+6	малыш	_	Word	Word	_	7	A	_	_
+7	воскликнул	_	Word	Word	_	3	H	_	_
+8	:	_	Punctuation	Punctuation	_	7	U	_	_
+9	-	_	Punctuation	Punctuation	_	7	U	_	_
+10	Нет	_	Word	Word	_	16	G	_	_
+11	,	_	Punctuation	Punctuation	_	16	U	_	_
+12	нет	_	Word	Word	_	16	G	_	_
+13	!	_	Punctuation	Punctuation	_	16	U	_	_
+14	Мне	_	Word	Word	_	16	A	_	_
+15	не	_	Word	Word	_	16	D	_	_
+16	надо	_	Word	Word	_	7	A	_	_
+17	слона	_	Word	Word	_	16	A	_	_
+18	в	_	Word	Word	_	19	R	_	_
+19	удаве	_	Word	Word	_	17	E	_	_
+20	!	_	Punctuation	Punctuation	_	16	U	_	_
+21	Удав	_	Word	Word	_	23	A	_	_
+22	слишком	_	Word	Word	_	23	D	_	_
+23	опасный	_	Word	Word	_	16	H	_	_
+24	,	_	Punctuation	Punctuation	_	16	U	_	_
+25	а	_	Word	Word	_	16	L	_	_
+26	слон	_	Word	Word	_	28	A	_	_
+27	слишком	_	Word	Word	_	28	D	_	_
+28	большой	_	Word	Word	_	16	H	_	_
+29	.	_	Punctuation	Punctuation	_	16	U	_	_
+30	У	_	Word	Word	_	31	R	_	_
+31	меня	_	Word	Word	_	35	A	_	_
+32	дома	_	Word	Word	_	35	A	_	_
+33	все	_	Word	Word	_	35	A	_	_
+34	очень	_	Word	Word	_	35	D	_	_
+35	маленькое	_	Word	Word	_	16	H	_	_
+36	.	_	Punctuation	Punctuation	_	16	U	_	_
+37	Мне	_	Word	Word	_	38	A	_	_
+38	нужен	_	Word	Word	_	16	H	_	_
+39	барашек	_	Word	Word	_	38	A	_	_
+40	.	_	Punctuation	Punctuation	_	16	U	_	_
+41	Нарисуй	_	Word	Word	_	16	H	_	_
+42	барашка	_	Word	Word	_	41	A	_	_
+43	.	_	Punctuation	Punctuation	_	41	U	_	_
+

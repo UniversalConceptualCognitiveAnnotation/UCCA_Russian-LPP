@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 2074005
+1	Пчелы	_	Word	Word	_	0	A	_	_
+1	Пчелы	_	Word	Word	_	4	A*	_	_
+2	?	_	Punctuation	Punctuation	_	4	U	_	_
+3	-	_	Punctuation	Punctuation	_	4	U	_	_
+4	Да	_	Word	Word	_	1	H	_	_
+5	нет	_	Word	Word	_	4	G	_	_
+6	же	_	Word	Word	_	4	F	_	_
+7	.	_	Punctuation	Punctuation	_	4	U	_	_
+8	Такие	_	Word	Word	_	9	A	_	_
+9	маленькие	_	Word	Word	_	4	H	_	_
+10	,	_	Punctuation	Punctuation	_	9	U	_	_
+11	золотые	_	Word	Word	_	9	C	_	_
+12	,	_	Punctuation	Punctuation	_	4	U	_	_
+13	всякий	_	Word	Word	_	14	E	_	_
+14	лентяй	_	Word	Word	_	0	C	_	_
+14	лентяй	_	Word	Word	_	22	A*	_	_
+15	как	_	Word	Word	_	4	L	_	_
+16	посмотрит	_	Word	Word	_	4	H	_	_
+17	на	_	Word	Word	_	18	R	_	_
+18	них	_	Word	Word	_	16	A	_	_
+19	,	_	Punctuation	Punctuation	_	4	U	_	_
+20	так	_	Word	Word	_	4	L	_	_
+21	и	_	Word	Word	_	4	L	_	_
+22	размечтается	_	Word	Word	_	4	H	_	_
+23	.	_	Punctuation	Punctuation	_	4	U	_	_
+24	А	_	Word	Word	_	4	L	_	_
+25	я	_	Word	Word	_	4	H	_	_
+26	человек	_	Word	Word	_	25	A	_	_
+27	серьезный	_	Word	Word	_	26	E	_	_
+28	.	_	Punctuation	Punctuation	_	4	U	_	_
+29	Мне	_	Word	Word	_	30	A	_	_
+30	мечтать	_	Word	Word	_	4	H	_	_
+31	некогда	_	Word	Word	_	30	D	_	_
+32	.	_	Punctuation	Punctuation	_	30	U	_	_
+33	-	_	Punctuation	Punctuation	_	30	U	_	_
+

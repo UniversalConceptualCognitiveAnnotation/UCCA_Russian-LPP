@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2047000
+1	Я	_	Word	Word	_	3	A	_	_
+1	Я	_	Word	Word	_	13	A*	_	_
+2	вам	_	Word	Word	_	3	A	_	_
+2	вам	_	Word	Word	_	13	A*	_	_
+3	рассказал	_	Word	Word	_	0	H	_	_
+4	так	_	Word	Word	_	5	E	_	_
+5	подробно	_	Word	Word	_	3	D	_	_
+6	об	_	Word	Word	_	7	R	_	_
+7	астероиде	_	Word	Word	_	3	A	_	_
+8	Б	_	Word	Word	_	7	Q	_	_
+9	-	_	Punctuation	Punctuation	_	8	U	_	_
+10	612	_	Word	Word	_	8	Terminal	_	_
+11	и	_	Word	Word	_	3	L	_	_
+12	даже	_	Word	Word	_	13	G	_	_
+13	сообщил	_	Word	Word	_	3	H	_	_
+14	его	_	Word	Word	_	15	E	_	_
+15	номер	_	Word	Word	_	13	A	_	_
+16	только	_	Word	Word	_	20	E	_	_
+17	из	_	Word	Word	_	20	R	_	_
+18	-	_	Punctuation	Punctuation	_	17	U	_	_
+19	за	_	Word	Word	_	17	Terminal	_	_
+20	взрослых	_	Word	Word	_	13	A	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

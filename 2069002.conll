@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2069002
+1	Сам	_	Word	Word	_	10	A	_	_
+2	себя	_	Word	Word	_	1	Terminal	_	_
+3	я	_	Word	Word	_	1	A	_	_
+4	могу	_	Word	Word	_	1	D	_	_
+5	судить	_	Word	Word	_	1	Terminal	_	_
+6	где	_	Word	Word	_	1	A	_	_
+7	угодно	_	Word	Word	_	6	E	_	_
+8	,	_	Punctuation	Punctuation	_	10	U	_	_
+9	-	_	Punctuation	Punctuation	_	10	U	_	_
+10	сказал	_	Word	Word	_	0	H	_	_
+11	Маленький	_	Word	Word	_	12	E	_	_
+12	принц	_	Word	Word	_	10	A	_	_
+13	.	_	Punctuation	Punctuation	_	10	U	_	_
+14	-	_	Punctuation	Punctuation	_	10	U	_	_
+15	Для	_	Word	Word	_	1	L	_	_
+16	этого	_	Word	Word	_	15	Terminal	_	_
+17	мне	_	Word	Word	_	19	A	_	_
+18	незачем	_	Word	Word	_	19	D	_	_
+19	оставаться	_	Word	Word	_	1	H	_	_
+20	у	_	Word	Word	_	21	R	_	_
+21	вас	_	Word	Word	_	19	A	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+23	-	_	Punctuation	Punctuation	_	21	U	_	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2041000
+1	Но	_	Word	Word	_	7	L	_	_
+2	он	_	Word	Word	_	7	A	_	_
+3	и	_	Word	Word	_	6	E	_	_
+4	от	_	Word	Word	_	6	R	_	_
+5	этого	_	Word	Word	_	6	E	_	_
+6	рисунка	_	Word	Word	_	7	A	_	_
+7	отказался	_	Word	Word	_	0	H	_	_
+8	.	_	Punctuation	Punctuation	_	7	U	_	_
+9	-	_	Punctuation	Punctuation	_	7	U	_	_
+

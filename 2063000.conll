@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2063000
+1	Потом	_	Word	Word	_	7	L	_	_
+2	Маленький	_	Word	Word	_	3	E	_	_
+3	принц	_	Word	Word	_	7	A	_	_
+4	не	_	Word	Word	_	6	R	_	_
+5	без	_	Word	Word	_	4	Terminal	_	_
+6	грусти	_	Word	Word	_	7	D	_	_
+7	вырвал	_	Word	Word	_	0	H	_	_
+8	последние	_	Word	Word	_	9	E	_	_
+9	ростки	_	Word	Word	_	7	A	_	_
+10	баобабов	_	Word	Word	_	9	E	_	_
+11	.	_	Punctuation	Punctuation	_	9	U	_	_
+

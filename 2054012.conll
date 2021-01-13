@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2054012
+1	Но	_	Word	Word	_	5	L	_	_
+2	Маленький	_	Word	Word	_	3	E	_	_
+3	принц	_	Word	Word	_	5	A	_	_
+4	не	_	Word	Word	_	5	D	_	_
+5	ответил	_	Word	Word	_	0	H	_	_
+6	.	_	Punctuation	Punctuation	_	5	U	_	_
+

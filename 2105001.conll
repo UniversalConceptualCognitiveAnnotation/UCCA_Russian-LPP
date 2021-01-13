@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2105001
+1	Вдруг	_	Word	Word	_	3	L	_	_
+2	я	_	Word	Word	_	3	A	_	_
+3	понял	_	Word	Word	_	0	H	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	почему	_	Word	Word	_	3	A	_	_
+6	таинственно	_	Word	Word	_	7	D	_	_
+7	лучится	_	Word	Word	_	5	H	_	_
+8	песок	_	Word	Word	_	7	A	_	_
+9	.	_	Punctuation	Punctuation	_	7	U	_	_
+

@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2054010
+1	И	_	Word	Word	_	6	L	_	_
+2	ты	_	Word	Word	_	6	A	_	_
+2	ты	_	Word	Word	_	21	A*	_	_
+3	опять	_	Word	Word	_	6	D	_	_
+4	и	_	Word	Word	_	3	N	_	_
+5	опять	_	Word	Word	_	3	C	_	_
+6	смотрел	_	Word	Word	_	0	H	_	_
+7	на	_	Word	Word	_	9	R	_	_
+8	закатное	_	Word	Word	_	9	E	_	_
+9	небо	_	Word	Word	_	6	A	_	_
+10	,	_	Punctuation	Punctuation	_	6	U	_	_
+11	стоило	_	Word	Word	_	6	H	_	_
+12	только	_	Word	Word	_	11	D	_	_
+13	захотеть	_	Word	Word	_	11	D	_	_
+14	...	_	Punctuation	Punctuation	_	6	U	_	_
+15	-	_	Punctuation	Punctuation	_	6	U	_	_
+16	Однажды	_	Word	Word	_	21	T	_	_
+17	я	_	Word	Word	_	21	A	_	_
+18	за	_	Word	Word	_	20	R	_	_
+19	один	_	Word	Word	_	20	Q	_	_
+20	день	_	Word	Word	_	21	T	_	_
+21	видел	_	Word	Word	_	6	H	_	_
+22	заход	_	Word	Word	_	21	A	_	_
+23	солнца	_	Word	Word	_	22	A	_	_
+24	сорок	_	Word	Word	_	26	Q	_	_
+25	три	_	Word	Word	_	24	Terminal	_	_
+26	раза	_	Word	Word	_	21	D	_	_
+27	!	_	Punctuation	Punctuation	_	26	U	_	_
+

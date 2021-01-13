@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 2117010
+1	Потом	_	Word	Word	_	3	L	_	_
+2	он	_	Word	Word	_	3	A	_	_
+3	сказал	_	Word	Word	_	0	H	_	_
+4	:	_	Punctuation	Punctuation	_	3	U	_	_
+5	-	_	Punctuation	Punctuation	_	3	U	_	_
+6	Знаешь	_	Word	Word	_	3	A	_	_
+7	...	_	Punctuation	Punctuation	_	6	U	_	_
+8	моя	_	Word	Word	_	9	E	_	_
+9	роза	_	Word	Word	_	6	H	_	_
+10	...	_	Punctuation	Punctuation	_	6	U	_	_
+11	я	_	Word	Word	_	15	A	_	_
+12	за	_	Word	Word	_	13	R	_	_
+13	нее	_	Word	Word	_	15	A	_	_
+14	в	_	Word	Word	_	15	R	_	_
+15	ответе	_	Word	Word	_	6	H	_	_
+16	.	_	Punctuation	Punctuation	_	6	U	_	_
+17	А	_	Word	Word	_	6	L	_	_
+18	она	_	Word	Word	_	20	A	_	_
+18	она	_	Word	Word	_	24	A*	_	_
+19	такая	_	Word	Word	_	20	D	_	_
+20	слабая	_	Word	Word	_	6	H	_	_
+21	!	_	Punctuation	Punctuation	_	6	U	_	_
+22	И	_	Word	Word	_	6	L	_	_
+23	такая	_	Word	Word	_	24	D	_	_
+24	простодушная	_	Word	Word	_	6	H	_	_
+25	.	_	Punctuation	Punctuation	_	6	U	_	_
+26	У	_	Word	Word	_	27	R	_	_
+27	нее	_	Word	Word	_	30	A	_	_
+28	только	_	Word	Word	_	30	D	_	_
+29	и	_	Word	Word	_	6	L	_	_
+30	есть	_	Word	Word	_	6	H	_	_
+31	что	_	Word	Word	_	34	R	_	_
+32	четыре	_	Word	Word	_	34	Q	_	_
+33	жалких	_	Word	Word	_	34	E	_	_
+34	шипа	_	Word	Word	_	30	A	_	_
+35	,	_	Punctuation	Punctuation	_	6	U	_	_
+36	больше	_	Word	Word	_	6	L	_	_
+37	ей	_	Word	Word	_	39	A	_	_
+38	нечем	_	Word	Word	_	39	D	_	_
+39	защищаться	_	Word	Word	_	6	H	_	_
+40	от	_	Word	Word	_	41	R	_	_
+41	мира	_	Word	Word	_	39	A	_	_
+42	.	_	Punctuation	Punctuation	_	41	U	_	_
+

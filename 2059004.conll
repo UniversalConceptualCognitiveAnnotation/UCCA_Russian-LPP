@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2059004
+1	Вдруг	_	Word	Word	_	2	L	_	_
+2	это	_	Word	Word	_	0	H	_	_
+3	какая	_	Word	Word	_	8	E	_	_
+4	-	_	Punctuation	Punctuation	_	3	U	_	_
+5	нибудь	_	Word	Word	_	3	Terminal	_	_
+6	новая	_	Word	Word	_	8	E	_	_
+7	разновидность	_	Word	Word	_	8	E	_	_
+8	баобаба	_	Word	Word	_	2	A	_	_
+9	?	_	Punctuation	Punctuation	_	8	U	_	_
+

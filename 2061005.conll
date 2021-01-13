@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2061005
+1	Я	_	Word	Word	_	3	A	_	_
+2	хотел	_	Word	Word	_	3	D	_	_
+3	пойти	_	Word	Word	_	0	H	_	_
+4	за	_	Word	Word	_	5	R	_	_
+5	ней	_	Word	Word	_	3	A	_	_
+6	,	_	Punctuation	Punctuation	_	3	U	_	_
+7	но	_	Word	Word	_	3	L	_	_
+8	не	_	Word	Word	_	14	D	_	_
+9	мог	_	Word	Word	_	14	D	_	_
+10	же	_	Word	Word	_	14	F	_	_
+11	я	_	Word	Word	_	14	A	_	_
+12	вас	_	Word	Word	_	14	A	_	_
+13	не	_	Word	Word	_	14	D	_	_
+14	дослушать	_	Word	Word	_	3	H	_	_
+15	!	_	Punctuation	Punctuation	_	14	U	_	_
+

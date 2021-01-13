@@ -1,0 +1,9 @@
+# format = ucca
+# sent_id = 2058002
+1	Он	_	Word	Word	_	5	A	_	_
+2	больше	_	Word	Word	_	5	D	_	_
+3	не	_	Word	Word	_	5	D	_	_
+4	мог	_	Word	Word	_	5	D	_	_
+5	говорить	_	Word	Word	_	0	H	_	_
+6	.	_	Punctuation	Punctuation	_	5	U	_	_
+

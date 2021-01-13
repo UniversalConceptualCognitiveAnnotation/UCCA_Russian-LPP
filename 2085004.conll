@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2085004
+1	Если	_	Word	Word	_	2	L	_	_
+2	поглядеть	_	Word	Word	_	0	H	_	_
+3	со	_	Word	Word	_	4	R	_	_
+4	стороны	_	Word	Word	_	2	A	_	_
+5	,	_	Punctuation	Punctuation	_	2	U	_	_
+6	это	_	Word	Word	_	9	A	_	_
+6	это	_	Word	Word	_	2	A*	_	_
+7	было	_	Word	Word	_	9	F	_	_
+8	великолепное	_	Word	Word	_	9	D	_	_
+9	зрелище	_	Word	Word	_	2	H	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

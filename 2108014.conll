@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2108014
+1	И	_	Word	Word	_	8	L	_	_
+2	опять	_	Word	Word	_	8	L	_	_
+3	,	_	Punctuation	Punctuation	_	8	U	_	_
+4	бог	_	Word	Word	_	8	G	_	_
+5	весть	_	Word	Word	_	4	Terminal	_	_
+6	почему	_	Word	Word	_	4	Terminal	_	_
+7	,	_	Punctuation	Punctuation	_	8	U	_	_
+8	тяжело	_	Word	Word	_	0	H	_	_
+9	стало	_	Word	Word	_	8	D	_	_
+10	у	_	Word	Word	_	11	R	_	_
+11	меня	_	Word	Word	_	8	A	_	_
+12	на	_	Word	Word	_	13	R	_	_
+13	душе	_	Word	Word	_	11	C	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

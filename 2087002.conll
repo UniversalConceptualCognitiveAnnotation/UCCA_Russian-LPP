@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2087002
+1	Но	_	Word	Word	_	5	L	_	_
+2	тут	_	Word	Word	_	5	L	_	_
+3	в	_	Word	Word	_	4	R	_	_
+4	песке	_	Word	Word	_	5	A	_	_
+5	шевельнулось	_	Word	Word	_	0	H	_	_
+6	колечко	_	Word	Word	_	5	A	_	_
+7	цвета	_	Word	Word	_	6	C	_	_
+8	лунного	_	Word	Word	_	9	E	_	_
+9	луча	_	Word	Word	_	6	C	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+11	-	_	Punctuation	Punctuation	_	9	U	_	_
+

@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2080000
+1	-	_	Punctuation	Punctuation	_	8	U	_	_
+2	Ну	_	Word	Word	_	8	G	_	_
+3	,	_	Punctuation	Punctuation	_	8	U	_	_
+4	от	_	Word	Word	_	5	R	_	_
+5	этого	_	Word	Word	_	8	A	_	_
+6	мне	_	Word	Word	_	8	A	_	_
+7	мало	_	Word	Word	_	8	D	_	_
+8	толку	_	Word	Word	_	11	A	_	_
+9	,	_	Punctuation	Punctuation	_	11	U	_	_
+10	-	_	Punctuation	Punctuation	_	11	U	_	_
+11	сказал	_	Word	Word	_	0	H	_	_
+12	фонарщик	_	Word	Word	_	11	A	_	_
+13	.	_	Punctuation	Punctuation	_	11	U	_	_
+14	-	_	Punctuation	Punctuation	_	11	U	_	_
+15	Больше	_	Word	Word	_	20	D	_	_
+16	всего	_	Word	Word	_	15	Terminal	_	_
+17	на	_	Word	Word	_	15	Terminal	_	_
+18	свете	_	Word	Word	_	15	Terminal	_	_
+19	я	_	Word	Word	_	20	A	_	_
+20	люблю	_	Word	Word	_	8	H	_	_
+21	спать	_	Word	Word	_	20	A	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+23	-	_	Punctuation	Punctuation	_	21	U	_	_
+

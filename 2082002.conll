@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2082002
+1	Да	_	Word	Word	_	6	F	_	_
+2	ведь	_	Word	Word	_	6	L	_	_
+3	если	_	Word	Word	_	6	L	_	_
+4	путешественник	_	Word	Word	_	6	A	_	_
+5	станет	_	Word	Word	_	6	D	_	_
+6	врать	_	Word	Word	_	0	H	_	_
+7	,	_	Punctuation	Punctuation	_	6	U	_	_
+8	в	_	Word	Word	_	9	R	_	_
+9	учебниках	_	Word	Word	_	12	A	_	_
+10	географии	_	Word	Word	_	9	E	_	_
+11	все	_	Word	Word	_	12	A	_	_
+12	перепутается	_	Word	Word	_	6	H	_	_
+13	.	_	Punctuation	Punctuation	_	6	U	_	_
+14	И	_	Word	Word	_	6	L	_	_
+15	если	_	Word	Word	_	6	L	_	_
+16	он	_	Word	Word	_	17	A	_	_
+17	выпивает	_	Word	Word	_	6	H	_	_
+18	лишнее	_	Word	Word	_	17	A	_	_
+19	-	_	Punctuation	Punctuation	_	6	U	_	_
+20	тоже	_	Word	Word	_	21	D	_	_
+21	беда	_	Word	Word	_	6	H	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+23	-	_	Punctuation	Punctuation	_	21	U	_	_
+

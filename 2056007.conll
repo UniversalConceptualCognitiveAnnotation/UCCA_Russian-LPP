@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2056007
+1	Да	_	Word	Word	_	7	G	_	_
+2	,	_	Punctuation	Punctuation	_	7	U	_	_
+3	он	_	Word	Word	_	7	A	_	_
+4	не	_	Word	Word	_	7	D	_	_
+5	на	_	Word	Word	_	6	R	_	_
+6	шутку	_	Word	Word	_	7	D	_	_
+7	рассердился	_	Word	Word	_	0	H	_	_
+8	.	_	Punctuation	Punctuation	_	7	U	_	_
+

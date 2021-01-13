@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2068002
+1	А	_	Word	Word	_	5	L	_	_
+2	когда	_	Word	Word	_	5	T	_	_
+3	условия	_	Word	Word	_	5	A	_	_
+4	будут	_	Word	Word	_	5	F	_	_
+5	благоприятные	_	Word	Word	_	8	A	_	_
+6	?	_	Punctuation	Punctuation	_	8	U	_	_
+7	-	_	Punctuation	Punctuation	_	8	U	_	_
+8	осведомился	_	Word	Word	_	0	H	_	_
+9	Маленький	_	Word	Word	_	10	E	_	_
+10	принц	_	Word	Word	_	8	A	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+12	-	_	Punctuation	Punctuation	_	10	U	_	_
+

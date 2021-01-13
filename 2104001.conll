@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 2104001
+1	Но	_	Word	Word	_	4	L	_	_
+2	Маленький	_	Word	Word	_	3	E	_	_
+3	принц	_	Word	Word	_	0	C	_	_
+3	принц	_	Word	Word	_	2	A*	_	_
+3	принц	_	Word	Word	_	8	A*	_	_
+4	посмотрел	_	Word	Word	_	0	H	_	_
+5	на	_	Word	Word	_	6	R	_	_
+6	меня	_	Word	Word	_	4	A	_	_
+7	и	_	Word	Word	_	4	L	_	_
+8	промолвил	_	Word	Word	_	4	H	_	_
+9	:	_	Punctuation	Punctuation	_	8	U	_	_
+10	-	_	Punctuation	Punctuation	_	8	U	_	_
+11	Мне	_	Word	Word	_	14	A	_	_
+12	тоже	_	Word	Word	_	11	E	_	_
+13	хочется	_	Word	Word	_	14	D	_	_
+14	пить	_	Word	Word	_	8	A	_	_
+15	...	_	Punctuation	Punctuation	_	14	U	_	_
+16	Пойдем	_	Word	Word	_	14	H	_	_
+17	поищем	_	Word	Word	_	16	A	_	_
+18	колодец	_	Word	Word	_	17	A	_	_
+19	...	_	Punctuation	Punctuation	_	4	U	_	_
+20	Я	_	Word	Word	_	22	A	_	_
+21	устало	_	Word	Word	_	22	D	_	_
+22	развел	_	Word	Word	_	4	H	_	_
+23	руками	_	Word	Word	_	22	A	_	_
+24	:	_	Punctuation	Punctuation	_	4	U	_	_
+25	что	_	Word	Word	_	4	L	_	_
+26	толку	_	Word	Word	_	27	E	_	_
+27	наугад	_	Word	Word	_	28	D	_	_
+28	искать	_	Word	Word	_	4	H	_	_
+29	колодцы	_	Word	Word	_	28	A	_	_
+30	в	_	Word	Word	_	32	R	_	_
+31	бескрайней	_	Word	Word	_	32	E	_	_
+32	пустыне	_	Word	Word	_	28	A	_	_
+33	?	_	Punctuation	Punctuation	_	32	U	_	_
+

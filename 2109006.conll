@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2109006
+1	Когда	_	Word	Word	_	4	L	_	_
+2	даешь	_	Word	Word	_	4	D	_	_
+3	себя	_	Word	Word	_	4	A	_	_
+4	приручить	_	Word	Word	_	0	H	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	потом	_	Word	Word	_	4	L	_	_
+7	случается	_	Word	Word	_	9	D	_	_
+8	и	_	Word	Word	_	9	F	_	_
+9	плакать	_	Word	Word	_	4	H	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

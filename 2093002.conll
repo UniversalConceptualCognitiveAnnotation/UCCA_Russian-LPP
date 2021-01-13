@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2093002
+1	И	_	Word	Word	_	4	L	_	_
+2	вот	_	Word	Word	_	4	L	_	_
+3	перед	_	Word	Word	_	4	R	_	_
+4	ним	_	Word	Word	_	0	H	_	_
+5	пять	_	Word	Word	_	6	Q	_	_
+6	тысяч	_	Word	Word	_	10	Q	_	_
+7	точно	_	Word	Word	_	8	D	_	_
+8	таких	_	Word	Word	_	10	E	_	_
+9	же	_	Word	Word	_	4	F	_	_
+10	цветов	_	Word	Word	_	4	A	_	_
+11	в	_	Word	Word	_	14	R	_	_
+12	одном	_	Word	Word	_	14	Q	_	_
+13	только	_	Word	Word	_	14	E	_	_
+14	саду	_	Word	Word	_	4	A	_	_
+15	!	_	Punctuation	Punctuation	_	14	U	_	_
+16	"	_	Punctuation	Punctuation	_	14	U	_	_
+

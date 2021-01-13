@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2085014
+1	И	_	Word	Word	_	5	L	_	_
+2	никогда	_	Word	Word	_	5	T	_	_
+3	они	_	Word	Word	_	5	A	_	_
+4	не	_	Word	Word	_	5	D	_	_
+5	ошибались	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	никто	_	Word	Word	_	9	A	_	_
+8	не	_	Word	Word	_	9	D	_	_
+9	выходил	_	Word	Word	_	5	H	_	_
+10	на	_	Word	Word	_	11	R	_	_
+11	сцену	_	Word	Word	_	9	A	_	_
+12	не	_	Word	Word	_	9	D	_	_
+13	вовремя	_	Word	Word	_	9	D	_	_
+14	.	_	Punctuation	Punctuation	_	9	U	_	_
+

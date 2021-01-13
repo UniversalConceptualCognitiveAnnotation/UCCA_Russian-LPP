@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2103002
+1	Лис	_	Word	Word	_	0	H	_	_
+2	,	_	Punctuation	Punctuation	_	1	U	_	_
+3	с	_	Word	Word	_	6	R	_	_
+4	которым	_	Word	Word	_	6	R	_	_
+5	я	_	Word	Word	_	6	A	_	_
+6	подружился	_	Word	Word	_	1	E	_	_
+7	...	_	Punctuation	Punctuation	_	1	U	_	_
+8	-	_	Punctuation	Punctuation	_	1	U	_	_
+9	Милый	_	Word	Word	_	15	G	_	_
+10	мой	_	Word	Word	_	9	Terminal	_	_
+11	,	_	Punctuation	Punctuation	_	15	U	_	_
+12	мне	_	Word	Word	_	15	A	_	_
+13	сейчас	_	Word	Word	_	15	T	_	_
+14	не	_	Word	Word	_	15	D	_	_
+15	до	_	Word	Word	_	1	H	_	_
+16	Лиса	_	Word	Word	_	15	A	_	_
+17	!	_	Punctuation	Punctuation	_	19	U	_	_
+18	-	_	Punctuation	Punctuation	_	19	U	_	_
+19	Почему	_	Word	Word	_	1	H	_	_
+20	?	_	Punctuation	Punctuation	_	19	U	_	_
+21	-	_	Punctuation	Punctuation	_	19	U	_	_
+

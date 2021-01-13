@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2052001
+1	А	_	Word	Word	_	5	L	_	_
+2	если	_	Word	Word	_	5	L	_	_
+3	баобаб	_	Word	Word	_	5	A	_	_
+4	не	_	Word	Word	_	5	D	_	_
+5	распознать	_	Word	Word	_	0	H	_	_
+6	вовремя	_	Word	Word	_	5	T	_	_
+7	,	_	Punctuation	Punctuation	_	5	U	_	_
+8	потом	_	Word	Word	_	13	T	_	_
+9	от	_	Word	Word	_	10	R	_	_
+10	него	_	Word	Word	_	13	A	_	_
+11	уже	_	Word	Word	_	13	D	_	_
+12	не	_	Word	Word	_	13	D	_	_
+13	избавишься	_	Word	Word	_	5	H	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

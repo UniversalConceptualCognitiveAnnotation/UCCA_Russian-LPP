@@ -1,0 +1,22 @@
+# format = ucca
+# sent_id = 2045000
+1	IV	_	Word	Word	_	0	H	_	_
+2	Так	_	Word	Word	_	1	L	_	_
+3	я	_	Word	Word	_	8	A	_	_
+4	сделал	_	Word	Word	_	8	F	_	_
+5	еще	_	Word	Word	_	6	E	_	_
+6	одно	_	Word	Word	_	8	D	_	_
+7	важное	_	Word	Word	_	8	D	_	_
+8	открытие	_	Word	Word	_	1	H	_	_
+9	:	_	Punctuation	Punctuation	_	8	U	_	_
+10	его	_	Word	Word	_	12	E	_	_
+11	родная	_	Word	Word	_	12	E	_	_
+12	планета	_	Word	Word	_	16	A	_	_
+13	вся	_	Word	Word	_	16	D	_	_
+14	-	_	Punctuation	Punctuation	_	13	U	_	_
+15	то	_	Word	Word	_	13	Terminal	_	_
+16	величиной	_	Word	Word	_	8	A	_	_
+17	с	_	Word	Word	_	18	R	_	_
+18	дом	_	Word	Word	_	16	A	_	_
+19	!	_	Punctuation	Punctuation	_	18	U	_	_
+

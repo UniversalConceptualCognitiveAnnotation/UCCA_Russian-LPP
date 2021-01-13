@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2111003
+1	До	_	Word	Word	_	2	R	_	_
+2	стены	_	Word	Word	_	3	A	_	_
+3	оставалось	_	Word	Word	_	0	H	_	_
+4	двадцать	_	Word	Word	_	5	Q	_	_
+5	метров	_	Word	Word	_	3	A	_	_
+6	,	_	Punctuation	Punctuation	_	3	U	_	_
+7	а	_	Word	Word	_	3	L	_	_
+8	я	_	Word	Word	_	13	A	_	_
+9	все	_	Word	Word	_	10	E	_	_
+10	еще	_	Word	Word	_	13	D	_	_
+11	ничего	_	Word	Word	_	13	A	_	_
+12	не	_	Word	Word	_	13	D	_	_
+13	видел	_	Word	Word	_	3	H	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

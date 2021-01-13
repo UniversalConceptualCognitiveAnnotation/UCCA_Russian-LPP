@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2081001
+1	На	_	Word	Word	_	2	R	_	_
+2	ней	_	Word	Word	_	3	A	_	_
+3	жил	_	Word	Word	_	0	H	_	_
+4	старик	_	Word	Word	_	3	A	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	который	_	Word	Word	_	7	R	_	_
+7	писал	_	Word	Word	_	4	E	_	_
+8	толстенные	_	Word	Word	_	9	E	_	_
+9	книги	_	Word	Word	_	7	A	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+11	-	_	Punctuation	Punctuation	_	9	U	_	_
+

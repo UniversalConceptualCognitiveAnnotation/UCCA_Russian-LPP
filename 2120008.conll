@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2120008
+1	Скорей	_	Word	Word	_	2	L	_	_
+2	напишите	_	Word	Word	_	0	H	_	_
+3	мне	_	Word	Word	_	2	A	_	_
+4	,	_	Punctuation	Punctuation	_	2	U	_	_
+5	что	_	Word	Word	_	7	R	_	_
+6	он	_	Word	Word	_	7	A	_	_
+7	вернулся	_	Word	Word	_	2	A	_	_
+8	...	_	Punctuation	Punctuation	_	7	U	_	_
+

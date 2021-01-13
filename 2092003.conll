@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2092003
+1	Перед	_	Word	Word	_	0	H	_	_
+2	ним	_	Word	Word	_	1	A	_	_
+3	был	_	Word	Word	_	1	F	_	_
+4	сад	_	Word	Word	_	1	A	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	полный	_	Word	Word	_	4	E	_	_
+7	роз	_	Word	Word	_	6	A	_	_
+8	.	_	Punctuation	Punctuation	_	6	U	_	_
+9	-	_	Punctuation	Punctuation	_	6	U	_	_
+

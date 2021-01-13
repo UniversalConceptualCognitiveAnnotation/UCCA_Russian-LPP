@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2120001
+1	Этот	_	Word	Word	_	3	E	_	_
+2	же	_	Word	Word	_	5	F	_	_
+3	уголок	_	Word	Word	_	5	A	_	_
+4	пустыни	_	Word	Word	_	3	C	_	_
+5	нарисован	_	Word	Word	_	0	H	_	_
+6	и	_	Word	Word	_	9	E	_	_
+7	на	_	Word	Word	_	9	R	_	_
+8	предыдущей	_	Word	Word	_	9	E	_	_
+9	странице	_	Word	Word	_	5	A	_	_
+10	,	_	Punctuation	Punctuation	_	5	U	_	_
+11	но	_	Word	Word	_	5	L	_	_
+12	я	_	Word	Word	_	13	A	_	_
+12	я	_	Word	Word	_	5	A*	_	_
+13	нарисовал	_	Word	Word	_	5	H	_	_
+14	еще	_	Word	Word	_	15	E	_	_
+15	раз	_	Word	Word	_	13	D	_	_
+16	,	_	Punctuation	Punctuation	_	5	U	_	_
+17	чтобы	_	Word	Word	_	5	L	_	_
+18	вы	_	Word	Word	_	21	A	_	_
+19	получше	_	Word	Word	_	21	D	_	_
+20	его	_	Word	Word	_	21	A	_	_
+21	разглядели	_	Word	Word	_	5	H	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

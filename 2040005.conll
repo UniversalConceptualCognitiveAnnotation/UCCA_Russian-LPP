@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 2040005
+1	Ты	_	Word	Word	_	4	A	_	_
+2	же	_	Word	Word	_	4	F	_	_
+3	сам	_	Word	Word	_	4	D	_	_
+4	видишь	_	Word	Word	_	7	A	_	_
+5	,	_	Punctuation	Punctuation	_	7	U	_	_
+6	-	_	Punctuation	Punctuation	_	7	U	_	_
+7	сказал	_	Word	Word	_	0	H	_	_
+8	он	_	Word	Word	_	7	A	_	_
+9	,	_	Punctuation	Punctuation	_	7	U	_	_
+10	-	_	Punctuation	Punctuation	_	7	U	_	_
+11	это	_	Word	Word	_	4	H	_	_
+12	не	_	Word	Word	_	11	D	_	_
+13	барашек	_	Word	Word	_	11	A	_	_
+14	.	_	Punctuation	Punctuation	_	4	U	_	_
+15	Это	_	Word	Word	_	4	H	_	_
+16	большой	_	Word	Word	_	17	E	_	_
+17	баран	_	Word	Word	_	15	A	_	_
+18	.	_	Punctuation	Punctuation	_	4	U	_	_
+19	У	_	Word	Word	_	20	R	_	_
+20	него	_	Word	Word	_	4	H	_	_
+21	рога	_	Word	Word	_	20	A	_	_
+22	...	_	Punctuation	Punctuation	_	7	U	_	_
+23	Я	_	Word	Word	_	25	A	_	_
+24	опять	_	Word	Word	_	25	D	_	_
+25	нарисовал	_	Word	Word	_	7	H	_	_
+26	по	_	Word	Word	_	28	R	_	_
+27	-	_	Punctuation	Punctuation	_	28	U	_	_
+28	другому	_	Word	Word	_	25	D	_	_
+29	.	_	Punctuation	Punctuation	_	28	U	_	_
+

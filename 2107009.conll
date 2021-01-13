@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 2107009
+1	А	_	Word	Word	_	10	L	_	_
+2	ведь	_	Word	Word	_	10	L	_	_
+3	то	_	Word	Word	_	10	A	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	чего	_	Word	Word	_	7	R	_	_
+6	они	_	Word	Word	_	7	A	_	_
+7	ищут	_	Word	Word	_	3	E	_	_
+8	,	_	Punctuation	Punctuation	_	10	U	_	_
+9	можно	_	Word	Word	_	10	D	_	_
+9	можно	_	Word	Word	_	22	D*	_	_
+10	найти	_	Word	Word	_	0	P	_	_
+10	найти	_	Word	Word	_	22	P*	_	_
+11	в	_	Word	Word	_	15	R	_	_
+12	одной	_	Word	Word	_	15	Q	_	_
+13	-	_	Punctuation	Punctuation	_	12	U	_	_
+14	единственной	_	Word	Word	_	12	C	_	_
+15	розе	_	Word	Word	_	10	A	_	_
+16	,	_	Punctuation	Punctuation	_	10	U	_	_
+17	в	_	Word	Word	_	18	R	_	_
+18	глотке	_	Word	Word	_	10	A	_	_
+19	воды	_	Word	Word	_	18	A	_	_
+20	...	_	Punctuation	Punctuation	_	10	U	_	_
+21	-	_	Punctuation	Punctuation	_	10	U	_	_
+22	Да	_	Word	Word	_	27	A	_	_
+23	,	_	Punctuation	Punctuation	_	22	U	_	_
+24	конечно	_	Word	Word	_	22	G	_	_
+25	,	_	Punctuation	Punctuation	_	27	U	_	_
+26	-	_	Punctuation	Punctuation	_	27	U	_	_
+27	согласился	_	Word	Word	_	10	H	_	_
+28	я	_	Word	Word	_	27	A	_	_
+29	.	_	Punctuation	Punctuation	_	27	U	_	_
+

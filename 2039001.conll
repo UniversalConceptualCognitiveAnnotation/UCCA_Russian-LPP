@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2039001
+1	Не	_	Word	Word	_	2	D	_	_
+2	забудьте	_	Word	Word	_	0	H	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	я	_	Word	Word	_	5	A	_	_
+5	находился	_	Word	Word	_	2	A	_	_
+6	за	_	Word	Word	_	11	R	_	_
+7	тысячи	_	Word	Word	_	8	Q	_	_
+8	миль	_	Word	Word	_	11	Q	_	_
+9	от	_	Word	Word	_	11	R	_	_
+10	человеческого	_	Word	Word	_	11	E	_	_
+11	жилья	_	Word	Word	_	5	A	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+

@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2059006
+1	Маленький	_	Word	Word	_	2	E	_	_
+2	принц	_	Word	Word	_	0	A	_	_
+2	принц	_	Word	Word	_	11	A*	_	_
+2	принц	_	Word	Word	_	14	A*	_	_
+3	никогда	_	Word	Word	_	6	T	_	_
+4	еще	_	Word	Word	_	6	D	_	_
+5	не	_	Word	Word	_	6	D	_	_
+6	видал	_	Word	Word	_	0	H	_	_
+7	таких	_	Word	Word	_	8	D	_	_
+8	огромных	_	Word	Word	_	9	E	_	_
+9	бутонов	_	Word	Word	_	6	A	_	_
+10	и	_	Word	Word	_	6	L	_	_
+11	предчувствовал	_	Word	Word	_	6	H	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	что	_	Word	Word	_	14	R	_	_
+14	увидит	_	Word	Word	_	11	A	_	_
+15	чудо	_	Word	Word	_	14	A	_	_
+16	.	_	Punctuation	Punctuation	_	14	U	_	_
+

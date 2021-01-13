@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2067004
+1	Вы	_	Word	Word	_	12	A	_	_
+2	,	_	Punctuation	Punctuation	_	1	U	_	_
+3	ваше	_	Word	Word	_	4	E	_	_
+4	величество	_	Word	Word	_	1	G	_	_
+5	,	_	Punctuation	Punctuation	_	12	U	_	_
+6	-	_	Punctuation	Punctuation	_	12	U	_	_
+7	ни	_	Word	Word	_	8	F	_	_
+8	минуты	_	Word	Word	_	10	T	_	_
+9	не	_	Word	Word	_	10	D	_	_
+10	колеблясь	_	Word	Word	_	12	H	_	_
+11	,	_	Punctuation	Punctuation	_	12	U	_	_
+12	ответил	_	Word	Word	_	0	H	_	_
+13	Маленький	_	Word	Word	_	14	E	_	_
+14	принц	_	Word	Word	_	0	C	_	_
+14	принц	_	Word	Word	_	10	A*	_	_
+14	принц	_	Word	Word	_	13	A*	_	_
+15	.	_	Punctuation	Punctuation	_	14	U	_	_
+16	-	_	Punctuation	Punctuation	_	14	U	_	_
+

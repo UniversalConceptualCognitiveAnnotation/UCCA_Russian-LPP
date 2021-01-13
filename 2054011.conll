@@ -1,0 +1,42 @@
+# format = ucca
+# sent_id = 2054011
+1	И	_	Word	Word	_	5	L	_	_
+2	немного	_	Word	Word	_	3	E	_	_
+3	погодя	_	Word	Word	_	5	T	_	_
+4	ты	_	Word	Word	_	5	A	_	_
+5	прибавил	_	Word	Word	_	0	H	_	_
+6	:	_	Punctuation	Punctuation	_	5	U	_	_
+7	-	_	Punctuation	Punctuation	_	5	U	_	_
+8	Знаешь	_	Word	Word	_	5	A	_	_
+9	...	_	Punctuation	Punctuation	_	8	U	_	_
+10	когда	_	Word	Word	_	12	L	_	_
+11	очень	_	Word	Word	_	12	D	_	_
+12	грустно	_	Word	Word	_	8	A	_	_
+13	,	_	Punctuation	Punctuation	_	12	U	_	_
+14	хорошо	_	Word	Word	_	15	D	_	_
+15	поглядеть	_	Word	Word	_	12	H	_	_
+16	,	_	Punctuation	Punctuation	_	15	U	_	_
+17	как	_	Word	Word	_	18	R	_	_
+18	заходит	_	Word	Word	_	15	A	_	_
+19	солнце	_	Word	Word	_	18	A	_	_
+20	...	_	Punctuation	Punctuation	_	5	U	_	_
+21	-	_	Punctuation	Punctuation	_	5	U	_	_
+22	Значит	_	Word	Word	_	38	G	_	_
+23	,	_	Punctuation	Punctuation	_	38	U	_	_
+24	в	_	Word	Word	_	26	R	_	_
+25	тот	_	Word	Word	_	26	E	_	_
+26	день	_	Word	Word	_	38	T	_	_
+27	,	_	Punctuation	Punctuation	_	26	U	_	_
+28	когда	_	Word	Word	_	30	R	_	_
+29	ты	_	Word	Word	_	30	A	_	_
+30	видел	_	Word	Word	_	26	E	_	_
+31	сорок	_	Word	Word	_	33	Q	_	_
+32	три	_	Word	Word	_	31	Terminal	_	_
+33	заката	_	Word	Word	_	30	A	_	_
+34	,	_	Punctuation	Punctuation	_	38	U	_	_
+35	тебе	_	Word	Word	_	38	A	_	_
+36	было	_	Word	Word	_	38	F	_	_
+37	очень	_	Word	Word	_	38	D	_	_
+38	грустно	_	Word	Word	_	5	H	_	_
+39	?	_	Punctuation	Punctuation	_	38	U	_	_
+

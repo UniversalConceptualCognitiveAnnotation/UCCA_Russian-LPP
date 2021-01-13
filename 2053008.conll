@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2053008
+1	А	_	Word	Word	_	4	L	_	_
+2	когда	_	Word	Word	_	4	L	_	_
+3	я	_	Word	Word	_	4	A	_	_
+4	рисовал	_	Word	Word	_	0	H	_	_
+5	баобабы	_	Word	Word	_	4	A	_	_
+6	,	_	Punctuation	Punctuation	_	4	U	_	_
+7	меня	_	Word	Word	_	8	A	_	_
+8	вдохновляло	_	Word	Word	_	4	H	_	_
+9	сознание	_	Word	Word	_	8	A	_	_
+10	,	_	Punctuation	Punctuation	_	9	U	_	_
+11	что	_	Word	Word	_	14	R	_	_
+12	это	_	Word	Word	_	14	A	_	_
+13	страшно	_	Word	Word	_	14	D	_	_
+14	важно	_	Word	Word	_	9	E	_	_
+15	и	_	Word	Word	_	14	N	_	_
+16	неотложно	_	Word	Word	_	14	C	_	_
+17	.	_	Punctuation	Punctuation	_	14	U	_	_
+

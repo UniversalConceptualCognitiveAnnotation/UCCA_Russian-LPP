@@ -1,0 +1,24 @@
+# format = ucca
+# sent_id = 2054006
+1	И	_	Word	Word	_	2	L	_	_
+2	в	_	Word	Word	_	0	H	_	_
+3	самом	_	Word	Word	_	2	Terminal	_	_
+4	деле	_	Word	Word	_	2	Terminal	_	_
+5	.	_	Punctuation	Punctuation	_	2	U	_	_
+6	Все	_	Word	Word	_	7	A	_	_
+7	знают	_	Word	Word	_	2	H	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	что	_	Word	Word	_	14	R	_	_
+10	,	_	Punctuation	Punctuation	_	14	U	_	_
+11	когда	_	Word	Word	_	14	L	_	_
+12	в	_	Word	Word	_	13	R	_	_
+13	Америке	_	Word	Word	_	14	A	_	_
+14	полдень	_	Word	Word	_	7	A	_	_
+15	,	_	Punctuation	Punctuation	_	14	U	_	_
+16	во	_	Word	Word	_	17	R	_	_
+17	Франции	_	Word	Word	_	20	A	_	_
+18	солнце	_	Word	Word	_	20	A	_	_
+19	уже	_	Word	Word	_	20	T	_	_
+20	заходит	_	Word	Word	_	14	H	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

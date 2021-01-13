@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2117012
+1	Он	_	Word	Word	_	2	A	_	_
+1	Он	_	Word	Word	_	11	A*	_	_
+1	Он	_	Word	Word	_	15	A*	_	_
+2	сказал	_	Word	Word	_	0	H	_	_
+3	:	_	Punctuation	Punctuation	_	2	U	_	_
+4	-	_	Punctuation	Punctuation	_	2	U	_	_
+5	Ну	_	Word	Word	_	2	A	_	_
+6	...	_	Punctuation	Punctuation	_	5	U	_	_
+7	вот	_	Word	Word	_	5	Terminal	_	_
+8	и	_	Word	Word	_	5	Terminal	_	_
+9	все	_	Word	Word	_	5	Terminal	_	_
+10	...	_	Punctuation	Punctuation	_	2	U	_	_
+11	Помедлил	_	Word	Word	_	2	H	_	_
+12	еще	_	Word	Word	_	13	Q	_	_
+13	минуту	_	Word	Word	_	11	T	_	_
+14	и	_	Word	Word	_	2	L	_	_
+15	встал	_	Word	Word	_	2	H	_	_
+16	.	_	Punctuation	Punctuation	_	15	U	_	_
+

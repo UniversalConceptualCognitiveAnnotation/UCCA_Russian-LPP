@@ -1,0 +1,20 @@
+# format = ucca
+# sent_id = 2069006
+1	Маленький	_	Word	Word	_	2	E	_	_
+2	принц	_	Word	Word	_	5	A	_	_
+3	уже	_	Word	Word	_	5	D	_	_
+4	совсем	_	Word	Word	_	5	D	_	_
+5	собрался	_	Word	Word	_	0	H	_	_
+6	в	_	Word	Word	_	7	R	_	_
+7	дорогу	_	Word	Word	_	5	A	_	_
+8	,	_	Punctuation	Punctuation	_	5	U	_	_
+9	но	_	Word	Word	_	5	L	_	_
+10	ему	_	Word	Word	_	13	A	_	_
+11	не	_	Word	Word	_	13	D	_	_
+12	хотелось	_	Word	Word	_	13	D	_	_
+13	огорчать	_	Word	Word	_	5	H	_	_
+14	старого	_	Word	Word	_	15	E	_	_
+15	монарха	_	Word	Word	_	0	A	_	_
+15	монарха	_	Word	Word	_	14	A*	_	_
+16	.	_	Punctuation	Punctuation	_	14	U	_	_
+

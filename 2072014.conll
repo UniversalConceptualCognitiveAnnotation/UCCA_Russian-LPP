@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2072014
+1	Да	_	Word	Word	_	6	G	_	_
+2	,	_	Punctuation	Punctuation	_	6	U	_	_
+3	право	_	Word	Word	_	6	G	_	_
+4	же	_	Word	Word	_	3	Terminal	_	_
+5	,	_	Punctuation	Punctuation	_	6	U	_	_
+6	взрослые	_	Word	Word	_	14	A	_	_
+7	очень	_	Word	Word	_	10	D	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	очень	_	Word	Word	_	7	C	_	_
+10	странный	_	Word	Word	_	11	E	_	_
+11	народ	_	Word	Word	_	6	A	_	_
+12	",	_	Punctuation	Punctuation	_	14	U	_	_
+13	-	_	Punctuation	Punctuation	_	14	U	_	_
+14	подумал	_	Word	Word	_	0	H	_	_
+15	он	_	Word	Word	_	14	A	_	_
+15	он	_	Word	Word	_	18	A*	_	_
+16	,	_	Punctuation	Punctuation	_	18	U	_	_
+17	продолжая	_	Word	Word	_	18	D	_	_
+18	путь	_	Word	Word	_	14	H	_	_
+19	.	_	Punctuation	Punctuation	_	18	U	_	_
+

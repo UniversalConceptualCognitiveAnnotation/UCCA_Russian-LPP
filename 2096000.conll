@@ -1,0 +1,41 @@
+# format = ucca
+# sent_id = 2096000
+1	-	_	Punctuation	Punctuation	_	7	U	_	_
+2	Я	_	Word	Word	_	4	A	_	_
+3	начинаю	_	Word	Word	_	4	D	_	_
+4	понимать	_	Word	Word	_	7	A	_	_
+5	,	_	Punctuation	Punctuation	_	7	U	_	_
+6	-	_	Punctuation	Punctuation	_	7	U	_	_
+7	сказал	_	Word	Word	_	0	H	_	_
+8	Маленький	_	Word	Word	_	9	E	_	_
+9	принц	_	Word	Word	_	7	A	_	_
+10	.	_	Punctuation	Punctuation	_	7	U	_	_
+11	-	_	Punctuation	Punctuation	_	7	U	_	_
+12	Есть	_	Word	Word	_	4	A	_	_
+13	одна	_	Word	Word	_	14	Q	_	_
+14	роза	_	Word	Word	_	12	A	_	_
+15	...	_	Punctuation	Punctuation	_	12	U	_	_
+16	Наверно	_	Word	Word	_	20	G	_	_
+17	,	_	Punctuation	Punctuation	_	20	U	_	_
+18	она	_	Word	Word	_	20	A	_	_
+19	меня	_	Word	Word	_	20	A	_	_
+20	приручила	_	Word	Word	_	12	H	_	_
+21	...	_	Punctuation	Punctuation	_	7	U	_	_
+22	-	_	Punctuation	Punctuation	_	7	U	_	_
+23	Очень	_	Word	Word	_	24	D	_	_
+24	возможно	_	Word	Word	_	27	A	_	_
+25	,	_	Punctuation	Punctuation	_	27	U	_	_
+26	-	_	Punctuation	Punctuation	_	27	U	_	_
+27	согласился	_	Word	Word	_	7	H	_	_
+28	Лис	_	Word	Word	_	27	A	_	_
+29	.	_	Punctuation	Punctuation	_	27	U	_	_
+30	-	_	Punctuation	Punctuation	_	27	U	_	_
+31	На	_	Word	Word	_	32	R	_	_
+32	Земле	_	Word	Word	_	36	A	_	_
+33	чего	_	Word	Word	_	36	A	_	_
+34	только	_	Word	Word	_	36	D	_	_
+35	не	_	Word	Word	_	36	D	_	_
+36	бывает	_	Word	Word	_	24	H	_	_
+37	.	_	Punctuation	Punctuation	_	36	U	_	_
+38	-	_	Punctuation	Punctuation	_	36	U	_	_
+

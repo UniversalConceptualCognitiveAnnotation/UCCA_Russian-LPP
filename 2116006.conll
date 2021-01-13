@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2116006
+1	Но	_	Word	Word	_	7	L	_	_
+2	он	_	Word	Word	_	7	A	_	_
+3	был	_	Word	Word	_	7	F	_	_
+4	чем	_	Word	Word	_	7	A	_	_
+5	-	_	Punctuation	Punctuation	_	4	U	_	_
+6	то	_	Word	Word	_	4	Terminal	_	_
+7	озабочен	_	Word	Word	_	0	H	_	_
+8	.	_	Punctuation	Punctuation	_	7	U	_	_
+9	-	_	Punctuation	Punctuation	_	7	U	_	_
+

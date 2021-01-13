@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 2040003
+1	Он	_	Word	Word	_	3	A	_	_
+1	Он	_	Word	Word	_	8	A*	_	_
+2	внимательно	_	Word	Word	_	3	D	_	_
+3	посмотрел	_	Word	Word	_	0	H	_	_
+4	на	_	Word	Word	_	6	R	_	_
+5	мой	_	Word	Word	_	6	E	_	_
+6	рисунок	_	Word	Word	_	3	A	_	_
+7	и	_	Word	Word	_	3	L	_	_
+8	сказал	_	Word	Word	_	3	H	_	_
+9	:	_	Punctuation	Punctuation	_	8	U	_	_
+10	-	_	Punctuation	Punctuation	_	8	U	_	_
+11	Нет	_	Word	Word	_	16	G	_	_
+12	,	_	Punctuation	Punctuation	_	16	U	_	_
+13	этот	_	Word	Word	_	14	E	_	_
+14	барашек	_	Word	Word	_	0	C	_	_
+14	барашек	_	Word	Word	_	19	C*	_	_
+15	совсем	_	Word	Word	_	16	D	_	_
+16	хилый	_	Word	Word	_	8	A	_	_
+17	.	_	Punctuation	Punctuation	_	16	U	_	_
+18	Нарисуй	_	Word	Word	_	16	H	_	_
+19	другого	_	Word	Word	_	18	A	_	_
+19	другого	_	Word	Word	_	22	A*	_	_
+20	.	_	Punctuation	Punctuation	_	22	U	_	_
+21	Я	_	Word	Word	_	22	A	_	_
+22	нарисовал	_	Word	Word	_	3	H	_	_
+23	.	_	Punctuation	Punctuation	_	22	U	_	_
+

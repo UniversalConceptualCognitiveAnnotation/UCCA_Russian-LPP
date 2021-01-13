@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2037012
+1	И	_	Word	Word	_	2	L	_	_
+2	от	_	Word	Word	_	0	H	_	_
+3	этого	_	Word	Word	_	2	Terminal	_	_
+4	,	_	Punctuation	Punctuation	_	2	U	_	_
+5	признаться	_	Word	Word	_	9	G	_	_
+6	,	_	Punctuation	Punctuation	_	9	U	_	_
+7	не	_	Word	Word	_	9	D	_	_
+8	стал	_	Word	Word	_	9	D	_	_
+9	думать	_	Word	Word	_	2	H	_	_
+10	о	_	Word	Word	_	11	R	_	_
+11	них	_	Word	Word	_	9	A	_	_
+12	лучше	_	Word	Word	_	9	A	_	_
+13	.	_	Punctuation	Punctuation	_	9	U	_	_
+

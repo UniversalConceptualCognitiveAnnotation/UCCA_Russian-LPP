@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2039003
+1	По	_	Word	Word	_	3	R	_	_
+2	его	_	Word	Word	_	3	A	_	_
+3	виду	_	Word	Word	_	7	A	_	_
+4	никак	_	Word	Word	_	7	D	_	_
+5	нельзя	_	Word	Word	_	7	D	_	_
+6	было	_	Word	Word	_	7	F	_	_
+7	сказать	_	Word	Word	_	0	H	_	_
+8	,	_	Punctuation	Punctuation	_	7	U	_	_
+9	что	_	Word	Word	_	10	R	_	_
+10	это	_	Word	Word	_	7	A	_	_
+11	ребенок	_	Word	Word	_	10	A	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	потерявшийся	_	Word	Word	_	11	E	_	_
+14	в	_	Word	Word	_	16	R	_	_
+15	необитаемой	_	Word	Word	_	16	E	_	_
+16	пустыне	_	Word	Word	_	13	A	_	_
+17	,	_	Punctuation	Punctuation	_	13	U	_	_
+18	вдалеке	_	Word	Word	_	21	R	_	_
+19	от	_	Word	Word	_	21	R	_	_
+20	всякого	_	Word	Word	_	21	E	_	_
+21	жилья	_	Word	Word	_	13	A	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2049009
+1	Конечно	_	Word	Word	_	5	G	_	_
+2	,	_	Punctuation	Punctuation	_	5	U	_	_
+3	я	_	Word	Word	_	5	A	_	_
+4	стараюсь	_	Word	Word	_	5	D	_	_
+5	передать	_	Word	Word	_	0	H	_	_
+6	сходство	_	Word	Word	_	5	A	_	_
+7	как	_	Word	Word	_	9	E	_	_
+8	можно	_	Word	Word	_	7	Terminal	_	_
+9	лучше	_	Word	Word	_	5	D	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

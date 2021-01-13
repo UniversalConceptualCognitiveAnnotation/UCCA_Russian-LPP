@@ -1,0 +1,10 @@
+# format = ucca
+# sent_id = 2112003
+1	Я	_	Word	Word	_	2	A	_	_
+2	развязал	_	Word	Word	_	0	H	_	_
+3	его	_	Word	Word	_	6	E	_	_
+4	неизменный	_	Word	Word	_	6	E	_	_
+5	золотой	_	Word	Word	_	6	E	_	_
+6	шарф	_	Word	Word	_	2	A	_	_
+7	.	_	Punctuation	Punctuation	_	6	U	_	_
+

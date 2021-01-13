@@ -1,0 +1,21 @@
+# format = ucca
+# sent_id = 2113001
+1	У	_	Word	Word	_	2	R	_	_
+2	меня	_	Word	Word	_	3	A	_	_
+3	останется	_	Word	Word	_	0	H	_	_
+4	твой	_	Word	Word	_	5	E	_	_
+5	барашек	_	Word	Word	_	3	A	_	_
+6	.	_	Punctuation	Punctuation	_	5	U	_	_
+7	И	_	Word	Word	_	5	N	_	_
+8	ящик	_	Word	Word	_	5	C	_	_
+9	для	_	Word	Word	_	10	R	_	_
+10	барашка	_	Word	Word	_	8	E	_	_
+11	.	_	Punctuation	Punctuation	_	5	U	_	_
+12	И	_	Word	Word	_	5	N	_	_
+13	намордник	_	Word	Word	_	5	C	_	_
+14	...	_	Punctuation	Punctuation	_	3	U	_	_
+15	Он	_	Word	Word	_	17	A	_	_
+16	печально	_	Word	Word	_	17	D	_	_
+17	улыбнулся	_	Word	Word	_	3	H	_	_
+18	.	_	Punctuation	Punctuation	_	17	U	_	_
+

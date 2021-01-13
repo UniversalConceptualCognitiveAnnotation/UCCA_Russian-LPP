@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2063003
+1	А	_	Word	Word	_	7	L	_	_
+2	когда	_	Word	Word	_	7	L	_	_
+3	он	_	Word	Word	_	7	A	_	_
+3	он	_	Word	Word	_	12	A*	_	_
+4	в	_	Word	Word	_	6	R	_	_
+5	последний	_	Word	Word	_	6	E	_	_
+6	раз	_	Word	Word	_	7	T	_	_
+7	полил	_	Word	Word	_	0	H	_	_
+8	чудесный	_	Word	Word	_	9	E	_	_
+9	цветок	_	Word	Word	_	0	C	_	_
+9	цветок	_	Word	Word	_	12	A*	_	_
+10	и	_	Word	Word	_	7	L	_	_
+11	собрался	_	Word	Word	_	12	D	_	_
+12	накрыть	_	Word	Word	_	7	H	_	_
+13	колпаком	_	Word	Word	_	12	A	_	_
+14	,	_	Punctuation	Punctuation	_	7	U	_	_
+15	ему	_	Word	Word	_	18	A	_	_
+16	даже	_	Word	Word	_	18	G	_	_
+17	захотелось	_	Word	Word	_	18	D	_	_
+18	плакать	_	Word	Word	_	7	H	_	_
+19	.	_	Punctuation	Punctuation	_	18	U	_	_
+20	-	_	Punctuation	Punctuation	_	18	U	_	_
+

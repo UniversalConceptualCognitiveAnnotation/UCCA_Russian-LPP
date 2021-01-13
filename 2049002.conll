@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2049002
+1	Вот	_	Word	Word	_	13	L	_	_
+2	уже	_	Word	Word	_	4	E	_	_
+3	шесть	_	Word	Word	_	4	Q	_	_
+4	лет	_	Word	Word	_	13	T	_	_
+5	,	_	Punctuation	Punctuation	_	13	U	_	_
+6	как	_	Word	Word	_	13	F	_	_
+7	мой	_	Word	Word	_	13	A	_	_
+8	друг	_	Word	Word	_	7	A	_	_
+9	вместе	_	Word	Word	_	7	N	_	_
+10	с	_	Word	Word	_	11	R	_	_
+11	барашком	_	Word	Word	_	7	C	_	_
+12	меня	_	Word	Word	_	13	A	_	_
+13	покинул	_	Word	Word	_	0	H	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2061008
+1	Пустые	_	Word	Word	_	2	E	_	_
+2	слова	_	Word	Word	_	4	A	_	_
+3	он	_	Word	Word	_	4	A	_	_
+3	он	_	Word	Word	_	13	A*	_	_
+4	принимал	_	Word	Word	_	0	H	_	_
+5	близко	_	Word	Word	_	4	Terminal	_	_
+6	к	_	Word	Word	_	4	Terminal	_	_
+7	сердцу	_	Word	Word	_	4	Terminal	_	_
+8	и	_	Word	Word	_	4	L	_	_
+9	стал	_	Word	Word	_	13	D	_	_
+10	чувствовать	_	Word	Word	_	13	D	_	_
+11	себя	_	Word	Word	_	13	F	_	_
+12	очень	_	Word	Word	_	13	D	_	_
+13	несчастным	_	Word	Word	_	4	H	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+15	-	_	Punctuation	Punctuation	_	13	U	_	_
+

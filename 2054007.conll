@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2054007
+1	И	_	Word	Word	_	7	L	_	_
+2	если	_	Word	Word	_	7	L	_	_
+3	бы	_	Word	Word	_	2	Terminal	_	_
+4	за	_	Word	Word	_	6	R	_	_
+5	одну	_	Word	Word	_	6	Q	_	_
+6	минуту	_	Word	Word	_	7	T	_	_
+7	перенестись	_	Word	Word	_	0	H	_	_
+8	во	_	Word	Word	_	9	R	_	_
+9	Францию	_	Word	Word	_	7	A	_	_
+10	,	_	Punctuation	Punctuation	_	7	U	_	_
+11	можно	_	Word	Word	_	14	D	_	_
+12	было	_	Word	Word	_	14	F	_	_
+13	бы	_	Word	Word	_	14	F	_	_
+14	полюбоваться	_	Word	Word	_	7	H	_	_
+15	закатом	_	Word	Word	_	14	A	_	_
+16	.	_	Punctuation	Punctuation	_	15	U	_	_
+

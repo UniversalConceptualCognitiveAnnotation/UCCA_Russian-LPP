@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2055008
+1	Мне	_	Word	Word	_	3	A	_	_
+2	было	_	Word	Word	_	3	F	_	_
+3	не	_	Word	Word	_	0	H	_	_
+4	по	_	Word	Word	_	3	Terminal	_	_
+5	себе	_	Word	Word	_	3	Terminal	_	_
+6	,	_	Punctuation	Punctuation	_	3	U	_	_
+7	положение	_	Word	Word	_	9	A	_	_
+8	становилось	_	Word	Word	_	9	D	_	_
+9	серьезным	_	Word	Word	_	3	H	_	_
+10	,	_	Punctuation	Punctuation	_	3	U	_	_
+11	воды	_	Word	Word	_	14	A	_	_
+12	почти	_	Word	Word	_	14	D	_	_
+13	не	_	Word	Word	_	14	D	_	_
+14	осталось	_	Word	Word	_	3	H	_	_
+15	,	_	Punctuation	Punctuation	_	3	U	_	_
+16	и	_	Word	Word	_	3	L	_	_
+17	я	_	Word	Word	_	19	A	_	_
+18	начал	_	Word	Word	_	19	D	_	_
+19	бояться	_	Word	Word	_	3	H	_	_
+20	,	_	Punctuation	Punctuation	_	19	U	_	_
+21	что	_	Word	Word	_	26	R	_	_
+22	моя	_	Word	Word	_	24	A	_	_
+23	вынужденная	_	Word	Word	_	24	D	_	_
+24	посадка	_	Word	Word	_	26	A	_	_
+25	плохо	_	Word	Word	_	26	D	_	_
+26	кончится	_	Word	Word	_	19	A	_	_
+27	.	_	Punctuation	Punctuation	_	26	U	_	_
+28	-	_	Punctuation	Punctuation	_	26	U	_	_
+

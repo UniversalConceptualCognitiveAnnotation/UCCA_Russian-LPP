@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2059003
+1	А	_	Word	Word	_	3	L	_	_
+2	этот	_	Word	Word	_	3	A	_	_
+3	пророс	_	Word	Word	_	0	H	_	_
+4	однажды	_	Word	Word	_	3	T	_	_
+5	из	_	Word	Word	_	6	R	_	_
+6	зерна	_	Word	Word	_	3	A	_	_
+7	,	_	Punctuation	Punctuation	_	6	U	_	_
+8	занесенного	_	Word	Word	_	6	E	_	_
+9	неведомо	_	Word	Word	_	10	E	_	_
+10	откуда	_	Word	Word	_	8	A	_	_
+11	,	_	Punctuation	Punctuation	_	3	U	_	_
+12	и	_	Word	Word	_	3	L	_	_
+13	Маленький	_	Word	Word	_	14	E	_	_
+14	принц	_	Word	Word	_	16	A	_	_
+15	не	_	Word	Word	_	16	D	_	_
+16	сводил	_	Word	Word	_	3	H	_	_
+17	глаз	_	Word	Word	_	16	A	_	_
+18	с	_	Word	Word	_	20	R	_	_
+19	крохотного	_	Word	Word	_	20	E	_	_
+20	ростка	_	Word	Word	_	16	A	_	_
+21	,	_	Punctuation	Punctuation	_	20	U	_	_
+22	не	_	Word	Word	_	23	D	_	_
+23	похожего	_	Word	Word	_	20	E	_	_
+24	на	_	Word	Word	_	27	R	_	_
+25	все	_	Word	Word	_	27	Q	_	_
+26	остальные	_	Word	Word	_	27	E	_	_
+27	ростки	_	Word	Word	_	23	A	_	_
+28	и	_	Word	Word	_	27	N	_	_
+29	былинки	_	Word	Word	_	27	C	_	_
+30	.	_	Punctuation	Punctuation	_	27	U	_	_
+

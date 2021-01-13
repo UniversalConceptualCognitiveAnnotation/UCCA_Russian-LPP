@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2097002
+1	Я	_	Word	Word	_	3	A	_	_
+2	бы	_	Word	Word	_	3	F	_	_
+3	рад	_	Word	Word	_	6	A	_	_
+4	,	_	Punctuation	Punctuation	_	6	U	_	_
+5	-	_	Punctuation	Punctuation	_	6	U	_	_
+6	ответил	_	Word	Word	_	0	H	_	_
+7	Маленький	_	Word	Word	_	8	E	_	_
+8	принц	_	Word	Word	_	6	A	_	_
+9	,	_	Punctuation	Punctuation	_	6	U	_	_
+10	-	_	Punctuation	Punctuation	_	6	U	_	_
+11	но	_	Word	Word	_	3	L	_	_
+12	у	_	Word	Word	_	13	R	_	_
+13	меня	_	Word	Word	_	3	H	_	_
+14	так	_	Word	Word	_	15	E	_	_
+15	мало	_	Word	Word	_	16	Q	_	_
+16	времени	_	Word	Word	_	13	A	_	_
+17	.	_	Punctuation	Punctuation	_	3	U	_	_
+18	Мне	_	Word	Word	_	21	A	_	_
+18	Мне	_	Word	Word	_	24	A*	_	_
+19	еще	_	Word	Word	_	21	D	_	_
+20	надо	_	Word	Word	_	21	D	_	_
+20	надо	_	Word	Word	_	24	D*	_	_
+21	найти	_	Word	Word	_	3	H	_	_
+22	друзей	_	Word	Word	_	21	A	_	_
+23	и	_	Word	Word	_	3	L	_	_
+24	узнать	_	Word	Word	_	3	H	_	_
+25	разные	_	Word	Word	_	26	E	_	_
+26	вещи	_	Word	Word	_	24	A	_	_
+27	.	_	Punctuation	Punctuation	_	26	U	_	_
+28	-	_	Punctuation	Punctuation	_	26	U	_	_
+

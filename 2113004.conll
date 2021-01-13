@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2113004
+1	Ты	_	Word	Word	_	2	A	_	_
+2	напугался	_	Word	Word	_	0	H	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	малыш	_	Word	Word	_	2	G	_	_
+5	...	_	Punctuation	Punctuation	_	2	U	_	_
+6	Ну	_	Word	Word	_	2	L	_	_
+7	еще	_	Word	Word	_	6	C	_	_
+8	бы	_	Word	Word	_	7	Terminal	_	_
+9	не	_	Word	Word	_	10	D	_	_
+10	напугаться	_	Word	Word	_	2	H	_	_
+11	!	_	Punctuation	Punctuation	_	10	U	_	_
+

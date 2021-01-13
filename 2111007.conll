@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2111007
+1	Тогда	_	Word	Word	_	3	L	_	_
+2	я	_	Word	Word	_	3	A	_	_
+2	я	_	Word	Word	_	8	A*	_	_
+3	опустил	_	Word	Word	_	0	H	_	_
+4	глаза	_	Word	Word	_	3	A	_	_
+5	да	_	Word	Word	_	3	L	_	_
+6	так	_	Word	Word	_	5	Terminal	_	_
+7	и	_	Word	Word	_	5	Terminal	_	_
+8	подскочил	_	Word	Word	_	3	H	_	_
+9	!	_	Punctuation	Punctuation	_	8	U	_	_
+

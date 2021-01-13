@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2083000
+1	Географ	_	Word	Word	_	3	A	_	_
+1	Географ	_	Word	Word	_	11	A*	_	_
+2	вдруг	_	Word	Word	_	3	D	_	_
+3	разволновался	_	Word	Word	_	0	H	_	_
+4	:	_	Punctuation	Punctuation	_	3	U	_	_
+5	-	_	Punctuation	Punctuation	_	3	U	_	_
+6	Но	_	Word	Word	_	11	L	_	_
+7	ты	_	Word	Word	_	11	A	_	_
+8	ведь	_	Word	Word	_	11	F	_	_
+9	и	_	Word	Word	_	11	F	_	_
+10	сам	_	Word	Word	_	7	F	_	_
+11	путешественник	_	Word	Word	_	3	H	_	_
+12	!	_	Punctuation	Punctuation	_	11	U	_	_
+13	Ты	_	Word	Word	_	14	A	_	_
+13	Ты	_	Word	Word	_	17	A*	_	_
+14	явился	_	Word	Word	_	11	H	_	_
+15	издалека	_	Word	Word	_	14	A	_	_
+16	!	_	Punctuation	Punctuation	_	11	U	_	_
+17	Расскажи	_	Word	Word	_	11	H	_	_
+18	мне	_	Word	Word	_	17	A	_	_
+19	о	_	Word	Word	_	21	R	_	_
+20	своей	_	Word	Word	_	21	E	_	_
+21	планете	_	Word	Word	_	17	A	_	_
+22	!	_	Punctuation	Punctuation	_	21	U	_	_
+

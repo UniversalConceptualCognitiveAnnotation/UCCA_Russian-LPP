@@ -1,0 +1,18 @@
+# format = ucca
+# sent_id = 2066003
+1	Но	_	Word	Word	_	5	L	_	_
+2	он	_	Word	Word	_	5	A	_	_
+2	он	_	Word	Word	_	12	A*	_	_
+3	был	_	Word	Word	_	5	F	_	_
+4	очень	_	Word	Word	_	5	D	_	_
+5	добр	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	а	_	Word	Word	_	5	L	_	_
+8	потому	_	Word	Word	_	5	L	_	_
+9	отдавал	_	Word	Word	_	12	F	_	_
+10	только	_	Word	Word	_	11	E	_	_
+11	разумные	_	Word	Word	_	12	D	_	_
+12	приказания	_	Word	Word	_	5	H	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+14	"	_	Punctuation	Punctuation	_	12	U	_	_
+

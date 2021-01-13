@@ -1,0 +1,15 @@
+# format = ucca
+# sent_id = 2071019
+1	Ну	_	Word	Word	_	5	G	_	_
+2	,	_	Punctuation	Punctuation	_	5	U	_	_
+3	доставь	_	Word	Word	_	5	D	_	_
+4	мне	_	Word	Word	_	5	A	_	_
+5	удовольствие	_	Word	Word	_	0	H	_	_
+6	,	_	Punctuation	Punctuation	_	5	U	_	_
+7	все	_	Word	Word	_	9	G	_	_
+8	равно	_	Word	Word	_	7	Terminal	_	_
+9	восхищайся	_	Word	Word	_	5	H	_	_
+10	мною	_	Word	Word	_	9	A	_	_
+11	!	_	Punctuation	Punctuation	_	9	U	_	_
+12	-	_	Punctuation	Punctuation	_	9	U	_	_
+

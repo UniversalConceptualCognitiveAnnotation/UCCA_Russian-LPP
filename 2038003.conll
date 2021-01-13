@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2038003
+1	Со	_	Word	Word	_	2	R	_	_
+2	мной	_	Word	Word	_	4	A	_	_
+3	не	_	Word	Word	_	4	D	_	_
+4	было	_	Word	Word	_	0	H	_	_
+5	ни	_	Word	Word	_	6	Q	_	_
+6	механика	_	Word	Word	_	4	A	_	_
+7	,	_	Punctuation	Punctuation	_	6	U	_	_
+8	ни	_	Word	Word	_	6	N	_	_
+9	пассажиров	_	Word	Word	_	6	C	_	_
+10	,	_	Punctuation	Punctuation	_	4	U	_	_
+11	и	_	Word	Word	_	4	L	_	_
+12	я	_	Word	Word	_	13	A	_	_
+12	я	_	Word	Word	_	19	A*	_	_
+13	решил	_	Word	Word	_	4	H	_	_
+14	,	_	Punctuation	Punctuation	_	13	U	_	_
+15	что	_	Word	Word	_	19	R	_	_
+16	попробую	_	Word	Word	_	19	D	_	_
+17	сам	_	Word	Word	_	19	D	_	_
+18	все	_	Word	Word	_	19	A	_	_
+19	починить	_	Word	Word	_	13	A	_	_
+20	,	_	Punctuation	Punctuation	_	4	U	_	_
+21	хоть	_	Word	Word	_	4	L	_	_
+22	это	_	Word	Word	_	25	A	_	_
+23	и	_	Word	Word	_	21	Terminal	_	_
+24	очень	_	Word	Word	_	25	D	_	_
+25	трудно	_	Word	Word	_	4	H	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+

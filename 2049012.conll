@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2049012
+1	Вот	_	Word	Word	_	4	L	_	_
+2	и	_	Word	Word	_	4	L	_	_
+3	с	_	Word	Word	_	4	R	_	_
+4	ростом	_	Word	Word	_	0	H	_	_
+5	то	_	Word	Word	_	4	D	_	_
+6	же	_	Word	Word	_	5	Terminal	_	_
+7	:	_	Punctuation	Punctuation	_	4	U	_	_
+8	на	_	Word	Word	_	10	R	_	_
+9	одном	_	Word	Word	_	10	Q	_	_
+10	рисунке	_	Word	Word	_	0	C	_	_
+10	рисунке	_	Word	Word	_	18	C*	_	_
+11	принц	_	Word	Word	_	0	A	_	_
+11	принц	_	Word	Word	_	21	A*	_	_
+12	у	_	Word	Word	_	13	R	_	_
+13	меня	_	Word	Word	_	15	A	_	_
+13	меня	_	Word	Word	_	21	A*	_	_
+14	чересчур	_	Word	Word	_	15	D	_	_
+15	большой	_	Word	Word	_	4	H	_	_
+16	,	_	Punctuation	Punctuation	_	4	U	_	_
+17	на	_	Word	Word	_	18	R	_	_
+18	другом	_	Word	Word	_	21	A	_	_
+19	-	_	Punctuation	Punctuation	_	21	U	_	_
+20	чересчур	_	Word	Word	_	21	D	_	_
+21	маленький	_	Word	Word	_	4	H	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+

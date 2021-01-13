@@ -1,0 +1,29 @@
+# format = ucca
+# sent_id = 2116009
+1	Он	_	Word	Word	_	3	A	_	_
+2	вдруг	_	Word	Word	_	3	D	_	_
+3	успокоился	_	Word	Word	_	0	H	_	_
+4	:	_	Punctuation	Punctuation	_	3	U	_	_
+5	-	_	Punctuation	Punctuation	_	3	U	_	_
+6	Правда	_	Word	Word	_	13	G	_	_
+7	,	_	Punctuation	Punctuation	_	13	U	_	_
+8	на	_	Word	Word	_	9	R	_	_
+9	двоих	_	Word	Word	_	13	A	_	_
+10	у	_	Word	Word	_	11	R	_	_
+11	нее	_	Word	Word	_	13	A	_	_
+12	не	_	Word	Word	_	13	D	_	_
+13	хватит	_	Word	Word	_	3	H	_	_
+14	яда	_	Word	Word	_	13	A	_	_
+15	...	_	Punctuation	Punctuation	_	3	U	_	_
+16	В	_	Word	Word	_	18	R	_	_
+17	ту	_	Word	Word	_	18	E	_	_
+18	ночь	_	Word	Word	_	21	T	_	_
+19	я	_	Word	Word	_	21	A	_	_
+20	не	_	Word	Word	_	21	D	_	_
+21	заметил	_	Word	Word	_	3	H	_	_
+22	,	_	Punctuation	Punctuation	_	21	U	_	_
+23	как	_	Word	Word	_	25	R	_	_
+24	он	_	Word	Word	_	25	A	_	_
+25	ушел	_	Word	Word	_	21	A	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+

@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2069005
+1	Нет	_	Word	Word	_	3	G	_	_
+2	,	_	Punctuation	Punctuation	_	3	U	_	_
+3	не	_	Word	Word	_	7	A	_	_
+4	пора	_	Word	Word	_	3	D	_	_
+5	,	_	Punctuation	Punctuation	_	7	U	_	_
+6	-	_	Punctuation	Punctuation	_	7	U	_	_
+7	возразил	_	Word	Word	_	0	H	_	_
+8	король	_	Word	Word	_	7	A	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

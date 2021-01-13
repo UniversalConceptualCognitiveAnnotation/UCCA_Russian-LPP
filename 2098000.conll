@@ -1,0 +1,14 @@
+# format = ucca
+# sent_id = 2098000
+1	Назавтра	_	Word	Word	_	5	T	_	_
+2	Маленький	_	Word	Word	_	3	E	_	_
+3	принц	_	Word	Word	_	5	A	_	_
+4	вновь	_	Word	Word	_	5	D	_	_
+5	пришел	_	Word	Word	_	0	H	_	_
+6	на	_	Word	Word	_	9	R	_	_
+7	то	_	Word	Word	_	9	E	_	_
+8	же	_	Word	Word	_	7	Terminal	_	_
+9	место	_	Word	Word	_	5	A	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+11	-	_	Punctuation	Punctuation	_	9	U	_	_
+

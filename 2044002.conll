@@ -1,0 +1,33 @@
+# format = ucca
+# sent_id = 2044002
+1	Тут	_	Word	Word	_	6	L	_	_
+2	мой	_	Word	Word	_	6	A	_	_
+3	друг	_	Word	Word	_	2	A	_	_
+4	опять	_	Word	Word	_	6	D	_	_
+5	весело	_	Word	Word	_	6	D	_	_
+6	рассмеялся	_	Word	Word	_	0	H	_	_
+7	:	_	Punctuation	Punctuation	_	6	U	_	_
+8	-	_	Punctuation	Punctuation	_	6	U	_	_
+9	Да	_	Word	Word	_	13	F	_	_
+10	куда	_	Word	Word	_	13	A	_	_
+11	же	_	Word	Word	_	13	F	_	_
+12	он	_	Word	Word	_	13	A	_	_
+12	он	_	Word	Word	_	16	A*	_	_
+12	он	_	Word	Word	_	27	A*	_	_
+13	пойдет	_	Word	Word	_	6	H	_	_
+14	?	_	Punctuation	Punctuation	_	16	U	_	_
+15	-	_	Punctuation	Punctuation	_	16	U	_	_
+16	Мало	_	Word	Word	_	6	H	_	_
+17	ли	_	Word	Word	_	16	Terminal	_	_
+18	куда	_	Word	Word	_	16	Terminal	_	_
+19	?	_	Punctuation	Punctuation	_	16	U	_	_
+20	Все	_	Word	Word	_	21	E	_	_
+21	прямо	_	Word	Word	_	27	D	_	_
+22	,	_	Punctuation	Punctuation	_	21	U	_	_
+23	прямо	_	Word	Word	_	21	Terminal	_	_
+24	,	_	Punctuation	Punctuation	_	27	U	_	_
+25	куда	_	Word	Word	_	27	A	_	_
+26	глаза	_	Word	Word	_	27	A	_	_
+27	глядят	_	Word	Word	_	16	H	_	_
+28	.	_	Punctuation	Punctuation	_	27	U	_	_
+

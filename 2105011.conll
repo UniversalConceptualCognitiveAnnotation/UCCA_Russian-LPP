@@ -1,0 +1,25 @@
+# format = ucca
+# sent_id = 2105011
+1	Светильники	_	Word	Word	_	3	A	_	_
+2	надо	_	Word	Word	_	3	D	_	_
+3	беречь	_	Word	Word	_	0	H	_	_
+4	:	_	Punctuation	Punctuation	_	3	U	_	_
+5	порыв	_	Word	Word	_	9	A	_	_
+6	ветра	_	Word	Word	_	5	C	_	_
+7	может	_	Word	Word	_	9	D	_	_
+8	их	_	Word	Word	_	9	A	_	_
+9	погасить	_	Word	Word	_	3	H	_	_
+10	...	_	Punctuation	Punctuation	_	3	U	_	_
+11	Так	_	Word	Word	_	13	D	_	_
+12	я	_	Word	Word	_	13	A	_	_
+12	я	_	Word	Word	_	18	A*	_	_
+13	шел	_	Word	Word	_	3	H	_	_
+14	...	_	Punctuation	Punctuation	_	3	U	_	_
+15	и	_	Word	Word	_	3	L	_	_
+16	на	_	Word	Word	_	17	R	_	_
+17	рассвете	_	Word	Word	_	18	A	_	_
+18	дошел	_	Word	Word	_	3	H	_	_
+19	до	_	Word	Word	_	20	R	_	_
+20	колодца	_	Word	Word	_	18	A	_	_
+21	.	_	Punctuation	Punctuation	_	20	U	_	_
+

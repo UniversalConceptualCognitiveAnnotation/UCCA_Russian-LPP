@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2102003
+1	Проглотишь	_	Word	Word	_	0	H	_	_
+2	такую	_	Word	Word	_	3	E	_	_
+3	пилюлю	_	Word	Word	_	1	A	_	_
+4	-	_	Punctuation	Punctuation	_	1	U	_	_
+5	и	_	Word	Word	_	1	L	_	_
+6	потом	_	Word	Word	_	1	L	_	_
+7	целую	_	Word	Word	_	8	E	_	_
+8	неделю	_	Word	Word	_	11	A	_	_
+9	не	_	Word	Word	_	11	D	_	_
+10	хочется	_	Word	Word	_	11	D	_	_
+11	пить	_	Word	Word	_	1	H	_	_
+12	.	_	Punctuation	Punctuation	_	11	U	_	_
+13	-	_	Punctuation	Punctuation	_	11	U	_	_
+

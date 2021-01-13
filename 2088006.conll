@@ -1,0 +1,39 @@
+# format = ucca
+# sent_id = 2088006
+1	Всех	_	Word	Word	_	8	A	_	_
+2	,	_	Punctuation	Punctuation	_	1	U	_	_
+3	кого	_	Word	Word	_	5	R	_	_
+4	я	_	Word	Word	_	5	A	_	_
+5	коснусь	_	Word	Word	_	1	E	_	_
+6	,	_	Punctuation	Punctuation	_	8	U	_	_
+7	я	_	Word	Word	_	8	A	_	_
+8	возвращаю	_	Word	Word	_	17	A	_	_
+9	земле	_	Word	Word	_	8	A	_	_
+10	,	_	Punctuation	Punctuation	_	9	U	_	_
+11	из	_	Word	Word	_	14	R	_	_
+12	которой	_	Word	Word	_	14	R	_	_
+13	они	_	Word	Word	_	14	A	_	_
+14	вышли	_	Word	Word	_	9	E	_	_
+15	,	_	Punctuation	Punctuation	_	17	U	_	_
+16	-	_	Punctuation	Punctuation	_	17	U	_	_
+17	сказала	_	Word	Word	_	0	H	_	_
+18	она	_	Word	Word	_	17	A	_	_
+18	она	_	Word	Word	_	32	A*	_	_
+19	.	_	Punctuation	Punctuation	_	17	U	_	_
+20	-	_	Punctuation	Punctuation	_	17	U	_	_
+21	Но	_	Word	Word	_	8	L	_	_
+22	ты	_	Word	Word	_	23	A	_	_
+22	ты	_	Word	Word	_	25	A*	_	_
+23	чист	_	Word	Word	_	8	H	_	_
+24	и	_	Word	Word	_	8	L	_	_
+25	явился	_	Word	Word	_	8	H	_	_
+26	со	_	Word	Word	_	27	R	_	_
+27	звезды	_	Word	Word	_	25	A	_	_
+28	...	_	Punctuation	Punctuation	_	17	U	_	_
+29	Маленький	_	Word	Word	_	30	E	_	_
+30	принц	_	Word	Word	_	32	A	_	_
+31	не	_	Word	Word	_	32	D	_	_
+32	ответил	_	Word	Word	_	17	H	_	_
+33	.	_	Punctuation	Punctuation	_	32	U	_	_
+34	-	_	Punctuation	Punctuation	_	32	U	_	_
+

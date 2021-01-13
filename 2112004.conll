@@ -1,0 +1,11 @@
+# format = ucca
+# sent_id = 2112004
+1	Смочил	_	Word	Word	_	0	H	_	_
+2	ему	_	Word	Word	_	1	A	_	_
+3	виски	_	Word	Word	_	1	A	_	_
+4	и	_	Word	Word	_	1	L	_	_
+5	заставил	_	Word	Word	_	1	H	_	_
+6	выпить	_	Word	Word	_	5	A	_	_
+7	воды	_	Word	Word	_	6	A	_	_
+8	.	_	Punctuation	Punctuation	_	6	U	_	_
+

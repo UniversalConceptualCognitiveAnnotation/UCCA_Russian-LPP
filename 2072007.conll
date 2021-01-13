@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2072007
+1	О	_	Word	Word	_	2	R	_	_
+2	чем	_	Word	Word	_	3	A	_	_
+3	забыть	_	Word	Word	_	6	A	_	_
+4	?	_	Punctuation	Punctuation	_	6	U	_	_
+5	-	_	Punctuation	Punctuation	_	6	U	_	_
+6	спросил	_	Word	Word	_	0	H	_	_
+7	Маленький	_	Word	Word	_	8	E	_	_
+8	принц	_	Word	Word	_	6	A	_	_
+9	.	_	Punctuation	Punctuation	_	8	U	_	_
+

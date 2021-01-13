@@ -1,0 +1,23 @@
+# format = ucca
+# sent_id = 2051008
+1	Тогда	_	Word	Word	_	3	L	_	_
+2	оно	_	Word	Word	_	3	A	_	_
+3	пускает	_	Word	Word	_	0	H	_	_
+4	росток	_	Word	Word	_	3	A	_	_
+5	;	_	Punctuation	Punctuation	_	3	U	_	_
+6	он	_	Word	Word	_	7	A	_	_
+6	он	_	Word	Word	_	9	A*	_	_
+6	он	_	Word	Word	_	15	A*	_	_
+7	расправляется	_	Word	Word	_	3	H	_	_
+8	и	_	Word	Word	_	3	L	_	_
+9	тянется	_	Word	Word	_	3	H	_	_
+10	к	_	Word	Word	_	11	R	_	_
+11	солнцу	_	Word	Word	_	9	A	_	_
+12	,	_	Punctuation	Punctuation	_	3	U	_	_
+13	сперва	_	Word	Word	_	15	T	_	_
+14	такой	_	Word	Word	_	15	D	_	_
+15	милый	_	Word	Word	_	3	H	_	_
+16	,	_	Punctuation	Punctuation	_	15	U	_	_
+17	безобидный	_	Word	Word	_	15	C	_	_
+18	.	_	Punctuation	Punctuation	_	15	U	_	_
+

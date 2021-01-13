@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2103005
+1	Он	_	Word	Word	_	4	A	_	_
+2	никогда	_	Word	Word	_	4	D	_	_
+3	не	_	Word	Word	_	4	D	_	_
+4	испытывал	_	Word	Word	_	0	H	_	_
+5	ни	_	Word	Word	_	6	R	_	_
+6	голода	_	Word	Word	_	4	A	_	_
+7	,	_	Punctuation	Punctuation	_	6	U	_	_
+8	ни	_	Word	Word	_	9	R	_	_
+9	жажды	_	Word	Word	_	6	C	_	_
+10	.	_	Punctuation	Punctuation	_	9	U	_	_
+

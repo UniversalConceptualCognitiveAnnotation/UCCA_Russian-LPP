@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2038001
+1	И	_	Word	Word	_	10	L	_	_
+2	вот	_	Word	Word	_	10	L	_	_
+3	шесть	_	Word	Word	_	4	Q	_	_
+4	лет	_	Word	Word	_	10	T	_	_
+5	назад	_	Word	Word	_	4	R	_	_
+6	пришлось	_	Word	Word	_	10	D	_	_
+7	мне	_	Word	Word	_	10	A	_	_
+8	сделать	_	Word	Word	_	10	F	_	_
+9	вынужденную	_	Word	Word	_	10	D	_	_
+10	посадку	_	Word	Word	_	0	H	_	_
+11	в	_	Word	Word	_	12	R	_	_
+12	Сахаре	_	Word	Word	_	10	A	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+

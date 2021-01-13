@@ -1,0 +1,13 @@
+# format = ucca
+# sent_id = 2055004
+1	Да	_	Word	Word	_	3	G	_	_
+2	,	_	Punctuation	Punctuation	_	3	U	_	_
+3	и	_	Word	Word	_	0	H	_	_
+4	те	_	Word	Word	_	3	E	_	_
+5	,	_	Punctuation	Punctuation	_	3	U	_	_
+6	у	_	Word	Word	_	7	R	_	_
+7	которых	_	Word	Word	_	3	E	_	_
+8	шипы	_	Word	Word	_	7	A	_	_
+9	.	_	Punctuation	Punctuation	_	7	U	_	_
+10	-	_	Punctuation	Punctuation	_	7	U	_	_
+

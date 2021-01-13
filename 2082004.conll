@@ -1,0 +1,27 @@
+# format = ucca
+# sent_id = 2082004
+1	Потому	_	Word	Word	_	5	L	_	_
+2	что	_	Word	Word	_	1	Terminal	_	_
+3	у	_	Word	Word	_	4	R	_	_
+4	пьяниц	_	Word	Word	_	5	A	_	_
+5	двоится	_	Word	Word	_	0	H	_	_
+6	в	_	Word	Word	_	7	R	_	_
+7	глазах	_	Word	Word	_	5	A	_	_
+8	.	_	Punctuation	Punctuation	_	5	U	_	_
+9	И	_	Word	Word	_	5	L	_	_
+10	там	_	Word	Word	_	20	A	_	_
+11	,	_	Punctuation	Punctuation	_	10	U	_	_
+12	где	_	Word	Word	_	17	R	_	_
+13	на	_	Word	Word	_	17	G	_	_
+14	самом	_	Word	Word	_	13	Terminal	_	_
+15	деле	_	Word	Word	_	13	Terminal	_	_
+16	одна	_	Word	Word	_	17	Q	_	_
+17	гора	_	Word	Word	_	0	C	_	_
+17	гора	_	Word	Word	_	21	C*	_	_
+18	,	_	Punctuation	Punctuation	_	20	U	_	_
+19	географ	_	Word	Word	_	20	A	_	_
+20	отметит	_	Word	Word	_	5	H	_	_
+21	две	_	Word	Word	_	20	A	_	_
+22	.	_	Punctuation	Punctuation	_	21	U	_	_
+23	-	_	Punctuation	Punctuation	_	21	U	_	_
+

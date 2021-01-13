@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2050006
+1	Я	_	Word	Word	_	3	A	_	_
+2	не	_	Word	Word	_	3	D	_	_
+3	понял	_	Word	Word	_	0	H	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	почему	_	Word	Word	_	3	A	_	_
+6	это	_	Word	Word	_	8	F	_	_
+7	так	_	Word	Word	_	8	D	_	_
+8	важно	_	Word	Word	_	5	H	_	_
+9	,	_	Punctuation	Punctuation	_	8	U	_	_
+10	что	_	Word	Word	_	12	R	_	_
+11	барашки	_	Word	Word	_	12	A	_	_
+12	едят	_	Word	Word	_	8	A	_	_
+13	кусты	_	Word	Word	_	12	A	_	_
+14	.	_	Punctuation	Punctuation	_	12	U	_	_
+

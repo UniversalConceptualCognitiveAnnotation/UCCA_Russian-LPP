@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2108008
+1	Ну	_	Word	Word	_	13	G	_	_
+2	ничего	_	Word	Word	_	1	C	_	_
+3	,	_	Punctuation	Punctuation	_	5	U	_	_
+4	-	_	Punctuation	Punctuation	_	5	U	_	_
+5	успокоил	_	Word	Word	_	0	H	_	_
+6	он	_	Word	Word	_	5	A	_	_
+7	меня	_	Word	Word	_	5	A	_	_
+8	.	_	Punctuation	Punctuation	_	5	U	_	_
+9	-	_	Punctuation	Punctuation	_	5	U	_	_
+10	Дети	_	Word	Word	_	13	A	_	_
+11	и	_	Word	Word	_	13	D	_	_
+12	так	_	Word	Word	_	11	C	_	_
+13	поймут	_	Word	Word	_	5	A	_	_
+14	.	_	Punctuation	Punctuation	_	13	U	_	_
+

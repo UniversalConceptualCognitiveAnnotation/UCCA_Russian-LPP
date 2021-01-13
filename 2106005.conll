@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2106005
+1	И	_	Word	Word	_	3	L	_	_
+2	ворот	_	Word	Word	_	3	A	_	_
+2	ворот	_	Word	Word	_	7	A*	_	_
+2	ворот	_	Word	Word	_	10	A*	_	_
+3	заскрипел	_	Word	Word	_	0	H	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	точно	_	Word	Word	_	3	L	_	_
+6	старый	_	Word	Word	_	7	E	_	_
+7	флюгер	_	Word	Word	_	3	H	_	_
+8	,	_	Punctuation	Punctuation	_	3	U	_	_
+9	долго	_	Word	Word	_	10	D	_	_
+10	ржавевший	_	Word	Word	_	3	H	_	_
+11	в	_	Word	Word	_	3	L	_	_
+12	безветрии	_	Word	Word	_	3	H	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+14	-	_	Punctuation	Punctuation	_	12	U	_	_
+

@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2061006
+1	Тогда	_	Word	Word	_	3	L	_	_
+2	она	_	Word	Word	_	3	A	_	_
+3	закашляла	_	Word	Word	_	0	H	_	_
+4	сильнее	_	Word	Word	_	3	D	_	_
+5	:	_	Punctuation	Punctuation	_	3	U	_	_
+6	пускай	_	Word	Word	_	3	L	_	_
+7	его	_	Word	Word	_	11	A	_	_
+8	все	_	Word	Word	_	11	G	_	_
+9	-	_	Punctuation	Punctuation	_	8	U	_	_
+10	таки	_	Word	Word	_	8	Terminal	_	_
+11	помучит	_	Word	Word	_	3	H	_	_
+12	совесть	_	Word	Word	_	11	A	_	_
+13	!	_	Punctuation	Punctuation	_	11	U	_	_
+

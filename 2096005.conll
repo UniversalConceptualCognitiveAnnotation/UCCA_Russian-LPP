@@ -1,0 +1,12 @@
+# format = ucca
+# sent_id = 2096005
+1	Нет	_	Word	Word	_	4	D	_	_
+2	в	_	Word	Word	_	3	R	_	_
+3	мире	_	Word	Word	_	4	A	_	_
+4	совершенства	_	Word	Word	_	7	A	_	_
+5	!	_	Punctuation	Punctuation	_	7	U	_	_
+6	-	_	Punctuation	Punctuation	_	7	U	_	_
+7	вздохнул	_	Word	Word	_	0	H	_	_
+8	Лис	_	Word	Word	_	7	A	_	_
+9	.	_	Punctuation	Punctuation	_	7	U	_	_
+

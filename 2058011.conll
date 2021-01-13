@@ -1,0 +1,32 @@
+# format = ucca
+# sent_id = 2058011
+1	Как	_	Word	Word	_	2	A	_	_
+2	позвать	_	Word	Word	_	0	H	_	_
+3	,	_	Punctuation	Punctuation	_	2	U	_	_
+4	чтобы	_	Word	Word	_	2	L	_	_
+5	он	_	Word	Word	_	6	A	_	_
+6	услышал	_	Word	Word	_	2	H	_	_
+7	,	_	Punctuation	Punctuation	_	2	U	_	_
+8	как	_	Word	Word	_	9	A	_	_
+9	догнать	_	Word	Word	_	2	H	_	_
+10	его	_	Word	Word	_	11	E	_	_
+11	душу	_	Word	Word	_	9	A	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	ускользающую	_	Word	Word	_	11	E	_	_
+14	от	_	Word	Word	_	15	R	_	_
+15	меня	_	Word	Word	_	13	A	_	_
+16	...	_	Punctuation	Punctuation	_	2	U	_	_
+17	Ведь	_	Word	Word	_	2	L	_	_
+18	она	_	Word	Word	_	20	F	_	_
+19	такая	_	Word	Word	_	20	D	_	_
+19	такая	_	Word	Word	_	22	D*	_	_
+20	таинственная	_	Word	Word	_	2	H	_	_
+21	и	_	Word	Word	_	2	L	_	_
+22	неизведанная	_	Word	Word	_	2	H	_	_
+23	,	_	Punctuation	Punctuation	_	22	U	_	_
+24	эта	_	Word	Word	_	25	E	_	_
+25	страна	_	Word	Word	_	20	A	_	_
+25	страна	_	Word	Word	_	22	A*	_	_
+26	слез	_	Word	Word	_	25	E	_	_
+27	...	_	Punctuation	Punctuation	_	25	U	_	_
+

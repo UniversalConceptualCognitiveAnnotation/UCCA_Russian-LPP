@@ -1,0 +1,26 @@
+# format = ucca
+# sent_id = 2102008
+1	Будь	_	Word	Word	_	10	A	_	_
+2	у	_	Word	Word	_	3	R	_	_
+3	меня	_	Word	Word	_	1	A	_	_
+4	пятьдесят	_	Word	Word	_	6	Q	_	_
+5	три	_	Word	Word	_	4	C	_	_
+6	минуты	_	Word	Word	_	1	A	_	_
+7	свободных	_	Word	Word	_	6	E	_	_
+8	,	_	Punctuation	Punctuation	_	10	U	_	_
+9	-	_	Punctuation	Punctuation	_	10	U	_	_
+10	подумал	_	Word	Word	_	0	H	_	_
+11	Маленький	_	Word	Word	_	12	E	_	_
+12	принц	_	Word	Word	_	10	A	_	_
+13	,	_	Punctuation	Punctuation	_	10	U	_	_
+14	-	_	Punctuation	Punctuation	_	10	U	_	_
+15	я	_	Word	Word	_	20	A	_	_
+16	бы	_	Word	Word	_	20	F	_	_
+17	просто	_	Word	Word	_	20	D	_	_
+18	-	_	Punctuation	Punctuation	_	17	U	_	_
+19	напросто	_	Word	Word	_	17	Terminal	_	_
+20	пошел	_	Word	Word	_	1	H	_	_
+21	к	_	Word	Word	_	22	R	_	_
+22	роднику	_	Word	Word	_	20	A	_	_
+23	..."	_	Punctuation	Punctuation	_	22	U	_	_
+

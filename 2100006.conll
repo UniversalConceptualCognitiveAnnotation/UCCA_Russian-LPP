@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2100006
+1	Прощай	_	Word	Word	_	4	A	_	_
+2	,	_	Punctuation	Punctuation	_	4	U	_	_
+3	-	_	Punctuation	Punctuation	_	4	U	_	_
+4	сказал	_	Word	Word	_	0	H	_	_
+5	Лис	_	Word	Word	_	4	A	_	_
+6	.	_	Punctuation	Punctuation	_	4	U	_	_
+7	-	_	Punctuation	Punctuation	_	4	U	_	_
+8	Вот	_	Word	Word	_	1	H	_	_
+9	мой	_	Word	Word	_	10	E	_	_
+10	секрет	_	Word	Word	_	8	A	_	_
+11	,	_	Punctuation	Punctuation	_	1	U	_	_
+12	он	_	Word	Word	_	14	A	_	_
+13	очень	_	Word	Word	_	14	D	_	_
+14	прост	_	Word	Word	_	1	H	_	_
+15	:	_	Punctuation	Punctuation	_	1	U	_	_
+16	зорко	_	Word	Word	_	1	H	_	_
+17	одно	_	Word	Word	_	19	E	_	_
+18	лишь	_	Word	Word	_	19	F	_	_
+19	сердце	_	Word	Word	_	16	A	_	_
+20	.	_	Punctuation	Punctuation	_	1	U	_	_
+21	Самого	_	Word	Word	_	22	D	_	_
+22	главного	_	Word	Word	_	25	A	_	_
+23	глазами	_	Word	Word	_	25	A	_	_
+24	не	_	Word	Word	_	25	D	_	_
+25	увидишь	_	Word	Word	_	1	H	_	_
+26	.	_	Punctuation	Punctuation	_	25	U	_	_
+27	-	_	Punctuation	Punctuation	_	25	U	_	_
+

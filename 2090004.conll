@@ -1,0 +1,47 @@
+# format = ucca
+# sent_id = 2090004
+1	Люди	_	Word	Word	_	0	H	_	_
+2	?	_	Punctuation	Punctuation	_	1	U	_	_
+3	Ах	_	Word	Word	_	1	G	_	_
+4	да	_	Word	Word	_	1	G	_	_
+5	...	_	Punctuation	Punctuation	_	1	U	_	_
+6	Их	_	Word	Word	_	1	H	_	_
+7	всего	_	Word	Word	_	6	E	_	_
+8	-	_	Punctuation	Punctuation	_	7	U	_	_
+9	то	_	Word	Word	_	7	Terminal	_	_
+10	,	_	Punctuation	Punctuation	_	6	U	_	_
+11	кажется	_	Word	Word	_	6	G	_	_
+12	,	_	Punctuation	Punctuation	_	6	U	_	_
+13	шесть	_	Word	Word	_	6	Q	_	_
+14	или	_	Word	Word	_	13	N	_	_
+15	семь	_	Word	Word	_	13	C	_	_
+16	.	_	Punctuation	Punctuation	_	1	U	_	_
+17	Я	_	Word	Word	_	18	A	_	_
+18	видел	_	Word	Word	_	1	H	_	_
+19	их	_	Word	Word	_	18	A	_	_
+20	много	_	Word	Word	_	21	Q	_	_
+21	лет	_	Word	Word	_	18	T	_	_
+22	назад	_	Word	Word	_	21	R	_	_
+23	.	_	Punctuation	Punctuation	_	1	U	_	_
+24	Но	_	Word	Word	_	1	L	_	_
+25	где	_	Word	Word	_	27	A	_	_
+26	их	_	Word	Word	_	27	A	_	_
+27	искать	_	Word	Word	_	29	A	_	_
+28	-	_	Punctuation	Punctuation	_	29	U	_	_
+29	неизвестно	_	Word	Word	_	1	H	_	_
+30	.	_	Punctuation	Punctuation	_	1	U	_	_
+31	Их	_	Word	Word	_	32	A	_	_
+32	носит	_	Word	Word	_	1	H	_	_
+33	ветром	_	Word	Word	_	32	A	_	_
+34	.	_	Punctuation	Punctuation	_	1	U	_	_
+35	У	_	Word	Word	_	36	R	_	_
+36	них	_	Word	Word	_	1	H	_	_
+37	нет	_	Word	Word	_	36	D	_	_
+38	корней	_	Word	Word	_	36	A	_	_
+39	-	_	Punctuation	Punctuation	_	1	U	_	_
+40	это	_	Word	Word	_	42	A	_	_
+41	очень	_	Word	Word	_	42	D	_	_
+42	неудобно	_	Word	Word	_	1	H	_	_
+43	.	_	Punctuation	Punctuation	_	42	U	_	_
+44	-	_	Punctuation	Punctuation	_	42	U	_	_
+

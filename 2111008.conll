@@ -1,0 +1,28 @@
+# format = ucca
+# sent_id = 2111008
+1	У	_	Word	Word	_	2	R	_	_
+2	подножья	_	Word	Word	_	11	A	_	_
+3	стены	_	Word	Word	_	2	C	_	_
+4	,	_	Punctuation	Punctuation	_	11	U	_	_
+5	подняв	_	Word	Word	_	11	H	_	_
+6	голову	_	Word	Word	_	5	A	_	_
+7	к	_	Word	Word	_	9	R	_	_
+8	Маленькому	_	Word	Word	_	9	E	_	_
+9	принцу	_	Word	Word	_	5	A	_	_
+10	,	_	Punctuation	Punctuation	_	11	U	_	_
+11	свернулась	_	Word	Word	_	0	H	_	_
+12	желтая	_	Word	Word	_	13	E	_	_
+13	змейка	_	Word	Word	_	0	C	_	_
+13	змейка	_	Word	Word	_	5	A*	_	_
+13	змейка	_	Word	Word	_	12	A*	_	_
+14	,	_	Punctuation	Punctuation	_	13	U	_	_
+15	из	_	Word	Word	_	16	R	_	_
+16	тех	_	Word	Word	_	13	E	_	_
+17	,	_	Punctuation	Punctuation	_	16	U	_	_
+18	чей	_	Word	Word	_	20	R	_	_
+19	укус	_	Word	Word	_	20	A	_	_
+20	убивает	_	Word	Word	_	16	E	_	_
+21	в	_	Word	Word	_	22	R	_	_
+22	полминуты	_	Word	Word	_	20	T	_	_
+23	.	_	Punctuation	Punctuation	_	22	U	_	_
+

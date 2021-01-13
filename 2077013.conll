@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2077013
+1	И	_	Word	Word	_	2	L	_	_
+2	понимать	_	Word	Word	_	6	A	_	_
+3	нечего	_	Word	Word	_	2	D	_	_
+4	,	_	Punctuation	Punctuation	_	6	U	_	_
+5	-	_	Punctuation	Punctuation	_	6	U	_	_
+6	сказал	_	Word	Word	_	0	H	_	_
+7	фонарщик	_	Word	Word	_	6	A	_	_
+8	.	_	Punctuation	Punctuation	_	6	U	_	_
+9	-	_	Punctuation	Punctuation	_	6	U	_	_
+10	Уговор	_	Word	Word	_	11	A	_	_
+11	есть	_	Word	Word	_	2	H	_	_
+12	уговор	_	Word	Word	_	11	A	_	_
+13	.	_	Punctuation	Punctuation	_	2	U	_	_
+14	Добрый	_	Word	Word	_	2	H	_	_
+15	день	_	Word	Word	_	14	Terminal	_	_
+16	.	_	Punctuation	Punctuation	_	2	U	_	_
+

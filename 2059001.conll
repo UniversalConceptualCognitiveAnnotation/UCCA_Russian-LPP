@@ -1,0 +1,31 @@
+# format = ucca
+# sent_id = 2059001
+1	На	_	Word	Word	_	2	R	_	_
+2	планете	_	Word	Word	_	6	A	_	_
+3	Маленького	_	Word	Word	_	4	E	_	_
+4	принца	_	Word	Word	_	2	E	_	_
+5	всегда	_	Word	Word	_	6	D	_	_
+6	росли	_	Word	Word	_	0	H	_	_
+7	простые	_	Word	Word	_	10	E	_	_
+8	,	_	Punctuation	Punctuation	_	10	U	_	_
+9	скромные	_	Word	Word	_	10	E	_	_
+10	цветы	_	Word	Word	_	6	A	_	_
+11	-	_	Punctuation	Punctuation	_	6	U	_	_
+12	у	_	Word	Word	_	13	R	_	_
+13	них	_	Word	Word	_	14	A	_	_
+14	было	_	Word	Word	_	6	H	_	_
+15	мало	_	Word	Word	_	16	Q	_	_
+16	лепестков	_	Word	Word	_	14	A	_	_
+17	,	_	Punctuation	Punctuation	_	6	U	_	_
+18	они	_	Word	Word	_	19	A	_	_
+18	они	_	Word	Word	_	26	A*	_	_
+19	занимали	_	Word	Word	_	6	H	_	_
+20	совсем	_	Word	Word	_	21	E	_	_
+21	мало	_	Word	Word	_	22	Q	_	_
+22	места	_	Word	Word	_	19	A	_	_
+23	и	_	Word	Word	_	6	L	_	_
+24	никого	_	Word	Word	_	26	A	_	_
+25	не	_	Word	Word	_	26	D	_	_
+26	беспокоили	_	Word	Word	_	6	H	_	_
+27	.	_	Punctuation	Punctuation	_	26	U	_	_
+

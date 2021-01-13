@@ -1,0 +1,16 @@
+# format = ucca
+# sent_id = 2087007
+1	Это	_	Word	Word	_	0	H	_	_
+2	пустыня	_	Word	Word	_	1	A	_	_
+3	.	_	Punctuation	Punctuation	_	1	U	_	_
+4	В	_	Word	Word	_	5	R	_	_
+5	пустынях	_	Word	Word	_	8	A	_	_
+6	никто	_	Word	Word	_	8	A	_	_
+7	не	_	Word	Word	_	8	D	_	_
+8	живет	_	Word	Word	_	1	H	_	_
+9	.	_	Punctuation	Punctuation	_	1	U	_	_
+10	Но	_	Word	Word	_	1	L	_	_
+11	Земля	_	Word	Word	_	12	A	_	_
+12	большая	_	Word	Word	_	1	H	_	_
+13	.	_	Punctuation	Punctuation	_	12	U	_	_
+

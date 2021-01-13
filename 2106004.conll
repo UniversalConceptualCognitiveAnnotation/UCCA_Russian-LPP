@@ -1,0 +1,38 @@
+# format = ucca
+# sent_id = 2106004
+1	Как	_	Word	Word	_	2	A	_	_
+2	странно	_	Word	Word	_	5	A	_	_
+3	,	_	Punctuation	Punctuation	_	5	U	_	_
+4	-	_	Punctuation	Punctuation	_	5	U	_	_
+5	сказал	_	Word	Word	_	0	H	_	_
+6	я	_	Word	Word	_	5	A	_	_
+7	Маленькому	_	Word	Word	_	8	E	_	_
+8	принцу	_	Word	Word	_	5	A	_	_
+9	,	_	Punctuation	Punctuation	_	5	U	_	_
+10	-	_	Punctuation	Punctuation	_	5	U	_	_
+11	тут	_	Word	Word	_	13	A	_	_
+12	все	_	Word	Word	_	13	A	_	_
+13	приготовлено	_	Word	Word	_	2	H	_	_
+14	:	_	Punctuation	Punctuation	_	13	U	_	_
+15	и	_	Word	Word	_	16	N	_	_
+16	ворот	_	Word	Word	_	12	E	_	_
+17	,	_	Punctuation	Punctuation	_	16	U	_	_
+18	и	_	Word	Word	_	16	N	_	_
+19	ведро	_	Word	Word	_	16	C	_	_
+20	,	_	Punctuation	Punctuation	_	16	U	_	_
+21	и	_	Word	Word	_	16	N	_	_
+22	веревка	_	Word	Word	_	16	C	_	_
+23	...	_	Punctuation	Punctuation	_	5	U	_	_
+24	Он	_	Word	Word	_	25	A	_	_
+24	Он	_	Word	Word	_	27	A*	_	_
+24	Он	_	Word	Word	_	31	A*	_	_
+25	засмеялся	_	Word	Word	_	5	H	_	_
+26	,	_	Punctuation	Punctuation	_	5	U	_	_
+27	тронул	_	Word	Word	_	5	H	_	_
+28	веревку	_	Word	Word	_	27	A	_	_
+29	,	_	Punctuation	Punctuation	_	5	U	_	_
+30	стал	_	Word	Word	_	31	D	_	_
+31	раскручивать	_	Word	Word	_	5	H	_	_
+32	ворот	_	Word	Word	_	31	A	_	_
+33	.	_	Punctuation	Punctuation	_	31	U	_	_
+

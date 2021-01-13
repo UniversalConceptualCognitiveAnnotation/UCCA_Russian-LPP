@@ -1,0 +1,37 @@
+# format = ucca
+# sent_id = 2114003
+1	Да	_	Word	Word	_	0	H	_	_
+2	,	_	Punctuation	Punctuation	_	1	U	_	_
+3	конечно	_	Word	Word	_	1	G	_	_
+4	...	_	Punctuation	Punctuation	_	1	U	_	_
+5	-	_	Punctuation	Punctuation	_	1	U	_	_
+6	Это	_	Word	Word	_	1	H	_	_
+7	как	_	Word	Word	_	9	R	_	_
+8	с	_	Word	Word	_	9	R	_	_
+9	цветком	_	Word	Word	_	6	A	_	_
+10	.	_	Punctuation	Punctuation	_	6	U	_	_
+11	Если	_	Word	Word	_	6	L	_	_
+12	любишь	_	Word	Word	_	6	H	_	_
+13	цветок	_	Word	Word	_	12	A	_	_
+14	,	_	Punctuation	Punctuation	_	13	U	_	_
+15	что	_	Word	Word	_	16	R	_	_
+16	растет	_	Word	Word	_	13	E	_	_
+17	где	_	Word	Word	_	22	R	_	_
+18	-	_	Punctuation	Punctuation	_	17	U	_	_
+19	то	_	Word	Word	_	17	Terminal	_	_
+20	на	_	Word	Word	_	22	R	_	_
+21	далекой	_	Word	Word	_	22	E	_	_
+22	звезде	_	Word	Word	_	16	A	_	_
+23	,	_	Punctuation	Punctuation	_	6	U	_	_
+24	хорошо	_	Word	Word	_	6	H	_	_
+25	ночью	_	Word	Word	_	26	T	_	_
+26	глядеть	_	Word	Word	_	24	A	_	_
+27	в	_	Word	Word	_	28	R	_	_
+28	небо	_	Word	Word	_	26	A	_	_
+29	.	_	Punctuation	Punctuation	_	6	U	_	_
+30	Все	_	Word	Word	_	31	Q	_	_
+31	звезды	_	Word	Word	_	32	A	_	_
+32	расцветают	_	Word	Word	_	6	H	_	_
+33	.	_	Punctuation	Punctuation	_	32	U	_	_
+34	-	_	Punctuation	Punctuation	_	32	U	_	_
+

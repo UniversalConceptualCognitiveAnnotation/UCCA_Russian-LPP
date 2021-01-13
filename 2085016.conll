@@ -1,0 +1,46 @@
+# format = ucca
+# sent_id = 2085016
+1	Только	_	Word	Word	_	3	E	_	_
+2	тому	_	Word	Word	_	3	E	_	_
+3	фонарщику	_	Word	Word	_	0	C	_	_
+3	фонарщику	_	Word	Word	_	8	A*	_	_
+3	фонарщику	_	Word	Word	_	25	C*	_	_
+4	,	_	Punctuation	Punctuation	_	3	U	_	_
+5	что	_	Word	Word	_	8	R	_	_
+6	должен	_	Word	Word	_	8	D	_	_
+7	был	_	Word	Word	_	8	F	_	_
+8	зажигать	_	Word	Word	_	3	E	_	_
+9	единственный	_	Word	Word	_	10	Q	_	_
+10	фонарь	_	Word	Word	_	8	A	_	_
+11	на	_	Word	Word	_	13	R	_	_
+12	Северном	_	Word	Word	_	13	E	_	_
+13	полюсе	_	Word	Word	_	8	A	_	_
+14	,	_	Punctuation	Punctuation	_	3	U	_	_
+15	да	_	Word	Word	_	3	N	_	_
+16	еще	_	Word	Word	_	3	N	_	_
+17	его	_	Word	Word	_	3	C	_	_
+18	собрату	_	Word	Word	_	17	A	_	_
+19	на	_	Word	Word	_	21	R	_	_
+20	Южном	_	Word	Word	_	21	E	_	_
+21	полюсе	_	Word	Word	_	17	A	_	_
+22	-	_	Punctuation	Punctuation	_	3	U	_	_
+23	только	_	Word	Word	_	25	E	_	_
+24	этим	_	Word	Word	_	25	E	_	_
+25	двоим	_	Word	Word	_	3	C	_	_
+26	жилось	_	Word	Word	_	0	H	_	_
+27	легко	_	Word	Word	_	26	D	_	_
+28	и	_	Word	Word	_	27	N	_	_
+29	беззаботно	_	Word	Word	_	27	C	_	_
+30	:	_	Punctuation	Punctuation	_	26	U	_	_
+31	им	_	Word	Word	_	35	A	_	_
+32	приходилось	_	Word	Word	_	35	D	_	_
+33	заниматься	_	Word	Word	_	35	D	_	_
+34	своим	_	Word	Word	_	35	E	_	_
+35	делом	_	Word	Word	_	26	H	_	_
+36	всего	_	Word	Word	_	38	E	_	_
+37	два	_	Word	Word	_	38	Q	_	_
+38	раза	_	Word	Word	_	35	T	_	_
+39	в	_	Word	Word	_	40	R	_	_
+40	год	_	Word	Word	_	38	E	_	_
+41	.	_	Punctuation	Punctuation	_	40	U	_	_
+

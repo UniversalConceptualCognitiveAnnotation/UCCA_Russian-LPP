@@ -1,0 +1,17 @@
+# format = ucca
+# sent_id = 2074008
+1	Пятьсот	_	Word	Word	_	3	Q	_	_
+2	миллионов	_	Word	Word	_	1	Terminal	_	_
+3	звезд	_	Word	Word	_	0	H	_	_
+4	?	_	Punctuation	Punctuation	_	3	U	_	_
+5	Что	_	Word	Word	_	12	A	_	_
+6	же	_	Word	Word	_	12	F	_	_
+7	ты	_	Word	Word	_	12	A	_	_
+8	с	_	Word	Word	_	9	R	_	_
+9	ними	_	Word	Word	_	12	A	_	_
+10	со	_	Word	Word	_	11	R	_	_
+11	всеми	_	Word	Word	_	9	Q	_	_
+12	делаешь	_	Word	Word	_	3	H	_	_
+13	?	_	Punctuation	Punctuation	_	12	U	_	_
+14	-	_	Punctuation	Punctuation	_	12	U	_	_
+

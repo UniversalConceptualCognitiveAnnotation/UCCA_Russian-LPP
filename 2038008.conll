@@ -1,0 +1,19 @@
+# format = ucca
+# sent_id = 2038008
+1	Вообразите	_	Word	Word	_	0	H	_	_
+2	же	_	Word	Word	_	1	F	_	_
+3	мое	_	Word	Word	_	4	A	_	_
+4	удивление	_	Word	Word	_	1	A	_	_
+5	,	_	Punctuation	Punctuation	_	4	U	_	_
+6	когда	_	Word	Word	_	4	L	_	_
+7	на	_	Word	Word	_	8	R	_	_
+8	рассвете	_	Word	Word	_	10	T	_	_
+9	меня	_	Word	Word	_	10	A	_	_
+10	разбудил	_	Word	Word	_	4	H	_	_
+11	чей	_	Word	Word	_	15	E	_	_
+12	-	_	Punctuation	Punctuation	_	11	U	_	_
+13	то	_	Word	Word	_	11	Terminal	_	_
+14	тоненький	_	Word	Word	_	15	E	_	_
+15	голосок	_	Word	Word	_	10	A	_	_
+16	.	_	Punctuation	Punctuation	_	15	U	_	_
+

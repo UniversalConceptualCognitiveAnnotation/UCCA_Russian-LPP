@@ -1,0 +1,30 @@
+# format = ucca
+# sent_id = 2068009
+1	Останься	_	Word	Word	_	4	A	_	_
+2	!	_	Punctuation	Punctuation	_	4	U	_	_
+3	-	_	Punctuation	Punctuation	_	4	U	_	_
+4	сказал	_	Word	Word	_	0	H	_	_
+5	король	_	Word	Word	_	4	A	_	_
+6	:	_	Punctuation	Punctuation	_	4	U	_	_
+7	он	_	Word	Word	_	10	A	_	_
+7	он	_	Word	Word	_	24	A*	_	_
+8	был	_	Word	Word	_	10	F	_	_
+9	очень	_	Word	Word	_	10	D	_	_
+10	горд	_	Word	Word	_	4	H	_	_
+11	тем	_	Word	Word	_	10	A	_	_
+12	,	_	Punctuation	Punctuation	_	11	U	_	_
+13	что	_	Word	Word	_	16	R	_	_
+14	у	_	Word	Word	_	15	R	_	_
+15	него	_	Word	Word	_	16	A	_	_
+16	нашелся	_	Word	Word	_	11	E	_	_
+17	подданный	_	Word	Word	_	16	A	_	_
+18	,	_	Punctuation	Punctuation	_	4	U	_	_
+19	и	_	Word	Word	_	4	L	_	_
+20	не	_	Word	Word	_	24	A	_	_
+21	хотел	_	Word	Word	_	24	D	_	_
+22	с	_	Word	Word	_	23	R	_	_
+23	ним	_	Word	Word	_	24	A	_	_
+24	расставаться	_	Word	Word	_	4	H	_	_
+25	.	_	Punctuation	Punctuation	_	24	U	_	_
+26	-	_	Punctuation	Punctuation	_	24	U	_	_
+

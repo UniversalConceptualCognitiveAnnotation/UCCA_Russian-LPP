@@ -1,0 +1,34 @@
+# format = ucca
+# sent_id = 2078001
+1	Уговор	_	Word	Word	_	3	A	_	_
+2	не	_	Word	Word	_	3	D	_	_
+3	менялся	_	Word	Word	_	6	A	_	_
+4	,	_	Punctuation	Punctuation	_	6	U	_	_
+5	-	_	Punctuation	Punctuation	_	6	U	_	_
+6	сказал	_	Word	Word	_	0	H	_	_
+7	фонарщик	_	Word	Word	_	6	A	_	_
+8	.	_	Punctuation	Punctuation	_	6	U	_	_
+9	-	_	Punctuation	Punctuation	_	6	U	_	_
+10	В	_	Word	Word	_	11	R	_	_
+11	том	_	Word	Word	_	15	A	_	_
+12	-	_	Punctuation	Punctuation	_	15	U	_	_
+13	то	_	Word	Word	_	15	F	_	_
+14	и	_	Word	Word	_	15	F	_	_
+15	беда	_	Word	Word	_	3	H	_	_
+16	!	_	Punctuation	Punctuation	_	3	U	_	_
+17	Моя	_	Word	Word	_	18	E	_	_
+18	планета	_	Word	Word	_	22	A	_	_
+19	год	_	Word	Word	_	22	T	_	_
+20	от	_	Word	Word	_	19	N	_	_
+21	года	_	Word	Word	_	19	C	_	_
+22	вращается	_	Word	Word	_	3	H	_	_
+23	все	_	Word	Word	_	24	E	_	_
+24	быстрее	_	Word	Word	_	22	D	_	_
+25	,	_	Punctuation	Punctuation	_	3	U	_	_
+26	а	_	Word	Word	_	3	L	_	_
+27	уговор	_	Word	Word	_	29	A	_	_
+28	остается	_	Word	Word	_	29	D	_	_
+29	прежний	_	Word	Word	_	3	H	_	_
+30	.	_	Punctuation	Punctuation	_	29	U	_	_
+31	-	_	Punctuation	Punctuation	_	29	U	_	_
+
