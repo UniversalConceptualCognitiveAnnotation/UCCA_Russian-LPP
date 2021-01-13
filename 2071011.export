@@ -1,0 +1,24 @@
+#BOS 2071011
+А	Word	--	Terminal	500
+честолюбец	Word	--	Terminal	501
+опять	Word	--	Terminal	502
+стал	Word	--	Terminal	503
+раскланиваться	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+снимая	Word	--	Terminal	506
+шляпу	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	512
+#501	FN	--	A	509
+#502	FN	--	D	510
+#503	FN	--	D	510
+#504	FN	--	P	510
+#505	PNCT	--	U	512
+#506	FN	--	P	511
+#507	FN	--	A	511
+#508	PNCT	--	U	511
+#509	FN	--	A	510	A*	511
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2071011

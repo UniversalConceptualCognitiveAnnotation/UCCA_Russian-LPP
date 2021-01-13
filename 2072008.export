@@ -1,0 +1,17 @@
+#BOS 2072008
+Ему	Word	--	Terminal	500
+стало	Word	--	Terminal	501
+жаль	Word	--	Terminal	502
+пьяницу	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+#500	FN	--	A	507
+#501	FN	--	D	507
+#502	FN	--	S	507
+#503	FN	--	A	506
+#504	PNCT	--	U	506
+#505	PNCT	--	U	506
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 2072008

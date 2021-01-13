@@ -1,0 +1,24 @@
+#BOS 2100004
+И	Word	--	Terminal	500
+Маленький	Word	--	Terminal	501
+принц	Word	--	Terminal	502
+возвратился	Word	--	Terminal	503
+к	Word	--	Terminal	504
+Лису	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	L	513
+#501	FN	--	S	510
+#502	FN	--	S	508
+#503	FN	--	P	512
+#504	FN	--	R	509
+#505	FN	--	C	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	FN	--	C	511	A*	510
+#509	FN	--	A	512
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2100004

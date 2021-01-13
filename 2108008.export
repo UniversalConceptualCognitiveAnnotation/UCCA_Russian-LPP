@@ -1,0 +1,36 @@
+#BOS 2108008
+Ну	Word	--	Terminal	500
+ничего	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+успокоил	Word	--	Terminal	504
+он	Word	--	Terminal	505
+меня	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+Дети	Word	--	Terminal	509
+и	Word	--	Terminal	510
+так	Word	--	Terminal	511
+поймут	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	C	514
+#501	FN	--	C	514
+#502	PNCT	--	U	518
+#503	PNCT	--	U	518
+#504	FN	--	P	518
+#505	FN	--	A	518
+#506	FN	--	A	518
+#507	PNCT	--	U	518
+#508	PNCT	--	U	518
+#509	FN	--	A	516
+#510	FN	--	C	515
+#511	FN	--	C	515
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	FN	--	G	517
+#515	FN	--	D	516
+#516	FN	--	H	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2108008

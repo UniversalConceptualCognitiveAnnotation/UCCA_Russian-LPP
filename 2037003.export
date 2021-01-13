@@ -1,0 +1,48 @@
+#BOS 2037003
+Взрослые	Word	--	Terminal	500
+никогда	Word	--	Terminal	501
+ничего	Word	--	Terminal	502
+не	Word	--	Terminal	503
+понимают	Word	--	Terminal	504
+сами	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+а	Word	--	Terminal	507
+для	Word	--	Terminal	508
+детей	Word	--	Terminal	509
+очень	Word	--	Terminal	510
+утомительно	Word	--	Terminal	511
+без	Word	--	Terminal	512
+конца	Word	--	Terminal	512
+им	Word	--	Terminal	513
+все	Word	--	Terminal	514
+объяснять	Word	--	Terminal	515
+и	Word	--	Terminal	516
+растолковывать	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	519
+#501	FN	--	D	519
+#502	FN	--	A	519
+#503	FN	--	D	519
+#504	FN	--	P	519
+#505	FN	--	D	519
+#506	PNCT	--	U	525
+#507	FN	--	L	525
+#508	FN	--	R	520
+#509	FN	--	C	520	A*	524	A*	522	A*	521
+#510	FN	--	D	523
+#511	FN	--	S	523	S*	524
+#512	FN	--	D	521
+#513	FN	--	A	521	A*	522
+#514	FN	--	A	521	A*	522
+#515	FN	--	P	521
+#516	FN	--	L	525
+#517	FN	--	P	522
+#518	PNCT	--	U	522
+#519	FN	--	H	525
+#520	FN	--	A	523
+#521	FN	--	A	523
+#522	FN	--	A	524
+#523	FN	--	H	525
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 2037003

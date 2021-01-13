@@ -1,0 +1,15 @@
+#BOS 2052002
+Он	Word	--	Terminal	500
+завладеет	Word	--	Terminal	501
+всей	Word	--	Terminal	502
+планетой	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	A	506
+#501	FN	--	P	506
+#502	FN	--	Q	505
+#503	FN	--	C	505
+#504	PNCT	--	U	505
+#505	FN	--	A	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 2052002

@@ -1,0 +1,55 @@
+#BOS 2079000
+Маленький	Word	--	Terminal	500
+принц	Word	--	Terminal	501
+смотрел	Word	--	Terminal	502
+на	Word	--	Terminal	503
+фонарщика	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+и	Word	--	Terminal	506
+ему	Word	--	Terminal	507
+все	Word	--	Terminal	508
+больше	Word	--	Terminal	509
+нравился	Word	--	Terminal	510
+этот	Word	--	Terminal	511
+человек	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+который	Word	--	Terminal	514
+был	Word	--	Terminal	515
+так	Word	--	Terminal	516
+верен	Word	--	Terminal	517
+своему	Word	--	Terminal	518
+слову	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	FN	--	S	525
+#501	FN	--	A	521
+#502	FN	--	P	527
+#503	FN	--	R	522
+#504	FN	--	A	522
+#505	PNCT	--	U	531
+#506	FN	--	L	531
+#507	FN	--	A	530
+#508	FN	--	E	523
+#509	FN	--	C	523
+#510	FN	--	S	530
+#511	FN	--	E	529
+#512	FN	--	C	529	A*	528
+#513	PNCT	--	U	529
+#514	FN	--	R	528
+#515	FN	--	F	528
+#516	FN	--	D	528
+#517	FN	--	S	528
+#518	FN	--	E	524
+#519	FN	--	C	524
+#520	PNCT	--	U	524
+#521	FN	--	C	526	A*	525
+#522	FN	--	A	527
+#523	FN	--	D	530
+#524	FN	--	A	528
+#525	FN	--	E	526
+#526	FN	--	A	527
+#527	FN	--	H	531
+#528	FN	--	E	529
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 2079000

@@ -1,0 +1,40 @@
+#BOS 2071012
+Так	Word	--	Terminal	500
+минут	Word	--	Terminal	501
+пять	Word	--	Terminal	502
+подряд	Word	--	Terminal	503
+повторялось	Word	--	Terminal	504
+одно	Word	--	Terminal	505
+и	Word	--	Terminal	505
+то	Word	--	Terminal	505
+же	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+и	Word	--	Terminal	507
+Маленькому	Word	--	Terminal	508
+принцу	Word	--	Terminal	509
+это	Word	--	Terminal	510
+наскучило	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+#500	FN	--	L	520
+#501	FN	--	C	514
+#502	FN	--	Q	514
+#503	FN	--	E	514
+#504	FN	--	P	515
+#505	FN	--	A	515
+#506	PNCT	--	U	520
+#507	FN	--	L	520
+#508	FN	--	S	517
+#509	FN	--	A	516
+#510	FN	--	A	519
+#511	FN	--	P	519
+#512	PNCT	--	U	519
+#513	PNCT	--	U	519
+#514	FN	--	T	515
+#515	FN	--	H	520
+#516	FN	--	C	518	A*	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 2071012

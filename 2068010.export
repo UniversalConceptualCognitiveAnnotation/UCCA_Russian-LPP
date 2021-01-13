@@ -1,0 +1,24 @@
+#BOS 2068010
+Останься	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+я	Word	--	Terminal	502
+назначу	Word	--	Terminal	503
+тебя	Word	--	Terminal	504
+министром	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	P	510
+#501	PNCT	--	U	512
+#502	FN	--	A	511
+#503	FN	--	P	511
+#504	FN	--	A	511	A*	510
+#505	FN	--	A	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	A	511
+#509	FN	--	A	510
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2068010

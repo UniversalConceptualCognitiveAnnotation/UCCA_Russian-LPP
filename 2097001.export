@@ -1,0 +1,27 @@
+#BOS 2097001
+Потом	Word	--	Terminal	500
+сказал	Word	--	Terminal	501
+:	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+Пожалуйста	Word	--	Terminal	504
+...	Punctuation	--	Terminal	505
+приручи	Word	--	Terminal	506
+меня	Word	--	Terminal	507
+!	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+#500	FN	--	L	514
+#501	FN	--	P	513
+#502	PNCT	--	U	513
+#503	PNCT	--	U	513
+#504	FN	--	F	512
+#505	PNCT	--	U	512
+#506	FN	--	P	512
+#507	FN	--	A	512
+#508	PNCT	--	U	512
+#509	PNCT	--	U	512
+#510	FN	--	A	513
+#511	FN	--	A	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2097001

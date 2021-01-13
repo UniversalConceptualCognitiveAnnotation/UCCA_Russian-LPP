@@ -1,0 +1,26 @@
+#BOS 2062006
+Но	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+сказал	Word	--	Terminal	502
+он	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+мало	Word	--	Terminal	505
+ли	Word	--	Terminal	505
+что	Word	--	Terminal	505
+может	Word	--	Terminal	506
+случиться	Word	--	Terminal	507
+!	Punctuation	--	Terminal	508
+#500	FN	--	L	510
+#501	PNCT	--	U	511
+#502	FN	--	P	511
+#503	FN	--	A	511
+#504	PNCT	--	U	511
+#505	FN	--	A	509
+#506	FN	--	D	509
+#507	FN	--	P	509
+#508	PNCT	--	U	509
+#509	FN	--	H	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2062006

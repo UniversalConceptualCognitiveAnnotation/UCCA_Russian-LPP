@@ -1,0 +1,31 @@
+#BOS 2054004
+Чего	Word	--	Terminal	500
+ждать	Word	--	Terminal	501
+?	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+Чтобы	Word	--	Terminal	504
+солнце	Word	--	Terminal	505
+зашло	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	511
+#501	FN	--	P	511	P*	513
+#502	PNCT	--	U	513
+#503	PNCT	--	U	513
+#504	FN	--	R	512
+#505	FN	--	A	512
+#506	FN	--	P	512
+#507	PNCT	--	U	512
+#508	FN	--	A	511
+#509	FN	--	A	513
+#510	FN	--	A	512
+#511	FN	--	A	516
+#512	FN	--	A	513
+#513	FN	--	A	519
+#514	FN	--	A	516
+#515	FN	--	P	516
+#516	FN	--	H	520
+#517	FN	--	A	519
+#518	FN	--	P	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 2054004

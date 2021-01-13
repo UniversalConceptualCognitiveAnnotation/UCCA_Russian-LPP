@@ -1,0 +1,35 @@
+#BOS 2054001
+Долгое	Word	--	Terminal	500
+время	Word	--	Terminal	501
+у	Word	--	Terminal	502
+тебя	Word	--	Terminal	503
+было	Word	--	Terminal	504
+лишь	Word	--	Terminal	505
+одно	Word	--	Terminal	506
+развлечение	Word	--	Terminal	507
+-	Punctuation	--	Terminal	508
+ты	Word	--	Terminal	509
+любовался	Word	--	Terminal	510
+закатом	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	E	513
+#501	FN	--	C	513
+#502	FN	--	R	514
+#503	FN	--	C	514
+#504	FN	--	F	518
+#505	FN	--	E	515
+#506	FN	--	C	515
+#507	FN	--	P	518
+#508	PNCT	--	U	518
+#509	FN	--	A	517
+#510	FN	--	P	517
+#511	FN	--	P	516
+#512	PNCT	--	U	516
+#513	FN	--	T	518
+#514	FN	--	A	518
+#515	FN	--	D	518
+#516	FN	--	A	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2054001

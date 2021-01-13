@@ -1,0 +1,24 @@
+#BOS 2092003
+Перед	Word	--	Terminal	500
+ним	Word	--	Terminal	501
+был	Word	--	Terminal	502
+сад	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+полный	Word	--	Terminal	505
+роз	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+#500	FN	--	S	511
+#501	FN	--	A	511
+#502	FN	--	F	511
+#503	FN	--	C	510	A*	509
+#504	PNCT	--	U	510
+#505	FN	--	S	509
+#506	FN	--	A	509
+#507	PNCT	--	U	509
+#508	PNCT	--	U	509
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2092003

@@ -1,0 +1,60 @@
+#BOS 2105002
+Когда	Word	--	Terminal	501
+-	Punctuation	--	Terminal	500
+то	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+маленьким	Word	--	Terminal	503
+мальчиком	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+я	Word	--	Terminal	506
+жил	Word	--	Terminal	507
+в	Word	--	Terminal	508
+старом	Word	--	Terminal	510
+-	Punctuation	--	Terminal	509
+престаром	Word	--	Terminal	510
+доме	Word	--	Terminal	511
+-	Punctuation	--	Terminal	512
+рассказывали	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+будто	Word	--	Terminal	515
+в	Word	--	Terminal	516
+нем	Word	--	Terminal	517
+запрятан	Word	--	Terminal	518
+клад	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+#500	PNCT	--	U	501
+#501	FN	--	L	534
+#502	PNCT	--	U	534
+#503	FN	--	S	521
+#504	FN	--	C	522	A*	521
+#505	PNCT	--	U	527
+#506	FN	--	C	528	A*	527
+#507	FN	--	P	529
+#508	FN	--	R	524
+#509	PNCT	--	U	510
+#510	FN	--	S	523
+#511	FN	--	C	524	A*	523
+#512	PNCT	--	U	534
+#513	FN	--	P	533
+#514	PNCT	--	U	533
+#515	FN	--	R	532
+#516	FN	--	R	525
+#517	FN	--	C	525
+#518	FN	--	P	532
+#519	FN	--	A	532
+#520	PNCT	--	U	532
+#521	FN	--	E	522
+#522	FN	--	A	527
+#523	FN	--	E	524
+#524	FN	--	A	529
+#525	FN	--	A	532
+#526	FN	--	S	527
+#527	FN	--	E	528
+#528	FN	--	A	529
+#529	FN	--	H	534
+#530	FN	--	A	533
+#531	FN	--	A	532
+#532	FN	--	A	533
+#533	FN	--	H	534
+#534	FN	--	--	0
+#EOS 2105002

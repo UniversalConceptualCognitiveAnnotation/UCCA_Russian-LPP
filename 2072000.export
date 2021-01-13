@@ -1,0 +1,22 @@
+#BOS 2072000
+XII	Word	--	Terminal	500
+На	Word	--	Terminal	501
+следующей	Word	--	Terminal	502
+планете	Word	--	Terminal	503
+жил	Word	--	Terminal	504
+пьяница	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	Q	511
+#501	FN	--	R	507
+#502	FN	--	E	507
+#503	FN	--	C	507
+#504	FN	--	P	510
+#505	FN	--	A	508
+#506	PNCT	--	U	508
+#507	FN	--	A	510
+#508	FN	--	A	510
+#509	FN	--	C	511
+#510	FN	--	H	512
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2072000

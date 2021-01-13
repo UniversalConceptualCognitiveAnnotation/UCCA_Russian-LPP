@@ -1,0 +1,27 @@
+#BOS 2110000
+Неподалеку	Word	--	Terminal	500
+от	Word	--	Terminal	501
+колодца	Word	--	Terminal	502
+сохранились	Word	--	Terminal	503
+развалины	Word	--	Terminal	504
+древней	Word	--	Terminal	505
+каменной	Word	--	Terminal	506
+стены	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	C	509
+#501	FN	--	R	509
+#502	FN	--	C	510
+#503	FN	--	P	514
+#504	FN	--	C	513
+#505	FN	--	S	511
+#506	FN	--	E	512
+#507	FN	--	C	512	A*	511
+#508	PNCT	--	U	512
+#509	FN	--	E	510
+#510	FN	--	A	514
+#511	FN	--	E	512
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2110000

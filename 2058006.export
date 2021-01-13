@@ -1,0 +1,42 @@
+#BOS 2058006
+Я	Word	--	Terminal	500
+и	Word	--	Terminal	501
+думать	Word	--	Terminal	502
+забыл	Word	--	Terminal	503
+про	Word	--	Terminal	504
+злополучный	Word	--	Terminal	505
+болт	Word	--	Terminal	506
+и	Word	--	Terminal	507
+молоток	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+про	Word	--	Terminal	510
+жажду	Word	--	Terminal	511
+и	Word	--	Terminal	512
+смерть	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	A	523
+#501	FN	--	L	524
+#502	FN	--	P	523
+#503	FN	--	D	523
+#504	FN	--	R	516
+#505	FN	--	S	515
+#506	FN	--	C	516	A*	515
+#507	FN	--	N	522
+#508	FN	--	C	522
+#509	PNCT	--	U	522
+#510	FN	--	R	521
+#511	FN	--	S	520
+#512	FN	--	N	522
+#513	FN	--	P	519
+#514	PNCT	--	U	519
+#515	FN	--	E	516
+#516	FN	--	C	522
+#517	FN	--	A	520
+#518	FN	--	A	519
+#519	FN	--	C	522
+#520	FN	--	C	521
+#521	FN	--	C	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2058006

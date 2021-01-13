@@ -1,0 +1,39 @@
+#BOS 2093001
+Его	Word	--	Terminal	500
+красавица	Word	--	Terminal	501
+говорила	Word	--	Terminal	502
+ему	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+что	Word	--	Terminal	505
+подобных	Word	--	Terminal	506
+ей	Word	--	Terminal	507
+нет	Word	--	Terminal	508
+во	Word	--	Terminal	509
+всей	Word	--	Terminal	510
+Вселенной	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	513
+#501	FN	--	A	514	A*	513
+#502	FN	--	P	522
+#503	FN	--	A	522
+#504	PNCT	--	U	522
+#505	FN	--	R	521
+#506	FN	--	S	519
+#507	FN	--	A	519
+#508	FN	--	S	521
+#509	FN	--	R	515
+#510	FN	--	Q	515
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	FN	--	E	516
+#514	FN	--	C	516
+#515	FN	--	A	521
+#516	FN	--	A	522
+#517	FN	--	A	519
+#518	FN	--	C	520
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2093001

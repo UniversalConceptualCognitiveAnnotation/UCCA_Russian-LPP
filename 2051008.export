@@ -1,0 +1,45 @@
+#BOS 2051008
+Тогда	Word	--	Terminal	500
+оно	Word	--	Terminal	501
+пускает	Word	--	Terminal	502
+росток	Word	--	Terminal	503
+;	Punctuation	--	Terminal	504
+он	Word	--	Terminal	505
+расправляется	Word	--	Terminal	506
+и	Word	--	Terminal	507
+тянется	Word	--	Terminal	508
+к	Word	--	Terminal	509
+солнцу	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+сперва	Word	--	Terminal	512
+такой	Word	--	Terminal	513
+милый	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+безобидный	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	524
+#501	FN	--	A	518
+#502	FN	--	P	518
+#503	FN	--	A	518
+#504	PNCT	--	U	524
+#505	FN	--	A	519	A*	522	A*	523
+#506	FN	--	P	519
+#507	FN	--	L	524
+#508	FN	--	P	522
+#509	FN	--	R	520
+#510	FN	--	C	520
+#511	PNCT	--	U	524
+#512	FN	--	T	523
+#513	FN	--	D	523
+#514	FN	--	C	521
+#515	PNCT	--	U	521
+#516	FN	--	C	521
+#517	PNCT	--	U	521
+#518	FN	--	H	524
+#519	FN	--	H	524
+#520	FN	--	A	522
+#521	FN	--	S	523
+#522	FN	--	H	524
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2051008

@@ -1,0 +1,37 @@
+#BOS 2066014
+Ибо	Word	--	Terminal	500
+он	Word	--	Terminal	501
+был	Word	--	Terminal	502
+поистине	Word	--	Terminal	503
+полновластный	Word	--	Terminal	504
+монарх	Word	--	Terminal	505
+и	Word	--	Terminal	506
+не	Word	--	Terminal	507
+знал	Word	--	Terminal	508
+никаких	Word	--	Terminal	509
+пределов	Word	--	Terminal	510
+и	Word	--	Terminal	511
+ограничений	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+-	Punctuation	--	Terminal	514
+#500	FN	--	L	519
+#501	FN	--	A	515	A*	518
+#502	FN	--	F	515
+#503	FN	--	D	515
+#504	FN	--	D	515
+#505	FN	--	S	515
+#506	FN	--	L	519
+#507	FN	--	D	518
+#508	FN	--	P	518
+#509	FN	--	Q	517
+#510	FN	--	C	516
+#511	FN	--	N	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	PNCT	--	U	516
+#515	FN	--	H	519
+#516	FN	--	C	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2066014

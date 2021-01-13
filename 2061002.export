@@ -1,0 +1,23 @@
+#BOS 2061002
+Она	Word	--	Terminal	500
+ничего	Word	--	Terminal	501
+не	Word	--	Terminal	502
+могла	Word	--	Terminal	503
+знать	Word	--	Terminal	504
+о	Word	--	Terminal	505
+других	Word	--	Terminal	506
+мирах	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	510
+#501	FN	--	A	510
+#502	FN	--	D	510
+#503	FN	--	D	510
+#504	FN	--	P	510
+#505	FN	--	R	509
+#506	FN	--	E	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2061002

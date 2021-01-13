@@ -1,0 +1,46 @@
+#BOS 2095005
+Людей	Word	--	Terminal	500
+ищу	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+сказал	Word	--	Terminal	504
+Маленький	Word	--	Terminal	505
+принц	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+А	Word	--	Terminal	509
+как	Word	--	Terminal	510
+это	Word	--	Terminal	511
+-	Punctuation	--	Terminal	512
+приручить	Word	--	Terminal	513
+?	Punctuation	--	Terminal	514
+-	Punctuation	--	Terminal	515
+#500	FN	--	A	516
+#501	FN	--	P	516
+#502	PNCT	--	U	526
+#503	PNCT	--	U	526
+#504	FN	--	P	526
+#505	FN	--	S	517
+#506	FN	--	A	518	A*	517	A*	516
+#507	PNCT	--	U	525
+#508	PNCT	--	U	525
+#509	FN	--	L	525
+#510	FN	--	A	524
+#511	FN	--	F	524
+#512	PNCT	--	U	524
+#513	FN	--	P	523
+#514	PNCT	--	U	523
+#515	PNCT	--	U	523
+#516	FN	--	H	525
+#517	FN	--	E	519
+#518	FN	--	C	519
+#519	FN	--	A	526
+#520	FN	--	S	524
+#521	FN	--	A	523
+#522	FN	--	A	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	A	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 2095005

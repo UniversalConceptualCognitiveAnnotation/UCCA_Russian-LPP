@@ -1,0 +1,36 @@
+#BOS 2051009
+Если	Word	--	Terminal	500
+это	Word	--	Terminal	501
+будущий	Word	--	Terminal	502
+редис	Word	--	Terminal	503
+или	Word	--	Terminal	504
+розовый	Word	--	Terminal	505
+куст	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+пусть	Word	--	Terminal	508
+его	Word	--	Terminal	509
+растет	Word	--	Terminal	510
+на	Word	--	Terminal	511
+здоровье	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	519
+#501	FN	--	A	518
+#502	FN	--	T	518
+#503	FN	--	C	517
+#504	FN	--	N	517
+#505	FN	--	S	513
+#506	FN	--	C	514	A*	513
+#507	PNCT	--	U	519
+#508	FN	--	L	519
+#509	FN	--	A	515
+#510	FN	--	P	515
+#511	FN	--	G	515
+#512	PNCT	--	U	515
+#513	FN	--	E	514
+#514	FN	--	C	517
+#515	FN	--	H	519
+#516	FN	--	S	518
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2051009

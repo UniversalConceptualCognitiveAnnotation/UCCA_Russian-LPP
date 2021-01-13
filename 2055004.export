@@ -1,0 +1,34 @@
+#BOS 2055004
+Да	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+и	Word	--	Terminal	502
+те	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+у	Word	--	Terminal	505
+которых	Word	--	Terminal	506
+шипы	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+#500	FN	--	G	517
+#501	PNCT	--	U	517
+#502	FN	--	E	516
+#503	FN	--	E	516
+#504	PNCT	--	U	516
+#505	FN	--	R	510
+#506	FN	--	C	510
+#507	FN	--	A	515
+#508	PNCT	--	U	515
+#509	PNCT	--	U	515
+#510	FN	--	A	515
+#511	FN	--	A	517
+#512	FN	--	P	517
+#513	FN	--	C	516
+#514	FN	--	S	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	P	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2055004

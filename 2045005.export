@@ -1,0 +1,32 @@
+#BOS 2045005
+Астроном	Word	--	Terminal	500
+доложил	Word	--	Terminal	501
+тогда	Word	--	Terminal	502
+о	Word	--	Terminal	503
+своем	Word	--	Terminal	504
+замечательном	Word	--	Terminal	505
+открытии	Word	--	Terminal	506
+на	Word	--	Terminal	507
+Международном	Word	--	Terminal	508
+астрономическом	Word	--	Terminal	509
+конгрессе	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	512
+#501	FN	--	P	516
+#502	FN	--	L	517
+#503	FN	--	R	514
+#504	FN	--	E	514
+#505	FN	--	S	513
+#506	FN	--	C	514	A*	513
+#507	FN	--	R	515
+#508	FN	--	A	515
+#509	FN	--	A	515
+#510	FN	--	P	515
+#511	PNCT	--	U	515
+#512	FN	--	A	516
+#513	FN	--	E	514
+#514	FN	--	A	516
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2045005

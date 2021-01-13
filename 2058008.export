@@ -1,0 +1,24 @@
+#BOS 2058008
+Я	Word	--	Terminal	500
+взял	Word	--	Terminal	501
+его	Word	--	Terminal	502
+на	Word	--	Terminal	503
+руки	Word	--	Terminal	504
+и	Word	--	Terminal	505
+стал	Word	--	Terminal	506
+баюкать	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	511	A*	509
+#501	FN	--	P	511
+#502	FN	--	A	511	A*	509
+#503	FN	--	R	510
+#504	FN	--	C	510
+#505	FN	--	L	512
+#506	FN	--	D	509
+#507	FN	--	P	509
+#508	PNCT	--	U	509
+#509	FN	--	H	512
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2058008

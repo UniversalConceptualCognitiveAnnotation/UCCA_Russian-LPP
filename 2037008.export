@@ -1,0 +1,27 @@
+#BOS 2037008
+Это	Word	--	Terminal	500
+очень	Word	--	Terminal	501
+полезно	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+если	Word	--	Terminal	504
+ночью	Word	--	Terminal	505
+собьешься	Word	--	Terminal	506
+с	Word	--	Terminal	507
+пути	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	510
+#501	FN	--	D	510
+#502	FN	--	S	510
+#503	PNCT	--	U	514
+#504	FN	--	L	514
+#505	FN	--	T	513
+#506	FN	--	P	513
+#507	FN	--	R	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	H	514
+#511	FN	--	A	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2037008

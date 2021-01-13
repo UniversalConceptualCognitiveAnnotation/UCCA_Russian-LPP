@@ -1,0 +1,36 @@
+#BOS 2049002
+Вот	Word	--	Terminal	500
+уже	Word	--	Terminal	501
+шесть	Word	--	Terminal	502
+лет	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+как	Word	--	Terminal	505
+мой	Word	--	Terminal	506
+друг	Word	--	Terminal	507
+вместе	Word	--	Terminal	508
+с	Word	--	Terminal	509
+барашком	Word	--	Terminal	510
+меня	Word	--	Terminal	511
+покинул	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	519
+#501	FN	--	E	514
+#502	FN	--	Q	514
+#503	FN	--	C	514
+#504	PNCT	--	U	518
+#505	FN	--	F	518
+#506	FN	--	A	515
+#507	FN	--	A	515
+#508	FN	--	N	517
+#509	FN	--	R	516
+#510	FN	--	C	516
+#511	FN	--	A	518
+#512	FN	--	P	518
+#513	PNCT	--	U	518
+#514	FN	--	T	518
+#515	FN	--	C	517
+#516	FN	--	C	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2049002

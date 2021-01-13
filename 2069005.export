@@ -1,0 +1,26 @@
+#BOS 2069005
+Нет	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+не	Word	--	Terminal	502
+пора	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+возразил	Word	--	Terminal	506
+король	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	G	512
+#501	PNCT	--	U	512
+#502	FN	--	D	512
+#503	FN	--	D	512
+#504	PNCT	--	U	513
+#505	PNCT	--	U	513
+#506	FN	--	P	513
+#507	FN	--	A	509
+#508	PNCT	--	U	509
+#509	FN	--	A	513
+#510	FN	--	P	512
+#511	FN	--	A	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2069005

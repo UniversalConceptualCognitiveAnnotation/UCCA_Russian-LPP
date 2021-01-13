@@ -1,0 +1,39 @@
+#BOS 2062008
+Когда	Word	--	Terminal	500
+вулканы	Word	--	Terminal	501
+аккуратно	Word	--	Terminal	502
+чистишь	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+они	Word	--	Terminal	505
+горят	Word	--	Terminal	506
+ровно	Word	--	Terminal	507
+и	Word	--	Terminal	508
+тихо	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+без	Word	--	Terminal	511
+всяких	Word	--	Terminal	512
+извержений	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	L	521
+#501	FN	--	A	520
+#502	FN	--	D	520
+#503	FN	--	P	520
+#504	PNCT	--	U	521
+#505	FN	--	A	517	A*	518
+#506	FN	--	S	517
+#507	FN	--	C	515
+#508	FN	--	N	515
+#509	FN	--	C	515
+#510	PNCT	--	U	521
+#511	FN	--	L	521	D*	518
+#512	FN	--	E	516
+#513	FN	--	C	516
+#514	PNCT	--	U	516
+#515	FN	--	D	517
+#516	FN	--	P	518
+#517	FN	--	H	521
+#518	FN	--	H	521
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2062008

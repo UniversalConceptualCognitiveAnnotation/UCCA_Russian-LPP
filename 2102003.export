@@ -1,0 +1,35 @@
+#BOS 2102003
+Проглотишь	Word	--	Terminal	500
+такую	Word	--	Terminal	501
+пилюлю	Word	--	Terminal	502
+-	Punctuation	--	Terminal	503
+и	Word	--	Terminal	504
+потом	Word	--	Terminal	505
+целую	Word	--	Terminal	506
+неделю	Word	--	Terminal	507
+не	Word	--	Terminal	508
+хочется	Word	--	Terminal	509
+пить	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+#500	FN	--	P	516
+#501	FN	--	E	513
+#502	FN	--	C	513
+#503	PNCT	--	U	519
+#504	FN	--	L	519
+#505	FN	--	L	519
+#506	FN	--	E	514
+#507	FN	--	C	514
+#508	FN	--	D	518
+#509	FN	--	D	518
+#510	FN	--	P	518
+#511	PNCT	--	U	518
+#512	PNCT	--	U	518
+#513	FN	--	A	516
+#514	FN	--	A	518
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2102003

@@ -1,0 +1,44 @@
+#BOS 2089001
+За	Word	--	Terminal	500
+все	Word	--	Terminal	501
+время	Word	--	Terminal	502
+ему	Word	--	Terminal	503
+попался	Word	--	Terminal	504
+только	Word	--	Terminal	505
+один	Word	--	Terminal	506
+цветок	Word	--	Terminal	507
+-	Punctuation	--	Terminal	508
+крохотный	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+невзрачный	Word	--	Terminal	511
+цветок	Word	--	Terminal	512
+о	Word	--	Terminal	513
+трех	Word	--	Terminal	514
+лепестках	Word	--	Terminal	515
+...	Punctuation	--	Terminal	516
+#500	FN	--	R	517
+#501	FN	--	Q	517
+#502	FN	--	C	517
+#503	FN	--	A	523
+#504	FN	--	P	523
+#505	FN	--	E	522
+#506	FN	--	Q	522
+#507	FN	--	C	522
+#508	PNCT	--	U	522
+#509	FN	--	S	518
+#510	PNCT	--	U	521
+#511	FN	--	S	519
+#512	FN	--	C	521	A*	518	A*	519
+#513	FN	--	R	520
+#514	FN	--	Q	520
+#515	FN	--	C	520
+#516	PNCT	--	U	520
+#517	FN	--	T	523
+#518	FN	--	E	521
+#519	FN	--	E	521
+#520	FN	--	E	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2089001

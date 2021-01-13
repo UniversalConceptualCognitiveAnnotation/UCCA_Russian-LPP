@@ -1,0 +1,39 @@
+#BOS 2053005
+Вот	Word	--	Terminal	500
+почему	Word	--	Terminal	501
+я	Word	--	Terminal	502
+так	Word	--	Terminal	503
+трудился	Word	--	Terminal	504
+над	Word	--	Terminal	505
+этим	Word	--	Terminal	506
+рисунком	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+и	Word	--	Terminal	509
+мне	Word	--	Terminal	510
+не	Word	--	Terminal	511
+жаль	Word	--	Terminal	512
+потраченного	Word	--	Terminal	513
+труда	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	520
+#501	FN	--	L	520
+#502	FN	--	A	519
+#503	FN	--	D	519
+#504	FN	--	P	519
+#505	FN	--	R	516
+#506	FN	--	E	516
+#507	FN	--	C	516
+#508	PNCT	--	U	520
+#509	FN	--	L	520
+#510	FN	--	A	518	A*	517
+#511	FN	--	D	518
+#512	FN	--	S	518
+#513	FN	--	D	517
+#514	FN	--	P	517
+#515	PNCT	--	U	517
+#516	FN	--	A	519
+#517	FN	--	A	518
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 2053005

@@ -1,0 +1,30 @@
+#BOS 2061006
+Тогда	Word	--	Terminal	500
+она	Word	--	Terminal	501
+закашляла	Word	--	Terminal	502
+сильнее	Word	--	Terminal	503
+:	Punctuation	--	Terminal	504
+пускай	Word	--	Terminal	505
+его	Word	--	Terminal	506
+все	Word	--	Terminal	508
+-	Punctuation	--	Terminal	507
+таки	Word	--	Terminal	508
+помучит	Word	--	Terminal	509
+совесть	Word	--	Terminal	510
+!	Punctuation	--	Terminal	511
+#500	FN	--	L	514
+#501	FN	--	A	512
+#502	FN	--	P	512
+#503	FN	--	D	512
+#504	PNCT	--	U	514
+#505	FN	--	L	514
+#506	FN	--	A	513
+#507	PNCT	--	U	508
+#508	FN	--	G	513
+#509	FN	--	P	513
+#510	FN	--	A	513
+#511	PNCT	--	U	513
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2061006

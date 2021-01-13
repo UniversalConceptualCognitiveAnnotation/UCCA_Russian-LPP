@@ -1,0 +1,28 @@
+#BOS 2049014
+Я	Word	--	Terminal	500
+пробую	Word	--	Terminal	501
+рисовать	Word	--	Terminal	502
+и	Word	--	Terminal	503
+так	Word	--	Terminal	503
+и	Word	--	Terminal	503
+эдак	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+наугад	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+с	Word	--	Terminal	507
+грехом	Word	--	Terminal	507
+пополам	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	510
+#501	FN	--	D	510
+#502	FN	--	P	510
+#503	FN	--	C	509
+#504	PNCT	--	U	509
+#505	FN	--	C	509
+#506	PNCT	--	U	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2049014

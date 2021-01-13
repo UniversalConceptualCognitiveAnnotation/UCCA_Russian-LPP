@@ -1,0 +1,18 @@
+#BOS 2066007
+Где	Word	--	Terminal	500
+же	Word	--	Terminal	501
+тут	Word	--	Terminal	502
+царствовать	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+#500	FN	--	E	506
+#501	FN	--	F	508
+#502	FN	--	C	506
+#503	FN	--	P	508
+#504	PNCT	--	U	508
+#505	PNCT	--	U	508
+#506	FN	--	A	508
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 2066007

@@ -1,0 +1,13 @@
+#BOS 2077014
+И	Word	--	Terminal	500
+погасил	Word	--	Terminal	501
+фонарь	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+#500	FN	--	L	506
+#501	FN	--	P	505
+#502	FN	--	A	505
+#503	PNCT	--	U	505
+#504	FN	--	A	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 2077014

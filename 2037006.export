@@ -1,0 +1,24 @@
+#BOS 2037006
+И	Word	--	Terminal	500
+география	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+по	Word	--	Terminal	503
+правде	Word	--	Terminal	503
+сказать	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+мне	Word	--	Terminal	505
+очень	Word	--	Terminal	506
+пригодилась	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	510
+#501	FN	--	A	509
+#502	PNCT	--	U	509
+#503	FN	--	G	509
+#504	PNCT	--	U	509
+#505	FN	--	A	509
+#506	FN	--	D	509
+#507	FN	--	P	509
+#508	PNCT	--	U	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2037006

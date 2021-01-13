@@ -1,0 +1,36 @@
+#BOS 2049000
+Ибо	Word	--	Terminal	500
+я	Word	--	Terminal	501
+совсем	Word	--	Terminal	502
+не	Word	--	Terminal	503
+хочу	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+чтобы	Word	--	Terminal	506
+мою	Word	--	Terminal	507
+книжку	Word	--	Terminal	508
+читали	Word	--	Terminal	509
+просто	Word	--	Terminal	510
+ради	Word	--	Terminal	511
+забавы	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	519
+#501	FN	--	A	518
+#502	FN	--	D	518
+#503	FN	--	D	518
+#504	FN	--	P	518
+#505	PNCT	--	U	518
+#506	FN	--	R	517
+#507	FN	--	A	514
+#508	FN	--	C	515	A*	514
+#509	FN	--	P	517
+#510	FN	--	D	517
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	E	515
+#515	FN	--	A	517
+#516	FN	--	D	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2049000

@@ -1,0 +1,16 @@
+#BOS 2057003
+Он	Word	--	Terminal	500
+никогда	Word	--	Terminal	501
+никого	Word	--	Terminal	502
+не	Word	--	Terminal	503
+любил	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	506
+#501	FN	--	T	506
+#502	FN	--	A	506
+#503	FN	--	D	506
+#504	FN	--	P	506
+#505	PNCT	--	U	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 2057003

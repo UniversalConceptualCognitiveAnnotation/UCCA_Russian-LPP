@@ -1,0 +1,20 @@
+#BOS 2054012
+Но	Word	--	Terminal	500
+Маленький	Word	--	Terminal	501
+принц	Word	--	Terminal	502
+не	Word	--	Terminal	503
+ответил	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	L	511
+#501	FN	--	S	507
+#502	FN	--	A	506
+#503	FN	--	D	510
+#504	FN	--	P	510
+#505	PNCT	--	U	510
+#506	FN	--	C	509	A*	507
+#507	FN	--	E	509
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2054012

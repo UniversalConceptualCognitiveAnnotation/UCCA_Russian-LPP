@@ -1,0 +1,53 @@
+#BOS 2101004
+И	Word	--	Terminal	500
+скорый	Word	--	Terminal	501
+поезд	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+сверкая	Word	--	Terminal	504
+освещенными	Word	--	Terminal	505
+окнами	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+с	Word	--	Terminal	508
+громом	Word	--	Terminal	509
+промчался	Word	--	Terminal	510
+мимо	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+и	Word	--	Terminal	513
+будка	Word	--	Terminal	514
+стрелочника	Word	--	Terminal	515
+вся	Word	--	Terminal	516
+задрожала	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+-	Punctuation	--	Terminal	519
+#500	FN	--	L	530
+#501	FN	--	S	520
+#502	FN	--	C	526	A*	520	A*	525
+#503	PNCT	--	U	526
+#504	FN	--	P	525
+#505	FN	--	S	521
+#506	FN	--	C	522	A*	521
+#507	PNCT	--	U	527
+#508	FN	--	R	523
+#509	FN	--	C	523
+#510	FN	--	P	527
+#511	FN	--	A	527
+#512	PNCT	--	U	530
+#513	FN	--	L	530
+#514	FN	--	C	528
+#515	FN	--	A	524
+#516	FN	--	D	529
+#517	FN	--	P	529
+#518	PNCT	--	U	529
+#519	PNCT	--	U	529
+#520	FN	--	E	526
+#521	FN	--	E	522
+#522	FN	--	A	525
+#523	FN	--	D	527
+#524	FN	--	E	528
+#525	FN	--	E	526
+#526	FN	--	A	527
+#527	FN	--	H	530
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 2101004

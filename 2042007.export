@@ -1,0 +1,21 @@
+#BOS 2042007
+Да	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+скромно	Word	--	Terminal	503
+ответил	Word	--	Terminal	504
+я	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	G	508
+#501	PNCT	--	U	509
+#502	PNCT	--	U	509
+#503	FN	--	D	509
+#504	FN	--	P	509
+#505	FN	--	A	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2042007

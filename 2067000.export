@@ -1,0 +1,17 @@
+#BOS 2067000
+Маленький	Word	--	Terminal	500
+принц	Word	--	Terminal	501
+был	Word	--	Terminal	502
+восхищен	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	S	506
+#501	FN	--	A	505
+#502	FN	--	F	508
+#503	FN	--	S	508
+#504	PNCT	--	U	508
+#505	FN	--	C	507	A*	506
+#506	FN	--	E	507
+#507	FN	--	A	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 2067000

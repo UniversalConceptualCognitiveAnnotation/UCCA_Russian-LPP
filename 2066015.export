@@ -1,0 +1,31 @@
+#BOS 2066015
+И	Word	--	Terminal	500
+звезды	Word	--	Terminal	501
+вам	Word	--	Terminal	502
+повинуются	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+спросил	Word	--	Terminal	506
+Маленький	Word	--	Terminal	507
+принц	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	L	513
+#501	FN	--	A	511
+#502	FN	--	A	511
+#503	FN	--	P	511
+#504	PNCT	--	U	516
+#505	PNCT	--	U	516
+#506	FN	--	P	516
+#507	FN	--	S	514
+#508	FN	--	A	512
+#509	PNCT	--	U	512
+#510	PNCT	--	U	512
+#511	FN	--	H	513
+#512	FN	--	C	515	A*	514
+#513	FN	--	A	516
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2066015

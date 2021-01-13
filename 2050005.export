@@ -1,0 +1,13 @@
+#BOS 2050005
+Вот	Word	--	Terminal	500
+хорошо	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+#500	FN	--	G	503
+#501	FN	--	G	503
+#502	PNCT	--	U	503
+#503	FN	--	A	506
+#504	FN	--	A	506
+#505	FN	--	P	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 2050005

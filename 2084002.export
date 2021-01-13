@@ -1,0 +1,32 @@
+#BOS 2084002
+Это	Word	--	Terminal	500
+значит	Word	--	Terminal	501
+:	Punctuation	--	Terminal	502
+тот	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+что	Word	--	Terminal	505
+должен	Word	--	Terminal	506
+скоро	Word	--	Terminal	507
+исчезнуть	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	A	513
+#501	FN	--	S	513
+#502	PNCT	--	U	513
+#503	FN	--	C	512	A*	511
+#504	PNCT	--	U	512
+#505	FN	--	R	511
+#506	FN	--	D	511
+#507	FN	--	T	511
+#508	FN	--	P	511
+#509	PNCT	--	U	511
+#510	PNCT	--	U	511
+#511	FN	--	E	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	A	517
+#515	FN	--	A	517
+#516	FN	--	P	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2084002

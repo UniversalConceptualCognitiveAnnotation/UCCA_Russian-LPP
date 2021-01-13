@@ -1,0 +1,28 @@
+#BOS 2063002
+Но	Word	--	Terminal	500
+в	Word	--	Terminal	501
+то	Word	--	Terminal	502
+утро	Word	--	Terminal	503
+привычная	Word	--	Terminal	504
+работа	Word	--	Terminal	505
+доставляла	Word	--	Terminal	506
+ему	Word	--	Terminal	507
+необыкновенное	Word	--	Terminal	508
+удовольствие	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	514
+#501	FN	--	R	511
+#502	FN	--	E	511
+#503	FN	--	C	511
+#504	FN	--	D	512
+#505	FN	--	P	512
+#506	FN	--	D	513
+#507	FN	--	A	513	A*	512
+#508	FN	--	D	513
+#509	FN	--	S	513
+#510	PNCT	--	U	513
+#511	FN	--	T	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2063002

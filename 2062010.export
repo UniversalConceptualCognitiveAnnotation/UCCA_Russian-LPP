@@ -1,0 +1,43 @@
+#BOS 2062010
+Конечно	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+мы	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+люди	Word	--	Terminal	504
+на	Word	--	Terminal	505
+Земле	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+слишком	Word	--	Terminal	508
+малы	Word	--	Terminal	509
+и	Word	--	Terminal	510
+не	Word	--	Terminal	511
+можем	Word	--	Terminal	512
+прочищать	Word	--	Terminal	513
+наши	Word	--	Terminal	514
+вулканы	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	G	521
+#501	PNCT	--	U	521
+#502	FN	--	C	520	A*	522
+#503	PNCT	--	U	520
+#504	FN	--	C	519
+#505	FN	--	R	517
+#506	FN	--	C	517
+#507	PNCT	--	U	521
+#508	FN	--	D	521
+#509	FN	--	S	521
+#510	FN	--	L	523
+#511	FN	--	D	522
+#512	FN	--	D	522
+#513	FN	--	P	522
+#514	FN	--	E	518
+#515	FN	--	C	518
+#516	PNCT	--	U	518
+#517	FN	--	E	519
+#518	FN	--	A	522
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	523
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2062010

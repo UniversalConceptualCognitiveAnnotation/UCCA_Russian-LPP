@@ -1,0 +1,29 @@
+#BOS 2085010
+Потом	Word	--	Terminal	500
+приходил	Word	--	Terminal	501
+черед	Word	--	Terminal	502
+фонарщиков	Word	--	Terminal	503
+в	Word	--	Terminal	504
+России	Word	--	Terminal	505
+и	Word	--	Terminal	506
+в	Word	--	Terminal	507
+Индии	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	516
+#501	FN	--	P	515
+#502	FN	--	C	514
+#503	FN	--	A	513
+#504	FN	--	R	510
+#505	FN	--	C	510
+#506	FN	--	N	512
+#507	FN	--	R	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	C	512
+#511	FN	--	C	512
+#512	FN	--	A	513
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2085010

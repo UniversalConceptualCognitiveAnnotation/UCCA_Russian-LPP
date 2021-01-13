@@ -1,0 +1,43 @@
+#BOS 2051002
+А	Word	--	Terminal	500
+как	Word	--	Terminal	501
+же	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+воскликнул	Word	--	Terminal	504
+он	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+словно	Word	--	Terminal	507
+речь	Word	--	Terminal	508
+шла	Word	--	Terminal	509
+о	Word	--	Terminal	510
+самых	Word	--	Terminal	511
+простых	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+азбучных	Word	--	Terminal	514
+истинах	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	G	517
+#501	FN	--	G	517
+#502	PNCT	--	U	518
+#503	PNCT	--	U	518
+#504	FN	--	P	518
+#505	FN	--	A	518
+#506	PNCT	--	U	522
+#507	FN	--	L	522
+#508	FN	--	P	521
+#509	FN	--	F	521
+#510	FN	--	R	520
+#511	FN	--	D	519
+#512	FN	--	S	519
+#513	PNCT	--	U	520
+#514	FN	--	E	520
+#515	FN	--	C	520	A*	519
+#516	PNCT	--	U	520
+#517	FN	--	A	518
+#518	FN	--	H	522
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 2051002

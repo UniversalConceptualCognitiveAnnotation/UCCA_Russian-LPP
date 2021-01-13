@@ -1,0 +1,20 @@
+#BOS 2071007
+Маленький	Word	--	Terminal	500
+принц	Word	--	Terminal	501
+захлопал	Word	--	Terminal	502
+в	Word	--	Terminal	503
+ладоши	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	S	508
+#501	FN	--	A	506
+#502	FN	--	P	510
+#503	FN	--	R	507
+#504	FN	--	C	507
+#505	PNCT	--	U	507
+#506	FN	--	C	509	A*	508
+#507	FN	--	A	510
+#508	FN	--	E	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2071007

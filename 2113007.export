@@ -1,0 +1,30 @@
+#BOS 2113007
+Этот	Word	--	Terminal	500
+смех	Word	--	Terminal	501
+для	Word	--	Terminal	502
+меня	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+точно	Word	--	Terminal	505
+родник	Word	--	Terminal	506
+в	Word	--	Terminal	507
+пустыне	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	E	511
+#501	FN	--	C	511
+#502	FN	--	R	512
+#503	FN	--	C	512
+#504	PNCT	--	U	515
+#505	FN	--	S	515
+#506	FN	--	C	514
+#507	FN	--	R	513
+#508	FN	--	C	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	FN	--	A	515
+#512	FN	--	A	515
+#513	FN	--	E	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2113007

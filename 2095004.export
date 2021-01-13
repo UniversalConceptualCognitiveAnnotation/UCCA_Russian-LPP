@@ -1,0 +1,35 @@
+#BOS 2095004
+Ты	Word	--	Terminal	500
+нездешний	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+заметил	Word	--	Terminal	504
+Лис	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+Что	Word	--	Terminal	508
+ты	Word	--	Terminal	509
+здесь	Word	--	Terminal	510
+ищешь	Word	--	Terminal	511
+?	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+#500	FN	--	A	514
+#501	FN	--	S	514
+#502	PNCT	--	U	517
+#503	PNCT	--	U	517
+#504	FN	--	P	517
+#505	FN	--	A	517
+#506	PNCT	--	U	517
+#507	PNCT	--	U	517
+#508	FN	--	A	515
+#509	FN	--	A	515
+#510	FN	--	A	515
+#511	FN	--	P	515
+#512	PNCT	--	U	515
+#513	PNCT	--	U	515
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2095004

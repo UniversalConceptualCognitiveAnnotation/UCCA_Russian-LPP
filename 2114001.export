@@ -1,0 +1,16 @@
+#BOS 2114001
+Но	Word	--	Terminal	500
+он	Word	--	Terminal	501
+не	Word	--	Terminal	502
+ответил	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+#500	FN	--	L	507
+#501	FN	--	A	506
+#502	FN	--	D	506
+#503	FN	--	P	506
+#504	PNCT	--	U	506
+#505	PNCT	--	U	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 2114001

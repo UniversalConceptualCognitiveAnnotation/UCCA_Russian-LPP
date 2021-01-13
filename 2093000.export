@@ -1,0 +1,21 @@
+#BOS 2093000
+И	Word	--	Terminal	500
+почувствовал	Word	--	Terminal	501
+себя	Word	--	Terminal	501
+очень	Word	--	Terminal	502
+-	Punctuation	--	Terminal	503
+очень	Word	--	Terminal	504
+несчастным	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	L	510
+#501	FN	--	D	509
+#502	FN	--	C	507
+#503	PNCT	--	U	507
+#504	FN	--	C	507
+#505	FN	--	S	509
+#506	PNCT	--	U	509
+#507	FN	--	D	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2093000

@@ -1,0 +1,36 @@
+#BOS 2111003
+До	Word	--	Terminal	500
+стены	Word	--	Terminal	501
+оставалось	Word	--	Terminal	502
+двадцать	Word	--	Terminal	503
+метров	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+а	Word	--	Terminal	506
+я	Word	--	Terminal	507
+все	Word	--	Terminal	508
+еще	Word	--	Terminal	509
+ничего	Word	--	Terminal	510
+не	Word	--	Terminal	511
+видел	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	R	514
+#501	FN	--	C	514
+#502	FN	--	S	518
+#503	FN	--	Q	515
+#504	FN	--	C	515
+#505	PNCT	--	U	519
+#506	FN	--	L	519
+#507	FN	--	A	517
+#508	FN	--	E	516
+#509	FN	--	C	516
+#510	FN	--	A	517
+#511	FN	--	D	517
+#512	FN	--	P	517
+#513	PNCT	--	U	517
+#514	FN	--	A	518
+#515	FN	--	A	518
+#516	FN	--	D	517
+#517	FN	--	H	519
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2111003

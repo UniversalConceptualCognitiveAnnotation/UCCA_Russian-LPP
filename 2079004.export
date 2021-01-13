@@ -1,0 +1,30 @@
+#BOS 2079004
+Ведь	Word	--	Terminal	500
+можно	Word	--	Terminal	501
+быть	Word	--	Terminal	502
+верным	Word	--	Terminal	503
+слову	Word	--	Terminal	504
+и	Word	--	Terminal	505
+все	Word	--	Terminal	507
+-	Punctuation	--	Terminal	506
+таки	Word	--	Terminal	507
+ленивым	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	L	515
+#501	FN	--	D	512
+#502	FN	--	F	512
+#503	FN	--	S	512
+#504	FN	--	A	512
+#505	FN	--	L	515
+#506	PNCT	--	U	507
+#507	FN	--	G	514
+#508	FN	--	S	514
+#509	PNCT	--	U	514
+#510	PNCT	--	U	514
+#511	FN	--	A	512
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2079004

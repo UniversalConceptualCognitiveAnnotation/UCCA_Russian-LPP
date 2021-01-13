@@ -1,0 +1,26 @@
+#BOS 2042005
+И	Word	--	Terminal	500
+я	Word	--	Terminal	501
+с	Word	--	Terminal	502
+гордостью	Word	--	Terminal	503
+объяснил	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+что	Word	--	Terminal	506
+умею	Word	--	Terminal	507
+летать	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	513
+#501	FN	--	A	512	A*	510
+#502	FN	--	R	511
+#503	FN	--	C	511
+#504	FN	--	P	512
+#505	PNCT	--	U	512
+#506	FN	--	R	510
+#507	FN	--	D	510
+#508	FN	--	P	510
+#509	PNCT	--	U	510
+#510	FN	--	A	512
+#511	FN	--	D	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2042005

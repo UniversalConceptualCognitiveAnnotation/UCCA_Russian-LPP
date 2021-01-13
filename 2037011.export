@@ -1,0 +1,17 @@
+#BOS 2037011
+Я	Word	--	Terminal	500
+видел	Word	--	Terminal	501
+их	Word	--	Terminal	502
+совсем	Word	--	Terminal	503
+близко	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	507
+#501	FN	--	P	507
+#502	FN	--	A	507
+#503	FN	--	E	506
+#504	FN	--	C	506
+#505	PNCT	--	U	506
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 2037011

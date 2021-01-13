@@ -1,0 +1,32 @@
+#BOS 2039001
+Не	Word	--	Terminal	500
+забудьте	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+я	Word	--	Terminal	503
+находился	Word	--	Terminal	504
+за	Word	--	Terminal	505
+тысячи	Word	--	Terminal	506
+миль	Word	--	Terminal	507
+от	Word	--	Terminal	508
+человеческого	Word	--	Terminal	509
+жилья	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	D	516
+#501	FN	--	P	516
+#502	PNCT	--	U	516
+#503	FN	--	A	515
+#504	FN	--	S	515
+#505	FN	--	R	513
+#506	FN	--	Q	512
+#507	FN	--	C	512
+#508	FN	--	R	513
+#509	FN	--	E	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	Q	513
+#513	FN	--	A	515
+#514	FN	--	A	516
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2039001

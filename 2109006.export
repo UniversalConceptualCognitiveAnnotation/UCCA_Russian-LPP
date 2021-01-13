@@ -1,0 +1,27 @@
+#BOS 2109006
+Когда	Word	--	Terminal	500
+даешь	Word	--	Terminal	501
+себя	Word	--	Terminal	502
+приручить	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+потом	Word	--	Terminal	505
+случается	Word	--	Terminal	506
+и	Word	--	Terminal	507
+плакать	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	514
+#501	FN	--	D	511
+#502	FN	--	A	511
+#503	FN	--	P	511
+#504	PNCT	--	U	514
+#505	FN	--	L	514
+#506	FN	--	D	513
+#507	FN	--	F	513
+#508	FN	--	P	513
+#509	PNCT	--	U	513
+#510	FN	--	A	511
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2109006

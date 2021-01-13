@@ -1,0 +1,37 @@
+#BOS 2108005
+А	Word	--	Terminal	500
+у	Word	--	Terminal	501
+лисицы	Word	--	Terminal	502
+твоей	Word	--	Terminal	503
+уши	Word	--	Terminal	504
+...	Punctuation	--	Terminal	505
+точно	Word	--	Terminal	506
+рога	Word	--	Terminal	507
+!	Punctuation	--	Terminal	508
+И	Word	--	Terminal	509
+какие	Word	--	Terminal	510
+длинные	Word	--	Terminal	511
+!	Punctuation	--	Terminal	512
+#500	FN	--	L	517
+#501	FN	--	R	513
+#502	FN	--	C	513
+#503	FN	--	E	513
+#504	FN	--	C	515	A*	514
+#505	PNCT	--	U	517
+#506	FN	--	S	516
+#507	FN	--	A	516
+#508	PNCT	--	U	517
+#509	FN	--	L	517
+#510	FN	--	D	514
+#511	FN	--	S	514
+#512	PNCT	--	U	514
+#513	FN	--	E	515
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	A	520
+#518	FN	--	A	520
+#519	FN	--	P	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2108005

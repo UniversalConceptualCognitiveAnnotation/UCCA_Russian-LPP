@@ -1,0 +1,37 @@
+#BOS 2112007
+Я	Word	--	Terminal	500
+услышал	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+как	Word	--	Terminal	503
+бьется	Word	--	Terminal	504
+его	Word	--	Terminal	505
+сердце	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+словно	Word	--	Terminal	508
+у	Word	--	Terminal	509
+подстреленной	Word	--	Terminal	510
+птицы	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	520
+#501	FN	--	P	520
+#502	PNCT	--	U	520
+#503	FN	--	R	519
+#504	FN	--	P	514	P*	518
+#505	FN	--	R	513
+#506	FN	--	C	513	A*	518
+#507	PNCT	--	U	519
+#508	FN	--	L	519
+#509	FN	--	R	517
+#510	FN	--	P	516
+#511	FN	--	C	517	A*	516
+#512	PNCT	--	U	517
+#513	FN	--	A	514
+#514	FN	--	H	519
+#515	FN	--	A	516
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2112007

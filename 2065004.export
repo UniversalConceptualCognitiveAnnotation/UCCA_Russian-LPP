@@ -1,0 +1,41 @@
+#BOS 2065004
+А	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+вот	Word	--	Terminal	502
+и	Word	--	Terminal	503
+подданный	Word	--	Terminal	504
+!	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+воскликнул	Word	--	Terminal	507
+король	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+увидав	Word	--	Terminal	510
+Маленького	Word	--	Terminal	511
+принца	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+"	Punctuation	--	Terminal	514
+#500	FN	--	G	518
+#501	PNCT	--	U	518
+#502	FN	--	S	518
+#503	FN	--	G	518
+#504	FN	--	A	515
+#505	PNCT	--	U	519
+#506	PNCT	--	U	519
+#507	FN	--	P	519
+#508	FN	--	A	516	A*	522
+#509	PNCT	--	U	522
+#510	FN	--	P	522
+#511	FN	--	S	520
+#512	FN	--	A	517
+#513	PNCT	--	U	517
+#514	PNCT	--	U	517
+#515	FN	--	A	518
+#516	FN	--	A	519
+#517	FN	--	C	521	A*	520
+#518	FN	--	A	519
+#519	FN	--	H	523
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2065004

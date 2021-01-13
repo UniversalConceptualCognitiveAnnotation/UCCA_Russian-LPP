@@ -1,0 +1,43 @@
+#BOS 2100011
+Я	Word	--	Terminal	500
+в	Word	--	Terminal	501
+ответе	Word	--	Terminal	502
+за	Word	--	Terminal	503
+мою	Word	--	Terminal	504
+розу	Word	--	Terminal	505
+...	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+повторил	Word	--	Terminal	508
+Маленький	Word	--	Terminal	509
+принц	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+чтобы	Word	--	Terminal	512
+лучше	Word	--	Terminal	513
+запомнить	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	A	520
+#501	FN	--	R	516
+#502	FN	--	C	516
+#503	FN	--	R	517
+#504	FN	--	E	517
+#505	FN	--	C	517
+#506	PNCT	--	U	523
+#507	PNCT	--	U	523
+#508	FN	--	P	523
+#509	FN	--	S	521
+#510	FN	--	A	518
+#511	PNCT	--	U	524
+#512	FN	--	L	524
+#513	FN	--	D	519
+#514	FN	--	P	519
+#515	PNCT	--	U	519
+#516	FN	--	S	520
+#517	FN	--	A	520
+#518	FN	--	C	522	A*	519	A*	521
+#519	FN	--	H	524
+#520	FN	--	A	523
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2100011

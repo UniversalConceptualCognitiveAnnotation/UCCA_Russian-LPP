@@ -1,0 +1,58 @@
+#BOS 2075007
+Распоряжаюсь	Word	--	Terminal	500
+ими	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+ответил	Word	--	Terminal	504
+делец	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+Считаю	Word	--	Terminal	508
+их	Word	--	Terminal	509
+и	Word	--	Terminal	510
+пересчитываю	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+Это	Word	--	Terminal	513
+очень	Word	--	Terminal	514
+трудно	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+Но	Word	--	Terminal	517
+я	Word	--	Terminal	518
+человек	Word	--	Terminal	519
+серьезный	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	P	522
+#501	FN	--	A	522
+#502	PNCT	--	U	532
+#503	PNCT	--	U	532
+#504	FN	--	P	532
+#505	FN	--	A	523
+#506	PNCT	--	U	532
+#507	PNCT	--	U	532
+#508	FN	--	P	524
+#509	FN	--	A	524	A*	525
+#510	FN	--	L	531
+#511	FN	--	P	525
+#512	PNCT	--	U	531
+#513	FN	--	A	526
+#514	FN	--	D	526
+#515	FN	--	S	526
+#516	PNCT	--	U	531
+#517	FN	--	L	531
+#518	FN	--	A	530	A*	522	A*	524	A*	525
+#519	FN	--	C	529	A*	527
+#520	FN	--	S	527
+#521	PNCT	--	U	527
+#522	FN	--	H	531
+#523	FN	--	A	532
+#524	FN	--	H	531
+#525	FN	--	H	531
+#526	FN	--	H	531
+#527	FN	--	E	529
+#528	FN	--	S	530
+#529	FN	--	A	530
+#530	FN	--	H	531
+#531	FN	--	A	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 2075007

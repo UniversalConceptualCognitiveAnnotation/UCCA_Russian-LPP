@@ -1,0 +1,39 @@
+#BOS 2096004
+Как	Word	--	Terminal	500
+интересно	Word	--	Terminal	501
+!	Punctuation	--	Terminal	502
+А	Word	--	Terminal	503
+куры	Word	--	Terminal	504
+там	Word	--	Terminal	505
+есть	Word	--	Terminal	506
+?	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+Нет	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+#500	FN	--	D	514
+#501	FN	--	S	514
+#502	PNCT	--	U	515
+#503	FN	--	L	515
+#504	FN	--	A	512	A*	517
+#505	FN	--	A	512	A*	517
+#506	FN	--	S	512	S*	517
+#507	PNCT	--	U	517
+#508	PNCT	--	U	517
+#509	FN	--	G	517
+#510	PNCT	--	U	517
+#511	PNCT	--	U	517
+#512	FN	--	H	515
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	A	520
+#516	FN	--	D	517
+#517	FN	--	A	523
+#518	FN	--	A	520
+#519	FN	--	P	520
+#520	FN	--	H	524
+#521	FN	--	P	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2096004

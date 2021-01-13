@@ -1,0 +1,33 @@
+#BOS 2037002
+Потерпев	Word	--	Terminal	500
+неудачу	Word	--	Terminal	501
+с	Word	--	Terminal	502
+рисунками	Word	--	Terminal	503
+No1	Word	--	Terminal	504
+и	Word	--	Terminal	505
+No2	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+я	Word	--	Terminal	508
+утратил	Word	--	Terminal	509
+веру	Word	--	Terminal	510
+в	Word	--	Terminal	510
+себя	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	D	515
+#501	FN	--	P	515
+#502	FN	--	R	514
+#503	FN	--	C	514
+#504	FN	--	C	512
+#505	FN	--	N	512
+#506	FN	--	C	512
+#507	PNCT	--	U	515
+#508	FN	--	A	513	A*	515
+#509	FN	--	D	513
+#510	FN	--	P	513
+#511	PNCT	--	U	513
+#512	FN	--	Q	514
+#513	FN	--	H	516
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2037002

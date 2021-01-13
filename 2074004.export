@@ -1,0 +1,53 @@
+#BOS 2074004
+Это	Word	--	Terminal	500
+что	Word	--	Terminal	501
+же	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+мухи	Word	--	Terminal	504
+?	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+Да	Word	--	Terminal	507
+нет	Word	--	Terminal	508
+же	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+такие	Word	--	Terminal	511
+маленькие	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+блестящие	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+-	Punctuation	--	Terminal	516
+#500	FN	--	A	523	A*	521
+#501	FN	--	F	523
+#502	FN	--	F	523
+#503	PNCT	--	U	523
+#504	FN	--	A	523	A*	521
+#505	PNCT	--	U	521
+#506	PNCT	--	U	521
+#507	FN	--	F	521
+#508	FN	--	G	521
+#509	FN	--	F	521
+#510	PNCT	--	U	528
+#511	FN	--	E	524
+#512	FN	--	C	517
+#513	PNCT	--	U	517
+#514	FN	--	C	517
+#515	PNCT	--	U	517
+#516	PNCT	--	U	517
+#517	FN	--	S	525
+#518	FN	--	S	523
+#519	FN	--	S	521
+#520	FN	--	D	521
+#521	FN	--	H	528
+#522	FN	--	C	524
+#523	FN	--	A	529
+#524	FN	--	A	525
+#525	FN	--	H	528
+#526	FN	--	P	529
+#527	FN	--	A	529
+#528	FN	--	A	532
+#529	FN	--	H	533
+#530	FN	--	A	532
+#531	FN	--	P	532
+#532	FN	--	H	533
+#533	FN	--	--	0
+#EOS 2074004

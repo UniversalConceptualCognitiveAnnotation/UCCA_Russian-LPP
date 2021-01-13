@@ -1,0 +1,27 @@
+#BOS 2085004
+Если	Word	--	Terminal	500
+поглядеть	Word	--	Terminal	501
+со	Word	--	Terminal	502
+стороны	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+это	Word	--	Terminal	505
+было	Word	--	Terminal	506
+великолепное	Word	--	Terminal	507
+зрелище	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	514
+#501	FN	--	P	513
+#502	FN	--	R	510
+#503	FN	--	C	510
+#504	PNCT	--	U	513
+#505	FN	--	A	511	A*	513
+#506	FN	--	F	511
+#507	FN	--	D	511
+#508	FN	--	S	511
+#509	PNCT	--	U	511
+#510	FN	--	A	513
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2085004

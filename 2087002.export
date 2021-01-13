@@ -1,0 +1,30 @@
+#BOS 2087002
+Но	Word	--	Terminal	500
+тут	Word	--	Terminal	501
+в	Word	--	Terminal	502
+песке	Word	--	Terminal	503
+шевельнулось	Word	--	Terminal	504
+колечко	Word	--	Terminal	505
+цвета	Word	--	Terminal	506
+лунного	Word	--	Terminal	507
+луча	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	L	516
+#501	FN	--	L	516
+#502	FN	--	R	511
+#503	FN	--	C	511
+#504	FN	--	P	515
+#505	FN	--	C	512
+#506	FN	--	C	512
+#507	FN	--	E	513
+#508	FN	--	C	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	FN	--	A	515
+#512	FN	--	C	514
+#513	FN	--	C	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2087002

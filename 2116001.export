@@ -1,0 +1,46 @@
+#BOS 2116001
+Как	Word	--	Terminal	500
+будто	Word	--	Terminal	500
+вместо	Word	--	Terminal	501
+звезд	Word	--	Terminal	502
+я	Word	--	Terminal	503
+подарил	Word	--	Terminal	504
+тебе	Word	--	Terminal	505
+целую	Word	--	Terminal	506
+кучу	Word	--	Terminal	507
+смеющихся	Word	--	Terminal	508
+бубенцов	Word	--	Terminal	509
+...	Punctuation	--	Terminal	510
+И	Word	--	Terminal	511
+он	Word	--	Terminal	512
+опять	Word	--	Terminal	513
+засмеялся	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	G	521
+#501	FN	--	L	522
+#502	FN	--	A	516
+#503	FN	--	A	521	A*	516
+#504	FN	--	P	521	P*	516
+#505	FN	--	A	521	A*	516
+#506	FN	--	E	517
+#507	FN	--	C	517
+#508	FN	--	S	518
+#509	FN	--	C	519	A*	518
+#510	PNCT	--	U	526
+#511	FN	--	L	526
+#512	FN	--	A	520
+#513	FN	--	D	520
+#514	FN	--	P	520
+#515	PNCT	--	U	520
+#516	FN	--	H	522
+#517	FN	--	Q	519
+#518	FN	--	E	519
+#519	FN	--	A	521
+#520	FN	--	H	526
+#521	FN	--	H	522
+#522	FN	--	A	525
+#523	FN	--	A	525
+#524	FN	--	P	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 2116001

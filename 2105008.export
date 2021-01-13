@@ -1,0 +1,23 @@
+#BOS 2105008
+Мне	Word	--	Terminal	500
+казалось	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+я	Word	--	Terminal	503
+несу	Word	--	Terminal	504
+хрупкое	Word	--	Terminal	505
+сокровище	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	511
+#501	FN	--	P	511
+#502	PNCT	--	U	511
+#503	FN	--	A	510
+#504	FN	--	P	510
+#505	FN	--	S	508
+#506	FN	--	C	509	A*	508
+#507	PNCT	--	U	509
+#508	FN	--	E	509
+#509	FN	--	A	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2105008

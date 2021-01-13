@@ -1,0 +1,55 @@
+#BOS 2066011
+Король	Word	--	Terminal	500
+повел	Word	--	Terminal	501
+рукою	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+скромно	Word	--	Terminal	504
+указывая	Word	--	Terminal	505
+на	Word	--	Terminal	506
+свою	Word	--	Terminal	507
+планету	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+а	Word	--	Terminal	510
+также	Word	--	Terminal	511
+и	Word	--	Terminal	512
+на	Word	--	Terminal	513
+другие	Word	--	Terminal	514
+планеты	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+и	Word	--	Terminal	517
+на	Word	--	Terminal	518
+звезды	Word	--	Terminal	519
+.	Punctuation	--	Terminal	520
+-	Punctuation	--	Terminal	521
+#500	FN	--	A	522	A*	527	A*	528	A*	529
+#501	FN	--	P	523
+#502	FN	--	A	523
+#503	PNCT	--	U	530
+#504	FN	--	D	527
+#505	FN	--	P	527	P*	528	P*	529
+#506	FN	--	R	524
+#507	FN	--	E	524
+#508	FN	--	C	524
+#509	PNCT	--	U	530
+#510	FN	--	L	530
+#511	FN	--	L	530
+#512	FN	--	L	530
+#513	FN	--	R	525
+#514	FN	--	E	525
+#515	FN	--	C	525
+#516	PNCT	--	U	530
+#517	FN	--	L	530
+#518	FN	--	R	526
+#519	FN	--	C	526
+#520	PNCT	--	U	526
+#521	PNCT	--	U	526
+#522	FN	--	A	523
+#523	FN	--	H	530
+#524	FN	--	A	527
+#525	FN	--	A	528
+#526	FN	--	A	529
+#527	FN	--	H	530
+#528	FN	--	H	530
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 2066011

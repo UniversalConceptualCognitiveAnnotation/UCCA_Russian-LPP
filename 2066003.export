@@ -1,0 +1,35 @@
+#BOS 2066003
+Но	Word	--	Terminal	500
+он	Word	--	Terminal	501
+был	Word	--	Terminal	502
+очень	Word	--	Terminal	503
+добр	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+а	Word	--	Terminal	506
+потому	Word	--	Terminal	507
+отдавал	Word	--	Terminal	508
+только	Word	--	Terminal	509
+разумные	Word	--	Terminal	510
+приказания	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+"	Punctuation	--	Terminal	513
+#500	FN	--	L	518
+#501	FN	--	A	514	A*	517
+#502	FN	--	F	514
+#503	FN	--	D	514
+#504	FN	--	S	514
+#505	PNCT	--	U	518
+#506	FN	--	L	518
+#507	FN	--	L	518
+#508	FN	--	F	515
+#509	FN	--	E	516
+#510	FN	--	C	516
+#511	FN	--	C	515
+#512	PNCT	--	U	515
+#513	PNCT	--	U	515
+#514	FN	--	H	518
+#515	FN	--	P	517
+#516	FN	--	D	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2066003

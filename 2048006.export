@@ -1,0 +1,28 @@
+#BOS 2048006
+Я	Word	--	Terminal	500
+охотно	Word	--	Terminal	501
+начал	Word	--	Terminal	502
+бы	Word	--	Terminal	503
+эту	Word	--	Terminal	504
+повесть	Word	--	Terminal	505
+как	Word	--	Terminal	506
+волшебную	Word	--	Terminal	507
+сказку	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	FN	--	D	514
+#503	FN	--	F	514
+#504	FN	--	E	510
+#505	FN	--	C	510
+#506	FN	--	R	512
+#507	FN	--	S	511
+#508	FN	--	C	512	A*	511
+#509	PNCT	--	U	512
+#510	FN	--	A	514
+#511	FN	--	E	512
+#512	FN	--	A	514
+#513	FN	--	P	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2048006

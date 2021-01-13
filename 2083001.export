@@ -1,0 +1,25 @@
+#BOS 2083001
+И	Word	--	Terminal	500
+он	Word	--	Terminal	501
+раскрыл	Word	--	Terminal	502
+толстенную	Word	--	Terminal	503
+книгу	Word	--	Terminal	504
+и	Word	--	Terminal	505
+очинил	Word	--	Terminal	506
+карандаш	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	L	513
+#501	FN	--	A	512	A*	509
+#502	FN	--	P	512
+#503	FN	--	S	510
+#504	FN	--	C	511	A*	510
+#505	FN	--	L	513
+#506	FN	--	P	509
+#507	FN	--	A	509
+#508	PNCT	--	U	509
+#509	FN	--	H	513
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2083001

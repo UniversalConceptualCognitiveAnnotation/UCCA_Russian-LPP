@@ -1,0 +1,24 @@
+#BOS 2049009
+Конечно	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+я	Word	--	Terminal	502
+стараюсь	Word	--	Terminal	503
+передать	Word	--	Terminal	504
+сходство	Word	--	Terminal	505
+как	Word	--	Terminal	506
+можно	Word	--	Terminal	506
+лучше	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	G	510
+#501	PNCT	--	U	510
+#502	FN	--	A	510
+#503	FN	--	D	510
+#504	FN	--	P	510
+#505	FN	--	A	510
+#506	FN	--	E	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	D	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2049009

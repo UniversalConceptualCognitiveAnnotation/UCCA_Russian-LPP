@@ -1,0 +1,20 @@
+#BOS 2059013
+Таинственные	Word	--	Terminal	500
+приготовления	Word	--	Terminal	501
+длились	Word	--	Terminal	502
+день	Word	--	Terminal	503
+за	Word	--	Terminal	504
+днем	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	D	509
+#501	FN	--	P	509
+#502	FN	--	F	508
+#503	FN	--	C	507
+#504	FN	--	N	507
+#505	FN	--	C	507
+#506	PNCT	--	U	507
+#507	FN	--	C	508
+#508	FN	--	T	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2059013

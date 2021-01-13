@@ -1,0 +1,27 @@
+#BOS 2113008
+Малыш	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+я	Word	--	Terminal	502
+хочу	Word	--	Terminal	503
+еще	Word	--	Terminal	504
+послушать	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+как	Word	--	Terminal	507
+ты	Word	--	Terminal	508
+смеешься	Word	--	Terminal	509
+...	Punctuation	--	Terminal	510
+#500	FN	--	G	512
+#501	PNCT	--	U	512
+#502	FN	--	A	512
+#503	FN	--	D	512
+#504	FN	--	D	512
+#505	FN	--	P	512
+#506	PNCT	--	U	512
+#507	FN	--	R	511
+#508	FN	--	A	511
+#509	FN	--	P	511
+#510	PNCT	--	U	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2113008

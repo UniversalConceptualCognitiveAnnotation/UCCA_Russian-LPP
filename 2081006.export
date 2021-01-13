@@ -1,0 +1,49 @@
+#BOS 2081006
+Что	Word	--	Terminal	500
+это	Word	--	Terminal	501
+за	Word	--	Terminal	502
+огромная	Word	--	Terminal	503
+книга	Word	--	Terminal	504
+?	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+спросил	Word	--	Terminal	507
+Маленький	Word	--	Terminal	508
+принц	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+Что	Word	--	Terminal	512
+вы	Word	--	Terminal	513
+здесь	Word	--	Terminal	514
+делаете	Word	--	Terminal	515
+?	Punctuation	--	Terminal	516
+-	Punctuation	--	Terminal	517
+#500	FN	--	A	523
+#501	FN	--	E	519
+#502	FN	--	F	523
+#503	FN	--	S	518
+#504	FN	--	C	519	A*	518
+#505	PNCT	--	U	527
+#506	PNCT	--	U	527
+#507	FN	--	P	527
+#508	FN	--	S	525
+#509	FN	--	A	520
+#510	PNCT	--	U	527
+#511	PNCT	--	U	527
+#512	FN	--	A	521
+#513	FN	--	A	521
+#514	FN	--	A	521
+#515	FN	--	P	521
+#516	PNCT	--	U	521
+#517	PNCT	--	U	521
+#518	FN	--	E	519
+#519	FN	--	A	523
+#520	FN	--	C	526	A*	525
+#521	FN	--	H	524
+#522	FN	--	S	523
+#523	FN	--	H	524
+#524	FN	--	A	527
+#525	FN	--	E	526
+#526	FN	--	A	527
+#527	FN	--	H	528
+#528	FN	--	--	0
+#EOS 2081006

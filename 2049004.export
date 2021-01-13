@@ -1,0 +1,23 @@
+#BOS 2049004
+Это	Word	--	Terminal	500
+очень	Word	--	Terminal	501
+печально	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+когда	Word	--	Terminal	504
+забывают	Word	--	Terminal	505
+друзей	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	F	511
+#501	FN	--	D	511
+#502	FN	--	S	511
+#503	PNCT	--	U	511
+#504	FN	--	R	510
+#505	FN	--	P	510
+#506	FN	--	A	508
+#507	PNCT	--	U	508
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2049004

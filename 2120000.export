@@ -1,0 +1,39 @@
+#BOS 2120000
+Это	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+по	Word	--	Terminal	503
+-	Punctuation	--	Terminal	502
+моему	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+самое	Word	--	Terminal	505
+красивое	Word	--	Terminal	506
+и	Word	--	Terminal	507
+самое	Word	--	Terminal	508
+печальное	Word	--	Terminal	509
+место	Word	--	Terminal	510
+на	Word	--	Terminal	511
+свете	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	520
+#501	PNCT	--	U	520
+#502	PNCT	--	U	503
+#503	FN	--	G	520
+#504	PNCT	--	U	520
+#505	FN	--	D	514
+#506	FN	--	S	514
+#507	FN	--	N	518
+#508	FN	--	D	515
+#509	FN	--	S	515
+#510	FN	--	C	519	A*	514	A*	515
+#511	FN	--	R	516
+#512	FN	--	C	516
+#513	PNCT	--	U	516
+#514	FN	--	C	518
+#515	FN	--	C	518
+#516	FN	--	E	519
+#517	FN	--	S	520
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2120000

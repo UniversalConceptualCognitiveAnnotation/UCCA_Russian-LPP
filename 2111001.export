@@ -1,0 +1,32 @@
+#BOS 2111001
+Но	Word	--	Terminal	500
+нигде	Word	--	Terminal	501
+у	Word	--	Terminal	502
+стены	Word	--	Terminal	503
+я	Word	--	Terminal	504
+больше	Word	--	Terminal	505
+никого	Word	--	Terminal	506
+не	Word	--	Terminal	507
+видел	Word	--	Terminal	508
+и	Word	--	Terminal	509
+не	Word	--	Terminal	510
+слышал	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	L	516
+#501	FN	--	E	513
+#502	FN	--	R	513
+#503	FN	--	C	513
+#504	FN	--	A	514	A*	515
+#505	FN	--	D	514
+#506	FN	--	A	514	A*	515
+#507	FN	--	D	514
+#508	FN	--	P	514
+#509	FN	--	L	516
+#510	FN	--	D	515
+#511	FN	--	P	515
+#512	PNCT	--	U	515
+#513	FN	--	A	514
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2111001

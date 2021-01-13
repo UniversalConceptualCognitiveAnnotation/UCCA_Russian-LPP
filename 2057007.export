@@ -1,0 +1,15 @@
+#BOS 2057007
+И	Word	--	Terminal	500
+прямо	Word	--	Terminal	501
+раздувается	Word	--	Terminal	502
+от	Word	--	Terminal	502
+гордости	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+#500	FN	--	L	506
+#501	FN	--	L	506
+#502	FN	--	S	505
+#503	PNCT	--	U	505
+#504	FN	--	A	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 2057007

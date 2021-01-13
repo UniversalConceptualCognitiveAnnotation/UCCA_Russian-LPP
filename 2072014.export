@@ -1,0 +1,47 @@
+#BOS 2072014
+Да	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+право	Word	--	Terminal	502
+же	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+взрослые	Word	--	Terminal	504
+очень	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+очень	Word	--	Terminal	507
+странный	Word	--	Terminal	508
+народ	Word	--	Terminal	509
+",	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+подумал	Word	--	Terminal	512
+он	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+продолжая	Word	--	Terminal	515
+путь	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	G	523
+#501	PNCT	--	U	523
+#502	FN	--	G	523
+#503	PNCT	--	U	523
+#504	FN	--	A	523
+#505	FN	--	C	518
+#506	PNCT	--	U	518
+#507	FN	--	C	518
+#508	FN	--	S	519
+#509	FN	--	C	520	A*	519
+#510	PNCT	--	U	524
+#511	PNCT	--	U	524
+#512	FN	--	P	524
+#513	FN	--	A	524	A*	521
+#514	PNCT	--	U	521
+#515	FN	--	D	521
+#516	FN	--	P	521
+#517	PNCT	--	U	521
+#518	FN	--	D	519
+#519	FN	--	E	520
+#520	FN	--	A	523
+#521	FN	--	H	525
+#522	FN	--	S	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 2072014

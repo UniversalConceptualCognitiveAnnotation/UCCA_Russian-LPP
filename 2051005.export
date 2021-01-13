@@ -1,0 +1,53 @@
+#BOS 2051005
+А	Word	--	Terminal	500
+значит	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+есть	Word	--	Terminal	503
+там	Word	--	Terminal	504
+хорошие	Word	--	Terminal	505
+семена	Word	--	Terminal	506
+хороших	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+полезных	Word	--	Terminal	509
+трав	Word	--	Terminal	510
+и	Word	--	Terminal	511
+вредные	Word	--	Terminal	512
+семена	Word	--	Terminal	513
+дурной	Word	--	Terminal	514
+,	Punctuation	--	Terminal	515
+сорной	Word	--	Terminal	516
+травы	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	L	531
+#501	FN	--	L	531
+#502	PNCT	--	U	531
+#503	FN	--	S	529	S*	530
+#504	FN	--	A	529
+#505	FN	--	S	519
+#506	FN	--	C	527	A*	519
+#507	FN	--	S	520
+#508	PNCT	--	U	522
+#509	FN	--	S	521
+#510	FN	--	C	522	A*	520	A*	521
+#511	FN	--	L	531
+#512	FN	--	S	523
+#513	FN	--	C	528	A*	523
+#514	FN	--	S	524
+#515	PNCT	--	U	526
+#516	FN	--	S	525
+#517	FN	--	C	526	A*	524	A*	525
+#518	PNCT	--	U	526
+#519	FN	--	E	527
+#520	FN	--	E	522
+#521	FN	--	E	522
+#522	FN	--	E	527
+#523	FN	--	E	528
+#524	FN	--	E	526
+#525	FN	--	E	526
+#526	FN	--	E	528
+#527	FN	--	A	529
+#528	FN	--	A	530
+#529	FN	--	H	531
+#530	FN	--	H	531
+#531	FN	--	--	0
+#EOS 2051005

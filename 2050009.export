@@ -1,0 +1,45 @@
+#BOS 2050009
+Услыхав	Word	--	Terminal	500
+про	Word	--	Terminal	501
+слонов	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+Маленький	Word	--	Terminal	504
+принц	Word	--	Terminal	505
+засмеялся	Word	--	Terminal	506
+:	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+Их	Word	--	Terminal	509
+пришлось	Word	--	Terminal	510
+бы	Word	--	Terminal	511
+поставить	Word	--	Terminal	512
+друг	Word	--	Terminal	513
+на	Word	--	Terminal	513
+друга	Word	--	Terminal	513
+...	Punctuation	--	Terminal	514
+#500	FN	--	P	516
+#501	FN	--	R	515
+#502	FN	--	C	515
+#503	PNCT	--	U	525
+#504	FN	--	S	518
+#505	FN	--	A	517	A*	516	A*	524
+#506	FN	--	P	521
+#507	PNCT	--	U	525
+#508	PNCT	--	U	525
+#509	FN	--	A	523
+#510	FN	--	D	523
+#511	FN	--	F	523
+#512	FN	--	P	523
+#513	FN	--	D	523
+#514	PNCT	--	U	523
+#515	FN	--	A	516
+#516	FN	--	H	525
+#517	FN	--	C	520	A*	518
+#518	FN	--	E	520
+#519	FN	--	P	524
+#520	FN	--	A	521
+#521	FN	--	H	525
+#522	FN	--	A	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 2050009

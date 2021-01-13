@@ -1,0 +1,24 @@
+#BOS 2120007
+не	Word	--	Terminal	500
+забудьте	Word	--	Terminal	501
+утешить	Word	--	Terminal	502
+меня	Word	--	Terminal	503
+в	Word	--	Terminal	504
+моей	Word	--	Terminal	505
+печали	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	D	512
+#501	FN	--	P	512
+#502	FN	--	P	511
+#503	FN	--	A	511
+#504	FN	--	R	508
+#505	FN	--	A	508
+#506	FN	--	S	508
+#507	PNCT	--	U	508
+#508	FN	--	A	511
+#509	FN	--	A	512
+#510	FN	--	A	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2120007

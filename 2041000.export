@@ -1,0 +1,23 @@
+#BOS 2041000
+Но	Word	--	Terminal	500
+он	Word	--	Terminal	501
+и	Word	--	Terminal	502
+от	Word	--	Terminal	503
+этого	Word	--	Terminal	504
+рисунка	Word	--	Terminal	505
+отказался	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+#500	FN	--	L	511
+#501	FN	--	A	510
+#502	FN	--	E	509
+#503	FN	--	R	509
+#504	FN	--	E	509
+#505	FN	--	C	509
+#506	FN	--	P	510
+#507	PNCT	--	U	510
+#508	PNCT	--	U	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2041000

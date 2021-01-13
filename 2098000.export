@@ -1,0 +1,29 @@
+#BOS 2098000
+Назавтра	Word	--	Terminal	500
+Маленький	Word	--	Terminal	501
+принц	Word	--	Terminal	502
+вновь	Word	--	Terminal	503
+пришел	Word	--	Terminal	504
+на	Word	--	Terminal	505
+то	Word	--	Terminal	506
+же	Word	--	Terminal	506
+место	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+#500	FN	--	T	514
+#501	FN	--	S	512
+#502	FN	--	S	510
+#503	FN	--	D	514
+#504	FN	--	P	514
+#505	FN	--	R	511
+#506	FN	--	E	511
+#507	FN	--	C	511
+#508	PNCT	--	U	511
+#509	PNCT	--	U	511
+#510	FN	--	C	513	A*	512
+#511	FN	--	A	514
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2098000

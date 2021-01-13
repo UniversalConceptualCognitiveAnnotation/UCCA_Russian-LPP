@@ -1,0 +1,24 @@
+#BOS 2077010
+Зачем	Word	--	Terminal	500
+же	Word	--	Terminal	501
+ты	Word	--	Terminal	502
+опять	Word	--	Terminal	503
+его	Word	--	Terminal	504
+зажег	Word	--	Terminal	505
+?	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	H	509
+#501	FN	--	F	508
+#502	FN	--	A	508
+#503	FN	--	D	508
+#504	FN	--	A	508
+#505	FN	--	P	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	H	509
+#509	FN	--	A	512
+#510	FN	--	A	512
+#511	FN	--	P	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2077010

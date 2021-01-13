@@ -1,0 +1,31 @@
+#BOS 2080002
+Плохо	Word	--	Terminal	500
+мое	Word	--	Terminal	501
+дело	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+подтвердил	Word	--	Terminal	505
+фонарщик	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+Добрый	Word	--	Terminal	509
+день	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	S	513
+#501	FN	--	E	511
+#502	FN	--	C	511
+#503	PNCT	--	U	515
+#504	PNCT	--	U	515
+#505	FN	--	P	515
+#506	FN	--	A	512
+#507	PNCT	--	U	515
+#508	PNCT	--	U	515
+#509	FN	--	H	514
+#510	PNCT	--	U	514
+#511	FN	--	A	513
+#512	FN	--	A	515
+#513	FN	--	H	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2080002

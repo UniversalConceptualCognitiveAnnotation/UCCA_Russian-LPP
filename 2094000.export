@@ -1,0 +1,24 @@
+#BOS 2094000
+XXI	Word	--	Terminal	500
+Вот	Word	--	Terminal	502
+тут	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+то	Word	--	Terminal	502
+и	Word	--	Terminal	503
+появился	Word	--	Terminal	504
+Лис	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	Q	510
+#501	PNCT	--	U	502
+#502	FN	--	T	508
+#503	FN	--	L	511
+#504	FN	--	P	508
+#505	FN	--	A	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	H	511
+#509	FN	--	C	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2094000

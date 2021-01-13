@@ -1,0 +1,45 @@
+#BOS 2105005
+Я	Word	--	Terminal	500
+очень	Word	--	Terminal	501
+рад	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+что	Word	--	Terminal	504
+ты	Word	--	Terminal	505
+согласен	Word	--	Terminal	506
+с	Word	--	Terminal	507
+моим	Word	--	Terminal	508
+другом	Word	--	Terminal	509
+Лисом	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+отозвался	Word	--	Terminal	513
+Маленький	Word	--	Terminal	514
+принц	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	A	521
+#501	FN	--	D	521
+#502	FN	--	S	521
+#503	PNCT	--	U	521
+#504	FN	--	R	520
+#505	FN	--	A	520
+#506	FN	--	P	520
+#507	FN	--	R	518
+#508	FN	--	A	517
+#509	FN	--	S	517
+#510	FN	--	C	518	A*	517
+#511	PNCT	--	U	524
+#512	PNCT	--	U	524
+#513	FN	--	P	524
+#514	FN	--	S	522
+#515	FN	--	A	519
+#516	PNCT	--	U	519
+#517	FN	--	E	518
+#518	FN	--	A	520
+#519	FN	--	C	523	A*	522
+#520	FN	--	A	521
+#521	FN	--	A	524
+#522	FN	--	E	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 2105005

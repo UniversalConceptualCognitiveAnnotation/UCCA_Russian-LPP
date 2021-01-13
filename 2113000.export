@@ -1,0 +1,22 @@
+#BOS 2113000
+Он	Word	--	Terminal	500
+задумчиво	Word	--	Terminal	501
+смотрел	Word	--	Terminal	502
+куда	Word	--	Terminal	504
+-	Punctuation	--	Terminal	503
+то	Word	--	Terminal	504
+вдаль	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	A	509
+#501	FN	--	D	509
+#502	FN	--	P	509
+#503	PNCT	--	U	504
+#504	FN	--	C	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2113000

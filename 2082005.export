@@ -1,0 +1,51 @@
+#BOS 2082005
+Я	Word	--	Terminal	500
+знал	Word	--	Terminal	501
+одного	Word	--	Terminal	502
+человека	Word	--	Terminal	503
+...	Punctuation	--	Terminal	504
+Из	Word	--	Terminal	505
+него	Word	--	Terminal	506
+вышел	Word	--	Terminal	507
+бы	Word	--	Terminal	508
+плохой	Word	--	Terminal	509
+путешественник	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+сказал	Word	--	Terminal	513
+Маленький	Word	--	Terminal	514
+принц	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+-	Punctuation	--	Terminal	517
+#500	FN	--	A	523
+#501	FN	--	P	523
+#502	FN	--	Q	518
+#503	FN	--	C	518
+#504	PNCT	--	U	528
+#505	FN	--	R	519
+#506	FN	--	C	519
+#507	FN	--	P	527
+#508	FN	--	F	527
+#509	FN	--	S	520
+#510	FN	--	A	521	A*	520
+#511	PNCT	--	U	529
+#512	PNCT	--	U	529
+#513	FN	--	P	529
+#514	FN	--	S	525
+#515	FN	--	A	522
+#516	PNCT	--	U	522
+#517	PNCT	--	U	522
+#518	FN	--	A	523
+#519	FN	--	A	527
+#520	FN	--	E	524
+#521	FN	--	C	524
+#522	FN	--	C	526	A*	525
+#523	FN	--	H	528
+#524	FN	--	A	527
+#525	FN	--	E	526
+#526	FN	--	A	529
+#527	FN	--	H	528
+#528	FN	--	A	529
+#529	FN	--	H	530
+#530	FN	--	--	0
+#EOS 2082005

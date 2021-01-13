@@ -1,0 +1,40 @@
+#BOS 2081014
+О	Word	--	Terminal	501
+-	Punctuation	--	Terminal	500
+о	Word	--	Terminal	501
+...	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+разочарованно	Word	--	Terminal	504
+протянул	Word	--	Terminal	505
+Маленький	Word	--	Terminal	506
+принц	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+А	Word	--	Terminal	510
+горы	Word	--	Terminal	511
+есть	Word	--	Terminal	512
+?	Punctuation	--	Terminal	513
+-	Punctuation	--	Terminal	514
+#500	PNCT	--	U	501
+#501	FN	--	G	517
+#502	PNCT	--	U	520
+#503	PNCT	--	U	520
+#504	FN	--	D	520
+#505	FN	--	P	520
+#506	FN	--	S	518
+#507	FN	--	A	515
+#508	PNCT	--	U	520
+#509	PNCT	--	U	520
+#510	FN	--	L	517
+#511	FN	--	A	516
+#512	FN	--	S	516
+#513	PNCT	--	U	516
+#514	PNCT	--	U	516
+#515	FN	--	C	519	A*	518
+#516	FN	--	H	517
+#517	FN	--	A	520
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2081014

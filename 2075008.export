@@ -1,0 +1,23 @@
+#BOS 2075008
+Однако	Word	--	Terminal	500
+Маленькому	Word	--	Terminal	501
+принцу	Word	--	Terminal	502
+этого	Word	--	Terminal	503
+было	Word	--	Terminal	504
+мало	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	L	512
+#501	FN	--	S	509
+#502	FN	--	A	508
+#503	FN	--	A	511
+#504	FN	--	F	511
+#505	FN	--	S	511
+#506	PNCT	--	U	511
+#507	PNCT	--	U	511
+#508	FN	--	C	510	A*	509
+#509	FN	--	E	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2075008

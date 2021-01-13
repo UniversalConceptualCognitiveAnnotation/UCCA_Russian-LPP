@@ -1,0 +1,27 @@
+#BOS 2091000
+XIX	Word	--	Terminal	500
+Маленький	Word	--	Terminal	501
+принц	Word	--	Terminal	502
+поднялся	Word	--	Terminal	503
+на	Word	--	Terminal	504
+высокую	Word	--	Terminal	505
+гору	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	Q	515
+#501	FN	--	S	512
+#502	FN	--	A	508
+#503	FN	--	P	514
+#504	FN	--	R	510
+#505	FN	--	S	509
+#506	FN	--	C	510	A*	509
+#507	PNCT	--	U	510
+#508	FN	--	C	513	A*	512
+#509	FN	--	E	510
+#510	FN	--	A	514
+#511	FN	--	C	515
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	516
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2091000

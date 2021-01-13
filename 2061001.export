@@ -1,0 +1,28 @@
+#BOS 2061001
+Ведь	Word	--	Terminal	500
+ее	Word	--	Terminal	501
+занесло	Word	--	Terminal	502
+сюда	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+когда	Word	--	Terminal	505
+она	Word	--	Terminal	506
+была	Word	--	Terminal	507
+еще	Word	--	Terminal	508
+зернышком	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	514
+#501	FN	--	A	513
+#502	FN	--	P	513
+#503	FN	--	A	513
+#504	PNCT	--	U	514
+#505	FN	--	L	514
+#506	FN	--	A	511
+#507	FN	--	S	511
+#508	FN	--	D	511
+#509	FN	--	A	511
+#510	PNCT	--	U	511
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2061001

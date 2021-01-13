@@ -1,0 +1,31 @@
+#BOS 2102006
+А	Word	--	Terminal	500
+что	Word	--	Terminal	501
+делать	Word	--	Terminal	502
+в	Word	--	Terminal	503
+эти	Word	--	Terminal	504
+пятьдесят	Word	--	Terminal	505
+три	Word	--	Terminal	506
+минуты	Word	--	Terminal	507
+?	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+#500	FN	--	L	514
+#501	FN	--	A	513
+#502	FN	--	P	513
+#503	FN	--	R	511
+#504	FN	--	E	511
+#505	FN	--	C	510
+#506	FN	--	C	510
+#507	FN	--	C	511
+#508	PNCT	--	U	511
+#509	PNCT	--	U	511
+#510	FN	--	Q	511
+#511	FN	--	T	513
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	A	517
+#515	FN	--	A	517
+#516	FN	--	P	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2102006

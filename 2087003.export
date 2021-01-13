@@ -1,0 +1,28 @@
+#BOS 2087003
+Добрый	Word	--	Terminal	500
+вечер	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+сказал	Word	--	Terminal	503
+на	Word	--	Terminal	504
+всякий	Word	--	Terminal	504
+случай	Word	--	Terminal	504
+Маленький	Word	--	Terminal	505
+принц	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+#500	FN	--	A	512
+#501	PNCT	--	U	512
+#502	PNCT	--	U	512
+#503	FN	--	P	512
+#504	FN	--	D	512
+#505	FN	--	S	510
+#506	FN	--	A	509
+#507	PNCT	--	U	509
+#508	PNCT	--	U	509
+#509	FN	--	C	511	A*	510
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2087003

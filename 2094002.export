@@ -1,0 +1,41 @@
+#BOS 2094002
+Здравствуй	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+вежливо	Word	--	Terminal	503
+ответил	Word	--	Terminal	504
+Маленький	Word	--	Terminal	505
+принц	Word	--	Terminal	506
+и	Word	--	Terminal	507
+оглянулся	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+но	Word	--	Terminal	510
+никого	Word	--	Terminal	511
+не	Word	--	Terminal	512
+увидел	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+-	Punctuation	--	Terminal	515
+#500	FN	--	A	521
+#501	PNCT	--	U	521
+#502	PNCT	--	U	521
+#503	FN	--	D	521
+#504	FN	--	P	521
+#505	FN	--	S	519
+#506	FN	--	A	516
+#507	FN	--	L	522
+#508	FN	--	P	517
+#509	PNCT	--	U	522
+#510	FN	--	L	522
+#511	FN	--	A	518
+#512	FN	--	D	518
+#513	FN	--	P	518
+#514	PNCT	--	U	518
+#515	PNCT	--	U	518
+#516	FN	--	C	520	A*	517	A*	518	A*	519
+#517	FN	--	H	522
+#518	FN	--	H	522
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 2094002

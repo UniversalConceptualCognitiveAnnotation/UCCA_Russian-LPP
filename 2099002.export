@@ -1,0 +1,28 @@
+#BOS 2099002
+Я	Word	--	Terminal	500
+буду	Word	--	Terminal	501
+плакать	Word	--	Terminal	502
+о	Word	--	Terminal	503
+тебе	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+вздохнул	Word	--	Terminal	507
+Лис	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	A	512
+#501	FN	--	F	512
+#502	FN	--	P	512
+#503	FN	--	R	511
+#504	FN	--	C	511
+#505	PNCT	--	U	513
+#506	PNCT	--	U	513
+#507	FN	--	P	513
+#508	FN	--	A	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	FN	--	A	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2099002

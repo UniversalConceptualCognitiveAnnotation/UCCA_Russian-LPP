@@ -1,0 +1,21 @@
+#BOS 2081005
+Откуда	Word	--	Terminal	500
+ты	Word	--	Terminal	501
+?	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+спросил	Word	--	Terminal	504
+старик	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	S	508
+#501	FN	--	A	508
+#502	PNCT	--	U	509
+#503	PNCT	--	U	509
+#504	FN	--	P	509
+#505	FN	--	A	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2081005

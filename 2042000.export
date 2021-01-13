@@ -1,0 +1,27 @@
+#BOS 2042000
+III	Word	--	Terminal	500
+Не	Word	--	Terminal	501
+скоро	Word	--	Terminal	502
+я	Word	--	Terminal	503
+понял	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+откуда	Word	--	Terminal	506
+он	Word	--	Terminal	507
+явился	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	Q	513
+#501	FN	--	D	512
+#502	FN	--	D	512
+#503	FN	--	A	512
+#504	FN	--	P	512
+#505	PNCT	--	U	512
+#506	FN	--	A	510
+#507	FN	--	A	510
+#508	FN	--	P	510
+#509	PNCT	--	U	510
+#510	FN	--	A	512
+#511	FN	--	C	513
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2042000

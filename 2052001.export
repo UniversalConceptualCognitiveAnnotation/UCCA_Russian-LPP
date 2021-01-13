@@ -1,0 +1,36 @@
+#BOS 2052001
+А	Word	--	Terminal	500
+если	Word	--	Terminal	501
+баобаб	Word	--	Terminal	502
+не	Word	--	Terminal	503
+распознать	Word	--	Terminal	504
+вовремя	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+потом	Word	--	Terminal	507
+от	Word	--	Terminal	508
+него	Word	--	Terminal	509
+уже	Word	--	Terminal	510
+не	Word	--	Terminal	511
+избавишься	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	519
+#501	FN	--	L	519
+#502	FN	--	A	516
+#503	FN	--	D	516
+#504	FN	--	P	516
+#505	FN	--	T	516
+#506	PNCT	--	U	519
+#507	FN	--	T	518
+#508	FN	--	R	514
+#509	FN	--	C	514
+#510	FN	--	D	518
+#511	FN	--	D	518
+#512	FN	--	P	518
+#513	PNCT	--	U	518
+#514	FN	--	A	518
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2052001

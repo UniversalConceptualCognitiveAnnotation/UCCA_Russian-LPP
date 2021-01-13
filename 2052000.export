@@ -1,0 +1,17 @@
+#BOS 2052000
+Почва	Word	--	Terminal	500
+планеты	Word	--	Terminal	501
+вся	Word	--	Terminal	502
+заражена	Word	--	Terminal	503
+ими	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	C	506
+#501	FN	--	E	506
+#502	FN	--	Q	506
+#503	FN	--	S	507
+#504	FN	--	A	507
+#505	PNCT	--	U	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 2052000

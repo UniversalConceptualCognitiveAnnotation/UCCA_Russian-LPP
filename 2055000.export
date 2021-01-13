@@ -1,0 +1,46 @@
+#BOS 2055000
+VII	Word	--	Terminal	500
+На	Word	--	Terminal	501
+пятый	Word	--	Terminal	502
+день	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+опять	Word	--	Terminal	505
+-	Punctuation	--	Terminal	506
+таки	Word	--	Terminal	507
+благодаря	Word	--	Terminal	508
+барашку	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+я	Word	--	Terminal	511
+узнал	Word	--	Terminal	512
+секрет	Word	--	Terminal	513
+Маленького	Word	--	Terminal	514
+принца	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	Q	522
+#501	FN	--	R	517
+#502	FN	--	Q	517
+#503	FN	--	C	517
+#504	PNCT	--	U	525
+#505	FN	--	D	525
+#506	PNCT	--	U	525
+#507	FN	--	F	525
+#508	FN	--	R	518
+#509	FN	--	C	518
+#510	PNCT	--	U	525
+#511	FN	--	A	525
+#512	FN	--	P	525
+#513	FN	--	C	524
+#514	FN	--	S	521
+#515	FN	--	A	519
+#516	PNCT	--	U	519
+#517	FN	--	T	525
+#518	FN	--	A	525
+#519	FN	--	C	523	A*	521
+#520	FN	--	C	522
+#521	FN	--	E	523
+#522	FN	--	H	526
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 2055000

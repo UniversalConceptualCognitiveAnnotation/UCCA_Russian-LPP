@@ -1,0 +1,36 @@
+#BOS 2053007
+Ответ	Word	--	Terminal	500
+очень	Word	--	Terminal	501
+прост	Word	--	Terminal	502
+:	Punctuation	--	Terminal	503
+я	Word	--	Terminal	504
+старался	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+но	Word	--	Terminal	507
+у	Word	--	Terminal	508
+меня	Word	--	Terminal	509
+ничего	Word	--	Terminal	510
+не	Word	--	Terminal	511
+вышло	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	514
+#501	FN	--	D	514
+#502	FN	--	S	514
+#503	PNCT	--	U	519
+#504	FN	--	A	518
+#505	FN	--	D	518
+#506	PNCT	--	U	519
+#507	FN	--	L	519
+#508	FN	--	R	515
+#509	FN	--	C	515
+#510	FN	--	A	516
+#511	FN	--	D	516
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	FN	--	H	519
+#515	FN	--	A	516
+#516	FN	--	H	519
+#517	FN	--	P	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2053007

@@ -1,0 +1,31 @@
+#BOS 2055003
+Даже	Word	--	Terminal	500
+такие	Word	--	Terminal	501
+цветы	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+у	Word	--	Terminal	504
+которых	Word	--	Terminal	505
+шипы	Word	--	Terminal	506
+?	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+#500	FN	--	E	512
+#501	FN	--	E	512
+#502	FN	--	C	512
+#503	PNCT	--	U	512
+#504	FN	--	R	509
+#505	FN	--	C	509
+#506	FN	--	A	511
+#507	PNCT	--	U	511
+#508	PNCT	--	U	511
+#509	FN	--	A	511
+#510	FN	--	S	511
+#511	FN	--	E	512
+#512	FN	--	A	515
+#513	FN	--	A	515
+#514	FN	--	P	515
+#515	FN	--	A	518
+#516	FN	--	A	518
+#517	FN	--	P	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2055003

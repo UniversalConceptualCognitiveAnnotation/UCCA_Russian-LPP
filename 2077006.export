@@ -1,0 +1,30 @@
+#BOS 2077006
+Такой	Word	--	Terminal	500
+уговор	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+ответил	Word	--	Terminal	504
+фонарщик	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+Добрый	Word	--	Terminal	508
+день	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	A	511
+#501	FN	--	S	511
+#502	PNCT	--	U	514
+#503	PNCT	--	U	514
+#504	FN	--	P	514
+#505	FN	--	A	512
+#506	PNCT	--	U	514
+#507	PNCT	--	U	514
+#508	FN	--	H	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	FN	--	H	513
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2077006

@@ -1,0 +1,35 @@
+#BOS 2051007
+Они	Word	--	Terminal	500
+спят	Word	--	Terminal	501
+глубоко	Word	--	Terminal	502
+под	Word	--	Terminal	503
+землей	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+пока	Word	--	Terminal	506
+одно	Word	--	Terminal	507
+из	Word	--	Terminal	508
+них	Word	--	Terminal	509
+не	Word	--	Terminal	510
+вздумает	Word	--	Terminal	511
+проснуться	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	517
+#501	FN	--	P	517
+#502	FN	--	D	517
+#503	FN	--	R	514
+#504	FN	--	C	514
+#505	PNCT	--	U	518
+#506	FN	--	L	518
+#507	FN	--	Q	515
+#508	FN	--	R	515
+#509	FN	--	C	515
+#510	FN	--	D	516
+#511	FN	--	D	516
+#512	FN	--	P	516
+#513	PNCT	--	U	516
+#514	FN	--	A	517
+#515	FN	--	A	516
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2051007

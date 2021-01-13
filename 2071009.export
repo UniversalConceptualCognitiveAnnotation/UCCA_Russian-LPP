@@ -1,0 +1,39 @@
+#BOS 2071009
+Здесь	Word	--	Terminal	500
+веселее	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+чем	Word	--	Terminal	503
+у	Word	--	Terminal	504
+старого	Word	--	Terminal	505
+короля	Word	--	Terminal	506
+",	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+подумал	Word	--	Terminal	509
+Маленький	Word	--	Terminal	510
+принц	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	513
+#501	FN	--	S	513	S*	518
+#502	PNCT	--	U	519
+#503	FN	--	L	519
+#504	FN	--	R	517
+#505	FN	--	S	514
+#506	FN	--	A	515	A*	514
+#507	PNCT	--	U	522
+#508	PNCT	--	U	522
+#509	FN	--	P	522
+#510	FN	--	S	520
+#511	FN	--	A	516
+#512	PNCT	--	U	516
+#513	FN	--	H	519
+#514	FN	--	E	517
+#515	FN	--	C	517
+#516	FN	--	C	521	A*	520
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	A	522
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2071009

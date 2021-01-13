@@ -1,0 +1,28 @@
+#BOS 2039000
+Итак	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+я	Word	--	Terminal	502
+во	Word	--	Terminal	503
+все	Word	--	Terminal	503
+глаза	Word	--	Terminal	503
+смотрел	Word	--	Terminal	504
+на	Word	--	Terminal	505
+это	Word	--	Terminal	506
+необычайное	Word	--	Terminal	507
+явление	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	513
+#501	PNCT	--	U	513
+#502	FN	--	A	512
+#503	FN	--	D	512
+#504	FN	--	P	512
+#505	FN	--	R	511
+#506	FN	--	E	511
+#507	FN	--	S	510
+#508	FN	--	C	511	A*	510
+#509	PNCT	--	U	511
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2039000

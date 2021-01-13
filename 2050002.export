@@ -1,0 +1,31 @@
+#BOS 2050002
+Так	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+на	Word	--	Terminal	502
+третий	Word	--	Terminal	503
+день	Word	--	Terminal	504
+я	Word	--	Terminal	505
+узнал	Word	--	Terminal	506
+о	Word	--	Terminal	507
+трагедии	Word	--	Terminal	508
+с	Word	--	Terminal	509
+баобабами	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	L	516
+#501	PNCT	--	U	516
+#502	FN	--	R	512
+#503	FN	--	Q	512
+#504	FN	--	C	512
+#505	FN	--	A	515
+#506	FN	--	P	515
+#507	FN	--	R	514
+#508	FN	--	S	514
+#509	FN	--	R	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	T	515
+#513	FN	--	A	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2050002

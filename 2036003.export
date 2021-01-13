@@ -1,0 +1,22 @@
+#BOS 2036003
+Это	Word	--	Terminal	500
+был	Word	--	Terminal	501
+удав	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+который	Word	--	Terminal	504
+проглотил	Word	--	Terminal	505
+слона	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	510
+#501	FN	--	S	510
+#502	FN	--	C	509	A*	508
+#503	PNCT	--	U	509
+#504	FN	--	R	508
+#505	FN	--	P	508
+#506	FN	--	A	508
+#507	PNCT	--	U	508
+#508	FN	--	E	509
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2036003

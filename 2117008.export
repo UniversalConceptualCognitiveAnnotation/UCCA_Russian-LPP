@@ -1,0 +1,21 @@
+#BOS 2117008
+Дай	Word	--	Terminal	500
+мне	Word	--	Terminal	501
+сделать	Word	--	Terminal	502
+еще	Word	--	Terminal	503
+шаг	Word	--	Terminal	504
+одному	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	P	510
+#501	FN	--	A	510	A*	508
+#502	FN	--	P	508
+#503	FN	--	E	507
+#504	FN	--	C	507
+#505	FN	--	D	508
+#506	PNCT	--	U	508
+#507	FN	--	A	508
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2117008

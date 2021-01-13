@@ -1,0 +1,31 @@
+#BOS 2101006
+Даже	Word	--	Terminal	500
+сам	Word	--	Terminal	501
+машинист	Word	--	Terminal	502
+этого	Word	--	Terminal	503
+не	Word	--	Terminal	504
+знает	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+сказал	Word	--	Terminal	508
+стрелочник	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	E	513
+#501	FN	--	F	513
+#502	FN	--	A	511
+#503	FN	--	A	514
+#504	FN	--	D	514
+#505	FN	--	P	514
+#506	PNCT	--	U	516
+#507	PNCT	--	U	516
+#508	FN	--	P	516
+#509	FN	--	A	512
+#510	PNCT	--	U	512
+#511	FN	--	C	513
+#512	FN	--	A	516
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2101006

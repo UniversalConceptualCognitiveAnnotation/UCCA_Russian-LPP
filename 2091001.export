@@ -1,0 +1,45 @@
+#BOS 2091001
+Прежде	Word	--	Terminal	500
+он	Word	--	Terminal	501
+никогда	Word	--	Terminal	502
+не	Word	--	Terminal	503
+видал	Word	--	Terminal	504
+гор	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+кроме	Word	--	Terminal	507
+своих	Word	--	Terminal	508
+трех	Word	--	Terminal	509
+вулканов	Word	--	Terminal	510
+,	Punctuation	--	Terminal	511
+которые	Word	--	Terminal	512
+были	Word	--	Terminal	513
+ему	Word	--	Terminal	514
+по	Word	--	Terminal	515
+колено	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	L	524
+#501	FN	--	A	523
+#502	FN	--	T	523
+#503	FN	--	D	523
+#504	FN	--	P	523
+#505	FN	--	C	522
+#506	PNCT	--	U	522
+#507	FN	--	R	521
+#508	FN	--	E	521
+#509	FN	--	Q	521
+#510	FN	--	C	521	A*	520
+#511	PNCT	--	U	521
+#512	FN	--	R	520
+#513	FN	--	S	520
+#514	FN	--	C	519
+#515	FN	--	R	518
+#516	FN	--	C	518
+#517	PNCT	--	U	518
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	E	521
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2091001

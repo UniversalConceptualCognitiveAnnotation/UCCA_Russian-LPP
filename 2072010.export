@@ -1,0 +1,28 @@
+#BOS 2072010
+Отчего	Word	--	Terminal	500
+же	Word	--	Terminal	501
+тебе	Word	--	Terminal	502
+совестно	Word	--	Terminal	503
+?	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+спросил	Word	--	Terminal	506
+Маленький	Word	--	Terminal	507
+принц	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	510
+#501	FN	--	F	510
+#502	FN	--	A	510
+#503	FN	--	S	510
+#504	PNCT	--	U	514
+#505	PNCT	--	U	514
+#506	FN	--	P	514
+#507	FN	--	S	512
+#508	FN	--	A	511
+#509	PNCT	--	U	511
+#510	FN	--	A	514
+#511	FN	--	C	513	A*	512
+#512	FN	--	E	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2072010

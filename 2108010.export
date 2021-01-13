@@ -1,0 +1,36 @@
+#BOS 2108010
+Я	Word	--	Terminal	500
+отдал	Word	--	Terminal	501
+рисунок	Word	--	Terminal	502
+Маленькому	Word	--	Terminal	503
+принцу	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+и	Word	--	Terminal	506
+сердце	Word	--	Terminal	507
+у	Word	--	Terminal	508
+меня	Word	--	Terminal	509
+сжалось	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+#500	FN	--	A	519
+#501	FN	--	P	519
+#502	FN	--	A	519
+#503	FN	--	S	515
+#504	FN	--	S	513
+#505	PNCT	--	U	520
+#506	FN	--	L	520
+#507	FN	--	C	516
+#508	FN	--	R	514
+#509	FN	--	C	514
+#510	FN	--	P	518
+#511	PNCT	--	U	518
+#512	PNCT	--	U	518
+#513	FN	--	C	517	A*	515
+#514	FN	--	E	516
+#515	FN	--	E	517
+#516	FN	--	A	518
+#517	FN	--	A	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 2108010

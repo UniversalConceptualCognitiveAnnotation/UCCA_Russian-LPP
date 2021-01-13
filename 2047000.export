@@ -1,0 +1,50 @@
+#BOS 2047000
+Я	Word	--	Terminal	500
+вам	Word	--	Terminal	501
+рассказал	Word	--	Terminal	502
+так	Word	--	Terminal	503
+подробно	Word	--	Terminal	504
+об	Word	--	Terminal	505
+астероиде	Word	--	Terminal	506
+Б	Word	--	Terminal	508
+-	Punctuation	--	Terminal	507
+612	Word	--	Terminal	508
+и	Word	--	Terminal	509
+даже	Word	--	Terminal	510
+сообщил	Word	--	Terminal	511
+его	Word	--	Terminal	512
+номер	Word	--	Terminal	513
+только	Word	--	Terminal	514
+из	Word	--	Terminal	516
+-	Punctuation	--	Terminal	515
+за	Word	--	Terminal	516
+взрослых	Word	--	Terminal	517
+.	Punctuation	--	Terminal	518
+#500	FN	--	A	524	A*	525
+#501	FN	--	A	524	A*	525
+#502	FN	--	P	524
+#503	FN	--	E	519
+#504	FN	--	C	519
+#505	FN	--	R	520
+#506	FN	--	C	520
+#507	PNCT	--	U	508
+#508	FN	--	Q	520
+#509	FN	--	L	526
+#510	FN	--	G	525
+#511	FN	--	P	525
+#512	FN	--	E	521
+#513	FN	--	C	521
+#514	FN	--	E	523
+#515	PNCT	--	U	516
+#516	FN	--	R	523
+#517	FN	--	A	522
+#518	PNCT	--	U	522
+#519	FN	--	D	524
+#520	FN	--	A	524
+#521	FN	--	A	525
+#522	FN	--	C	523
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 2047000

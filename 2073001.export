@@ -1,0 +1,42 @@
+#BOS 2073001
+Он	Word	--	Terminal	500
+был	Word	--	Terminal	501
+так	Word	--	Terminal	502
+занят	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+что	Word	--	Terminal	505
+при	Word	--	Terminal	506
+появлении	Word	--	Terminal	507
+Маленького	Word	--	Terminal	508
+принца	Word	--	Terminal	509
+даже	Word	--	Terminal	510
+головы	Word	--	Terminal	511
+не	Word	--	Terminal	512
+поднял	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+-	Punctuation	--	Terminal	515
+#500	FN	--	A	516	A*	517
+#501	FN	--	F	516
+#502	FN	--	D	516
+#503	FN	--	S	516
+#504	PNCT	--	U	523
+#505	FN	--	L	523
+#506	FN	--	L	523
+#507	FN	--	P	522
+#508	FN	--	S	520
+#509	FN	--	A	518
+#510	FN	--	G	517
+#511	FN	--	A	517
+#512	FN	--	D	517
+#513	FN	--	P	517
+#514	PNCT	--	U	517
+#515	PNCT	--	U	517
+#516	FN	--	H	523
+#517	FN	--	H	523
+#518	FN	--	C	521	A*	520
+#519	FN	--	A	522
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2073001

@@ -1,0 +1,33 @@
+#BOS 2042006
+Тогда	Word	--	Terminal	500
+малыш	Word	--	Terminal	501
+воскликнул	Word	--	Terminal	502
+:	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+Как	Word	--	Terminal	505
+!	Punctuation	--	Terminal	506
+Ты	Word	--	Terminal	507
+упал	Word	--	Terminal	508
+с	Word	--	Terminal	509
+неба	Word	--	Terminal	510
+?	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+#500	FN	--	L	517
+#501	FN	--	A	516
+#502	FN	--	P	516
+#503	PNCT	--	U	516
+#504	PNCT	--	U	516
+#505	FN	--	G	514
+#506	PNCT	--	U	514
+#507	FN	--	A	514
+#508	FN	--	P	514
+#509	FN	--	R	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	PNCT	--	U	513
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2042006

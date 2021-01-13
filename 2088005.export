@@ -1,0 +1,36 @@
+#BOS 2088005
+И	Word	--	Terminal	500
+обвилась	Word	--	Terminal	501
+вокруг	Word	--	Terminal	502
+щиколотки	Word	--	Terminal	503
+Маленького	Word	--	Terminal	504
+принца	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+словно	Word	--	Terminal	507
+золотой	Word	--	Terminal	508
+браслет	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+-	Punctuation	--	Terminal	511
+#500	FN	--	L	521
+#501	FN	--	P	520
+#502	FN	--	R	519
+#503	FN	--	C	519
+#504	FN	--	S	515
+#505	FN	--	A	512
+#506	PNCT	--	U	521
+#507	FN	--	S	517
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	PNCT	--	U	513
+#512	FN	--	C	518	A*	515
+#513	FN	--	A	517
+#514	FN	--	A	520
+#515	FN	--	E	518
+#516	FN	--	A	517
+#517	FN	--	H	521
+#518	FN	--	E	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2088005

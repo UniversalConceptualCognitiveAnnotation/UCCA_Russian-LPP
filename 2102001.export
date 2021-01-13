@@ -1,0 +1,18 @@
+#BOS 2102001
+Добрый	Word	--	Terminal	500
+день	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+ответил	Word	--	Terminal	503
+торговец	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+#500	FN	--	A	507
+#501	PNCT	--	U	507
+#502	PNCT	--	U	507
+#503	FN	--	P	507
+#504	FN	--	A	506
+#505	PNCT	--	U	506
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 2102001

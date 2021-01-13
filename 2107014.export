@@ -1,0 +1,21 @@
+#BOS 2107014
+И	Word	--	Terminal	500
+от	Word	--	Terminal	501
+этого	Word	--	Terminal	502
+тоже	Word	--	Terminal	503
+я	Word	--	Terminal	504
+был	Word	--	Terminal	505
+счастлив	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	510
+#501	FN	--	R	508
+#502	FN	--	C	508
+#503	FN	--	E	508
+#504	FN	--	A	509
+#505	FN	--	F	509
+#506	FN	--	S	509
+#507	PNCT	--	U	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2107014

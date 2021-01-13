@@ -1,0 +1,45 @@
+#BOS 2055010
+Задав	Word	--	Terminal	500
+какой	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+нибудь	Word	--	Terminal	502
+вопрос	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+Маленький	Word	--	Terminal	505
+принц	Word	--	Terminal	506
+уже	Word	--	Terminal	507
+не	Word	--	Terminal	508
+отступался	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+пока	Word	--	Terminal	511
+не	Word	--	Terminal	512
+получал	Word	--	Terminal	513
+ответа	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	P	518
+#501	PNCT	--	U	502
+#502	FN	--	E	516
+#503	FN	--	C	516
+#504	PNCT	--	U	525
+#505	FN	--	S	519
+#506	FN	--	A	517
+#507	FN	--	D	521
+#508	FN	--	D	521
+#509	FN	--	P	521
+#510	PNCT	--	U	525
+#511	FN	--	L	525
+#512	FN	--	D	524
+#513	FN	--	P	524
+#514	FN	--	P	523
+#515	PNCT	--	U	523
+#516	FN	--	A	518
+#517	FN	--	C	520	A*	518	A*	524	A*	519
+#518	FN	--	H	525
+#519	FN	--	E	520
+#520	FN	--	A	521
+#521	FN	--	H	525
+#522	FN	--	A	523
+#523	FN	--	A	524
+#524	FN	--	H	525
+#525	FN	--	--	0
+#EOS 2055010

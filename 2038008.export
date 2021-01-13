@@ -1,0 +1,42 @@
+#BOS 2038008
+Вообразите	Word	--	Terminal	500
+же	Word	--	Terminal	501
+мое	Word	--	Terminal	502
+удивление	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+когда	Word	--	Terminal	505
+на	Word	--	Terminal	506
+рассвете	Word	--	Terminal	507
+меня	Word	--	Terminal	508
+разбудил	Word	--	Terminal	509
+чей	Word	--	Terminal	511
+-	Punctuation	--	Terminal	510
+то	Word	--	Terminal	511
+тоненький	Word	--	Terminal	512
+голосок	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+#500	FN	--	P	522
+#501	FN	--	F	522
+#502	FN	--	A	515
+#503	FN	--	S	515
+#504	PNCT	--	U	521
+#505	FN	--	L	521
+#506	FN	--	R	516
+#507	FN	--	C	516
+#508	FN	--	A	520
+#509	FN	--	P	520
+#510	PNCT	--	U	511
+#511	FN	--	E	518
+#512	FN	--	S	517
+#513	FN	--	C	518	A*	517
+#514	PNCT	--	U	518
+#515	FN	--	H	521
+#516	FN	--	T	520
+#517	FN	--	E	518
+#518	FN	--	A	520
+#519	FN	--	A	522
+#520	FN	--	H	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2038008

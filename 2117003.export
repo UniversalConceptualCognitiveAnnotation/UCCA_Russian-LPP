@@ -1,0 +1,47 @@
+#BOS 2117003
+Но	Word	--	Terminal	500
+это	Word	--	Terminal	501
+все	Word	--	Terminal	502
+равно	Word	--	Terminal	502
+что	Word	--	Terminal	503
+сбросить	Word	--	Terminal	504
+старую	Word	--	Terminal	505
+оболочку	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+Тут	Word	--	Terminal	508
+нет	Word	--	Terminal	509
+ничего	Word	--	Terminal	510
+печального	Word	--	Terminal	511
+...	Punctuation	--	Terminal	512
+Я	Word	--	Terminal	513
+молчал	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	523
+#501	FN	--	A	522
+#502	FN	--	S	522
+#503	FN	--	R	521
+#504	FN	--	P	521
+#505	FN	--	S	516
+#506	FN	--	C	517	A*	516
+#507	PNCT	--	U	523
+#508	FN	--	A	518
+#509	FN	--	D	518
+#510	FN	--	A	518
+#511	FN	--	S	518
+#512	PNCT	--	U	527
+#513	FN	--	A	519
+#514	FN	--	P	519
+#515	PNCT	--	U	519
+#516	FN	--	E	517
+#517	FN	--	A	521
+#518	FN	--	H	523
+#519	FN	--	H	527
+#520	FN	--	A	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	A	526
+#524	FN	--	A	526
+#525	FN	--	P	526
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 2117003

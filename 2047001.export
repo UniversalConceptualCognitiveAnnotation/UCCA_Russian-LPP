@@ -1,0 +1,15 @@
+#BOS 2047001
+Взрослые	Word	--	Terminal	500
+очень	Word	--	Terminal	501
+любят	Word	--	Terminal	502
+цифры	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	S	505
+#501	FN	--	D	506
+#502	FN	--	P	506
+#503	FN	--	A	506
+#504	PNCT	--	U	506
+#505	FN	--	A	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 2047001

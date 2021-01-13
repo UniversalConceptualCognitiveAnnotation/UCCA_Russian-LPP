@@ -1,0 +1,25 @@
+#BOS 2102002
+Он	Word	--	Terminal	500
+торговал	Word	--	Terminal	501
+самоновейшими	Word	--	Terminal	502
+пилюлями	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+которые	Word	--	Terminal	505
+утоляют	Word	--	Terminal	506
+жажду	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	512
+#501	FN	--	P	512
+#502	FN	--	S	509
+#503	FN	--	C	511	A*	509	A*	510
+#504	PNCT	--	U	511
+#505	FN	--	R	510
+#506	FN	--	P	510
+#507	FN	--	A	510
+#508	PNCT	--	U	510
+#509	FN	--	E	511
+#510	FN	--	E	511
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2102002

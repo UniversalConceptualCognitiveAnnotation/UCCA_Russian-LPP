@@ -1,0 +1,24 @@
+#BOS 2091004
+Добрый	Word	--	Terminal	500
+день	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+сказал	Word	--	Terminal	503
+он	Word	--	Terminal	504
+на	Word	--	Terminal	505
+всякий	Word	--	Terminal	505
+случай	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+"	Punctuation	--	Terminal	507
+#500	FN	--	G	508
+#501	PNCT	--	U	509
+#502	PNCT	--	U	509
+#503	FN	--	P	509
+#504	FN	--	A	509
+#505	FN	--	G	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2091004

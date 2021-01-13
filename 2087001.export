@@ -1,0 +1,36 @@
+#BOS 2087001
+Он	Word	--	Terminal	500
+подумал	Word	--	Terminal	501
+даже	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+что	Word	--	Terminal	504
+залетел	Word	--	Terminal	505
+по	Word	--	Terminal	506
+ошибке	Word	--	Terminal	507
+на	Word	--	Terminal	508
+какую	Word	--	Terminal	510
+-	Punctuation	--	Terminal	509
+то	Word	--	Terminal	510
+другую	Word	--	Terminal	511
+планету	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	A	517	A*	516
+#501	FN	--	P	517
+#502	FN	--	G	517
+#503	PNCT	--	U	517
+#504	FN	--	R	516
+#505	FN	--	P	516
+#506	FN	--	R	514
+#507	FN	--	C	514
+#508	FN	--	R	515
+#509	PNCT	--	U	510
+#510	FN	--	E	515
+#511	FN	--	E	515
+#512	FN	--	C	515
+#513	PNCT	--	U	515
+#514	FN	--	D	516
+#515	FN	--	A	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2087001

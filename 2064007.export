@@ -1,0 +1,26 @@
+#BOS 2064007
+И	Word	--	Terminal	500
+она	Word	--	Terminal	501
+в	Word	--	Terminal	502
+простоте	Word	--	Terminal	503
+душевной	Word	--	Terminal	504
+показала	Word	--	Terminal	505
+свои	Word	--	Terminal	506
+четыре	Word	--	Terminal	507
+шипа	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	513
+#501	FN	--	A	512
+#502	FN	--	R	510
+#503	FN	--	E	510
+#504	FN	--	C	510
+#505	FN	--	P	512
+#506	FN	--	E	511
+#507	FN	--	Q	511
+#508	FN	--	C	511
+#509	PNCT	--	U	511
+#510	FN	--	D	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2064007

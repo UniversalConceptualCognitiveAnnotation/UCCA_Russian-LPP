@@ -1,0 +1,32 @@
+#BOS 2087006
+Вот	Word	--	Terminal	500
+как	Word	--	Terminal	501
+.	Punctuation	--	Terminal	502
+А	Word	--	Terminal	503
+разве	Word	--	Terminal	504
+на	Word	--	Terminal	505
+Земле	Word	--	Terminal	506
+нет	Word	--	Terminal	507
+людей	Word	--	Terminal	508
+?	Punctuation	--	Terminal	509
+-	Punctuation	--	Terminal	510
+#500	FN	--	A	511
+#501	FN	--	S	511
+#502	PNCT	--	U	514
+#503	FN	--	L	514
+#504	FN	--	L	514
+#505	FN	--	R	512
+#506	FN	--	C	512
+#507	FN	--	S	513
+#508	FN	--	A	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	A	517
+#515	FN	--	A	517
+#516	FN	--	P	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2087006

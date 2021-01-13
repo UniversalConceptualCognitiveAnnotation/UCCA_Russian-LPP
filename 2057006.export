@@ -1,0 +1,65 @@
+#BOS 2057006
+И	Word	--	Terminal	500
+с	Word	--	Terminal	501
+утра	Word	--	Terminal	502
+до	Word	--	Terminal	503
+ночи	Word	--	Terminal	504
+твердит	Word	--	Terminal	505
+одно	Word	--	Terminal	506
+:	Punctuation	--	Terminal	507
+"	Punctuation	--	Terminal	508
+Я	Word	--	Terminal	509
+человек	Word	--	Terminal	510
+серьезный	Word	--	Terminal	511
+!	Punctuation	--	Terminal	512
+Я	Word	--	Terminal	513
+человек	Word	--	Terminal	514
+серьезный	Word	--	Terminal	515
+!"	Punctuation	--	Terminal	516
+-	Punctuation	--	Terminal	517
+совсем	Word	--	Terminal	518
+как	Word	--	Terminal	519
+ты	Word	--	Terminal	520
+.	Punctuation	--	Terminal	521
+#500	FN	--	L	540
+#501	FN	--	R	522
+#502	FN	--	C	522
+#503	FN	--	R	523
+#504	FN	--	C	523
+#505	FN	--	P	539	P*	524
+#506	FN	--	Q	530
+#507	PNCT	--	U	538
+#508	PNCT	--	U	538
+#509	FN	--	A	533
+#510	FN	--	C	532	A*	525
+#511	FN	--	S	525
+#512	PNCT	--	U	537
+#513	FN	--	A	536
+#514	FN	--	C	535	A*	526
+#515	FN	--	S	526
+#516	PNCT	--	U	540
+#517	PNCT	--	U	540
+#518	FN	--	E	527
+#519	FN	--	C	527
+#520	FN	--	A	524
+#521	PNCT	--	U	524
+#522	FN	--	T	539
+#523	FN	--	T	539
+#524	FN	--	H	540
+#525	FN	--	E	532
+#526	FN	--	E	535
+#527	FN	--	L	540
+#528	FN	--	A	539
+#529	FN	--	C	530
+#530	FN	--	E	538
+#531	FN	--	S	533
+#532	FN	--	A	533
+#533	FN	--	H	537
+#534	FN	--	S	536
+#535	FN	--	A	536
+#536	FN	--	H	537
+#537	FN	--	C	538
+#538	FN	--	A	539
+#539	FN	--	H	540
+#540	FN	--	--	0
+#EOS 2057006

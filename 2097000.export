@@ -1,0 +1,26 @@
+#BOS 2097000
+Лис	Word	--	Terminal	500
+замолчал	Word	--	Terminal	501
+и	Word	--	Terminal	502
+долго	Word	--	Terminal	503
+смотрел	Word	--	Terminal	504
+на	Word	--	Terminal	505
+Маленького	Word	--	Terminal	506
+принца	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509	A*	513
+#501	FN	--	P	509
+#502	FN	--	L	514
+#503	FN	--	D	513
+#504	FN	--	P	513
+#505	FN	--	R	512
+#506	FN	--	S	511
+#507	FN	--	A	510
+#508	PNCT	--	U	510
+#509	FN	--	H	514
+#510	FN	--	C	512	A*	511
+#511	FN	--	E	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2097000

@@ -1,0 +1,40 @@
+#BOS 2042004
+Это	Word	--	Terminal	500
+не	Word	--	Terminal	501
+штука	Word	--	Terminal	502
+.	Punctuation	--	Terminal	503
+Это	Word	--	Terminal	504
+самолет	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+Мой	Word	--	Terminal	507
+самолет	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+Он	Word	--	Terminal	510
+летает	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+#500	FN	--	A	513
+#501	FN	--	D	513
+#502	FN	--	A	513
+#503	PNCT	--	U	520
+#504	FN	--	A	518	A*	519
+#505	FN	--	A	518
+#506	PNCT	--	U	520
+#507	FN	--	E	514
+#508	FN	--	C	514
+#509	PNCT	--	U	520
+#510	FN	--	A	515
+#511	FN	--	P	515
+#512	PNCT	--	U	515
+#513	FN	--	H	520
+#514	FN	--	A	519
+#515	FN	--	H	520
+#516	FN	--	S	518
+#517	FN	--	S	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	A	523
+#521	FN	--	A	523
+#522	FN	--	P	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2042004

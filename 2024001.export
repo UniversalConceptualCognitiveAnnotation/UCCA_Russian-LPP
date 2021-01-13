@@ -1,0 +1,30 @@
+#BOS 2024001
+На	Word	--	Terminal	500
+картинке	Word	--	Terminal	501
+огромная	Word	--	Terminal	502
+змея	Word	--	Terminal	503
+-	Punctuation	--	Terminal	504
+удав	Word	--	Terminal	505
+-	Punctuation	--	Terminal	506
+глотала	Word	--	Terminal	507
+хищного	Word	--	Terminal	508
+зверя	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	S	515
+#501	FN	--	A	515
+#502	FN	--	S	511
+#503	FN	--	C	512	A*	511
+#504	PNCT	--	U	512
+#505	FN	--	E	512
+#506	PNCT	--	U	514
+#507	FN	--	P	514
+#508	FN	--	E	513
+#509	FN	--	C	513
+#510	PNCT	--	U	513
+#511	FN	--	E	512
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2024001

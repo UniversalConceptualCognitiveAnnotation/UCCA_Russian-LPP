@@ -1,0 +1,21 @@
+#BOS 2038004
+Я	Word	--	Terminal	500
+должен	Word	--	Terminal	501
+был	Word	--	Terminal	502
+исправить	Word	--	Terminal	503
+мотор	Word	--	Terminal	504
+или	Word	--	Terminal	505
+погибнуть	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	A	508	A*	509
+#501	FN	--	D	508
+#502	FN	--	F	508
+#503	FN	--	P	508
+#504	FN	--	A	508
+#505	FN	--	L	510
+#506	FN	--	P	509
+#507	PNCT	--	U	509
+#508	FN	--	H	510
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2038004

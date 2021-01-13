@@ -1,0 +1,28 @@
+#BOS 2049013
+И	Word	--	Terminal	500
+я	Word	--	Terminal	501
+плохо	Word	--	Terminal	502
+помню	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+какого	Word	--	Terminal	505
+цвета	Word	--	Terminal	506
+была	Word	--	Terminal	507
+его	Word	--	Terminal	508
+одежда	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	514
+#501	FN	--	A	513
+#502	FN	--	D	513
+#503	FN	--	P	513
+#504	PNCT	--	U	513
+#505	FN	--	A	512
+#506	FN	--	S	512
+#507	FN	--	F	512
+#508	FN	--	E	511
+#509	FN	--	C	511
+#510	PNCT	--	U	511
+#511	FN	--	A	512
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2049013

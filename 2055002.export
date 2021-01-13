@@ -1,0 +1,25 @@
+#BOS 2055002
+Он	Word	--	Terminal	500
+ест	Word	--	Terminal	501
+все	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+что	Word	--	Terminal	504
+попадется	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	A	510	A*	508
+#501	FN	--	P	510
+#502	FN	--	C	509	A*	508
+#503	PNCT	--	U	509
+#504	FN	--	R	508
+#505	FN	--	S	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	E	509
+#509	FN	--	A	510
+#510	FN	--	A	513
+#511	FN	--	A	513
+#512	FN	--	P	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2055002

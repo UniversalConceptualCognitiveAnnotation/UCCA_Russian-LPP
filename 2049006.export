@@ -1,0 +1,44 @@
+#BOS 2049006
+И	Word	--	Terminal	500
+я	Word	--	Terminal	501
+боюсь	Word	--	Terminal	502
+стать	Word	--	Terminal	503
+таким	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+как	Word	--	Terminal	506
+взрослые	Word	--	Terminal	507
+,	Punctuation	--	Terminal	508
+которым	Word	--	Terminal	509
+ничто	Word	--	Terminal	510
+не	Word	--	Terminal	511
+интересно	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+кроме	Word	--	Terminal	514
+цифр	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	524
+#501	FN	--	A	523	A*	522
+#502	FN	--	S	523
+#503	FN	--	P	522
+#504	FN	--	C	521
+#505	PNCT	--	U	521
+#506	FN	--	R	520
+#507	FN	--	C	520	A*	519
+#508	PNCT	--	U	520
+#509	FN	--	R	519
+#510	FN	--	C	518
+#511	FN	--	D	519
+#512	FN	--	S	519
+#513	PNCT	--	U	519
+#514	FN	--	R	517
+#515	FN	--	C	517
+#516	PNCT	--	U	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	E	520
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2049006

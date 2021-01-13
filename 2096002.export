@@ -1,0 +1,40 @@
+#BOS 2096002
+Лис	Word	--	Terminal	500
+очень	Word	--	Terminal	501
+удивился	Word	--	Terminal	502
+:	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+На	Word	--	Terminal	505
+другой	Word	--	Terminal	506
+планете	Word	--	Terminal	507
+?	Punctuation	--	Terminal	508
+-	Punctuation	--	Terminal	509
+Да	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+-	Punctuation	--	Terminal	512
+#500	FN	--	A	520
+#501	FN	--	D	520
+#502	FN	--	P	520
+#503	PNCT	--	U	520
+#504	PNCT	--	U	520
+#505	FN	--	R	513
+#506	FN	--	E	513
+#507	FN	--	C	513
+#508	PNCT	--	U	518
+#509	PNCT	--	U	518
+#510	FN	--	G	518
+#511	PNCT	--	U	518
+#512	PNCT	--	U	518
+#513	FN	--	A	519	A*	518
+#514	FN	--	S	518
+#515	FN	--	A	518
+#516	FN	--	A	519
+#517	FN	--	S	519
+#518	FN	--	A	523
+#519	FN	--	A	520
+#520	FN	--	H	524
+#521	FN	--	P	523
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2096002

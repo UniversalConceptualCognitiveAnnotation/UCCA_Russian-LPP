@@ -1,0 +1,25 @@
+#BOS 2106001
+Обычно	Word	--	Terminal	500
+здесь	Word	--	Terminal	501
+колодец	Word	--	Terminal	502
+-	Punctuation	--	Terminal	503
+просто	Word	--	Terminal	504
+яма	Word	--	Terminal	505
+в	Word	--	Terminal	506
+песке	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	D	512
+#501	FN	--	A	512
+#502	FN	--	A	512
+#503	PNCT	--	U	512
+#504	FN	--	D	512
+#505	FN	--	C	511
+#506	FN	--	R	509
+#507	FN	--	C	509
+#508	PNCT	--	U	509
+#509	FN	--	E	511
+#510	FN	--	S	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2106001

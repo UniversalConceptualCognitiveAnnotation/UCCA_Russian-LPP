@@ -1,0 +1,43 @@
+#BOS 2072001
+Маленький	Word	--	Terminal	500
+принц	Word	--	Terminal	501
+пробыл	Word	--	Terminal	502
+у	Word	--	Terminal	503
+него	Word	--	Terminal	504
+совсем	Word	--	Terminal	505
+недолго	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+но	Word	--	Terminal	508
+стало	Word	--	Terminal	509
+ему	Word	--	Terminal	510
+после	Word	--	Terminal	511
+этого	Word	--	Terminal	512
+очень	Word	--	Terminal	513
+невесело	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	S	521
+#501	FN	--	A	516
+#502	FN	--	S	523
+#503	FN	--	R	517
+#504	FN	--	C	517
+#505	FN	--	E	518
+#506	FN	--	C	518
+#507	PNCT	--	U	524
+#508	FN	--	L	524
+#509	FN	--	D	519
+#510	FN	--	A	519
+#511	FN	--	E	520
+#512	FN	--	C	520
+#513	FN	--	D	519
+#514	FN	--	S	519
+#515	PNCT	--	U	519
+#516	FN	--	C	522	A*	521
+#517	FN	--	A	523
+#518	FN	--	T	523
+#519	FN	--	H	524
+#520	FN	--	L	524
+#521	FN	--	E	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2072001

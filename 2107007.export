@@ -1,0 +1,73 @@
+#BOS 2107007
+Когда	Word	--	Terminal	500
+я	Word	--	Terminal	501
+был	Word	--	Terminal	502
+маленький	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+так	Word	--	Terminal	505
+светились	Word	--	Terminal	506
+для	Word	--	Terminal	507
+меня	Word	--	Terminal	508
+рождественские	Word	--	Terminal	509
+подарки	Word	--	Terminal	510
+:	Punctuation	--	Terminal	511
+сияньем	Word	--	Terminal	512
+свеч	Word	--	Terminal	513
+на	Word	--	Terminal	514
+елке	Word	--	Terminal	515
+,	Punctuation	--	Terminal	516
+пением	Word	--	Terminal	517
+органа	Word	--	Terminal	518
+в	Word	--	Terminal	519
+час	Word	--	Terminal	520
+полночной	Word	--	Terminal	521
+мессы	Word	--	Terminal	522
+,	Punctuation	--	Terminal	523
+ласковыми	Word	--	Terminal	524
+улыбками	Word	--	Terminal	525
+.	Punctuation	--	Terminal	526
+-	Punctuation	--	Terminal	527
+#500	FN	--	L	542
+#501	FN	--	A	528
+#502	FN	--	F	528
+#503	FN	--	S	528
+#504	PNCT	--	U	542
+#505	FN	--	A	536
+#506	FN	--	P	536	P*	540	P*	541	P*	537
+#507	FN	--	R	529
+#508	FN	--	C	529	A*	540	A*	541	A*	537
+#509	FN	--	E	530
+#510	FN	--	C	530	A*	540	A*	541	A*	537
+#511	PNCT	--	U	540
+#512	FN	--	P	538
+#513	FN	--	A	538
+#514	FN	--	R	531
+#515	FN	--	C	531
+#516	PNCT	--	U	542
+#517	FN	--	P	539
+#518	FN	--	A	539
+#519	FN	--	R	533
+#520	FN	--	C	532
+#521	FN	--	C	532
+#522	FN	--	P	533
+#523	PNCT	--	U	542
+#524	FN	--	S	534
+#525	FN	--	C	535	A*	534
+#526	PNCT	--	U	535
+#527	PNCT	--	U	535
+#528	FN	--	H	542
+#529	FN	--	A	536
+#530	FN	--	A	536
+#531	FN	--	A	538
+#532	FN	--	T	533
+#533	FN	--	A	539
+#534	FN	--	E	535
+#535	FN	--	A	537
+#536	FN	--	H	542
+#537	FN	--	H	542
+#538	FN	--	A	540
+#539	FN	--	A	541
+#540	FN	--	H	542
+#541	FN	--	H	542
+#542	FN	--	--	0
+#EOS 2107007

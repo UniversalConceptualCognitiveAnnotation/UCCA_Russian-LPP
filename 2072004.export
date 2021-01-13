@@ -1,0 +1,23 @@
+#BOS 2072004
+Пью	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+мрачно	Word	--	Terminal	503
+ответил	Word	--	Terminal	504
+пьяница	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	P	510
+#501	PNCT	--	U	511
+#502	PNCT	--	U	511
+#503	FN	--	D	511
+#504	FN	--	P	511
+#505	FN	--	A	508
+#506	PNCT	--	U	508
+#507	PNCT	--	U	508
+#508	FN	--	A	511
+#509	FN	--	A	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2072004

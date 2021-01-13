@@ -1,0 +1,49 @@
+#BOS 2065007
+Маленький	Word	--	Terminal	500
+принц	Word	--	Terminal	501
+оглянулся	Word	--	Terminal	502
+-	Punctuation	--	Terminal	503
+нельзя	Word	--	Terminal	504
+ли	Word	--	Terminal	505
+где	Word	--	Terminal	507
+-	Punctuation	--	Terminal	506
+нибудь	Word	--	Terminal	507
+сесть	Word	--	Terminal	508
+,	Punctuation	--	Terminal	509
+но	Word	--	Terminal	510
+великолепная	Word	--	Terminal	511
+горностаевая	Word	--	Terminal	512
+мантия	Word	--	Terminal	513
+покрывала	Word	--	Terminal	514
+всю	Word	--	Terminal	515
+планету	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	S	523
+#501	FN	--	A	518
+#502	FN	--	P	525
+#503	PNCT	--	U	527
+#504	FN	--	D	519
+#505	FN	--	F	519
+#506	PNCT	--	U	507
+#507	FN	--	A	519
+#508	FN	--	P	519
+#509	PNCT	--	U	527
+#510	FN	--	L	527
+#511	FN	--	S	520
+#512	FN	--	E	521
+#513	FN	--	C	521	A*	520
+#514	FN	--	P	526
+#515	FN	--	Q	522
+#516	FN	--	C	522
+#517	PNCT	--	U	522
+#518	FN	--	C	524	A*	519	A*	523
+#519	FN	--	H	527
+#520	FN	--	E	521
+#521	FN	--	A	526
+#522	FN	--	A	526
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 2065007

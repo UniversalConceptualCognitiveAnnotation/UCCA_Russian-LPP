@@ -1,0 +1,26 @@
+#BOS 2054008
+К	Word	--	Terminal	500
+несчастью	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+до	Word	--	Terminal	502
+Франции	Word	--	Terminal	503
+очень	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+очень	Word	--	Terminal	506
+далеко	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	G	512
+#501	PNCT	--	U	512
+#502	FN	--	R	509
+#503	FN	--	C	509
+#504	FN	--	C	510
+#505	PNCT	--	U	510
+#506	FN	--	C	510
+#507	FN	--	S	512
+#508	PNCT	--	U	512
+#509	FN	--	A	512
+#510	FN	--	D	512
+#511	FN	--	A	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2054008

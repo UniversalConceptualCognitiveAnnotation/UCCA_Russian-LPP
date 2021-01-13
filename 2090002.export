@@ -1,0 +1,30 @@
+#BOS 2090002
+А	Word	--	Terminal	500
+где	Word	--	Terminal	501
+люди	Word	--	Terminal	502
+?	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+вежливо	Word	--	Terminal	505
+спросил	Word	--	Terminal	506
+Маленький	Word	--	Terminal	507
+принц	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	L	515
+#501	FN	--	A	514
+#502	FN	--	A	514
+#503	PNCT	--	U	516
+#504	PNCT	--	U	516
+#505	FN	--	D	516
+#506	FN	--	P	516
+#507	FN	--	S	512
+#508	FN	--	S	510
+#509	PNCT	--	U	510
+#510	FN	--	C	513	A*	512
+#511	FN	--	S	514
+#512	FN	--	E	513
+#513	FN	--	A	516
+#514	FN	--	H	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2090002

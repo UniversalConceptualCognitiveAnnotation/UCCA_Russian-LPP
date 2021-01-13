@@ -1,0 +1,14 @@
+#BOS 2066002
+Это	Word	--	Terminal	500
+был	Word	--	Terminal	501
+абсолютный	Word	--	Terminal	502
+монарх	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+#500	FN	--	A	505
+#501	FN	--	F	505
+#502	FN	--	D	505
+#503	FN	--	S	505
+#504	PNCT	--	U	505
+#505	FN	--	H	506
+#506	FN	--	--	0
+#EOS 2066002

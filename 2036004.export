@@ -1,0 +1,28 @@
+#BOS 2036004
+Тогда	Word	--	Terminal	500
+я	Word	--	Terminal	501
+нарисовал	Word	--	Terminal	502
+удава	Word	--	Terminal	503
+изнутри	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+чтобы	Word	--	Terminal	506
+взрослым	Word	--	Terminal	507
+было	Word	--	Terminal	508
+понятнее	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	L	514
+#501	FN	--	A	511
+#502	FN	--	P	511
+#503	FN	--	A	511
+#504	FN	--	D	511
+#505	PNCT	--	U	514
+#506	FN	--	L	514
+#507	FN	--	A	513
+#508	FN	--	F	513
+#509	FN	--	P	513
+#510	PNCT	--	U	513
+#511	FN	--	H	514
+#512	FN	--	A	513
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2036004

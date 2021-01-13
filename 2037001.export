@@ -1,0 +1,38 @@
+#BOS 2037001
+Вот	Word	--	Terminal	500
+как	Word	--	Terminal	501
+случилось	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+что	Word	--	Terminal	504
+шести	Word	--	Terminal	505
+лет	Word	--	Terminal	506
+я	Word	--	Terminal	507
+отказался	Word	--	Terminal	508
+от	Word	--	Terminal	509
+блестящей	Word	--	Terminal	510
+карьеры	Word	--	Terminal	511
+художника	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	521
+#501	FN	--	D	520
+#502	FN	--	P	520
+#503	PNCT	--	U	520
+#504	FN	--	R	519
+#505	FN	--	Q	514
+#506	FN	--	C	514
+#507	FN	--	A	518
+#508	FN	--	P	518
+#509	FN	--	R	517
+#510	FN	--	S	515
+#511	FN	--	C	517	A*	515
+#512	FN	--	A	516
+#513	PNCT	--	U	516
+#514	FN	--	T	518
+#515	FN	--	E	517
+#516	FN	--	E	517
+#517	FN	--	A	518
+#518	FN	--	C	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2037001

@@ -1,0 +1,41 @@
+#BOS 2046002
+На	Word	--	Terminal	500
+этот	Word	--	Terminal	501
+раз	Word	--	Terminal	502
+он	Word	--	Terminal	503
+был	Word	--	Terminal	504
+одет	Word	--	Terminal	505
+по	Word	--	Terminal	506
+последней	Word	--	Terminal	507
+моде	Word	--	Terminal	508
+-	Punctuation	--	Terminal	509
+и	Word	--	Terminal	510
+все	Word	--	Terminal	511
+с	Word	--	Terminal	512
+ним	Word	--	Terminal	513
+согласились	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	R	516
+#501	FN	--	E	516
+#502	FN	--	C	516
+#503	FN	--	A	521
+#504	FN	--	F	521
+#505	FN	--	P	521
+#506	FN	--	R	518
+#507	FN	--	S	517
+#508	FN	--	C	518	A*	517
+#509	PNCT	--	U	522
+#510	FN	--	L	522
+#511	FN	--	A	520
+#512	FN	--	R	519
+#513	FN	--	C	519
+#514	FN	--	P	520
+#515	PNCT	--	U	520
+#516	FN	--	T	521
+#517	FN	--	E	518
+#518	FN	--	A	521
+#519	FN	--	A	520
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 2046002

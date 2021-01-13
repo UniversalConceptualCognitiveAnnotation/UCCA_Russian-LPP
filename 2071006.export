@@ -1,0 +1,30 @@
+#BOS 2071006
+Похлопай	Word	--	Terminal	500
+-	Punctuation	--	Terminal	501
+ка	Word	--	Terminal	502
+в	Word	--	Terminal	503
+ладоши	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+сказал	Word	--	Terminal	507
+ему	Word	--	Terminal	508
+честолюбец	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	P	514
+#501	PNCT	--	U	514
+#502	FN	--	F	514
+#503	FN	--	R	511
+#504	FN	--	C	511
+#505	PNCT	--	U	515
+#506	PNCT	--	U	515
+#507	FN	--	P	515
+#508	FN	--	A	515
+#509	FN	--	A	512
+#510	PNCT	--	U	512
+#511	FN	--	A	514
+#512	FN	--	A	515
+#513	FN	--	A	514
+#514	FN	--	A	515
+#515	FN	--	H	516
+#516	FN	--	--	0
+#EOS 2071006

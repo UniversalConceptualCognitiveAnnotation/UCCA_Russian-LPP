@@ -1,0 +1,27 @@
+#BOS 2059002
+Они	Word	--	Terminal	500
+раскрывались	Word	--	Terminal	501
+поутру	Word	--	Terminal	502
+в	Word	--	Terminal	503
+траве	Word	--	Terminal	504
+и	Word	--	Terminal	505
+под	Word	--	Terminal	506
+вечер	Word	--	Terminal	507
+увядали	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	A	513	A*	512
+#501	FN	--	P	513
+#502	FN	--	T	513
+#503	FN	--	R	510
+#504	FN	--	C	510
+#505	FN	--	L	514
+#506	FN	--	R	511
+#507	FN	--	C	511
+#508	FN	--	P	512
+#509	PNCT	--	U	512
+#510	FN	--	A	513
+#511	FN	--	T	512
+#512	FN	--	H	514
+#513	FN	--	H	514
+#514	FN	--	--	0
+#EOS 2059002

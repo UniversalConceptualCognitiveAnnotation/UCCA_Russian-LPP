@@ -1,0 +1,43 @@
+#BOS 2076002
+Нет	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+взрослые	Word	--	Terminal	502
+и	Word	--	Terminal	503
+правда	Word	--	Terminal	504
+поразительный	Word	--	Terminal	505
+народ	Word	--	Terminal	506
+",	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+простодушно	Word	--	Terminal	509
+говорил	Word	--	Terminal	510
+он	Word	--	Terminal	511
+себе	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+продолжая	Word	--	Terminal	514
+путь	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	G	521
+#501	PNCT	--	U	521
+#502	FN	--	A	521
+#503	FN	--	F	521
+#504	FN	--	G	521
+#505	FN	--	S	517
+#506	FN	--	C	518	A*	517
+#507	PNCT	--	U	522
+#508	PNCT	--	U	522
+#509	FN	--	D	522
+#510	FN	--	P	522
+#511	FN	--	A	522	A*	519
+#512	FN	--	A	522
+#513	PNCT	--	U	523
+#514	FN	--	D	519
+#515	FN	--	P	519
+#516	PNCT	--	U	519
+#517	FN	--	E	518
+#518	FN	--	A	521
+#519	FN	--	H	523
+#520	FN	--	S	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2076002

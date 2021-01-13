@@ -1,0 +1,23 @@
+#BOS 2081015
+Не	Word	--	Terminal	500
+знаю	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+повторил	Word	--	Terminal	504
+географ	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	D	510
+#501	FN	--	P	510
+#502	PNCT	--	U	511
+#503	PNCT	--	U	511
+#504	FN	--	P	511
+#505	FN	--	A	511
+#506	PNCT	--	U	511
+#507	PNCT	--	U	511
+#508	FN	--	A	510
+#509	FN	--	A	510
+#510	FN	--	A	511
+#511	FN	--	H	512
+#512	FN	--	--	0
+#EOS 2081015

@@ -1,0 +1,22 @@
+#BOS 2104002
+Но	Word	--	Terminal	500
+все	Word	--	Terminal	502
+-	Punctuation	--	Terminal	501
+таки	Word	--	Terminal	502
+мы	Word	--	Terminal	503
+пустились	Word	--	Terminal	504
+в	Word	--	Terminal	505
+путь	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	510
+#501	PNCT	--	U	502
+#502	FN	--	L	510
+#503	FN	--	A	509
+#504	FN	--	D	509
+#505	FN	--	R	508
+#506	FN	--	C	508
+#507	PNCT	--	U	508
+#508	FN	--	P	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2104002

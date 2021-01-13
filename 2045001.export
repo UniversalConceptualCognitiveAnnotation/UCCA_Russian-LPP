@@ -1,0 +1,20 @@
+#BOS 2045001
+Впрочем	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+это	Word	--	Terminal	502
+меня	Word	--	Terminal	503
+не	Word	--	Terminal	504
+слишком	Word	--	Terminal	505
+удивило	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+#500	FN	--	L	509
+#501	PNCT	--	U	509
+#502	FN	--	A	508
+#503	FN	--	A	508
+#504	FN	--	D	508
+#505	FN	--	D	508
+#506	FN	--	P	508
+#507	PNCT	--	U	508
+#508	FN	--	H	509
+#509	FN	--	--	0
+#EOS 2045001

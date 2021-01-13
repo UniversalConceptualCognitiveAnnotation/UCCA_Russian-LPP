@@ -1,0 +1,23 @@
+#BOS 2104000
+Я	Word	--	Terminal	500
+не	Word	--	Terminal	501
+сказал	Word	--	Terminal	502
+этого	Word	--	Terminal	503
+вслух	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+только	Word	--	Terminal	506
+подумал	Word	--	Terminal	507
+.	Punctuation	--	Terminal	508
+#500	FN	--	A	509	A*	510
+#501	FN	--	D	509
+#502	FN	--	P	509
+#503	FN	--	A	509	A*	510
+#504	FN	--	D	509
+#505	PNCT	--	U	511
+#506	FN	--	L	511
+#507	FN	--	P	510
+#508	PNCT	--	U	510
+#509	FN	--	H	511
+#510	FN	--	H	511
+#511	FN	--	--	0
+#EOS 2104000

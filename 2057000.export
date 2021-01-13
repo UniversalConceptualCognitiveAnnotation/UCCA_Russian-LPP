@@ -1,0 +1,37 @@
+#BOS 2057000
+-	Punctuation	--	Terminal	500
+Я	Word	--	Terminal	501
+знаю	Word	--	Terminal	502
+одну	Word	--	Terminal	503
+планету	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+там	Word	--	Terminal	506
+живет	Word	--	Terminal	507
+такой	Word	--	Terminal	508
+господин	Word	--	Terminal	509
+с	Word	--	Terminal	510
+багровым	Word	--	Terminal	511
+лицом	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	PNCT	--	U	519
+#501	FN	--	A	519
+#502	FN	--	P	519
+#503	FN	--	Q	518
+#504	FN	--	C	518
+#505	PNCT	--	U	518
+#506	FN	--	A	517
+#507	FN	--	P	517
+#508	FN	--	E	516
+#509	FN	--	C	516
+#510	FN	--	R	515
+#511	FN	--	S	514
+#512	FN	--	C	515	A*	514
+#513	PNCT	--	U	515
+#514	FN	--	E	515
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	E	518
+#518	FN	--	A	519
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 2057000

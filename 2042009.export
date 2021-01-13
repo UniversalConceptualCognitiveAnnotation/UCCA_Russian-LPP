@@ -1,0 +1,45 @@
+#BOS 2042009
+Потом	Word	--	Terminal	500
+он	Word	--	Terminal	501
+прибавил	Word	--	Terminal	502
+:	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+Значит	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+ты	Word	--	Terminal	507
+тоже	Word	--	Terminal	508
+явился	Word	--	Terminal	509
+с	Word	--	Terminal	510
+неба	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+А	Word	--	Terminal	513
+с	Word	--	Terminal	514
+какой	Word	--	Terminal	515
+планеты	Word	--	Terminal	516
+?	Punctuation	--	Terminal	517
+#500	FN	--	L	524
+#501	FN	--	A	523
+#502	FN	--	P	523
+#503	PNCT	--	U	523
+#504	PNCT	--	U	523
+#505	FN	--	L	522
+#506	PNCT	--	U	522
+#507	FN	--	A	520	A*	521
+#508	FN	--	D	520
+#509	FN	--	P	520	P*	521
+#510	FN	--	R	518
+#511	FN	--	C	518
+#512	PNCT	--	U	522
+#513	FN	--	L	522
+#514	FN	--	R	519
+#515	FN	--	E	519
+#516	FN	--	C	519
+#517	PNCT	--	U	519
+#518	FN	--	A	520
+#519	FN	--	A	521
+#520	FN	--	H	522
+#521	FN	--	H	522
+#522	FN	--	A	523
+#523	FN	--	H	524
+#524	FN	--	--	0
+#EOS 2042009

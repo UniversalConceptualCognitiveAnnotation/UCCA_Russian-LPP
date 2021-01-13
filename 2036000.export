@@ -1,0 +1,35 @@
+#BOS 2036000
+Я	Word	--	Terminal	500
+показал	Word	--	Terminal	501
+мое	Word	--	Terminal	502
+творение	Word	--	Terminal	503
+взрослым	Word	--	Terminal	504
+и	Word	--	Terminal	505
+спросил	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+не	Word	--	Terminal	508
+страшно	Word	--	Terminal	509
+ли	Word	--	Terminal	510
+им	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+#500	FN	--	A	515	A*	517
+#501	FN	--	P	515
+#502	FN	--	E	514
+#503	FN	--	C	514
+#504	FN	--	A	515
+#505	FN	--	L	518
+#506	FN	--	P	517
+#507	PNCT	--	U	517
+#508	FN	--	D	516
+#509	FN	--	S	516
+#510	FN	--	F	516
+#511	FN	--	A	516
+#512	PNCT	--	U	516
+#513	PNCT	--	U	516
+#514	FN	--	A	515
+#515	FN	--	H	518
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2036000

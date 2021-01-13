@@ -1,0 +1,38 @@
+#BOS 2092005
+И	Word	--	Terminal	500
+Маленький	Word	--	Terminal	501
+принц	Word	--	Terminal	502
+увидел	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+что	Word	--	Terminal	505
+все	Word	--	Terminal	506
+они	Word	--	Terminal	507
+похожи	Word	--	Terminal	508
+на	Word	--	Terminal	509
+его	Word	--	Terminal	510
+цветок	Word	--	Terminal	511
+.	Punctuation	--	Terminal	512
+-	Punctuation	--	Terminal	513
+#500	FN	--	L	521
+#501	FN	--	S	517
+#502	FN	--	A	514
+#503	FN	--	P	520
+#504	PNCT	--	U	520
+#505	FN	--	R	519
+#506	FN	--	Q	515
+#507	FN	--	C	515
+#508	FN	--	S	519
+#509	FN	--	R	516
+#510	FN	--	E	516
+#511	FN	--	C	516
+#512	PNCT	--	U	516
+#513	PNCT	--	U	516
+#514	FN	--	C	518	A*	517
+#515	FN	--	A	519
+#516	FN	--	A	519
+#517	FN	--	E	518
+#518	FN	--	A	520
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2092005

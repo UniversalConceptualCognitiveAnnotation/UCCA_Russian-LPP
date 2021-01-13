@@ -1,0 +1,51 @@
+#BOS 2065003
+Облаченный	Word	--	Terminal	500
+в	Word	--	Terminal	501
+пурпур	Word	--	Terminal	502
+и	Word	--	Terminal	503
+горностай	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+он	Word	--	Terminal	506
+восседал	Word	--	Terminal	507
+на	Word	--	Terminal	508
+троне	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+очень	Word	--	Terminal	511
+простом	Word	--	Terminal	512
+и	Word	--	Terminal	513
+все	Word	--	Terminal	514
+же	Word	--	Terminal	514
+величественном	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+-	Punctuation	--	Terminal	517
+#500	FN	--	S	528
+#501	FN	--	R	526
+#502	FN	--	S	523
+#503	FN	--	N	525
+#504	FN	--	C	525
+#505	PNCT	--	U	528
+#506	FN	--	A	527	A*	528
+#507	FN	--	P	527
+#508	FN	--	R	524
+#509	FN	--	C	524	A*	518	A*	519
+#510	PNCT	--	U	524
+#511	FN	--	D	518
+#512	FN	--	S	518
+#513	FN	--	L	520
+#514	FN	--	L	520
+#515	FN	--	S	519
+#516	PNCT	--	U	519
+#517	PNCT	--	U	519
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	E	524
+#521	FN	--	C	526
+#522	FN	--	A	523
+#523	FN	--	C	525
+#524	FN	--	A	527
+#525	FN	--	E	526
+#526	FN	--	A	528
+#527	FN	--	H	529
+#528	FN	--	H	529
+#529	FN	--	--	0
+#EOS 2065003

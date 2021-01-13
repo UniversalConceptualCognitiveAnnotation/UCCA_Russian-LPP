@@ -1,0 +1,31 @@
+#BOS 2072013
+И	Word	--	Terminal	500
+Маленький	Word	--	Terminal	501
+принц	Word	--	Terminal	502
+отправился	Word	--	Terminal	503
+дальше	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+растерянный	Word	--	Terminal	506
+и	Word	--	Terminal	507
+недоумевающий	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	L	517
+#501	FN	--	S	514
+#502	FN	--	A	511
+#503	FN	--	P	516
+#504	FN	--	A	516
+#505	PNCT	--	U	517
+#506	FN	--	S	512
+#507	FN	--	L	517
+#508	FN	--	S	513
+#509	PNCT	--	U	513
+#510	PNCT	--	U	513
+#511	FN	--	C	515	A*	512	A*	513	A*	514
+#512	FN	--	H	517
+#513	FN	--	H	517
+#514	FN	--	E	515
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2072013

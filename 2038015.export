@@ -1,0 +1,42 @@
+#BOS 2038015
+Но	Word	--	Terminal	500
+на	Word	--	Terminal	501
+моем	Word	--	Terminal	502
+рисунке	Word	--	Terminal	503
+он	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+конечно	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+далеко	Word	--	Terminal	508
+не	Word	--	Terminal	509
+так	Word	--	Terminal	510
+хорош	Word	--	Terminal	511
+,	Punctuation	--	Terminal	512
+как	Word	--	Terminal	513
+был	Word	--	Terminal	514
+на	Word	--	Terminal	515
+самом	Word	--	Terminal	515
+деле	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	520
+#501	FN	--	R	517
+#502	FN	--	E	517
+#503	FN	--	C	517
+#504	FN	--	A	518	A*	519
+#505	PNCT	--	U	518
+#506	FN	--	G	518
+#507	PNCT	--	U	518
+#508	FN	--	D	518
+#509	FN	--	D	518
+#510	FN	--	D	518
+#511	FN	--	S	518	S*	519
+#512	PNCT	--	U	520
+#513	FN	--	L	520
+#514	FN	--	F	519
+#515	FN	--	D	519
+#516	PNCT	--	U	519
+#517	FN	--	A	518
+#518	FN	--	H	520
+#519	FN	--	H	520
+#520	FN	--	--	0
+#EOS 2038015

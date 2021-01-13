@@ -1,0 +1,44 @@
+#BOS 2104008
+Он	Word	--	Terminal	500
+сказал	Word	--	Terminal	501
+просто	Word	--	Terminal	502
+:	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+Вода	Word	--	Terminal	505
+бывает	Word	--	Terminal	506
+нужна	Word	--	Terminal	507
+и	Word	--	Terminal	508
+сердцу	Word	--	Terminal	509
+...	Punctuation	--	Terminal	510
+Я	Word	--	Terminal	511
+не	Word	--	Terminal	512
+понял	Word	--	Terminal	513
+,	Punctuation	--	Terminal	514
+но	Word	--	Terminal	515
+промолчал	Word	--	Terminal	516
+.	Punctuation	--	Terminal	517
+#500	FN	--	A	522
+#501	FN	--	P	522
+#502	FN	--	D	522
+#503	PNCT	--	U	522
+#504	PNCT	--	U	522
+#505	FN	--	A	521
+#506	FN	--	F	521
+#507	FN	--	S	521
+#508	FN	--	E	518
+#509	FN	--	C	518
+#510	PNCT	--	U	523
+#511	FN	--	A	519	A*	520
+#512	FN	--	D	519
+#513	FN	--	P	519
+#514	PNCT	--	U	523
+#515	FN	--	L	523
+#516	FN	--	P	520
+#517	PNCT	--	U	520
+#518	FN	--	A	521
+#519	FN	--	H	523
+#520	FN	--	H	523
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2104008

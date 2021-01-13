@@ -1,0 +1,45 @@
+#BOS 2067004
+Вы	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+ваше	Word	--	Terminal	502
+величество	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+ни	Word	--	Terminal	506
+минуты	Word	--	Terminal	507
+не	Word	--	Terminal	508
+колеблясь	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+ответил	Word	--	Terminal	511
+Маленький	Word	--	Terminal	512
+принц	Word	--	Terminal	513
+.	Punctuation	--	Terminal	514
+-	Punctuation	--	Terminal	515
+#500	FN	--	A	521
+#501	PNCT	--	U	521
+#502	FN	--	E	516
+#503	FN	--	C	516
+#504	PNCT	--	U	526
+#505	PNCT	--	U	526
+#506	FN	--	F	517
+#507	FN	--	C	517
+#508	FN	--	D	522
+#509	FN	--	P	522
+#510	PNCT	--	U	526
+#511	FN	--	P	525
+#512	FN	--	S	523
+#513	FN	--	A	518
+#514	PNCT	--	U	518
+#515	PNCT	--	U	518
+#516	FN	--	G	521
+#517	FN	--	T	522
+#518	FN	--	C	524	A*	522	A*	523
+#519	FN	--	A	521
+#520	FN	--	S	521
+#521	FN	--	A	525
+#522	FN	--	H	526
+#523	FN	--	E	524
+#524	FN	--	A	525
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 2067004

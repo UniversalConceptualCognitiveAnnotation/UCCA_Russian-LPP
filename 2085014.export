@@ -1,0 +1,34 @@
+#BOS 2085014
+И	Word	--	Terminal	500
+никогда	Word	--	Terminal	501
+они	Word	--	Terminal	502
+не	Word	--	Terminal	503
+ошибались	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+никто	Word	--	Terminal	506
+не	Word	--	Terminal	507
+выходил	Word	--	Terminal	508
+на	Word	--	Terminal	509
+сцену	Word	--	Terminal	510
+не	Word	--	Terminal	511
+вовремя	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	L	517
+#501	FN	--	T	514
+#502	FN	--	A	514
+#503	FN	--	D	514
+#504	FN	--	P	514
+#505	PNCT	--	U	517
+#506	FN	--	A	516
+#507	FN	--	D	516
+#508	FN	--	P	516
+#509	FN	--	R	515
+#510	FN	--	C	515
+#511	FN	--	D	516
+#512	FN	--	D	516
+#513	PNCT	--	U	516
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	--	0
+#EOS 2085014

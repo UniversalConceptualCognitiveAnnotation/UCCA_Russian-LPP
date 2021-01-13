@@ -1,0 +1,17 @@
+#BOS 2112001
+Он	Word	--	Terminal	500
+был	Word	--	Terminal	501
+белее	Word	--	Terminal	502
+снега	Word	--	Terminal	503
+.	Punctuation	--	Terminal	504
+-	Punctuation	--	Terminal	505
+#500	FN	--	A	506
+#501	FN	--	F	506
+#502	FN	--	S	506	S*	507
+#503	FN	--	A	507
+#504	PNCT	--	U	507
+#505	PNCT	--	U	507
+#506	FN	--	H	508
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 2112001

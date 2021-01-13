@@ -1,0 +1,46 @@
+#BOS 2059007
+А	Word	--	Terminal	500
+неведомая	Word	--	Terminal	501
+гостья	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+скрытая	Word	--	Terminal	504
+в	Word	--	Terminal	505
+стенах	Word	--	Terminal	506
+своей	Word	--	Terminal	507
+зеленой	Word	--	Terminal	508
+комнатки	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+все	Word	--	Terminal	511
+готовилась	Word	--	Terminal	512
+,	Punctuation	--	Terminal	513
+все	Word	--	Terminal	514
+прихорашивалась	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	L	526
+#501	FN	--	S	517
+#502	FN	--	A	518	A*	517
+#503	PNCT	--	U	525
+#504	FN	--	P	525
+#505	FN	--	R	523
+#506	FN	--	C	523
+#507	FN	--	E	520
+#508	FN	--	S	519
+#509	FN	--	C	520	A*	519
+#510	PNCT	--	U	526
+#511	FN	--	D	524
+#512	FN	--	P	524
+#513	PNCT	--	U	526
+#514	FN	--	D	521
+#515	FN	--	P	521
+#516	PNCT	--	U	521
+#517	FN	--	E	522
+#518	FN	--	C	522	A*	525	A*	521
+#519	FN	--	E	520
+#520	FN	--	E	523
+#521	FN	--	H	526
+#522	FN	--	A	524
+#523	FN	--	A	525
+#524	FN	--	H	526
+#525	FN	--	H	526
+#526	FN	--	--	0
+#EOS 2059007

@@ -1,0 +1,39 @@
+#BOS 2111006
+Теперь	Word	--	Terminal	500
+уходи	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+-	Punctuation	--	Terminal	503
+сказал	Word	--	Terminal	504
+Маленький	Word	--	Terminal	505
+принц	Word	--	Terminal	506
+.	Punctuation	--	Terminal	507
+-	Punctuation	--	Terminal	508
+Я	Word	--	Terminal	509
+хочу	Word	--	Terminal	510
+спрыгнуть	Word	--	Terminal	511
+вниз	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+#500	FN	--	T	519
+#501	FN	--	P	519
+#502	PNCT	--	U	521
+#503	PNCT	--	U	521
+#504	FN	--	P	521
+#505	FN	--	S	514
+#506	FN	--	S	515	A*	514
+#507	PNCT	--	U	521
+#508	PNCT	--	U	521
+#509	FN	--	A	516
+#510	FN	--	D	516
+#511	FN	--	P	516
+#512	FN	--	A	516
+#513	PNCT	--	U	516
+#514	FN	--	E	518
+#515	FN	--	C	518
+#516	FN	--	H	520
+#517	FN	--	A	519
+#518	FN	--	A	521
+#519	FN	--	H	520
+#520	FN	--	A	521
+#521	FN	--	H	522
+#522	FN	--	--	0
+#EOS 2111006

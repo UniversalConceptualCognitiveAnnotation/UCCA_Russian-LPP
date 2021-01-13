@@ -1,0 +1,13 @@
+#BOS 2057011
+Гриб	Word	--	Terminal	500
+!	Punctuation	--	Terminal	501
+#500	FN	--	A	504
+#501	PNCT	--	U	504
+#502	FN	--	A	504
+#503	FN	--	S	504
+#504	FN	--	A	507
+#505	FN	--	P	507
+#506	FN	--	A	507
+#507	FN	--	H	508
+#508	FN	--	--	0
+#EOS 2057011

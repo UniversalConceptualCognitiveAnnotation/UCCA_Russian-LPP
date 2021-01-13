@@ -1,0 +1,19 @@
+#BOS 2045007
+Уж	Word	--	Terminal	500
+такой	Word	--	Terminal	501
+народ	Word	--	Terminal	502
+эти	Word	--	Terminal	503
+взрослые	Word	--	Terminal	504
+!	Punctuation	--	Terminal	505
+#500	FN	--	F	509
+#501	FN	--	E	506
+#502	FN	--	C	506
+#503	FN	--	E	507
+#504	FN	--	C	507
+#505	PNCT	--	U	507
+#506	FN	--	A	509
+#507	FN	--	A	509
+#508	FN	--	S	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2045007

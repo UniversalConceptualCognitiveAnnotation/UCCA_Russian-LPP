@@ -1,0 +1,28 @@
+#BOS 2085009
+Исполнив	Word	--	Terminal	500
+свой	Word	--	Terminal	501
+танец	Word	--	Terminal	502
+,	Punctuation	--	Terminal	503
+они	Word	--	Terminal	504
+тоже	Word	--	Terminal	505
+скрывались	Word	--	Terminal	506
+за	Word	--	Terminal	507
+кулисами	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+#500	FN	--	D	511
+#501	FN	--	E	510
+#502	FN	--	C	510
+#503	PNCT	--	U	511
+#504	FN	--	C	512	A*	511
+#505	FN	--	E	512
+#506	FN	--	P	514
+#507	FN	--	R	513
+#508	FN	--	C	513
+#509	PNCT	--	U	513
+#510	FN	--	P	511
+#511	FN	--	H	515
+#512	FN	--	A	514
+#513	FN	--	A	514
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2085009

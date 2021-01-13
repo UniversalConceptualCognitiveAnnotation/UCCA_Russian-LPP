@@ -1,0 +1,42 @@
+#BOS 2093002
+И	Word	--	Terminal	500
+вот	Word	--	Terminal	501
+перед	Word	--	Terminal	502
+ним	Word	--	Terminal	503
+пять	Word	--	Terminal	504
+тысяч	Word	--	Terminal	505
+точно	Word	--	Terminal	506
+таких	Word	--	Terminal	507
+же	Word	--	Terminal	508
+цветов	Word	--	Terminal	509
+в	Word	--	Terminal	510
+одном	Word	--	Terminal	511
+только	Word	--	Terminal	512
+саду	Word	--	Terminal	513
+!	Punctuation	--	Terminal	514
+"	Punctuation	--	Terminal	515
+#500	FN	--	L	523
+#501	FN	--	L	523
+#502	FN	--	R	516
+#503	FN	--	C	516
+#504	FN	--	Q	517
+#505	FN	--	C	517
+#506	FN	--	D	518
+#507	FN	--	S	518
+#508	FN	--	F	522
+#509	FN	--	C	519	A*	518
+#510	FN	--	R	520
+#511	FN	--	Q	520
+#512	FN	--	E	520
+#513	FN	--	C	520
+#514	PNCT	--	U	520
+#515	PNCT	--	U	520
+#516	FN	--	A	522
+#517	FN	--	Q	519
+#518	FN	--	E	519
+#519	FN	--	A	522
+#520	FN	--	A	522
+#521	FN	--	S	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2093002

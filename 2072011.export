@@ -1,0 +1,20 @@
+#BOS 2072011
+Ему	Word	--	Terminal	500
+очень	Word	--	Terminal	501
+хотелось	Word	--	Terminal	502
+помочь	Word	--	Terminal	503
+бедняге	Word	--	Terminal	504
+.	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+#500	FN	--	A	509
+#501	FN	--	E	507
+#502	FN	--	C	507
+#503	FN	--	P	509
+#504	FN	--	A	508
+#505	PNCT	--	U	508
+#506	PNCT	--	U	508
+#507	FN	--	D	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2072011

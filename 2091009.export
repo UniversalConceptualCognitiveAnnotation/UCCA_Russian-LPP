@@ -1,0 +1,33 @@
+#BOS 2091009
+Один	Word	--	Terminal	500
+...	Punctuation	--	Terminal	501
+один	Word	--	Terminal	502
+...	Punctuation	--	Terminal	503
+один	Word	--	Terminal	504
+..."	Punctuation	--	Terminal	505
+-	Punctuation	--	Terminal	506
+откликнулось	Word	--	Terminal	507
+эхо	Word	--	Terminal	508
+.	Punctuation	--	Terminal	509
+"	Punctuation	--	Terminal	510
+#500	FN	--	S	512
+#501	PNCT	--	U	517
+#502	FN	--	S	514
+#503	PNCT	--	U	517
+#504	FN	--	S	516
+#505	PNCT	--	U	518
+#506	PNCT	--	U	518
+#507	FN	--	P	518
+#508	FN	--	A	518
+#509	PNCT	--	U	518
+#510	PNCT	--	U	518
+#511	FN	--	A	512
+#512	FN	--	H	517
+#513	FN	--	A	514
+#514	FN	--	H	517
+#515	FN	--	A	516
+#516	FN	--	H	517
+#517	FN	--	A	518
+#518	FN	--	H	519
+#519	FN	--	--	0
+#EOS 2091009

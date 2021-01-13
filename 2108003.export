@@ -1,0 +1,20 @@
+#BOS 2108003
+Я	Word	--	Terminal	500
+достал	Word	--	Terminal	501
+из	Word	--	Terminal	502
+кармана	Word	--	Terminal	503
+свои	Word	--	Terminal	504
+рисунки	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+#500	FN	--	A	509
+#501	FN	--	P	509
+#502	FN	--	R	507
+#503	FN	--	C	507
+#504	FN	--	E	508
+#505	FN	--	C	508
+#506	PNCT	--	U	508
+#507	FN	--	A	509
+#508	FN	--	A	509
+#509	FN	--	H	510
+#510	FN	--	--	0
+#EOS 2108003

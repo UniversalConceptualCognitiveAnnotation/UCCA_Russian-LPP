@@ -1,0 +1,33 @@
+#BOS 2085005
+Движения	Word	--	Terminal	500
+этой	Word	--	Terminal	501
+армии	Word	--	Terminal	502
+подчинялись	Word	--	Terminal	503
+точнейшему	Word	--	Terminal	504
+ритму	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+совсем	Word	--	Terminal	507
+как	Word	--	Terminal	508
+в	Word	--	Terminal	509
+балете	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	P	516	P*	517
+#501	FN	--	E	512
+#502	FN	--	C	512
+#503	FN	--	F	513
+#504	FN	--	E	513
+#505	FN	--	C	513
+#506	PNCT	--	U	518
+#507	FN	--	E	514
+#508	FN	--	C	514
+#509	FN	--	R	515
+#510	FN	--	C	515
+#511	PNCT	--	U	515
+#512	FN	--	A	516
+#513	FN	--	D	516	D*	517
+#514	FN	--	L	518
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2085005

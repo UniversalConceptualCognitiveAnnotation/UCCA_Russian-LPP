@@ -1,0 +1,39 @@
+#BOS 2072009
+Хочу	Word	--	Terminal	500
+забыть	Word	--	Terminal	501
+,	Punctuation	--	Terminal	502
+что	Word	--	Terminal	503
+мне	Word	--	Terminal	504
+совестно	Word	--	Terminal	505
+,	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+признался	Word	--	Terminal	508
+пьяница	Word	--	Terminal	509
+и	Word	--	Terminal	510
+повесил	Word	--	Terminal	511
+голову	Word	--	Terminal	512
+.	Punctuation	--	Terminal	513
+-	Punctuation	--	Terminal	514
+#500	FN	--	D	519
+#501	FN	--	P	519
+#502	PNCT	--	U	519
+#503	FN	--	R	515
+#504	FN	--	A	515
+#505	FN	--	S	515
+#506	PNCT	--	U	520
+#507	PNCT	--	U	520
+#508	FN	--	P	520
+#509	FN	--	A	516
+#510	FN	--	L	521
+#511	FN	--	P	517
+#512	FN	--	A	517
+#513	PNCT	--	U	517
+#514	PNCT	--	U	517
+#515	FN	--	A	519
+#516	FN	--	A	520	A*	517
+#517	FN	--	H	521
+#518	FN	--	A	519
+#519	FN	--	A	520
+#520	FN	--	H	521
+#521	FN	--	--	0
+#EOS 2072009

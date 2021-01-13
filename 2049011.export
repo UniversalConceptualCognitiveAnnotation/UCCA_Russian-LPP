@@ -1,0 +1,30 @@
+#BOS 2049011
+Один	Word	--	Terminal	500
+портрет	Word	--	Terminal	501
+выходит	Word	--	Terminal	502
+удачно	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+а	Word	--	Terminal	505
+другой	Word	--	Terminal	506
+ни	Word	--	Terminal	507
+капли	Word	--	Terminal	507
+не	Word	--	Terminal	508
+похож	Word	--	Terminal	509
+.	Punctuation	--	Terminal	510
+#500	FN	--	Q	511
+#501	FN	--	C	511	C*	512
+#502	FN	--	P	513
+#503	FN	--	D	513
+#504	PNCT	--	U	515
+#505	FN	--	L	515
+#506	FN	--	E	512
+#507	FN	--	D	514
+#508	FN	--	D	514
+#509	FN	--	S	514
+#510	PNCT	--	U	514
+#511	FN	--	A	513
+#512	FN	--	A	514
+#513	FN	--	H	515
+#514	FN	--	H	515
+#515	FN	--	--	0
+#EOS 2049011

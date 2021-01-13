@@ -1,0 +1,33 @@
+#BOS 2062000
+IX	Word	--	Terminal	500
+Как	Word	--	Terminal	501
+я	Word	--	Terminal	502
+понял	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+он	Word	--	Terminal	505
+решил	Word	--	Terminal	506
+странствовать	Word	--	Terminal	507
+с	Word	--	Terminal	508
+перелетными	Word	--	Terminal	509
+птицами	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	Q	516
+#501	FN	--	R	512
+#502	FN	--	A	517
+#503	FN	--	C	512
+#504	PNCT	--	U	517
+#505	FN	--	A	515
+#506	FN	--	D	515
+#507	FN	--	P	515
+#508	FN	--	R	513
+#509	FN	--	E	513
+#510	FN	--	C	513
+#511	PNCT	--	U	513
+#512	FN	--	P	517
+#513	FN	--	A	515
+#514	FN	--	C	516
+#515	FN	--	A	517
+#516	FN	--	H	518
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2062000

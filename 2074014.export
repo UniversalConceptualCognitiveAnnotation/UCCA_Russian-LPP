@@ -1,0 +1,13 @@
+#BOS 2074014
+Да	Word	--	Terminal	500
+.	Punctuation	--	Terminal	501
+-	Punctuation	--	Terminal	502
+#500	FN	--	G	506
+#501	PNCT	--	U	506
+#502	PNCT	--	U	506
+#503	FN	--	A	506
+#504	FN	--	A	506
+#505	FN	--	S	506
+#506	FN	--	H	507
+#507	FN	--	--	0
+#EOS 2074014

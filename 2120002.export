@@ -1,0 +1,33 @@
+#BOS 2120002
+Здесь	Word	--	Terminal	500
+Маленький	Word	--	Terminal	501
+принц	Word	--	Terminal	502
+впервые	Word	--	Terminal	503
+появился	Word	--	Terminal	504
+на	Word	--	Terminal	505
+Земле	Word	--	Terminal	506
+,	Punctuation	--	Terminal	507
+а	Word	--	Terminal	508
+потом	Word	--	Terminal	509
+исчез	Word	--	Terminal	510
+.	Punctuation	--	Terminal	511
+#500	FN	--	A	517
+#501	FN	--	S	515
+#502	FN	--	A	512
+#503	FN	--	D	517
+#504	FN	--	P	517
+#505	FN	--	R	513
+#506	FN	--	C	513
+#507	PNCT	--	U	518
+#508	FN	--	L	518
+#509	FN	--	T	514
+#510	FN	--	P	514
+#511	PNCT	--	U	514
+#512	FN	--	C	516	A*	514	A*	515
+#513	FN	--	A	517
+#514	FN	--	H	518
+#515	FN	--	E	516
+#516	FN	--	A	517
+#517	FN	--	H	518
+#518	FN	--	--	0
+#EOS 2120002

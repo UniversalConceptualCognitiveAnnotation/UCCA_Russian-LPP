@@ -1,0 +1,57 @@
+#BOS 2083000
+Географ	Word	--	Terminal	500
+вдруг	Word	--	Terminal	501
+разволновался	Word	--	Terminal	502
+:	Punctuation	--	Terminal	503
+-	Punctuation	--	Terminal	504
+Но	Word	--	Terminal	505
+ты	Word	--	Terminal	506
+ведь	Word	--	Terminal	507
+и	Word	--	Terminal	508
+сам	Word	--	Terminal	509
+путешественник	Word	--	Terminal	510
+!	Punctuation	--	Terminal	511
+Ты	Word	--	Terminal	512
+явился	Word	--	Terminal	513
+издалека	Word	--	Terminal	514
+!	Punctuation	--	Terminal	515
+Расскажи	Word	--	Terminal	516
+мне	Word	--	Terminal	517
+о	Word	--	Terminal	518
+своей	Word	--	Terminal	519
+планете	Word	--	Terminal	520
+!	Punctuation	--	Terminal	521
+#500	FN	--	A	522
+#501	FN	--	D	523
+#502	FN	--	P	523
+#503	PNCT	--	U	532
+#504	PNCT	--	U	532
+#505	FN	--	L	529
+#506	FN	--	C	524
+#507	FN	--	F	525
+#508	FN	--	F	525
+#509	FN	--	F	524
+#510	FN	--	P	525
+#511	PNCT	--	U	529
+#512	FN	--	A	526	A*	528
+#513	FN	--	P	526
+#514	FN	--	A	526
+#515	PNCT	--	U	529
+#516	FN	--	P	528
+#517	FN	--	A	528
+#518	FN	--	R	527
+#519	FN	--	E	527
+#520	FN	--	C	527
+#521	PNCT	--	U	527
+#522	FN	--	A	523	A*	531
+#523	FN	--	H	532
+#524	FN	--	A	525
+#525	FN	--	H	529
+#526	FN	--	H	529
+#527	FN	--	A	528
+#528	FN	--	H	529
+#529	FN	--	A	531
+#530	FN	--	P	531
+#531	FN	--	H	532
+#532	FN	--	--	0
+#EOS 2083000

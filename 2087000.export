@@ -1,0 +1,42 @@
+#BOS 2087000
+Итак	Word	--	Terminal	500
+,	Punctuation	--	Terminal	501
+попав	Word	--	Terminal	502
+на	Word	--	Terminal	503
+Землю	Word	--	Terminal	504
+,	Punctuation	--	Terminal	505
+Маленький	Word	--	Terminal	506
+принц	Word	--	Terminal	507
+не	Word	--	Terminal	508
+увидел	Word	--	Terminal	509
+ни	Word	--	Terminal	510
+души	Word	--	Terminal	511
+и	Word	--	Terminal	512
+очень	Word	--	Terminal	513
+удивился	Word	--	Terminal	514
+.	Punctuation	--	Terminal	515
+#500	FN	--	L	523
+#501	PNCT	--	U	523
+#502	FN	--	P	519
+#503	FN	--	R	516
+#504	FN	--	C	516
+#505	PNCT	--	U	523
+#506	FN	--	S	520
+#507	FN	--	A	517
+#508	FN	--	D	522
+#509	FN	--	P	522
+#510	FN	--	D	522
+#511	FN	--	A	522
+#512	FN	--	L	523
+#513	FN	--	D	518
+#514	FN	--	P	518
+#515	PNCT	--	U	518
+#516	FN	--	A	519
+#517	FN	--	C	521	A*	519	A*	518	A*	520
+#518	FN	--	H	523
+#519	FN	--	H	523
+#520	FN	--	E	521
+#521	FN	--	A	522
+#522	FN	--	H	523
+#523	FN	--	--	0
+#EOS 2087000

@@ -1,0 +1,47 @@
+#BOS 2051004
+На	Word	--	Terminal	500
+планете	Word	--	Terminal	501
+Маленького	Word	--	Terminal	502
+принца	Word	--	Terminal	503
+,	Punctuation	--	Terminal	504
+как	Word	--	Terminal	505
+на	Word	--	Terminal	506
+любой	Word	--	Terminal	507
+другой	Word	--	Terminal	508
+планете	Word	--	Terminal	509
+,	Punctuation	--	Terminal	510
+растут	Word	--	Terminal	511
+травы	Word	--	Terminal	512
+полезные	Word	--	Terminal	513
+и	Word	--	Terminal	514
+вредные	Word	--	Terminal	515
+.	Punctuation	--	Terminal	516
+#500	FN	--	R	523
+#501	FN	--	C	523
+#502	FN	--	S	520
+#503	FN	--	A	517
+#504	PNCT	--	U	527
+#505	FN	--	L	527
+#506	FN	--	R	518
+#507	FN	--	E	518
+#508	FN	--	E	518
+#509	FN	--	C	518
+#510	PNCT	--	U	526
+#511	FN	--	P	525	P*	526
+#512	FN	--	C	524	A*	521
+#513	FN	--	C	519
+#514	FN	--	N	519
+#515	FN	--	C	519
+#516	PNCT	--	U	519
+#517	FN	--	C	522	A*	520
+#518	FN	--	A	526
+#519	FN	--	S	521
+#520	FN	--	E	522
+#521	FN	--	E	524
+#522	FN	--	E	523
+#523	FN	--	A	525
+#524	FN	--	A	525	A*	526
+#525	FN	--	H	527
+#526	FN	--	H	527
+#527	FN	--	--	0
+#EOS 2051004

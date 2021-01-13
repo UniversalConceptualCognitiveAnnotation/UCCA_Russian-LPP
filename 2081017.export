@@ -1,0 +1,24 @@
+#BOS 2081017
+И	Word	--	Terminal	500
+этого	Word	--	Terminal	501
+я	Word	--	Terminal	502
+тоже	Word	--	Terminal	503
+не	Word	--	Terminal	504
+знаю	Word	--	Terminal	505
+.	Punctuation	--	Terminal	506
+-	Punctuation	--	Terminal	507
+#500	FN	--	E	508
+#501	FN	--	C	508
+#502	FN	--	A	509
+#503	FN	--	E	508
+#504	FN	--	D	509
+#505	FN	--	P	509
+#506	PNCT	--	U	509
+#507	PNCT	--	U	509
+#508	FN	--	A	509
+#509	FN	--	A	512
+#510	FN	--	A	512
+#511	FN	--	P	512
+#512	FN	--	H	513
+#513	FN	--	--	0
+#EOS 2081017
