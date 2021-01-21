@@ -3,7 +3,7 @@
 # text = Гм , гм , - ответил король , листая толстый календарь . -
 1	Гм	_	Word	Word	_	6	A	6:A	_
 2	,	_	Punctuation	Punctuation	_	1	U	1:U	_
-3	гм	_	Word	Word	_	1	G	1:G	_
+3	гм	_	Word	Word	_	1	Terminal	1:Terminal	_
 4	,	_	Punctuation	Punctuation	_	6	U	6:U	_
 5	-	_	Punctuation	Punctuation	_	6	U	6:U	_
 6	ответил	_	Word	Word	_	0	H	0:H	_

@@ -1,11 +1,9 @@
 # format = ucca
 # sent_id = 2068013
-# text = Но ведь здесь некого судить ! -
-1	Но	_	Word	Word	_	5	L	5:L	_
-2	ведь	_	Word	Word	_	5	L	5:L	_
-3	здесь	_	Word	Word	_	5	A	5:A	_
-4	некого	_	Word	Word	_	5	A	5:A	_
-5	судить	_	Word	Word	_	0	H	0:H	_
-6	!	_	Punctuation	Punctuation	_	5	U	5:U	_
-7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
+# text = Ну ... правосудия . -
+1	Ну	_	Word	Word	_	3	G	3:G	_
+2	...	_	Punctuation	Punctuation	_	3	U	3:U	_
+3	правосудия	_	Word	Word	_	0	H	0:H	_
+4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+5	-	_	Punctuation	Punctuation	_	3	U	3:U	_
 

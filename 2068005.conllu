@@ -1,8 +1,15 @@
 # format = ucca
 # sent_id = 2068005
-# text = Маленький принц зевнул .
-1	Маленький	_	Word	Word	_	2	E	2:E	_
-2	принц	_	Word	Word	_	3	A	3:A	_
-3	зевнул	_	Word	Word	_	0	H	0:H	_
-4	.	_	Punctuation	Punctuation	_	3	U	3:U	_
+# text = И тогда ты увидишь , как точно исполнится мое повеление .
+1	И	_	Word	Word	_	0	H	0:H	_
+2	тогда	_	Word	Word	_	1	H	1:H	_
+3	ты	_	Word	Word	_	4	A	4:A	_
+4	увидишь	_	Word	Word	_	1	H	1:H	_
+5	,	_	Punctuation	Punctuation	_	4	U	4:U	_
+6	как	_	Word	Word	_	8	R	8:R	_
+7	точно	_	Word	Word	_	8	D	8:D	_
+8	исполнится	_	Word	Word	_	4	A	4:A	_
+9	мое	_	Word	Word	_	10	A	10:A	_
+10	повеление	_	Word	Word	_	8	A	8:A	_
+11	.	_	Punctuation	Punctuation	_	10	U	10:U	_
 

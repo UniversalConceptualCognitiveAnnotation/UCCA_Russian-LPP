@@ -1,49 +1,11 @@
 # format = ucca
 # sent_id = 2068014
-# text = Как знать , - возразил король . - Я еще не осмотрел всего моего королевства . Я очень стар , для кареты у меня нет места , а ходить пешком так утомительно ... Маленький принц наклонился и еще раз заглянул на другую сторону планеты .
-1	Как	_	Word	Word	_	2	D	2:D	_
-2	знать	_	Word	Word	_	5	A	5:A	_
-3	,	_	Punctuation	Punctuation	_	5	U	5:U	_
-4	-	_	Punctuation	Punctuation	_	5	U	5:U	_
-5	возразил	_	Word	Word	_	0	H	0:H	_
-6	король	_	Word	Word	_	5	A	5:A	_
-7	.	_	Punctuation	Punctuation	_	5	U	5:U	_
-8	-	_	Punctuation	Punctuation	_	5	U	5:U	_
-9	Я	_	Word	Word	_	12	A	12:A	_
-10	еще	_	Word	Word	_	12	D	12:D	_
-11	не	_	Word	Word	_	12	D	12:D	_
-12	осмотрел	_	Word	Word	_	2	H	2:H	_
-13	всего	_	Word	Word	_	15	Q	15:Q	_
-14	моего	_	Word	Word	_	15	E	15:E	_
-15	королевства	_	Word	Word	_	12	A	12:A	_
-16	.	_	Punctuation	Punctuation	_	2	U	2:U	_
-17	Я	_	Word	Word	_	19	A	19:A|29:A	_
-18	очень	_	Word	Word	_	19	D	19:D	_
-19	стар	_	Word	Word	_	2	H	2:H	_
-20	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-21	для	_	Word	Word	_	22	R	22:R	_
-22	кареты	_	Word	Word	_	2	H	2:H	_
-23	у	_	Word	Word	_	24	R	24:R	_
-24	меня	_	Word	Word	_	22	A	22:A	_
-25	нет	_	Word	Word	_	22	D	22:D	_
-26	места	_	Word	Word	_	22	A	22:A	_
-27	,	_	Punctuation	Punctuation	_	2	U	2:U	_
-28	а	_	Word	Word	_	32	L	32:L	_
-29	ходить	_	Word	Word	_	32	A	32:A	_
-30	пешком	_	Word	Word	_	29	D	29:D	_
-31	так	_	Word	Word	_	32	F	32:F	_
-32	утомительно	_	Word	Word	_	2	H	2:H	_
-33	...	_	Punctuation	Punctuation	_	5	U	5:U	_
-34	Маленький	_	Word	Word	_	35	E	35:E	_
-35	принц	_	Word	Word	_	0	A	0:A|40:A	_
-36	наклонился	_	Word	Word	_	5	H	5:H	_
-37	и	_	Word	Word	_	40	L	40:L	_
-38	еще	_	Word	Word	_	39	Q	39:Q	_
-39	раз	_	Word	Word	_	40	D	40:D	_
-40	заглянул	_	Word	Word	_	5	H	5:H	_
-41	на	_	Word	Word	_	43	R	43:R	_
-42	другую	_	Word	Word	_	43	E	43:E	_
-43	сторону	_	Word	Word	_	40	A	40:A	_
-44	планеты	_	Word	Word	_	43	E	43:E	_
-45	.	_	Punctuation	Punctuation	_	43	U	43:U	_
+# text = Но ведь здесь некого судить ! -
+1	Но	_	Word	Word	_	5	L	5:L	_
+2	ведь	_	Word	Word	_	5	L	5:L	_
+3	здесь	_	Word	Word	_	5	A	5:A	_
+4	некого	_	Word	Word	_	5	A	5:A	_
+5	судить	_	Word	Word	_	0	H	0:H	_
+6	!	_	Punctuation	Punctuation	_	5	U	5:U	_
+7	-	_	Punctuation	Punctuation	_	5	U	5:U	_
 
