@@ -1,7 +1,6 @@
 # format = ucca
-1	Ну	_	Word	-	-	_	G
-2	...	_	Punctuation	-	-	_	U
-3	правосудия	_	Word	-	+	_	_
-4	.	_	Punctuation	-	-	_	U
-5	-	_	Punctuation	-	-	_	U
+1	Министром	_	Word	-	+	_	_
+2	чего	_	Word	-	-	_	A
+3	?	_	Punctuation	-	-	_	U
+4	-	_	Punctuation	-	-	_	U
 

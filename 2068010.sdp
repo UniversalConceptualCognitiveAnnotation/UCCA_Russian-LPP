@@ -1,10 +1,28 @@
 # format = ucca
-1	Останься	_	Word	-	+	_	_	_	_
-2	,	_	Punctuation	-	-	_	U	_	_
-3	я	_	Word	-	-	_	_	A	_
-4	назначу	_	Word	-	+	_	H	_	_
-5	тебя	_	Word	-	-	_	A*	A	_
-6	министром	_	Word	-	+	_	_	A	_
-7	.	_	Punctuation	-	-	_	_	_	U
-8	-	_	Punctuation	-	-	_	_	_	U
+1	Останься	_	Word	-	-	_	A	_	_	_	_	_	_
+2	!	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+3	-	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+4	сказал	_	Word	-	+	_	_	_	_	_	_	_	_
+5	король	_	Word	-	-	_	A	_	_	_	_	_	_
+6	:	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+7	он	_	Word	-	-	_	_	A	_	_	_	_	A*
+8	был	_	Word	-	-	_	_	F	_	_	_	_	_
+9	очень	_	Word	-	-	_	_	D	_	_	_	_	_
+10	горд	_	Word	-	+	_	H	_	_	_	_	_	_
+11	тем	_	Word	-	+	_	_	A	_	_	_	_	_
+12	,	_	Punctuation	-	-	_	_	_	U	_	_	_	_
+13	что	_	Word	-	-	_	_	_	_	_	R	_	_
+14	у	_	Word	-	-	_	_	_	_	R	_	_	_
+15	него	_	Word	-	+	_	_	_	_	_	A	_	_
+16	нашелся	_	Word	-	+	_	_	_	E	_	_	_	_
+17	подданный	_	Word	-	-	_	_	_	_	_	A	_	_
+18	,	_	Punctuation	-	-	_	U	_	_	_	_	_	_
+19	и	_	Word	-	-	_	L	_	_	_	_	_	_
+20	не	_	Word	-	-	_	_	_	_	_	_	_	A
+21	хотел	_	Word	-	-	_	_	_	_	_	_	_	D
+22	с	_	Word	-	-	_	_	_	_	_	_	R	_
+23	ним	_	Word	-	+	_	_	_	_	_	_	_	A
+24	расставаться	_	Word	-	+	_	H	_	_	_	_	_	_
+25	.	_	Punctuation	-	-	_	_	_	_	_	_	_	U
+26	-	_	Punctuation	-	-	_	_	_	_	_	_	_	U
 
