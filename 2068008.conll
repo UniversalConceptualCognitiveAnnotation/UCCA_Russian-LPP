@@ -1,19 +1,15 @@
 # format = ucca
 # sent_id = 2068008
-1	Мне	_	Word	Word	_	2	A	_	_
-2	пора	_	Word	Word	_	5	A	_	_
-3	,	_	Punctuation	Punctuation	_	5	U	_	_
-4	-	_	Punctuation	Punctuation	_	5	U	_	_
-5	сказал	_	Word	Word	_	0	H	_	_
-6	он	_	Word	Word	_	5	A	_	_
-7	королю	_	Word	Word	_	5	A	_	_
-8	.	_	Punctuation	Punctuation	_	5	U	_	_
-9	-	_	Punctuation	Punctuation	_	5	U	_	_
-10	Больше	_	Word	Word	_	14	D	_	_
-11	мне	_	Word	Word	_	14	A	_	_
-12	здесь	_	Word	Word	_	14	A	_	_
-13	нечего	_	Word	Word	_	14	A	_	_
-14	делать	_	Word	Word	_	2	H	_	_
-15	.	_	Punctuation	Punctuation	_	14	U	_	_
-16	-	_	Punctuation	Punctuation	_	14	U	_	_
+1	И	_	Word	Word	_	10	L	_	_
+2	,	_	Punctuation	Punctuation	_	10	U	_	_
+3	по	_	Word	Word	_	10	G	_	_
+4	правде	_	Word	Word	_	3	Terminal	_	_
+5	говоря	_	Word	Word	_	3	Terminal	_	_
+6	,	_	Punctuation	Punctuation	_	10	U	_	_
+7	ему	_	Word	Word	_	10	A	_	_
+8	уже	_	Word	Word	_	10	D	_	_
+9	стало	_	Word	Word	_	10	D	_	_
+10	скучновато	_	Word	Word	_	0	H	_	_
+11	.	_	Punctuation	Punctuation	_	10	U	_	_
+12	-	_	Punctuation	Punctuation	_	10	U	_	_
 

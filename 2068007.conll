@@ -1,15 +1,17 @@
 # format = ucca
 # sent_id = 2068007
-1	И	_	Word	Word	_	10	L	_	_
-2	,	_	Punctuation	Punctuation	_	10	U	_	_
-3	по	_	Word	Word	_	10	G	_	_
-4	правде	_	Word	Word	_	3	Terminal	_	_
-5	говоря	_	Word	Word	_	3	Terminal	_	_
-6	,	_	Punctuation	Punctuation	_	10	U	_	_
-7	ему	_	Word	Word	_	10	A	_	_
-8	уже	_	Word	Word	_	10	D	_	_
-9	стало	_	Word	Word	_	10	D	_	_
-10	скучновато	_	Word	Word	_	0	H	_	_
-11	.	_	Punctuation	Punctuation	_	10	U	_	_
-12	-	_	Punctuation	Punctuation	_	10	U	_	_
+1	Жаль	_	Word	Word	_	6	G	_	_
+2	,	_	Punctuation	Punctuation	_	1	U	_	_
+3	что	_	Word	Word	_	1	Terminal	_	_
+4	тут	_	Word	Word	_	6	A	_	_
+5	не	_	Word	Word	_	6	D	_	_
+6	поглядишь	_	Word	Word	_	0	H	_	_
+7	на	_	Word	Word	_	8	R	_	_
+8	заход	_	Word	Word	_	0	P	_	_
+8	заход	_	Word	Word	_	12	A*	_	_
+9	солнца	_	Word	Word	_	8	A	_	_
+10	,	_	Punctuation	Punctuation	_	6	U	_	_
+11	когда	_	Word	Word	_	6	L	_	_
+12	хочется	_	Word	Word	_	6	H	_	_
+13	!	_	Punctuation	Punctuation	_	12	U	_	_
 
