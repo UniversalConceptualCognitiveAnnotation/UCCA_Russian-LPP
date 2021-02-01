@@ -2,7 +2,7 @@
 
 ============================
 
-Version 1.1 (January 20, 2021)
+Version 2.0 (January 20, 2021)
 ----------------------------------
 
 This bundle contains 84 passages annotated according to the foundational layer of UCCA.
